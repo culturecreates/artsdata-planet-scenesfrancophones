@@ -1,13 +1,11 @@
 require 'nokogiri'
 require 'open-uri'
-require 'stringex'
 require 'linkeddata'
 
 page_url = "https://scenesfrancophones.ca/spectacles?page="
 base_url = "https://scenesfrancophones.ca"
 max_retries, retry_count, page_number = 3, 0, 1
-entity_data = []
-
+graph = RDF::Graph.new
 loop do
   url = "#{page_url}#{page_number}"
   begin
@@ -36,11 +34,8 @@ loop do
   end
 
   entity_urls.each do |entity|
-    graph = RDF::Graph.new
     begin
       graph << RDF::Graph.load(entity)
-      json_ld_data = graph.dump(:jsonld)
-      entity_data << JSON.parse(json_ld_data)
     rescue StandardError => e
       puts "Error loading RDF from #{entity}: #{e.message}"
     end
@@ -50,5 +45,5 @@ loop do
 end
 
 File.open('events.jsonld', 'w') do |file|
-  file.puts(JSON.pretty_generate(entity_data))
+  file.puts(graph.dump(:jsonld))
 end
