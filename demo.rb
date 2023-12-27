@@ -30,6 +30,6 @@ events.each { |event| puts event }
 puts "The name of the first event:",
   graph.query([events.first, RDF::Vocab::SCHEMA.name, nil]).each.objects, ""
 
+File.write('dump.jsonld', graph.dump(:jsonld))
 # puts graph.dump(:turtle)
-# puts graph.dump(:jsonld)
 
