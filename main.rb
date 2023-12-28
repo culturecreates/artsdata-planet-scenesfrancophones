@@ -1,12 +1,19 @@
 require 'nokogiri'
 require 'open-uri'
-require 'stringex'
 require 'linkeddata'
 
-page_url = "https://scenesfrancophones.ca/spectacles?page="
-base_url = "https://scenesfrancophones.ca"
+if ARGV.length != 4
+  puts "Usage: ruby script_name.rb <page_url> <base_url> <entity_identifier> <file_name>"
+  exit
+end
+
+page_url = ARGV[0]
+base_url = ARGV[1]
+entity_identifier = ARGV[2]
+file_name = ARGV[3]
 max_retries, retry_count, page_number = 3, 0, 1
-entity_data = []
+graph = RDF::Graph.new
+threads = []
 
 loop do
   url = "#{page_url}#{page_number}"
@@ -23,7 +30,7 @@ loop do
   end
 
   main_doc = Nokogiri::HTML(main_page_html_text)
-  entities_data = main_doc.css('div.title')
+  entities_data = main_doc.css(entity_identifier)
   entity_urls = []
   entities_data.each do |entity|
     href = entity.css('a')[0]['href']
@@ -36,11 +43,8 @@ loop do
   end
 
   entity_urls.each do |entity|
-    graph = RDF::Graph.new
     begin
-      graph << RDF::Graph.load(entity)
-      json_ld_data = graph.dump(:jsonld)
-      entity_data << JSON.parse(json_ld_data)
+      threads << Thread.new {graph << RDF::Graph.load(entity)}
     rescue StandardError => e
       puts "Error loading RDF from #{entity}: #{e.message}"
     end
@@ -48,7 +52,8 @@ loop do
   page_number += 1
   retry_count = 0
 end
+threads.each(&:join) 
 
-File.open('events.jsonld', 'w') do |file|
-  file.puts(JSON.pretty_generate(entity_data))
+File.open(file_name, 'w') do |file|
+  file.puts(graph.dump(:jsonld))
 end
