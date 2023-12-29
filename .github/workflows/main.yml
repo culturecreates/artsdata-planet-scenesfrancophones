@@ -28,12 +28,7 @@ jobs:
       uses: actions/setup-ruby@v1
       with:
         ruby-version: '3.1'
-        bundler-cache: true
-    - run: bundle exec rake
-
-    - name: Install Dependencies
-      run: |
-        gem install nokogiri linkeddata
+    - run: bundle install
 
     - name: Run Main Script
       run: ruby main.rb ${{ github.event.inputs.page_url }} ${{ github.event.inputs.base_url }} ${{ github.event.inputs.entity_identifier }} ${{ github.event.inputs.file_name }}
