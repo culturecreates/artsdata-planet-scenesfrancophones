@@ -2,4 +2,6 @@
 
 source "https://rubygems.org"
 
-gem "linkeddata"
+gem 'nokogiri'
+gem 'linkeddata'
+gem 'open-uri'
