@@ -1,4 +1,4 @@
-name: Push to Artsdata
+name: Push Events to Artsdata Databus
 on:
   workflow_dispatch:
 jobs:
