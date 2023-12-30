@@ -18,7 +18,7 @@ jobs:
                     "publisher": "${{ secrets.PUBLISHER_URI_GREGORY }}",
                     "group": "${{ github.event.repository.name }}",
                     "version": "${{ steps.version.outputs.dumpdate }}",
-                    "downloadUrl": "https://raw.githubusercontent.com/culturecreates/artsdata-planet-scenesfrancophone/main/output/events.jsonld",
+                    "downloadUrl": "https://raw.githubusercontent.com/culturecreates/artsdata-planet-scenesfrancophones/main/output/events.jsonld",
                     "downloadFile": "events.jsonld",
                     "reportCallbackUrl": "https://huginn-staging.herokuapp.com/users/1/web_requests/273/databus"
                   }'    
