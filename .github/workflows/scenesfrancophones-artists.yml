@@ -1,4 +1,4 @@
-name: Run Main Script
+name: Fetch Scenesfrancophones Artists
 
 on:
   workflow_dispatch:
