@@ -13,8 +13,8 @@ jobs:
           curl \
           -H 'Content-Type: application/json' \
           -X POST http://api.artsdata.ca/databus/  \
-          --data '{ "artifact": "scenesfrancophones-organizers",
-                    "comment": "scenesfrancophones.ca Organizers",
+          --data '{ "artifact": "scenesfrancophones-artists",
+                    "comment": "scenesfrancophones.ca Artistes",
                     "publisher": "${{ secrets.PUBLISHER_URI_GREGORY }}",
                     "group": "${{ github.event.repository.name }}",
                     "version": "${{ steps.version.outputs.dumpdate }}",
