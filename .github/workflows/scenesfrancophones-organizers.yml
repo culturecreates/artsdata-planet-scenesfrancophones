@@ -1,5 +1,4 @@
-name: Run Main Script
-
+name: Fetch Scenesfrancophones Organizers
 on:
   workflow_dispatch:
   schedule:
