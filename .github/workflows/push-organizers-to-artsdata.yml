@@ -1,6 +1,9 @@
 name: Push Organizers to Artsdata Databus
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types:
+      - trigger-organizers-artsdata-push
 jobs:
   deploy:
     runs-on: ubuntu-latest
