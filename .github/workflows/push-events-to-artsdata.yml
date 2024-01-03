@@ -1,6 +1,9 @@
 name: Push Events to Artsdata Databus
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types:
+      - trigger-events-artsdata-push
 jobs:
   deploy:
     runs-on: ubuntu-latest

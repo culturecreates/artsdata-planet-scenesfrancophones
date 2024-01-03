@@ -1,6 +1,9 @@
 name: Push Artists to Artsdata Databus
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types:
+      - trigger-artists-artsdata-push
 jobs:
   deploy:
     runs-on: ubuntu-latest
