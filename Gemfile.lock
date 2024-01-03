@@ -69,10 +69,12 @@ GEM
       yaml-ld (~> 0.0)
     logger (1.6.0)
     matrix (0.4.2)
+    mini_portile2 (2.8.5)
     multi_json (1.15.0)
     net-http-persistent (4.0.2)
       connection_pool (~> 2.2)
-    nokogiri (1.15.5-x86_64-darwin)
+    nokogiri (1.15.5)
+      mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     open-uri (0.4.1)
       stringio
@@ -194,6 +196,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-21
+  x86_64-linux
 
 DEPENDENCIES
   linkeddata
