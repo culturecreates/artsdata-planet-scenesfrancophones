@@ -19,20 +19,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v2
-
     - name: Set up Ruby
-      uses: actions/setup-ruby@v1
+      uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.1'
-    - run: bundle install
-
+        bundler-cache: true
     - name: Run Main Script
-      run: ruby main.rb ${{ github.event.inputs.page_url }} ${{ github.event.inputs.base_url }} ${{ github.event.inputs.entity_identifier }} ${{ github.event.inputs.file_name }}
-
+      run: bundle exec ruby main.rb ${{ github.event.inputs.page_url }} ${{ github.event.inputs.base_url }} ${{ github.event.inputs.entity_identifier }} ${{ github.event.inputs.file_name }}
     - name: Commit and Push Changes
       run: |
         git config --local user.email "actions@github.com"
