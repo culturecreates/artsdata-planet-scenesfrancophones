@@ -33,3 +33,5 @@ jobs:
       entity_url: https://scenesfrancophones.ca/artistes
       download_url: https://raw.githubusercontent.com/culturecreates/artsdata-planet-scenesfrancophones/main/output/artists.jsonld
       download_file: artists.jsonld
+    secrets:
+      publisher_uri: ${{ secrets.PUBLISHER_URI_GREGORY }}

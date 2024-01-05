@@ -15,6 +15,9 @@ on:
       download_file:
         required: true
         type: string
+    secrets:
+      publisher_uri:
+        required: true
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -29,7 +32,7 @@ jobs:
           -X POST http://api.artsdata.ca/databus/  \
           --data '{ "artifact": "${{ inputs.artifact_name }}",
                     "comment": "Entities from ${{ inputs.entity_url }}",
-                    "publisher": "${{ secrets.PUBLISHER_URI_GREGORY }}",
+                    "publisher": "${{ secrets.publisher_uri }}",
                     "group": "${{ github.event.repository.name }}",
                     "version": "${{ steps.version.outputs.dumpdate }}",
                     "downloadUrl": "${{ inputs.download_url }}",
