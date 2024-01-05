@@ -6,7 +6,7 @@ on:
     - cron: '0 0 1 * *' #run every month first day
 
 jobs:
-  build:
+  fetch-and-commit-data:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout Repository
@@ -26,6 +26,7 @@ jobs:
         git push
         
   artsdata-push:
+    needs: fetch-and-commit-data
     uses: culturecreates/artsdata-planet-scenesfrancophones/.github/workflows/push-entities-to-artsdata.yml@main
     with:
       artifact_name: scenesfrancophones-artists
