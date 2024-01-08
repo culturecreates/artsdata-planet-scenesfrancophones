@@ -34,12 +34,6 @@
         "@value": "L’histoire du courage de Rebecca Schofield, cette jeune fille de Riverview connue sous le diminutif de Becca, est exceptionnelle. Emportée par une tumeur au cerveau à 18 ans, elle a initié un formidable mouvement de gentillesse à travers le monde dans plus de 94 pays avec le #BeccaToldMeTo. C’est sur sa trace et avec la complicité de sa famille que l’autrice Mélanie Léger a écrit ce théâtre documentaire sur la vie trop courte et combien inspirante de Becca."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-02-25T08:00:00-0400"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -58,6 +52,12 @@
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-02-25T08:00:00-04:00"
       }
     ]
   },
@@ -264,12 +264,6 @@
         "@value": "L’histoire du courage de Rebecca Schofield, cette jeune fille de Riverview connue sous le diminutif de Becca, est exceptionnelle. Emportée par une tumeur au cerveau à 18 ans, elle a initié un formidable mouvement de gentillesse à travers le monde dans plus de 94 pays avec le #BeccaToldMeTo. C’est sur sa trace et avec la complicité de sa famille que l’autrice Mélanie Léger a écrit ce théâtre documentaire sur la vie trop courte et combien inspirante de Becca."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-02-28T08:00:00-0400"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -288,6 +282,12 @@
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-02-28T08:00:00-04:00"
       }
     ]
   },
@@ -476,12 +476,6 @@
         "@value": "Les chansons de l’artiste Raphaël Butler se taillent une place importante sur les palmarès des stations radio tant en Atlantique, qu’au Québec et partout au Canada. Auteur de grands succès tel que « Harley 1970 », « Camping Colibri » et « Loin d’icitte », Raphaël vous présente un nouvel album intitulé « Tattoo de cœur ». Il est bien fébrile de le faire entendre au public après ces années de travail, de belles collaborations et d’exploration de nouvelles sonorités. Raphaël propose un album haut en énergie, avec des chansons qui sauront faire bouger."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-02-29T08:00:00-0400"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -500,6 +494,12 @@
     "http://schema.org/performer": [
       {
         "@id": "https://scenesfrancophones.ca/artistes/raphael-butler"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-02-29T08:00:00-04:00"
       }
     ]
   },
@@ -664,7 +664,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g458660"
+        "@id": "_:g459160"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -677,12 +677,6 @@
         "@value": "Les chansons de l’artiste Raphaël Butler se taillent une place importante sur les palmarès des stations radio tant en Atlantique, qu’au Québec et partout au Canada. Auteur de grands succès tel que « Harley 1970 », « Camping Colibri » et « Loin d’icitte », Raphaël vous présente un nouvel album intitulé « Tattoo de cœur ». Il est bien fébrile de le faire entendre au public après ces années de travail, de belles collaborations et d’exploration de nouvelles sonorités. Raphaël propose un album haut en énergie, avec des chansons qui sauront faire bouger."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-01T08:00:00-0400"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -690,7 +684,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g458680"
+        "@id": "_:g459180"
       }
     ],
     "http://schema.org/organizer": [
@@ -702,10 +696,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/raphael-butler"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-01T08:00:00-04:00"
+      }
     ]
   },
   {
-    "@id": "_:g458660",
+    "@id": "_:g459160",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -731,7 +731,7 @@
     ]
   },
   {
-    "@id": "_:g458680",
+    "@id": "_:g459180",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -758,7 +758,7 @@
     ]
   },
   {
-    "@id": "_:g458960",
+    "@id": "_:g460140",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -766,7 +766,7 @@
     ]
   },
   {
-    "@id": "_:g459000",
+    "@id": "_:g460180",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -774,7 +774,7 @@
     ]
   },
   {
-    "@id": "_:g459040",
+    "@id": "_:g460220",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -782,7 +782,7 @@
     ]
   },
   {
-    "@id": "_:g459080",
+    "@id": "_:g460240",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -790,7 +790,7 @@
     ]
   },
   {
-    "@id": "_:g459140",
+    "@id": "_:g460300",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -819,7 +819,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g459940"
+        "@id": "_:g460560"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -832,12 +832,6 @@
         "@value": "L’histoire du courage de Rebecca Schofield, cette jeune fille de Riverview connue sous le diminutif de Becca, est exceptionnelle. Emportée par une tumeur au cerveau à 18 ans, elle a initié un formidable mouvement de gentillesse à travers le monde dans plus de 94 pays avec le #BeccaToldMeTo. C’est sur sa trace et avec la complicité de sa famille que l’autrice Mélanie Léger a écrit ce théâtre documentaire sur la vie trop courte et combien inspirante de Becca."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-02T08:00:00-0400"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -845,22 +839,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g459960"
+        "@id": "_:g460580"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g460020"
+        "@id": "_:g460640"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-02T08:00:00-04:00"
+      }
     ]
   },
   {
-    "@id": "_:g459940",
+    "@id": "_:g460560",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -886,7 +886,7 @@
     ]
   },
   {
-    "@id": "_:g459960",
+    "@id": "_:g460580",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -897,17 +897,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g459980"
+        "@id": "_:g460600"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g460000"
+        "@id": "_:g460620"
       }
     ]
   },
   {
-    "@id": "_:g460020",
+    "@id": "_:g460640",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -939,7 +939,7 @@
     ]
   },
   {
-    "@id": "_:g459980",
+    "@id": "_:g460600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -970,7 +970,7 @@
     ]
   },
   {
-    "@id": "_:g460000",
+    "@id": "_:g460620",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -986,7 +986,7 @@
     ]
   },
   {
-    "@id": "_:g460720",
+    "@id": "_:g460760",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -994,7 +994,7 @@
     ]
   },
   {
-    "@id": "_:g460800",
+    "@id": "_:g460840",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1002,7 +1002,7 @@
     ]
   },
   {
-    "@id": "_:g460820",
+    "@id": "_:g460860",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1031,7 +1031,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g460940"
+        "@id": "_:g460980"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1044,12 +1044,6 @@
         "@value": "Les chansons de l’artiste Raphaël Butler se taillent une place importante sur les palmarès des stations radio tant en Atlantique, qu’au Québec et partout au Canada. Auteur de grands succès tel que « Harley 1970 », « Camping Colibri » et « Loin d’icitte », Raphaël vous présente un nouvel album intitulé « Tattoo de cœur ». Il est bien fébrile de le faire entendre au public après ces années de travail, de belles collaborations et d’exploration de nouvelles sonorités. Raphaël propose un album haut en énergie, avec des chansons qui sauront faire bouger."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-02T08:00:00-0400"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -1057,12 +1051,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g460960"
+        "@id": "_:g461000"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g461020"
+        "@id": "_:g461060"
       }
     ],
     "http://schema.org/organizer": [
@@ -1074,10 +1068,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/raphael-butler"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-02T08:00:00-04:00"
+      }
     ]
   },
   {
-    "@id": "_:g460940",
+    "@id": "_:g460980",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1103,7 +1103,7 @@
     ]
   },
   {
-    "@id": "_:g460960",
+    "@id": "_:g461000",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1114,17 +1114,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g460980"
+        "@id": "_:g461020"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g461000"
+        "@id": "_:g461040"
       }
     ]
   },
   {
-    "@id": "_:g461020",
+    "@id": "_:g461060",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1156,7 +1156,7 @@
     ]
   },
   {
-    "@id": "_:g460980",
+    "@id": "_:g461020",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1187,7 +1187,7 @@
     ]
   },
   {
-    "@id": "_:g461000",
+    "@id": "_:g461040",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1203,7 +1203,7 @@
     ]
   },
   {
-    "@id": "_:g461080",
+    "@id": "_:g461180",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1211,23 +1211,7 @@
     ]
   },
   {
-    "@id": "_:g461100",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461120",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461140",
+    "@id": "_:g461200",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1244,6 +1228,22 @@
   },
   {
     "@id": "_:g461240",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461320",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461340",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1272,7 +1272,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g461300"
+        "@id": "_:g461440"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1285,12 +1285,6 @@
         "@value": "Les chansons de l’artiste Raphaël Butler se taillent une place importante sur les palmarès des stations radio tant en Atlantique, qu’au Québec et partout au Canada. Auteur de grands succès tel que « Harley 1970 », « Camping Colibri » et « Loin d’icitte », Raphaël vous présente un nouvel album intitulé « Tattoo de cœur ». Il est bien fébrile de le faire entendre au public après ces années de travail, de belles collaborations et d’exploration de nouvelles sonorités. Raphaël propose un album haut en énergie, avec des chansons qui sauront faire bouger."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-03T08:00:00-0400"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -1298,7 +1292,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g461320"
+        "@id": "_:g461460"
       }
     ],
     "http://schema.org/organizer": [
@@ -1310,10 +1304,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/raphael-butler"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-03T08:00:00-04:00"
+      }
     ]
   },
   {
-    "@id": "_:g461300",
+    "@id": "_:g461440",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1339,7 +1339,7 @@
     ]
   },
   {
-    "@id": "_:g461320",
+    "@id": "_:g461460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1366,7 +1366,7 @@
     ]
   },
   {
-    "@id": "_:g461380",
+    "@id": "_:g461660",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1374,7 +1374,7 @@
     ]
   },
   {
-    "@id": "_:g461400",
+    "@id": "_:g461680",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1382,7 +1382,7 @@
     ]
   },
   {
-    "@id": "_:g461420",
+    "@id": "_:g461700",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1390,7 +1390,7 @@
     ]
   },
   {
-    "@id": "_:g461440",
+    "@id": "_:g461720",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1398,7 +1398,7 @@
     ]
   },
   {
-    "@id": "_:g461500",
+    "@id": "_:g461760",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1427,7 +1427,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g461640"
+        "@id": "_:g461900"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1440,12 +1440,6 @@
         "@value": "Les chansons de l’artiste Raphaël Butler se taillent une place importante sur les palmarès des stations radio tant en Atlantique, qu’au Québec et partout au Canada. Auteur de grands succès tel que « Harley 1970 », « Camping Colibri » et « Loin d’icitte », Raphaël vous présente un nouvel album intitulé « Tattoo de cœur ». Il est bien fébrile de le faire entendre au public après ces années de travail, de belles collaborations et d’exploration de nouvelles sonorités. Raphaël propose un album haut en énergie, avec des chansons qui sauront faire bouger."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-06T08:00:00-0400"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -1453,12 +1447,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g461660"
+        "@id": "_:g461920"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g461720"
+        "@id": "_:g461980"
       }
     ],
     "http://schema.org/organizer": [
@@ -1470,10 +1464,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/raphael-butler"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-06T08:00:00-04:00"
+      }
     ]
   },
   {
-    "@id": "_:g461640",
+    "@id": "_:g461900",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1499,7 +1499,7 @@
     ]
   },
   {
-    "@id": "_:g461660",
+    "@id": "_:g461920",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1510,17 +1510,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g461680"
+        "@id": "_:g461940"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g461700"
+        "@id": "_:g461960"
       }
     ]
   },
   {
-    "@id": "_:g461720",
+    "@id": "_:g461980",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1552,7 +1552,7 @@
     ]
   },
   {
-    "@id": "_:g461680",
+    "@id": "_:g461940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1583,7 +1583,7 @@
     ]
   },
   {
-    "@id": "_:g461700",
+    "@id": "_:g461960",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1599,7 +1599,7 @@
     ]
   },
   {
-    "@id": "_:g462620",
+    "@id": "_:g462720",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1607,23 +1607,7 @@
     ]
   },
   {
-    "@id": "_:g462640",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462660",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462680",
+    "@id": "_:g462740",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1640,6 +1624,22 @@
   },
   {
     "@id": "_:g462780",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462860",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462880",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1668,7 +1668,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g463560"
+        "@id": "_:g463600"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1681,12 +1681,6 @@
         "@value": "Les chansons de l’artiste Raphaël Butler se taillent une place importante sur les palmarès des stations radio tant en Atlantique, qu’au Québec et partout au Canada. Auteur de grands succès tel que « Harley 1970 », « Camping Colibri » et « Loin d’icitte », Raphaël vous présente un nouvel album intitulé « Tattoo de cœur ». Il est bien fébrile de le faire entendre au public après ces années de travail, de belles collaborations et d’exploration de nouvelles sonorités. Raphaël propose un album haut en énergie, avec des chansons qui sauront faire bouger."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-07T08:00:00-0400"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -1694,12 +1688,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g463580"
+        "@id": "_:g463620"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g463640"
+        "@id": "_:g463680"
       }
     ],
     "http://schema.org/organizer": [
@@ -1711,10 +1705,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/raphael-butler"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-07T08:00:00-04:00"
+      }
     ]
   },
   {
-    "@id": "_:g463560",
+    "@id": "_:g463600",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1740,7 +1740,7 @@
     ]
   },
   {
-    "@id": "_:g463580",
+    "@id": "_:g463620",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1751,17 +1751,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g463600"
+        "@id": "_:g463640"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g463620"
+        "@id": "_:g463660"
       }
     ]
   },
   {
-    "@id": "_:g463640",
+    "@id": "_:g463680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1793,7 +1793,7 @@
     ]
   },
   {
-    "@id": "_:g463600",
+    "@id": "_:g463640",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1824,7 +1824,7 @@
     ]
   },
   {
-    "@id": "_:g463620",
+    "@id": "_:g463660",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1836,22 +1836,6 @@
     "http://schema.org/longitude": [
       {
         "@value": "-64.964955"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463700",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463720",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
       }
     ]
   },
@@ -1872,7 +1856,7 @@
     ]
   },
   {
-    "@id": "_:g463840",
+    "@id": "_:g463780",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1880,7 +1864,23 @@
     ]
   },
   {
-    "@id": "_:g463860",
+    "@id": "_:g463800",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463880",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463900",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1909,7 +1909,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g463920"
+        "@id": "_:g463960"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1922,12 +1922,6 @@
         "@value": "Les chansons de l’artiste Raphaël Butler se taillent une place importante sur les palmarès des stations radio tant en Atlantique, qu’au Québec et partout au Canada. Auteur de grands succès tel que « Harley 1970 », « Camping Colibri » et « Loin d’icitte », Raphaël vous présente un nouvel album intitulé « Tattoo de cœur ». Il est bien fébrile de le faire entendre au public après ces années de travail, de belles collaborations et d’exploration de nouvelles sonorités. Raphaël propose un album haut en énergie, avec des chansons qui sauront faire bouger."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-08T08:00:00-0400"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -1935,7 +1929,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g463940"
+        "@id": "_:g463980"
       }
     ],
     "http://schema.org/organizer": [
@@ -1947,10 +1941,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/raphael-butler"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-08T08:00:00-04:00"
+      }
     ]
   },
   {
-    "@id": "_:g463920",
+    "@id": "_:g463960",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1976,7 +1976,7 @@
     ]
   },
   {
-    "@id": "_:g463940",
+    "@id": "_:g463980",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2003,7 +2003,7 @@
     ]
   },
   {
-    "@id": "_:g464020",
+    "@id": "_:g464340",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2011,7 +2011,7 @@
     ]
   },
   {
-    "@id": "_:g464060",
+    "@id": "_:g464400",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2019,7 +2019,7 @@
     ]
   },
   {
-    "@id": "_:g464100",
+    "@id": "_:g464460",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2027,7 +2027,7 @@
     ]
   },
   {
-    "@id": "_:g464140",
+    "@id": "_:g464520",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2035,7 +2035,7 @@
     ]
   },
   {
-    "@id": "_:g464200",
+    "@id": "_:g464580",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2064,7 +2064,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g465020"
+        "@id": "_:g465560"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2077,12 +2077,6 @@
         "@value": "Les chansons de l’artiste Raphaël Butler se taillent une place importante sur les palmarès des stations radio tant en Atlantique, qu’au Québec et partout au Canada. Auteur de grands succès tel que « Harley 1970 », « Camping Colibri » et « Loin d’icitte », Raphaël vous présente un nouvel album intitulé « Tattoo de cœur ». Il est bien fébrile de le faire entendre au public après ces années de travail, de belles collaborations et d’exploration de nouvelles sonorités. Raphaël propose un album haut en énergie, avec des chansons qui sauront faire bouger."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-09T08:00:00-0400"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -2090,12 +2084,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g465040"
+        "@id": "_:g465580"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g465100"
+        "@id": "_:g465640"
       }
     ],
     "http://schema.org/organizer": [
@@ -2107,10 +2101,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/raphael-butler"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-09T08:00:00-04:00"
+      }
     ]
   },
   {
-    "@id": "_:g465020",
+    "@id": "_:g465560",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2136,7 +2136,7 @@
     ]
   },
   {
-    "@id": "_:g465040",
+    "@id": "_:g465580",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2147,17 +2147,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g465060"
+        "@id": "_:g465600"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g465080"
+        "@id": "_:g465620"
       }
     ]
   },
   {
-    "@id": "_:g465100",
+    "@id": "_:g465640",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2189,7 +2189,7 @@
     ]
   },
   {
-    "@id": "_:g465060",
+    "@id": "_:g465600",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2220,7 +2220,7 @@
     ]
   },
   {
-    "@id": "_:g465080",
+    "@id": "_:g465620",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2236,7 +2236,7 @@
     ]
   },
   {
-    "@id": "_:g466260",
+    "@id": "_:g466740",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2244,7 +2244,7 @@
     ]
   },
   {
-    "@id": "_:g466320",
+    "@id": "_:g466780",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2252,7 +2252,7 @@
     ]
   },
   {
-    "@id": "_:g466380",
+    "@id": "_:g466820",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2260,7 +2260,7 @@
     ]
   },
   {
-    "@id": "_:g466440",
+    "@id": "_:g466840",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2268,7 +2268,7 @@
     ]
   },
   {
-    "@id": "_:g466540",
+    "@id": "_:g466940",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2276,7 +2276,7 @@
     ]
   },
   {
-    "@id": "_:g466560",
+    "@id": "_:g466960",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2305,7 +2305,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g467500"
+        "@id": "_:g467280"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2318,12 +2318,6 @@
         "@value": "Les chansons de l’artiste Raphaël Butler se taillent une place importante sur les palmarès des stations radio tant en Atlantique, qu’au Québec et partout au Canada. Auteur de grands succès tel que « Harley 1970 », « Camping Colibri » et « Loin d’icitte », Raphaël vous présente un nouvel album intitulé « Tattoo de cœur ». Il est bien fébrile de le faire entendre au public après ces années de travail, de belles collaborations et d’exploration de nouvelles sonorités. Raphaël propose un album haut en énergie, avec des chansons qui sauront faire bouger."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-13T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -2331,12 +2325,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g467520"
+        "@id": "_:g467300"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g467580"
+        "@id": "_:g467360"
       }
     ],
     "http://schema.org/organizer": [
@@ -2348,10 +2342,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/raphael-butler"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-13T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g467500",
+    "@id": "_:g467280",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2377,7 +2377,7 @@
     ]
   },
   {
-    "@id": "_:g467520",
+    "@id": "_:g467300",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2388,17 +2388,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g467540"
+        "@id": "_:g467320"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g467560"
+        "@id": "_:g467340"
       }
     ]
   },
   {
-    "@id": "_:g467580",
+    "@id": "_:g467360",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2414,7 +2414,7 @@
     ]
   },
   {
-    "@id": "_:g467540",
+    "@id": "_:g467320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2445,7 +2445,7 @@
     ]
   },
   {
-    "@id": "_:g467560",
+    "@id": "_:g467340",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2461,7 +2461,7 @@
     ]
   },
   {
-    "@id": "_:g468280",
+    "@id": "_:g467480",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2469,7 +2469,7 @@
     ]
   },
   {
-    "@id": "_:g468300",
+    "@id": "_:g467500",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2477,7 +2477,7 @@
     ]
   },
   {
-    "@id": "_:g468320",
+    "@id": "_:g467520",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2485,7 +2485,7 @@
     ]
   },
   {
-    "@id": "_:g468340",
+    "@id": "_:g467540",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2493,7 +2493,7 @@
     ]
   },
   {
-    "@id": "_:g468420",
+    "@id": "_:g467620",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2501,7 +2501,7 @@
     ]
   },
   {
-    "@id": "_:g468440",
+    "@id": "_:g467640",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2530,7 +2530,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g468560"
+        "@id": "_:g467760"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2543,12 +2543,6 @@
         "@value": "Les chansons de l’artiste Raphaël Butler se taillent une place importante sur les palmarès des stations radio tant en Atlantique, qu’au Québec et partout au Canada. Auteur de grands succès tel que « Harley 1970 », « Camping Colibri » et « Loin d’icitte », Raphaël vous présente un nouvel album intitulé « Tattoo de cœur ». Il est bien fébrile de le faire entendre au public après ces années de travail, de belles collaborations et d’exploration de nouvelles sonorités. Raphaël propose un album haut en énergie, avec des chansons qui sauront faire bouger."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-14T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -2556,12 +2550,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g468580"
+        "@id": "_:g467780"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g468640"
+        "@id": "_:g467840"
       }
     ],
     "http://schema.org/organizer": [
@@ -2573,10 +2567,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/raphael-butler"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-14T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g468560",
+    "@id": "_:g467760",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2602,7 +2602,7 @@
     ]
   },
   {
-    "@id": "_:g468580",
+    "@id": "_:g467780",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2613,17 +2613,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g468600"
+        "@id": "_:g467800"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g468620"
+        "@id": "_:g467820"
       }
     ]
   },
   {
-    "@id": "_:g468640",
+    "@id": "_:g467840",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2655,7 +2655,7 @@
     ]
   },
   {
-    "@id": "_:g468600",
+    "@id": "_:g467800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2686,7 +2686,7 @@
     ]
   },
   {
-    "@id": "_:g468620",
+    "@id": "_:g467820",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2702,7 +2702,7 @@
     ]
   },
   {
-    "@id": "_:g468700",
+    "@id": "_:g467960",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2710,7 +2710,7 @@
     ]
   },
   {
-    "@id": "_:g468720",
+    "@id": "_:g467980",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2718,7 +2718,7 @@
     ]
   },
   {
-    "@id": "_:g468740",
+    "@id": "_:g468000",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2726,7 +2726,7 @@
     ]
   },
   {
-    "@id": "_:g468760",
+    "@id": "_:g468020",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2734,7 +2734,7 @@
     ]
   },
   {
-    "@id": "_:g468840",
+    "@id": "_:g468100",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2742,7 +2742,7 @@
     ]
   },
   {
-    "@id": "_:g468860",
+    "@id": "_:g468120",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2771,7 +2771,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g468920"
+        "@id": "_:g468200"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2784,12 +2784,6 @@
         "@value": "Les chansons de l’artiste Raphaël Butler se taillent une place importante sur les palmarès des stations radio tant en Atlantique, qu’au Québec et partout au Canada. Auteur de grands succès tel que « Harley 1970 », « Camping Colibri » et « Loin d’icitte », Raphaël vous présente un nouvel album intitulé « Tattoo de cœur ». Il est bien fébrile de le faire entendre au public après ces années de travail, de belles collaborations et d’exploration de nouvelles sonorités. Raphaël propose un album haut en énergie, avec des chansons qui sauront faire bouger."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-15T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -2797,12 +2791,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g468940"
+        "@id": "_:g468220"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g469000"
+        "@id": "_:g468280"
       }
     ],
     "http://schema.org/organizer": [
@@ -2814,10 +2808,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/raphael-butler"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-15T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g468920",
+    "@id": "_:g468200",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2843,7 +2843,7 @@
     ]
   },
   {
-    "@id": "_:g468940",
+    "@id": "_:g468220",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2854,17 +2854,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g468960"
+        "@id": "_:g468240"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g468980"
+        "@id": "_:g468260"
       }
     ]
   },
   {
-    "@id": "_:g469000",
+    "@id": "_:g468280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2880,7 +2880,7 @@
     ]
   },
   {
-    "@id": "_:g468960",
+    "@id": "_:g468240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2911,7 +2911,7 @@
     ]
   },
   {
-    "@id": "_:g468980",
+    "@id": "_:g468260",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2927,7 +2927,7 @@
     ]
   },
   {
-    "@id": "_:g469060",
+    "@id": "_:g468620",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2935,7 +2935,7 @@
     ]
   },
   {
-    "@id": "_:g469080",
+    "@id": "_:g468640",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2943,7 +2943,7 @@
     ]
   },
   {
-    "@id": "_:g469100",
+    "@id": "_:g468660",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2951,7 +2951,7 @@
     ]
   },
   {
-    "@id": "_:g469120",
+    "@id": "_:g468680",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2959,7 +2959,7 @@
     ]
   },
   {
-    "@id": "_:g469200",
+    "@id": "_:g468760",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2967,7 +2967,7 @@
     ]
   },
   {
-    "@id": "_:g469220",
+    "@id": "_:g468780",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2996,7 +2996,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g469380"
+        "@id": "_:g469140"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3009,12 +3009,6 @@
         "@value": "Les chansons de l’artiste Raphaël Butler se taillent une place importante sur les palmarès des stations radio tant en Atlantique, qu’au Québec et partout au Canada. Auteur de grands succès tel que « Harley 1970 », « Camping Colibri » et « Loin d’icitte », Raphaël vous présente un nouvel album intitulé « Tattoo de cœur ». Il est bien fébrile de le faire entendre au public après ces années de travail, de belles collaborations et d’exploration de nouvelles sonorités. Raphaël propose un album haut en énergie, avec des chansons qui sauront faire bouger."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-16T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -3022,12 +3016,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g469400"
+        "@id": "_:g469160"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g469460"
+        "@id": "_:g469220"
       }
     ],
     "http://schema.org/organizer": [
@@ -3039,10 +3033,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/raphael-butler"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-16T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g469380",
+    "@id": "_:g469140",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3068,7 +3068,7 @@
     ]
   },
   {
-    "@id": "_:g469400",
+    "@id": "_:g469160",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3079,17 +3079,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g469420"
+        "@id": "_:g469180"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g469440"
+        "@id": "_:g469200"
       }
     ]
   },
   {
-    "@id": "_:g469460",
+    "@id": "_:g469220",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3121,7 +3121,7 @@
     ]
   },
   {
-    "@id": "_:g469420",
+    "@id": "_:g469180",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3152,7 +3152,7 @@
     ]
   },
   {
-    "@id": "_:g469440",
+    "@id": "_:g469200",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3168,7 +3168,7 @@
     ]
   },
   {
-    "@id": "_:g470580",
+    "@id": "_:g469960",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3176,7 +3176,7 @@
     ]
   },
   {
-    "@id": "_:g470600",
+    "@id": "_:g469980",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3184,7 +3184,7 @@
     ]
   },
   {
-    "@id": "_:g470620",
+    "@id": "_:g470000",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3192,7 +3192,7 @@
     ]
   },
   {
-    "@id": "_:g470640",
+    "@id": "_:g470020",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3200,7 +3200,7 @@
     ]
   },
   {
-    "@id": "_:g470720",
+    "@id": "_:g470100",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3208,7 +3208,7 @@
     ]
   },
   {
-    "@id": "_:g470740",
+    "@id": "_:g470120",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3237,7 +3237,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g471680"
+        "@id": "_:g470840"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3250,12 +3250,6 @@
         "@value": "Baie est composé des 3 membres : Chloé Breault (basse et voix), Matt Boudreau (claviers, guitares et voix) et Marc-André Boudreau (guitare électrique et voix) accompagnés de leurs musiciens. C'est dans l’air frais et vivifiant de la musique pop et disco que le groupe navigue sur des vagues de surf rock vers une plage de sable fin de la Baie des Chaleurs. L'album Grand Bleu est une ode aux histoires d'amour et à la Baie des Chaleurs sur un fond nostalgique aux couleurs du soleil couchant."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-21T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -3263,12 +3257,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g471700"
+        "@id": "_:g470860"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g471760"
+        "@id": "_:g470920"
       }
     ],
     "http://schema.org/organizer": [
@@ -3280,10 +3274,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/baie-0"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-21T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g471680",
+    "@id": "_:g470840",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3309,7 +3309,7 @@
     ]
   },
   {
-    "@id": "_:g471700",
+    "@id": "_:g470860",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3320,17 +3320,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g471720"
+        "@id": "_:g470880"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g471740"
+        "@id": "_:g470900"
       }
     ]
   },
   {
-    "@id": "_:g471760",
+    "@id": "_:g470920",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3384,7 +3384,7 @@
     ]
   },
   {
-    "@id": "_:g471720",
+    "@id": "_:g470880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3415,7 +3415,7 @@
     ]
   },
   {
-    "@id": "_:g471740",
+    "@id": "_:g470900",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3437,7 +3437,7 @@
     ]
   },
   {
-    "@id": "_:g471880",
+    "@id": "_:g471040",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3445,7 +3445,7 @@
     ]
   },
   {
-    "@id": "_:g471940",
+    "@id": "_:g471100",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3453,7 +3453,7 @@
     ]
   },
   {
-    "@id": "_:g472000",
+    "@id": "_:g471140",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3461,7 +3461,7 @@
     ]
   },
   {
-    "@id": "_:g472100",
+    "@id": "_:g471240",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3469,7 +3469,7 @@
     ]
   },
   {
-    "@id": "_:g472120",
+    "@id": "_:g471260",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3498,7 +3498,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g472200"
+        "@id": "_:g472180"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3511,12 +3511,6 @@
         "@value": "Baie est composé des 3 membres : Chloé Breault (basse et voix), Matt Boudreau (claviers, guitares et voix) et Marc-André Boudreau (guitare électrique et voix) accompagnés de leurs musiciens. C'est dans l’air frais et vivifiant de la musique pop et disco que le groupe navigue sur des vagues de surf rock vers une plage de sable fin de la Baie des Chaleurs. L'album Grand Bleu est une ode aux histoires d'amour et à la Baie des Chaleurs sur un fond nostalgique aux couleurs du soleil couchant."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-22T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -3524,12 +3518,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g472220"
+        "@id": "_:g472200"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g472280"
+        "@id": "_:g472260"
       }
     ],
     "http://schema.org/organizer": [
@@ -3541,10 +3535,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/baie-0"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-22T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g472200",
+    "@id": "_:g472180",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3570,7 +3570,7 @@
     ]
   },
   {
-    "@id": "_:g472220",
+    "@id": "_:g472200",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3581,17 +3581,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g472240"
+        "@id": "_:g472220"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g472260"
+        "@id": "_:g472240"
       }
     ]
   },
   {
-    "@id": "_:g472280",
+    "@id": "_:g472260",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3607,7 +3607,7 @@
     ]
   },
   {
-    "@id": "_:g472240",
+    "@id": "_:g472220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3638,7 +3638,7 @@
     ]
   },
   {
-    "@id": "_:g472260",
+    "@id": "_:g472240",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3650,6 +3650,14 @@
     "http://schema.org/longitude": [
       {
         "@value": "-66.116083"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473420",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
       }
     ]
   },
@@ -3670,7 +3678,7 @@
     ]
   },
   {
-    "@id": "_:g473600",
+    "@id": "_:g473640",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3678,15 +3686,7 @@
     ]
   },
   {
-    "@id": "_:g473700",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g473720",
+    "@id": "_:g473660",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3715,7 +3715,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g474740"
+        "@id": "_:g474620"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3728,12 +3728,6 @@
         "@value": "Baie est composé des 3 membres : Chloé Breault (basse et voix), Matt Boudreau (claviers, guitares et voix) et Marc-André Boudreau (guitare électrique et voix) accompagnés de leurs musiciens. C'est dans l’air frais et vivifiant de la musique pop et disco que le groupe navigue sur des vagues de surf rock vers une plage de sable fin de la Baie des Chaleurs. L'album Grand Bleu est une ode aux histoires d'amour et à la Baie des Chaleurs sur un fond nostalgique aux couleurs du soleil couchant."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-23T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -3741,12 +3735,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g474760"
+        "@id": "_:g474640"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g474820"
+        "@id": "_:g474700"
       }
     ],
     "http://schema.org/organizer": [
@@ -3758,10 +3752,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/baie-0"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-23T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g474740",
+    "@id": "_:g474620",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3787,7 +3787,7 @@
     ]
   },
   {
-    "@id": "_:g474760",
+    "@id": "_:g474640",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3798,17 +3798,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g474780"
+        "@id": "_:g474660"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g474800"
+        "@id": "_:g474680"
       }
     ]
   },
   {
-    "@id": "_:g474820",
+    "@id": "_:g474700",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3824,7 +3824,7 @@
     ]
   },
   {
-    "@id": "_:g474780",
+    "@id": "_:g474660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3855,7 +3855,7 @@
     ]
   },
   {
-    "@id": "_:g474800",
+    "@id": "_:g474680",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3871,7 +3871,7 @@
     ]
   },
   {
-    "@id": "_:g475960",
+    "@id": "_:g475780",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3879,7 +3879,7 @@
     ]
   },
   {
-    "@id": "_:g476020",
+    "@id": "_:g475800",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3887,7 +3887,7 @@
     ]
   },
   {
-    "@id": "_:g476080",
+    "@id": "_:g475840",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3895,7 +3895,7 @@
     ]
   },
   {
-    "@id": "_:g476160",
+    "@id": "_:g475920",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3903,7 +3903,7 @@
     ]
   },
   {
-    "@id": "_:g476180",
+    "@id": "_:g475940",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3932,7 +3932,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g477120"
+        "@id": "_:g476280"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3945,12 +3945,6 @@
         "@value": "Baie est composé des 3 membres : Chloé Breault (basse et voix), Matt Boudreau (claviers, guitares et voix) et Marc-André Boudreau (guitare électrique et voix) accompagnés de leurs musiciens. C'est dans l’air frais et vivifiant de la musique pop et disco que le groupe navigue sur des vagues de surf rock vers une plage de sable fin de la Baie des Chaleurs. L'album Grand Bleu est une ode aux histoires d'amour et à la Baie des Chaleurs sur un fond nostalgique aux couleurs du soleil couchant."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-03-30T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -3958,12 +3952,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g477140"
+        "@id": "_:g476300"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g477200"
+        "@id": "_:g476360"
       }
     ],
     "http://schema.org/organizer": [
@@ -3975,10 +3969,16 @@
       {
         "@id": "https://scenesfrancophones.ca/artistes/baie-0"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-30T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g477120",
+    "@id": "_:g476280",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4004,7 +4004,7 @@
     ]
   },
   {
-    "@id": "_:g477140",
+    "@id": "_:g476300",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4015,17 +4015,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g477160"
+        "@id": "_:g476320"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g477180"
+        "@id": "_:g476340"
       }
     ]
   },
   {
-    "@id": "_:g477200",
+    "@id": "_:g476360",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4057,7 +4057,7 @@
     ]
   },
   {
-    "@id": "_:g477160",
+    "@id": "_:g476320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4088,7 +4088,7 @@
     ]
   },
   {
-    "@id": "_:g477180",
+    "@id": "_:g476340",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -4104,7 +4104,7 @@
     ]
   },
   {
-    "@id": "_:g477900",
+    "@id": "_:g476480",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4112,7 +4112,7 @@
     ]
   },
   {
-    "@id": "_:g477920",
+    "@id": "_:g476500",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4120,7 +4120,7 @@
     ]
   },
   {
-    "@id": "_:g477940",
+    "@id": "_:g476520",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4128,7 +4128,7 @@
     ]
   },
   {
-    "@id": "_:g478020",
+    "@id": "_:g476600",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4136,7 +4136,7 @@
     ]
   },
   {
-    "@id": "_:g478040",
+    "@id": "_:g476620",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4165,7 +4165,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g478160"
+        "@id": "_:g476760"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -4178,10 +4178,392 @@
         "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
       }
     ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g476780"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g476840"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
+      }
+    ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-04-09T09:00:00-0300"
+        "@value": "2024-04-09T09:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476760",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/PHILIPPE%20LAPRISE%20SF.png?itok=PVADYldu"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476780",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Salle Léo-Poulin"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g476800"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g476820"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476840",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://artsedmundston.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30165"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/PHILIPPE%20LAPRISE%20SF.png?itok=PVADYldu",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ]
+  },
+  {
+    "@id": "_:g476800",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "300, rue Martin"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Edmundston"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E3V 2N6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476820",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "47.367979"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-68.313597"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477060",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477080",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/spectacles/simon-leoza-4091",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/simon-leoza-4091"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Simon Leoza"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g477140"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Le compositeur, producteur et multi-instrumentiste montréalais Simon Leoza dévoile son nouvel album, ACTE III. Ce second opus très attendu allie avec brio l’indie-classical, la pop et la musique électronique. Débordantes d'orchestrations évocatrices et abstraites, accompagnées d'éléments électroniques électrisants, les pièces de Simon Leoza créent un paysage vibrant à la fois chaleureux et exaltant. Alors que l'album précédent, Albatross, possédait un caractère très cinématographique, ACTE III dégage une essence théâtrale enchanteresse."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g477160"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g477220"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-09T09:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477140",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/SIMON%20LEOZA%20SF.png?itok=vrwr_Ln3"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Salle de spectacle du Centre culturel de Caraquet"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g477180"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g477200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477220",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://billetterieacces.tuxedobillet.com/main/simon-leoza"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/SIMON%20LEOZA%20SF.png?itok=vrwr_Ln3",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ]
+  },
+  {
+    "@id": "_:g477180",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "220, boulevard Saint-Pierre Ouest"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Caraquet"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1W 1A5"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477200",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "47.788818"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-64.964955"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477780",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477800",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/spectacles/philippe-laprise-4065",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/philippe-laprise-4065"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Philippe Laprise"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g478160"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Inspiré comme jamais, l’humoriste Philippe Laprise lance un tout nouveau spectacle, Pourquoi pas, son 4e en carrière. Un événement significatif et inusité dans la vie de Philippe a été une véritable bougie d’allumage pour la création de ce nouveau spectacle. En effet, cette expérience hors de l’ordinaire a fait cheminer notre Phil national vers une grande ouverture à de nouvelles expériences... nouvelles expériences qui viennent évidemment avec de multiples rebondissements!"
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -4201,7 +4583,13 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
+        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-10T09:00:00-03:00"
       }
     ]
   },
@@ -4238,7 +4626,7 @@
     ],
     "http://schema.org/name": [
       {
-        "@value": "Salle Léo-Poulin"
+        "@value": "Théâtre Fatima"
       }
     ],
     "http://schema.org/address": [
@@ -4259,394 +4647,6 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://artsedmundston.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30165"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/PHILIPPE%20LAPRISE%20SF.png?itok=PVADYldu",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ]
-  },
-  {
-    "@id": "_:g478200",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "300, rue Martin"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Edmundston"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E3V 2N6"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478220",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.367979"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-68.313597"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478380",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478400",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/spectacles/simon-leoza-4091",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/simon-leoza-4091"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Simon Leoza"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g478560"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Le compositeur, producteur et multi-instrumentiste montréalais Simon Leoza dévoile son nouvel album, ACTE III. Ce second opus très attendu allie avec brio l’indie-classical, la pop et la musique électronique. Débordantes d'orchestrations évocatrices et abstraites, accompagnées d'éléments électroniques électrisants, les pièces de Simon Leoza créent un paysage vibrant à la fois chaleureux et exaltant. Alors que l'album précédent, Albatross, possédait un caractère très cinématographique, ACTE III dégage une essence théâtrale enchanteresse."
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-04-09T09:00:00-0300"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g478580"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g478640"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478560",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/SIMON%20LEOZA%20SF.png?itok=vrwr_Ln3"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478580",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Salle de spectacle du Centre culturel de Caraquet"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g478600"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g478620"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478640",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterieacces.tuxedobillet.com/main/simon-leoza"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/SIMON%20LEOZA%20SF.png?itok=vrwr_Ln3",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ]
-  },
-  {
-    "@id": "_:g478600",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "220, boulevard Saint-Pierre Ouest"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Caraquet"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1W 1A5"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478620",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.788818"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.964955"
-      }
-    ]
-  },
-  {
-    "@id": "_:g479840",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g479860",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/spectacles/philippe-laprise-4065",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/philippe-laprise-4065"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Philippe Laprise"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g480800"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Inspiré comme jamais, l’humoriste Philippe Laprise lance un tout nouveau spectacle, Pourquoi pas, son 4e en carrière. Un événement significatif et inusité dans la vie de Philippe a été une véritable bougie d’allumage pour la création de ce nouveau spectacle. En effet, cette expérience hors de l’ordinaire a fait cheminer notre Phil national vers une grande ouverture à de nouvelles expériences... nouvelles expériences qui viennent évidemment avec de multiples rebondissements!"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-04-10T09:00:00-0300"
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g480820"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g480880"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
-      }
-    ]
-  },
-  {
-    "@id": "_:g480800",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/PHILIPPE%20LAPRISE%20SF.png?itok=PVADYldu"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g480820",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Théâtre Fatima"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g480840"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g480860"
-      }
-    ]
-  },
-  {
-    "@id": "_:g480880",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
         "@id": "https://societeculturelledeshautsplateaux.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=77"
       }
     ],
@@ -4657,7 +4657,7 @@
     ]
   },
   {
-    "@id": "_:g480840",
+    "@id": "_:g478200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4688,7 +4688,7 @@
     ]
   },
   {
-    "@id": "_:g480860",
+    "@id": "_:g478220",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -4704,7 +4704,7 @@
     ]
   },
   {
-    "@id": "_:g481000",
+    "@id": "_:g478880",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4712,7 +4712,7 @@
     ]
   },
   {
-    "@id": "_:g481020",
+    "@id": "_:g478900",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4741,7 +4741,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g481080"
+        "@id": "_:g479620"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -4754,12 +4754,6 @@
         "@value": "Inspiré comme jamais, l’humoriste Philippe Laprise lance un tout nouveau spectacle, Pourquoi pas, son 4e en carrière. Un événement significatif et inusité dans la vie de Philippe a été une véritable bougie d’allumage pour la création de ce nouveau spectacle. En effet, cette expérience hors de l’ordinaire a fait cheminer notre Phil national vers une grande ouverture à de nouvelles expériences... nouvelles expériences qui viennent évidemment avec de multiples rebondissements!"
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-04-11T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -4767,22 +4761,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g481100"
+        "@id": "_:g479640"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g481160"
+        "@id": "_:g479700"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/village-de-bois-joli"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-11T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g481080",
+    "@id": "_:g479620",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4808,7 +4808,7 @@
     ]
   },
   {
-    "@id": "_:g481100",
+    "@id": "_:g479640",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4819,17 +4819,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g481120"
+        "@id": "_:g479660"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g481140"
+        "@id": "_:g479680"
       }
     ]
   },
   {
-    "@id": "_:g481160",
+    "@id": "_:g479700",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4861,7 +4861,7 @@
     ]
   },
   {
-    "@id": "_:g481120",
+    "@id": "_:g479660",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4892,7 +4892,7 @@
     ]
   },
   {
-    "@id": "_:g481140",
+    "@id": "_:g479680",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -4908,7 +4908,7 @@
     ]
   },
   {
-    "@id": "_:g481280",
+    "@id": "_:g479840",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4916,7 +4916,7 @@
     ]
   },
   {
-    "@id": "_:g481300",
+    "@id": "_:g479860",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4945,7 +4945,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g482320"
+        "@id": "_:g480900"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -4958,12 +4958,6 @@
         "@value": "Le compositeur, producteur et multi-instrumentiste montréalais Simon Leoza dévoile son nouvel album, ACTE III. Ce second opus très attendu allie avec brio l’indie-classical, la pop et la musique électronique. Débordantes d'orchestrations évocatrices et abstraites, accompagnées d'éléments électroniques électrisants, les pièces de Simon Leoza créent un paysage vibrant à la fois chaleureux et exaltant. Alors que l'album précédent, Albatross, possédait un caractère très cinématographique, ACTE III dégage une essence théâtrale enchanteresse."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-04-11T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -4971,22 +4965,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g482340"
+        "@id": "_:g480920"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g482400"
+        "@id": "_:g480980"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-11T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g482320",
+    "@id": "_:g480900",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5012,7 +5012,7 @@
     ]
   },
   {
-    "@id": "_:g482340",
+    "@id": "_:g480920",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5023,17 +5023,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g482360"
+        "@id": "_:g480940"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g482380"
+        "@id": "_:g480960"
       }
     ]
   },
   {
-    "@id": "_:g482400",
+    "@id": "_:g480980",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5065,7 +5065,7 @@
     ]
   },
   {
-    "@id": "_:g482360",
+    "@id": "_:g480940",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5096,7 +5096,7 @@
     ]
   },
   {
-    "@id": "_:g482380",
+    "@id": "_:g480960",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -5112,7 +5112,7 @@
     ]
   },
   {
-    "@id": "_:g483600",
+    "@id": "_:g482180",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5120,7 +5120,7 @@
     ]
   },
   {
-    "@id": "_:g483620",
+    "@id": "_:g482200",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5149,7 +5149,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g484660"
+        "@id": "_:g483180"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -5162,12 +5162,6 @@
         "@value": "Inspiré comme jamais, l’humoriste Philippe Laprise lance un tout nouveau spectacle, Pourquoi pas, son 4e en carrière. Un événement significatif et inusité dans la vie de Philippe a été une véritable bougie d’allumage pour la création de ce nouveau spectacle. En effet, cette expérience hors de l’ordinaire a fait cheminer notre Phil national vers une grande ouverture à de nouvelles expériences... nouvelles expériences qui viennent évidemment avec de multiples rebondissements!"
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-04-12T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -5175,22 +5169,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g484680"
+        "@id": "_:g483200"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g484740"
+        "@id": "_:g483260"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/la-maison-de-la-culture-inc"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-12T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g484660",
+    "@id": "_:g483180",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5216,7 +5216,7 @@
     ]
   },
   {
-    "@id": "_:g484680",
+    "@id": "_:g483200",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5227,17 +5227,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g484700"
+        "@id": "_:g483220"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g484720"
+        "@id": "_:g483240"
       }
     ]
   },
   {
-    "@id": "_:g484740",
+    "@id": "_:g483260",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5253,7 +5253,7 @@
     ]
   },
   {
-    "@id": "_:g484700",
+    "@id": "_:g483220",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5284,7 +5284,7 @@
     ]
   },
   {
-    "@id": "_:g484720",
+    "@id": "_:g483240",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -5300,7 +5300,7 @@
     ]
   },
   {
-    "@id": "_:g485920",
+    "@id": "_:g483400",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5308,7 +5308,7 @@
     ]
   },
   {
-    "@id": "_:g485940",
+    "@id": "_:g483420",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5337,7 +5337,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g486040"
+        "@id": "_:g483480"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -5350,12 +5350,6 @@
         "@value": "Le compositeur, producteur et multi-instrumentiste montréalais Simon Leoza dévoile son nouvel album, ACTE III. Ce second opus très attendu allie avec brio l’indie-classical, la pop et la musique électronique. Débordantes d'orchestrations évocatrices et abstraites, accompagnées d'éléments électroniques électrisants, les pièces de Simon Leoza créent un paysage vibrant à la fois chaleureux et exaltant. Alors que l'album précédent, Albatross, possédait un caractère très cinématographique, ACTE III dégage une essence théâtrale enchanteresse."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-04-12T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -5363,22 +5357,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g486060"
+        "@id": "_:g483500"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g486120"
+        "@id": "_:g483560"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-nepisiguit"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-12T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g486040",
+    "@id": "_:g483480",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5404,7 +5404,7 @@
     ]
   },
   {
-    "@id": "_:g486060",
+    "@id": "_:g483500",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5415,17 +5415,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g486080"
+        "@id": "_:g483520"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g486100"
+        "@id": "_:g483540"
       }
     ]
   },
   {
-    "@id": "_:g486120",
+    "@id": "_:g483560",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5441,7 +5441,7 @@
     ]
   },
   {
-    "@id": "_:g486080",
+    "@id": "_:g483520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5472,7 +5472,7 @@
     ]
   },
   {
-    "@id": "_:g486100",
+    "@id": "_:g483540",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -5488,7 +5488,7 @@
     ]
   },
   {
-    "@id": "_:g486240",
+    "@id": "_:g484680",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5496,7 +5496,7 @@
     ]
   },
   {
-    "@id": "_:g486260",
+    "@id": "_:g484700",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5525,7 +5525,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g487160"
+        "@id": "_:g485020"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -5538,12 +5538,6 @@
         "@value": "Le compositeur, producteur et multi-instrumentiste montréalais Simon Leoza dévoile son nouvel album, ACTE III. Ce second opus très attendu allie avec brio l’indie-classical, la pop et la musique électronique. Débordantes d'orchestrations évocatrices et abstraites, accompagnées d'éléments électroniques électrisants, les pièces de Simon Leoza créent un paysage vibrant à la fois chaleureux et exaltant. Alors que l'album précédent, Albatross, possédait un caractère très cinématographique, ACTE III dégage une essence théâtrale enchanteresse."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-04-13T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -5551,22 +5545,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g487180"
+        "@id": "_:g485040"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g487240"
+        "@id": "_:g485100"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-13T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g487160",
+    "@id": "_:g485020",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5592,7 +5592,7 @@
     ]
   },
   {
-    "@id": "_:g487180",
+    "@id": "_:g485040",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5603,17 +5603,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g487200"
+        "@id": "_:g485060"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g487220"
+        "@id": "_:g485080"
       }
     ]
   },
   {
-    "@id": "_:g487240",
+    "@id": "_:g485100",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5645,7 +5645,7 @@
     ]
   },
   {
-    "@id": "_:g487200",
+    "@id": "_:g485060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5676,7 +5676,7 @@
     ]
   },
   {
-    "@id": "_:g487220",
+    "@id": "_:g485080",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -5692,7 +5692,7 @@
     ]
   },
   {
-    "@id": "_:g488000",
+    "@id": "_:g485280",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5700,7 +5700,7 @@
     ]
   },
   {
-    "@id": "_:g488020",
+    "@id": "_:g485300",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5729,7 +5729,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g488140"
+        "@id": "_:g485440"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -5742,12 +5742,6 @@
         "@value": "Inspiré comme jamais, l’humoriste Philippe Laprise lance un tout nouveau spectacle, Pourquoi pas, son 4e en carrière. Un événement significatif et inusité dans la vie de Philippe a été une véritable bougie d’allumage pour la création de ce nouveau spectacle. En effet, cette expérience hors de l’ordinaire a fait cheminer notre Phil national vers une grande ouverture à de nouvelles expériences... nouvelles expériences qui viennent évidemment avec de multiples rebondissements!"
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-04-14T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -5755,22 +5749,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g488160"
+        "@id": "_:g485460"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g488220"
+        "@id": "_:g485520"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/centre-communautaire-sainte-anne"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-04-14T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g488140",
+    "@id": "_:g485440",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5796,7 +5796,7 @@
     ]
   },
   {
-    "@id": "_:g488160",
+    "@id": "_:g485460",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5807,17 +5807,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g488180"
+        "@id": "_:g485480"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g488200"
+        "@id": "_:g485500"
       }
     ]
   },
   {
-    "@id": "_:g488220",
+    "@id": "_:g485520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5833,7 +5833,7 @@
     ]
   },
   {
-    "@id": "_:g488180",
+    "@id": "_:g485480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5864,7 +5864,7 @@
     ]
   },
   {
-    "@id": "_:g488200",
+    "@id": "_:g485500",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -5880,7 +5880,7 @@
     ]
   },
   {
-    "@id": "_:g488320",
+    "@id": "_:g485700",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5888,7 +5888,7 @@
     ]
   },
   {
-    "@id": "_:g488340",
+    "@id": "_:g485720",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5917,7 +5917,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g488500"
+        "@id": "_:g485780"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -5930,12 +5930,6 @@
         "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-07T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -5943,22 +5937,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g488520"
+        "@id": "_:g485800"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g488580"
+        "@id": "_:g485860"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-07T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g488500",
+    "@id": "_:g485780",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5984,7 +5984,7 @@
     ]
   },
   {
-    "@id": "_:g488520",
+    "@id": "_:g485800",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5995,17 +5995,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g488540"
+        "@id": "_:g485820"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g488560"
+        "@id": "_:g485840"
       }
     ]
   },
   {
-    "@id": "_:g488580",
+    "@id": "_:g485860",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6027,7 +6027,7 @@
     ]
   },
   {
-    "@id": "_:g488540",
+    "@id": "_:g485820",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6058,7 +6058,7 @@
     ]
   },
   {
-    "@id": "_:g488560",
+    "@id": "_:g485840",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -6074,7 +6074,7 @@
     ]
   },
   {
-    "@id": "_:g489780",
+    "@id": "_:g486420",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6082,7 +6082,7 @@
     ]
   },
   {
-    "@id": "_:g489800",
+    "@id": "_:g486440",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6111,7 +6111,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g490720"
+        "@id": "_:g487020"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -6124,12 +6124,6 @@
         "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-09T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -6137,22 +6131,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g490740"
+        "@id": "_:g487040"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g490800"
+        "@id": "_:g487100"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-09T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g490720",
+    "@id": "_:g487020",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6178,7 +6178,7 @@
     ]
   },
   {
-    "@id": "_:g490740",
+    "@id": "_:g487040",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6189,17 +6189,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g490760"
+        "@id": "_:g487060"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g490780"
+        "@id": "_:g487080"
       }
     ]
   },
   {
-    "@id": "_:g490800",
+    "@id": "_:g487100",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6215,7 +6215,7 @@
     ]
   },
   {
-    "@id": "_:g490760",
+    "@id": "_:g487060",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6246,7 +6246,7 @@
     ]
   },
   {
-    "@id": "_:g490780",
+    "@id": "_:g487080",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -6262,7 +6262,7 @@
     ]
   },
   {
-    "@id": "_:g490860",
+    "@id": "_:g487680",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6270,7 +6270,7 @@
     ]
   },
   {
-    "@id": "_:g490880",
+    "@id": "_:g487700",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6299,7 +6299,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g491360"
+        "@id": "_:g488740"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -6312,12 +6312,6 @@
         "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-10T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -6325,22 +6319,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g491380"
+        "@id": "_:g488760"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g491440"
+        "@id": "_:g488820"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-10T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g491360",
+    "@id": "_:g488740",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6366,7 +6366,7 @@
     ]
   },
   {
-    "@id": "_:g491380",
+    "@id": "_:g488760",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6377,17 +6377,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g491400"
+        "@id": "_:g488780"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g491420"
+        "@id": "_:g488800"
       }
     ]
   },
   {
-    "@id": "_:g491440",
+    "@id": "_:g488820",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6403,7 +6403,7 @@
     ]
   },
   {
-    "@id": "_:g491400",
+    "@id": "_:g488780",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6434,7 +6434,7 @@
     ]
   },
   {
-    "@id": "_:g491420",
+    "@id": "_:g488800",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -6450,7 +6450,7 @@
     ]
   },
   {
-    "@id": "_:g492640",
+    "@id": "_:g490000",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6458,7 +6458,7 @@
     ]
   },
   {
-    "@id": "_:g492660",
+    "@id": "_:g490020",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6487,7 +6487,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g493700"
+        "@id": "_:g491060"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -6500,12 +6500,6 @@
         "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-11T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -6513,22 +6507,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g493720"
+        "@id": "_:g491080"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g493780"
+        "@id": "_:g491140"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-11T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g493700",
+    "@id": "_:g491060",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6554,7 +6554,7 @@
     ]
   },
   {
-    "@id": "_:g493720",
+    "@id": "_:g491080",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6565,17 +6565,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g493740"
+        "@id": "_:g491100"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g493760"
+        "@id": "_:g491120"
       }
     ]
   },
   {
-    "@id": "_:g493780",
+    "@id": "_:g491140",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6591,7 +6591,7 @@
     ]
   },
   {
-    "@id": "_:g493740",
+    "@id": "_:g491100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6622,7 +6622,7 @@
     ]
   },
   {
-    "@id": "_:g493760",
+    "@id": "_:g491120",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -6638,7 +6638,7 @@
     ]
   },
   {
-    "@id": "_:g494980",
+    "@id": "_:g492340",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6646,7 +6646,7 @@
     ]
   },
   {
-    "@id": "_:g495000",
+    "@id": "_:g492360",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6675,7 +6675,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g496020"
+        "@id": "_:g493340"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -6688,12 +6688,6 @@
         "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-21T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -6701,22 +6695,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g496040"
+        "@id": "_:g493360"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g496100"
+        "@id": "_:g493420"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-21T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g496020",
+    "@id": "_:g493340",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6742,7 +6742,7 @@
     ]
   },
   {
-    "@id": "_:g496040",
+    "@id": "_:g493360",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6753,17 +6753,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g496060"
+        "@id": "_:g493380"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g496080"
+        "@id": "_:g493400"
       }
     ]
   },
   {
-    "@id": "_:g496100",
+    "@id": "_:g493420",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6785,7 +6785,7 @@
     ]
   },
   {
-    "@id": "_:g496060",
+    "@id": "_:g493380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6816,7 +6816,7 @@
     ]
   },
   {
-    "@id": "_:g496080",
+    "@id": "_:g493400",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -6832,7 +6832,7 @@
     ]
   },
   {
-    "@id": "_:g497280",
+    "@id": "_:g493580",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6840,7 +6840,7 @@
     ]
   },
   {
-    "@id": "_:g497300",
+    "@id": "_:g493600",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6869,7 +6869,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g497400"
+        "@id": "_:g493660"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -6882,12 +6882,6 @@
         "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-22T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -6895,22 +6889,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g497420"
+        "@id": "_:g493680"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g497480"
+        "@id": "_:g493740"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-22T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g497400",
+    "@id": "_:g493660",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6936,7 +6936,7 @@
     ]
   },
   {
-    "@id": "_:g497420",
+    "@id": "_:g493680",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6947,17 +6947,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g497440"
+        "@id": "_:g493700"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g497460"
+        "@id": "_:g493720"
       }
     ]
   },
   {
-    "@id": "_:g497480",
+    "@id": "_:g493740",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6973,7 +6973,7 @@
     ]
   },
   {
-    "@id": "_:g497440",
+    "@id": "_:g493700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7004,7 +7004,7 @@
     ]
   },
   {
-    "@id": "_:g497460",
+    "@id": "_:g493720",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -7020,7 +7020,7 @@
     ]
   },
   {
-    "@id": "_:g497600",
+    "@id": "_:g494860",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7028,7 +7028,7 @@
     ]
   },
   {
-    "@id": "_:g497620",
+    "@id": "_:g494880",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7057,7 +7057,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g498520"
+        "@id": "_:g495200"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -7070,12 +7070,6 @@
         "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-23T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -7083,22 +7077,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g498540"
+        "@id": "_:g495220"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g498600"
+        "@id": "_:g495280"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-23T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g498520",
+    "@id": "_:g495200",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -7124,7 +7124,7 @@
     ]
   },
   {
-    "@id": "_:g498540",
+    "@id": "_:g495220",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7135,17 +7135,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g498560"
+        "@id": "_:g495240"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g498580"
+        "@id": "_:g495260"
       }
     ]
   },
   {
-    "@id": "_:g498600",
+    "@id": "_:g495280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -7156,7 +7156,7 @@
     ]
   },
   {
-    "@id": "_:g498560",
+    "@id": "_:g495240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7187,7 +7187,7 @@
     ]
   },
   {
-    "@id": "_:g498580",
+    "@id": "_:g495260",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -7203,7 +7203,7 @@
     ]
   },
   {
-    "@id": "_:g499340",
+    "@id": "_:g495440",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7211,7 +7211,7 @@
     ]
   },
   {
-    "@id": "_:g499360",
+    "@id": "_:g495460",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7240,7 +7240,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g499500"
+        "@id": "_:g495600"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -7253,12 +7253,6 @@
         "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-24T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -7266,22 +7260,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g499520"
+        "@id": "_:g495620"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g499580"
+        "@id": "_:g495680"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-24T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g499500",
+    "@id": "_:g495600",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -7307,7 +7307,7 @@
     ]
   },
   {
-    "@id": "_:g499520",
+    "@id": "_:g495620",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7318,17 +7318,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g499540"
+        "@id": "_:g495640"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g499560"
+        "@id": "_:g495660"
       }
     ]
   },
   {
-    "@id": "_:g499580",
+    "@id": "_:g495680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -7344,7 +7344,7 @@
     ]
   },
   {
-    "@id": "_:g499540",
+    "@id": "_:g495640",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7375,7 +7375,7 @@
     ]
   },
   {
-    "@id": "_:g499560",
+    "@id": "_:g495660",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -7391,7 +7391,7 @@
     ]
   },
   {
-    "@id": "_:g499720",
+    "@id": "_:g495880",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7399,7 +7399,7 @@
     ]
   },
   {
-    "@id": "_:g499740",
+    "@id": "_:g495900",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7428,7 +7428,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g499900"
+        "@id": "_:g495960"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -7441,12 +7441,6 @@
         "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-26T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -7454,22 +7448,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g499920"
+        "@id": "_:g495980"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g499980"
+        "@id": "_:g496040"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-26T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g499900",
+    "@id": "_:g495960",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -7495,7 +7495,7 @@
     ]
   },
   {
-    "@id": "_:g499920",
+    "@id": "_:g495980",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7506,17 +7506,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g499940"
+        "@id": "_:g496000"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g499960"
+        "@id": "_:g496020"
       }
     ]
   },
   {
-    "@id": "_:g499980",
+    "@id": "_:g496040",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -7532,7 +7532,7 @@
     ]
   },
   {
-    "@id": "_:g499940",
+    "@id": "_:g496000",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7563,7 +7563,7 @@
     ]
   },
   {
-    "@id": "_:g499960",
+    "@id": "_:g496020",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -7579,7 +7579,7 @@
     ]
   },
   {
-    "@id": "_:g501140",
+    "@id": "_:g496580",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7587,7 +7587,7 @@
     ]
   },
   {
-    "@id": "_:g501160",
+    "@id": "_:g496600",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7616,7 +7616,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g502200"
+        "@id": "_:g497220"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -7629,12 +7629,6 @@
         "@value": "Avec son tout nouveau spectacle La somme des êtres aimés, Alexandre Poulin approfondit l’alchimie des rencontres qui s’additionnent pour nous mener à l’équation finale, celle qui prend tout son sens dans le temps passé avec les gens qu’on a aimé, qu’on aime et qu’on aimera.  Propulsé par ses nouvelles pièces et ses incontournables, plus que jamais Poulin maÎtrise ce savant mélange entre chansons et histoires qui fait la singularité de l’artiste sur scène.   "
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-29T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -7642,22 +7636,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g502220"
+        "@id": "_:g497240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g502280"
+        "@id": "_:g497300"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-29T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g502200",
+    "@id": "_:g497220",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -7683,7 +7683,7 @@
     ]
   },
   {
-    "@id": "_:g502220",
+    "@id": "_:g497240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7694,17 +7694,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g502240"
+        "@id": "_:g497260"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g502260"
+        "@id": "_:g497280"
       }
     ]
   },
   {
-    "@id": "_:g502280",
+    "@id": "_:g497300",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -7726,7 +7726,7 @@
     ]
   },
   {
-    "@id": "_:g502240",
+    "@id": "_:g497260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7757,7 +7757,7 @@
     ]
   },
   {
-    "@id": "_:g502260",
+    "@id": "_:g497280",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -7773,7 +7773,7 @@
     ]
   },
   {
-    "@id": "_:g503520",
+    "@id": "_:g498520",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7781,7 +7781,7 @@
     ]
   },
   {
-    "@id": "_:g503540",
+    "@id": "_:g498540",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7810,7 +7810,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g504600"
+        "@id": "_:g499580"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -7823,12 +7823,6 @@
         "@value": "Avec son tout nouveau spectacle La somme des êtres aimés, Alexandre Poulin approfondit l’alchimie des rencontres qui s’additionnent pour nous mener à l’équation finale, celle qui prend tout son sens dans le temps passé avec les gens qu’on a aimé, qu’on aime et qu’on aimera.  Propulsé par ses nouvelles pièces et ses incontournables, plus que jamais Poulin maÎtrise ce savant mélange entre chansons et histoires qui fait la singularité de l’artiste sur scène.   "
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-30T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -7836,22 +7830,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g504620"
+        "@id": "_:g499600"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g504680"
+        "@id": "_:g499660"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-30T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g504600",
+    "@id": "_:g499580",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -7877,7 +7877,7 @@
     ]
   },
   {
-    "@id": "_:g504620",
+    "@id": "_:g499600",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7888,17 +7888,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g504640"
+        "@id": "_:g499620"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g504660"
+        "@id": "_:g499640"
       }
     ]
   },
   {
-    "@id": "_:g504680",
+    "@id": "_:g499660",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -7930,7 +7930,7 @@
     ]
   },
   {
-    "@id": "_:g504640",
+    "@id": "_:g499620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7961,7 +7961,7 @@
     ]
   },
   {
-    "@id": "_:g504660",
+    "@id": "_:g499640",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -7977,7 +7977,7 @@
     ]
   },
   {
-    "@id": "_:g505860",
+    "@id": "_:g500860",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7985,7 +7985,7 @@
     ]
   },
   {
-    "@id": "_:g505880",
+    "@id": "_:g500880",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -8014,7 +8014,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g506900"
+        "@id": "_:g501920"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -8027,12 +8027,6 @@
         "@value": "Avec son tout nouveau spectacle La somme des êtres aimés, Alexandre Poulin approfondit l’alchimie des rencontres qui s’additionnent pour nous mener à l’équation finale, celle qui prend tout son sens dans le temps passé avec les gens qu’on a aimé, qu’on aime et qu’on aimera.  Propulsé par ses nouvelles pièces et ses incontournables, plus que jamais Poulin maÎtrise ce savant mélange entre chansons et histoires qui fait la singularité de l’artiste sur scène.   "
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-31T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -8040,22 +8034,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g506920"
+        "@id": "_:g501940"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g506980"
+        "@id": "_:g502000"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-31T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g506900",
+    "@id": "_:g501920",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -8081,7 +8081,7 @@
     ]
   },
   {
-    "@id": "_:g506920",
+    "@id": "_:g501940",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8092,17 +8092,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g506940"
+        "@id": "_:g501960"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g506960"
+        "@id": "_:g501980"
       }
     ]
   },
   {
-    "@id": "_:g506980",
+    "@id": "_:g502000",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -8118,7 +8118,7 @@
     ]
   },
   {
-    "@id": "_:g506940",
+    "@id": "_:g501960",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8149,7 +8149,7 @@
     ]
   },
   {
-    "@id": "_:g506960",
+    "@id": "_:g501980",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -8165,7 +8165,7 @@
     ]
   },
   {
-    "@id": "_:g508140",
+    "@id": "_:g503080",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -8173,7 +8173,7 @@
     ]
   },
   {
-    "@id": "_:g508160",
+    "@id": "_:g503100",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -8202,7 +8202,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g508260"
+        "@id": "_:g503160"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -8215,12 +8215,6 @@
         "@value": "Une incomparable odyssée théâtrale à travers l’espace et le temps qui explore à un train d’enfer la musique occidentale depuis la préhistoire jusqu’à nos jours. Une véritable aventure musicale se vouant à la découverte de la musique de chambre pour cuivres. Ce spectacle débordant d’énergie allie une originalité ahurissante et une qualité d’interprétation extraordinaire à un humour sans fausse note ! L’histoire de la musique a été présenté plus de 950 fois dans 3 langues et sur 3 continents."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-06-01T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -8228,22 +8222,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g508280"
+        "@id": "_:g503180"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g508340"
+        "@id": "_:g503240"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-01T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g508260",
+    "@id": "_:g503160",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -8269,7 +8269,7 @@
     ]
   },
   {
-    "@id": "_:g508280",
+    "@id": "_:g503180",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8280,17 +8280,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g508300"
+        "@id": "_:g503200"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g508320"
+        "@id": "_:g503220"
       }
     ]
   },
   {
-    "@id": "_:g508340",
+    "@id": "_:g503240",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -8307,7 +8307,7 @@
     ]
   },
   {
-    "@id": "_:g508300",
+    "@id": "_:g503200",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8338,7 +8338,7 @@
     ]
   },
   {
-    "@id": "_:g508320",
+    "@id": "_:g503220",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -8354,7 +8354,7 @@
     ]
   },
   {
-    "@id": "_:g508460",
+    "@id": "_:g504360",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -8362,7 +8362,7 @@
     ]
   },
   {
-    "@id": "_:g508480",
+    "@id": "_:g504380",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -8391,7 +8391,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g509380"
+        "@id": "_:g504700"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -8404,12 +8404,6 @@
         "@value": "Avec son tout nouveau spectacle La somme des êtres aimés, Alexandre Poulin approfondit l’alchimie des rencontres qui s’additionnent pour nous mener à l’équation finale, celle qui prend tout son sens dans le temps passé avec les gens qu’on a aimé, qu’on aime et qu’on aimera.  Propulsé par ses nouvelles pièces et ses incontournables, plus que jamais Poulin maÎtrise ce savant mélange entre chansons et histoires qui fait la singularité de l’artiste sur scène.   "
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-06-01T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -8417,22 +8411,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g509400"
+        "@id": "_:g504720"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g509460"
+        "@id": "_:g504780"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-01T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g509380",
+    "@id": "_:g504700",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -8458,7 +8458,7 @@
     ]
   },
   {
-    "@id": "_:g509400",
+    "@id": "_:g504720",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8469,17 +8469,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g509420"
+        "@id": "_:g504740"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g509440"
+        "@id": "_:g504760"
       }
     ]
   },
   {
-    "@id": "_:g509460",
+    "@id": "_:g504780",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -8495,7 +8495,7 @@
     ]
   },
   {
-    "@id": "_:g509420",
+    "@id": "_:g504740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8526,7 +8526,7 @@
     ]
   },
   {
-    "@id": "_:g509440",
+    "@id": "_:g504760",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -8542,7 +8542,7 @@
     ]
   },
   {
-    "@id": "_:g510220",
+    "@id": "_:g504960",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -8550,7 +8550,7 @@
     ]
   },
   {
-    "@id": "_:g510240",
+    "@id": "_:g504980",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -8579,7 +8579,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g510380"
+        "@id": "_:g505120"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -8592,12 +8592,6 @@
         "@value": "Une incomparable odyssée théâtrale à travers l’espace et le temps qui explore à un train d’enfer la musique occidentale depuis la préhistoire jusqu’à nos jours. Une véritable aventure musicale se vouant à la découverte de la musique de chambre pour cuivres. Ce spectacle débordant d’énergie allie une originalité ahurissante et une qualité d’interprétation extraordinaire à un humour sans fausse note ! L’histoire de la musique a été présenté plus de 950 fois dans 3 langues et sur 3 continents."
       }
     ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-06-08T09:00:00-0300"
-      }
-    ],
     "http://schema.org/isAccessibleForFree": [
       {
         "@value": "True"
@@ -8605,22 +8599,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g510400"
+        "@id": "_:g505140"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g510460"
+        "@id": "_:g505200"
       }
     ],
     "http://schema.org/organizer": [
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
       }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-08T09:00:00-03:00"
+      }
     ]
   },
   {
-    "@id": "_:g510380",
+    "@id": "_:g505120",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -8646,7 +8646,7 @@
     ]
   },
   {
-    "@id": "_:g510400",
+    "@id": "_:g505140",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8657,17 +8657,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g510420"
+        "@id": "_:g505160"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g510440"
+        "@id": "_:g505180"
       }
     ]
   },
   {
-    "@id": "_:g510460",
+    "@id": "_:g505200",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -8683,7 +8683,7 @@
     ]
   },
   {
-    "@id": "_:g510420",
+    "@id": "_:g505160",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8714,7 +8714,7 @@
     ]
   },
   {
-    "@id": "_:g510440",
+    "@id": "_:g505180",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -8730,7 +8730,7 @@
     ]
   },
   {
-    "@id": "_:g510620",
+    "@id": "_:g505420",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -8738,7 +8738,7 @@
     ]
   },
   {
-    "@id": "_:g510640",
+    "@id": "_:g505440",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
