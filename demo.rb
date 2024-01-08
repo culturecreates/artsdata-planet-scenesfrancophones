@@ -20,7 +20,7 @@ urls.each do |url|
   end
 end
 
-# info about the graph 
+# info about the graph
 puts "Graph is an instance of class #{graph.class}"
 puts "Graph contains #{graph.count} triples."
 puts "Graph contains: #{graph.query([nil, RDF::type, RDF::Vocab::SCHEMA.Event]).count} events", ""
@@ -30,6 +30,8 @@ events.each { |event| puts event }
 puts "The name of the first event:",
   graph.query([events.first, RDF::Vocab::SCHEMA.name, nil]).each.objects, ""
 
+sparql = './sparql/fix-date.sparql'
+graph = graph.query(SPARQL.parse(File.read(sparql), update: true))
+
 File.write('dump.jsonld', graph.dump(:jsonld))
 # puts graph.dump(:turtle)
-
