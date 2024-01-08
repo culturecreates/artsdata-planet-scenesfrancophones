@@ -21,7 +21,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g453600"
+        "@id": "_:g453680"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -41,7 +41,7 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g453620"
+        "@id": "_:g453700"
       }
     ],
     "http://schema.org/organizer": [
@@ -56,12 +56,13 @@
     ],
     "http://schema.org/startDate": [
       {
+        "@type": "http://schema.org/Date",
         "@value": "2024-03-03T08:00:00-04:00"
       }
     ]
   },
   {
-    "@id": "_:g453600",
+    "@id": "_:g453680",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -87,7 +88,7 @@
     ]
   },
   {
-    "@id": "_:g453620",
+    "@id": "_:g453700",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -142,7 +143,7 @@
     ]
   },
   {
-    "@id": "_:g454800",
+    "@id": "_:g454900",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -156,7 +157,7 @@
     ]
   },
   {
-    "@id": "_:g454880",
+    "@id": "_:g454980",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -170,7 +171,7 @@
     ]
   },
   {
-    "@id": "_:g454960",
+    "@id": "_:g455060",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -184,7 +185,7 @@
     ]
   },
   {
-    "@id": "_:g455040",
+    "@id": "_:g455140",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -192,7 +193,7 @@
     ]
   },
   {
-    "@id": "_:g455100",
+    "@id": "_:g455200",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -227,7 +228,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g456100"
+        "@id": "_:g456200"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -247,12 +248,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g456120"
+        "@id": "_:g456220"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g456180"
+        "@id": "_:g456280"
       }
     ],
     "http://schema.org/organizer": [
@@ -262,12 +263,13 @@
     ],
     "http://schema.org/startDate": [
       {
+        "@type": "http://schema.org/Date",
         "@value": "2024-04-09T09:00:00-03:00"
       }
     ]
   },
   {
-    "@id": "_:g456100",
+    "@id": "_:g456200",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -293,7 +295,7 @@
     ]
   },
   {
-    "@id": "_:g456120",
+    "@id": "_:g456220",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -304,17 +306,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g456140"
+        "@id": "_:g456240"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g456160"
+        "@id": "_:g456260"
       }
     ]
   },
   {
-    "@id": "_:g456180",
+    "@id": "_:g456280",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -352,7 +354,7 @@
     ]
   },
   {
-    "@id": "_:g456140",
+    "@id": "_:g456240",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -383,7 +385,7 @@
     ]
   },
   {
-    "@id": "_:g456160",
+    "@id": "_:g456260",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -399,7 +401,7 @@
     ]
   },
   {
-    "@id": "_:g457380",
+    "@id": "_:g457440",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -407,7 +409,7 @@
     ]
   },
   {
-    "@id": "_:g457400",
+    "@id": "_:g457460",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -436,7 +438,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g457840"
+        "@id": "_:g457580"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -456,12 +458,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g457860"
+        "@id": "_:g457600"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g457920"
+        "@id": "_:g457660"
       }
     ],
     "http://schema.org/organizer": [
@@ -476,12 +478,13 @@
     ],
     "http://schema.org/startDate": [
       {
+        "@type": "http://schema.org/Date",
         "@value": "2024-03-30T09:00:00-03:00"
       }
     ]
   },
   {
-    "@id": "_:g457840",
+    "@id": "_:g457580",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -507,7 +510,7 @@
     ]
   },
   {
-    "@id": "_:g457860",
+    "@id": "_:g457600",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -518,17 +521,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g457880"
+        "@id": "_:g457620"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g457900"
+        "@id": "_:g457640"
       }
     ]
   },
   {
-    "@id": "_:g457920",
+    "@id": "_:g457660",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -582,7 +585,7 @@
     ]
   },
   {
-    "@id": "_:g457880",
+    "@id": "_:g457620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -613,7 +616,7 @@
     ]
   },
   {
-    "@id": "_:g457900",
+    "@id": "_:g457640",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -635,7 +638,7 @@
     ]
   },
   {
-    "@id": "_:g458120",
+    "@id": "_:g457780",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -643,7 +646,7 @@
     ]
   },
   {
-    "@id": "_:g458180",
+    "@id": "_:g457800",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -651,7 +654,7 @@
     ]
   },
   {
-    "@id": "_:g458240",
+    "@id": "_:g457820",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -659,7 +662,7 @@
     ]
   },
   {
-    "@id": "_:g458340",
+    "@id": "_:g457920",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -667,7 +670,7 @@
     ]
   },
   {
-    "@id": "_:g458360",
+    "@id": "_:g457940",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"

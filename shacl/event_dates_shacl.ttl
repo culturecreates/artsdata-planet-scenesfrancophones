@@ -1,0 +1,14 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix schema: <http://schema.org/> .
+
+# Define a shape for the Event
+:eventShape
+    a sh:NodeShape ;
+    sh:targetClass <http://schema.org/Event> ;
+    sh:property [
+        sh:path <http://schema.org/startDate> ;
+        sh:datatype schema:Date ;
+        sh:minCount 1 ;
+        sh:pattern "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}-\\d{2}:\\d{2}$" ;
+        sh:message "Start date must be specified and should be in the format of schema:Date." ;
+    ] .

@@ -30,22 +30,8 @@ events.each { |event| puts event }
 puts "The name of the first event:",
   graph.query([events.first, RDF::Vocab::SCHEMA.name, nil]).each.objects, ""
 
-sparql = <<SPARQL
-  PREFIX schema: <http://schema.org/>
-  DELETE {
-      ?event schema:startDate ?old_date .
-  }
-  INSERT {
-      ?event schema:startDate ?fixed_date .
-  }
-  WHERE {
-      ?event a schema:Event ;
-             schema:startDate ?old_date .
-      BIND(CONCAT(SUBSTR(str(?old_date), 1, (STRLEN(str(?old_date)) - 2)), ":", SUBSTR(str(?old_date), (STRLEN(str(?old_date)) - 1), 2)) as ?fixed_date)
-  }
-SPARQL
-graph = graph.query(SPARQL.parse(sparql, update: true))
+sparql = './sparql/fix-date.sparql'
+graph = graph.query(SPARQL.parse(File.read(sparql), update: true))
 
 File.write('dump.jsonld', graph.dump(:jsonld))
 # puts graph.dump(:turtle)
-

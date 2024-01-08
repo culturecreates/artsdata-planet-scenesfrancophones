@@ -51,7 +51,8 @@ loop do
   page_number += 1
   retry_count = 0
 end
-
+fix_date_sparql = './sparql/fix-date.sparql'
+graph = graph.query(SPARQL.parse(File.read(fix_date_sparql), update: true))
 File.open(file_name, 'w') do |file|
   file.puts(graph.dump(:jsonld))
 end
