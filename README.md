@@ -1,4 +1,4 @@
-Scenes Francophones Pipeline
+Scènes Francophones Pipeline
 =========
 
 This repo contains the pipleline to load data from https://scenesfrancophones.ca/ into Artsdata.
