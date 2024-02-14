@@ -30,11 +30,8 @@ jobs:
     needs: fetch-and-commit-data
     steps:
       - name: Action setup
-        uses: culturecreates/artsdata-pipeline-action@v1.0.0
+        uses: culturecreates/artsdata-pipeline-action@v1.1.0
         with:
-          artifact_name: scenesfrancoprones-events
-          page_url: https://scenesfrancophones.ca/spectacles
-          publisher_uri: "${{ secrets.PUBLISHER_URI_GREGORY }}"
-          download_uri: "https://raw.githubusercontent.com/culturecreates/artsdata-planet-scenesfrancophones/main/output/events.jsonld"
-          download_file: events.jsonld
-          group: "artsdata-planet-scenesfrancophones"
+          artifact: scenesfrancoprones-events
+          publisher: "${{ secrets.PUBLISHER_URI_GREGORY }}"
+          downloadUrl: "https://raw.githubusercontent.com/culturecreates/artsdata-planet-scenesfrancophones/main/output/events.jsonld"
