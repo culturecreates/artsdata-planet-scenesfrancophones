@@ -493,15 +493,252 @@
     ]
   },
   {
-    "@id": "_:g459480",
+    "@id": "_:g459320",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459400",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459420",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/spectacles/stephanie-morin-robert-4154",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/stephanie-morin-robert-4154"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stéphanie Morin-Robert"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g459480"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "ANGLE MORT est un morceau de bravoure captivant, où Stéphanie Morin-Robert, qui dans sa bataille contre le cancer a perdu un œil, nous raconte sa vie lorsqu’elle n’a que 7 ans. Petite fille fougueuse, elle brandit son œil de verre comme une arme. Avec l’aide de son chat, une paire de lunettes de soleil, et un super pouvoir intempestif, elle découvre vite qu’elle est capable d’affronter les brutes qui la tourmentent à sa nouvelle école et d’accepter son handicap."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g459500"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g459560"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/stephanie-morin-robert-0"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-02T08:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459480",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-02/stephanie%20morin%20robert.jpg?itok=eMSXywY9"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459500",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre régional de Loisirs culturels de Kapuskasing"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g459520"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g459540"
       }
     ]
   },
   {
     "@id": "_:g459560",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lepointdevente.com/billets/stephaniemorinrobert?fbclid=IwAR0aIKKslTT1d0xHKKRxqxcNvvrN2sux5kI0KtHd-vNNYFIp6oHPugTAZaI"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre régional de Loisirs culturels de Kapuskasing"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/artistes/stephanie-morin-robert-0",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stéphanie Morin-Robert"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/stephanie-morin-robert-0"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-02/stephanie%20morin%20robert.jpg?itok=eMSXywY9",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ]
+  },
+  {
+    "@id": "_:g459520",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "7, avenue Aurora"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Kapuskasing"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "P5N 1J6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459540",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "49.41929"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-82.429869"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/commenditaire/public/2022-09/logo-musicaction-Canada-vertical-svg.png?itok=fTi-ncQ1",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ]
+  },
+  {
+    "@id": "_:g459740",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -509,7 +746,79 @@
     ]
   },
   {
-    "@id": "_:g459580",
+    "@id": "_:g459780",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/commenditaire/public/2024-02/Logo-Conseil-des-Arts-de-lontario.png?itok=0RARU2LY",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ]
+  },
+  {
+    "@id": "_:g459860",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/commenditaire/public/2024-02/logo%20ontario%20creatif.png?itok=wtikwON_",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ]
+  },
+  {
+    "@id": "_:g459940",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/commenditaire/public/2024-02/logo%20theatre%20action.png?itok=9bOWVHRy",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ]
+  },
+  {
+    "@id": "_:g460020",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/commenditaire/public/2024-02/Logo-micro-radio.png?itok=xQGmi2i7",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ]
+  },
+  {
+    "@id": "_:g460100",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460200",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460220",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -538,7 +847,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g459680"
+        "@id": "_:g460280"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -558,12 +867,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g459700"
+        "@id": "_:g460300"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g459760"
+        "@id": "_:g460360"
       }
     ],
     "http://schema.org/organizer": [
@@ -584,7 +893,7 @@
     ]
   },
   {
-    "@id": "_:g459680",
+    "@id": "_:g460280",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -610,7 +919,7 @@
     ]
   },
   {
-    "@id": "_:g459700",
+    "@id": "_:g460300",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -621,19 +930,24 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g459720"
+        "@id": "_:g460320"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g459740"
+        "@id": "_:g460340"
       }
     ]
   },
   {
-    "@id": "_:g459760",
+    "@id": "_:g460360",
     "@type": [
       "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://my.weezevent.com/levee-de-fonds-pour-la-nouvelle-ecole"
+      }
     ],
     "http://schema.org/availability": [
       {
@@ -658,7 +972,7 @@
     ]
   },
   {
-    "@id": "_:g459720",
+    "@id": "_:g460320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -689,7 +1003,7 @@
     ]
   },
   {
-    "@id": "_:g459740",
+    "@id": "_:g460340",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -705,7 +1019,7 @@
     ]
   },
   {
-    "@id": "_:g460640",
+    "@id": "_:g460520",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -713,7 +1027,7 @@
     ]
   },
   {
-    "@id": "_:g460700",
+    "@id": "_:g460560",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -721,7 +1035,7 @@
     ]
   },
   {
-    "@id": "_:g460760",
+    "@id": "_:g460600",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -729,7 +1043,7 @@
     ]
   },
   {
-    "@id": "_:g460820",
+    "@id": "_:g460620",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -737,7 +1051,7 @@
     ]
   },
   {
-    "@id": "_:g460920",
+    "@id": "_:g460720",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -745,7 +1059,7 @@
     ]
   },
   {
-    "@id": "_:g460940",
+    "@id": "_:g460740",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -774,7 +1088,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g461980"
+        "@id": "_:g460820"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -794,12 +1108,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g462000"
+        "@id": "_:g460840"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g462060"
+        "@id": "_:g460900"
       }
     ],
     "http://schema.org/organizer": [
@@ -820,7 +1134,7 @@
     ]
   },
   {
-    "@id": "_:g461980",
+    "@id": "_:g460820",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -846,7 +1160,7 @@
     ]
   },
   {
-    "@id": "_:g462000",
+    "@id": "_:g460840",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -857,17 +1171,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g462020"
+        "@id": "_:g460860"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g462040"
+        "@id": "_:g460880"
       }
     ]
   },
   {
-    "@id": "_:g462060",
+    "@id": "_:g460900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -899,7 +1213,7 @@
     ]
   },
   {
-    "@id": "_:g462020",
+    "@id": "_:g460860",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -930,7 +1244,7 @@
     ]
   },
   {
-    "@id": "_:g462040",
+    "@id": "_:g460880",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -946,7 +1260,7 @@
     ]
   },
   {
-    "@id": "_:g463180",
+    "@id": "_:g461760",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -954,7 +1268,7 @@
     ]
   },
   {
-    "@id": "_:g463200",
+    "@id": "_:g461800",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -962,7 +1276,7 @@
     ]
   },
   {
-    "@id": "_:g463220",
+    "@id": "_:g461840",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -970,7 +1284,7 @@
     ]
   },
   {
-    "@id": "_:g463240",
+    "@id": "_:g461880",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -978,7 +1292,7 @@
     ]
   },
   {
-    "@id": "_:g463320",
+    "@id": "_:g461960",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -986,7 +1300,7 @@
     ]
   },
   {
-    "@id": "_:g463340",
+    "@id": "_:g461980",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1015,7 +1329,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g463420"
+        "@id": "_:g462120"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1035,12 +1349,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g463440"
+        "@id": "_:g462140"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g463500"
+        "@id": "_:g462200"
       }
     ],
     "http://schema.org/organizer": [
@@ -1061,7 +1375,7 @@
     ]
   },
   {
-    "@id": "_:g463420",
+    "@id": "_:g462120",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1087,7 +1401,7 @@
     ]
   },
   {
-    "@id": "_:g463440",
+    "@id": "_:g462140",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1098,17 +1412,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g463460"
+        "@id": "_:g462160"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g463480"
+        "@id": "_:g462180"
       }
     ]
   },
   {
-    "@id": "_:g463500",
+    "@id": "_:g462200",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1140,7 +1454,7 @@
     ]
   },
   {
-    "@id": "_:g463460",
+    "@id": "_:g462160",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1171,7 +1485,7 @@
     ]
   },
   {
-    "@id": "_:g463480",
+    "@id": "_:g462180",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1187,7 +1501,7 @@
     ]
   },
   {
-    "@id": "_:g464420",
+    "@id": "_:g462260",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1195,7 +1509,7 @@
     ]
   },
   {
-    "@id": "_:g464480",
+    "@id": "_:g462280",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1203,7 +1517,7 @@
     ]
   },
   {
-    "@id": "_:g464540",
+    "@id": "_:g462300",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1211,7 +1525,7 @@
     ]
   },
   {
-    "@id": "_:g464600",
+    "@id": "_:g462320",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1219,7 +1533,7 @@
     ]
   },
   {
-    "@id": "_:g464700",
+    "@id": "_:g462400",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1227,7 +1541,7 @@
     ]
   },
   {
-    "@id": "_:g464720",
+    "@id": "_:g462420",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1256,7 +1570,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g465760"
+        "@id": "_:g462480"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1276,12 +1590,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g465780"
+        "@id": "_:g462500"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g465840"
+        "@id": "_:g462560"
       }
     ],
     "http://schema.org/organizer": [
@@ -1302,7 +1616,7 @@
     ]
   },
   {
-    "@id": "_:g465760",
+    "@id": "_:g462480",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1328,7 +1642,7 @@
     ]
   },
   {
-    "@id": "_:g465780",
+    "@id": "_:g462500",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1339,17 +1653,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g465800"
+        "@id": "_:g462520"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g465820"
+        "@id": "_:g462540"
       }
     ]
   },
   {
-    "@id": "_:g465840",
+    "@id": "_:g462560",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1381,7 +1695,7 @@
     ]
   },
   {
-    "@id": "_:g465800",
+    "@id": "_:g462520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1412,7 +1726,7 @@
     ]
   },
   {
-    "@id": "_:g465820",
+    "@id": "_:g462540",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1428,7 +1742,7 @@
     ]
   },
   {
-    "@id": "_:g466960",
+    "@id": "_:g462620",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1436,7 +1750,7 @@
     ]
   },
   {
-    "@id": "_:g466980",
+    "@id": "_:g462640",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1444,7 +1758,7 @@
     ]
   },
   {
-    "@id": "_:g467000",
+    "@id": "_:g462660",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1452,7 +1766,7 @@
     ]
   },
   {
-    "@id": "_:g467020",
+    "@id": "_:g462680",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1460,7 +1774,7 @@
     ]
   },
   {
-    "@id": "_:g467100",
+    "@id": "_:g462760",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1468,7 +1782,538 @@
     ]
   },
   {
-    "@id": "_:g467120",
+    "@id": "_:g462780",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/spectacles/ferline-regis-4150",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/ferline-regis-4150"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ferline Regis"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g462860"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "À la fois auteure-compositrice et professeur de chant, Ferline a deux albums à son actif dont les échos l’ont propulsés au fil des années à la conquête d’un public tant sur la scène nationale qu’internationale. De retour en studio avec son troisième opus, Ferline s’est laissée inspirée de l’univers de ses ancêtres haïtiens ainsi que de celui de sa communauté d’accueil franco-ontarienne pour nous offrir une fresque musicale aux couleurs de l’Afrique, des Caraïbes et de l’Ontario-francophone."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g462880"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g462940"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/ferline-regis"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-08T08:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462860",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-02/Ferline%20Regis.jpeg?itok=1-7UHqPh"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "École secondaire Trillium"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g462900"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g462920"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462940",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre culturel Louis-Hémon"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/artistes/ferline-regis",
+    "@type": [
+      "http://schema.org/PerformingGroup"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ferline Regis"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/ferline-regis"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-02/Ferline%20Regis.jpeg?itok=1-7UHqPh",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ]
+  },
+  {
+    "@id": "_:g462900",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "9 Broomhead Rd"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Chapleau"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "P0M 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462920",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "47.839585"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-83.40972"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464140",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464200",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464280",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464360",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464440",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464520",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464600",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464620",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/spectacles/stephanie-morin-robert-4156",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/stephanie-morin-robert-4156"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stéphanie Morin-Robert"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g465640"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "ANGLE MORT est un morceau de bravoure captivant, où Stéphanie Morin-Robert, qui dans sa bataille contre le cancer a perdu un œil, nous raconte sa vie lorsqu’elle n’a que 7 ans. Petite fille fougueuse, elle brandit son œil de verre comme une arme. Avec l’aide de son chat, une paire de lunettes de soleil, et un super pouvoir intempestif, elle découvre vite qu’elle est capable d’affronter les brutes qui la tourmentent à sa nouvelle école et d’accepter son handicap."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g465660"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g465720"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/stephanie-morin-robert-0"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-08T08:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465640",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-02/stephanie%20morin%20robert.jpg?itok=eMSXywY9"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465660",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre culturel La Ronde"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g465680"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g465700"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465720",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.eventbrite.ca/e/billets-souper-et-spectacle-stephanie-morin-robert-798818215787?aff=ebdsoporgprofile"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre culturel La Ronde"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465680",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "32, rue Mountjoy nord"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Timmins"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "P4N 4V6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465700",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "48.476702"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-81.335287"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466680",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466700",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466720",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466740",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466760",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466780",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466880",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466900",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1497,7 +2342,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g467200"
+        "@id": "_:g466960"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1517,12 +2362,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g467220"
+        "@id": "_:g466980"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g467280"
+        "@id": "_:g467040"
       }
     ],
     "http://schema.org/organizer": [
@@ -1543,7 +2388,7 @@
     ]
   },
   {
-    "@id": "_:g467200",
+    "@id": "_:g466960",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1569,7 +2414,7 @@
     ]
   },
   {
-    "@id": "_:g467220",
+    "@id": "_:g466980",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1580,17 +2425,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g467240"
+        "@id": "_:g467000"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g467260"
+        "@id": "_:g467020"
       }
     ]
   },
   {
-    "@id": "_:g467280",
+    "@id": "_:g467040",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1622,7 +2467,7 @@
     ]
   },
   {
-    "@id": "_:g467240",
+    "@id": "_:g467000",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1653,7 +2498,7 @@
     ]
   },
   {
-    "@id": "_:g467260",
+    "@id": "_:g467020",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1669,7 +2514,296 @@
     ]
   },
   {
-    "@id": "_:g468200",
+    "@id": "_:g467220",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467280",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467340",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467380",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467480",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467500",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/spectacles/ferline-regis-4151",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/ferline-regis-4151"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ferline Regis"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g467560"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "À la fois auteure-compositrice et professeur de chant, Ferline a deux albums à son actif dont les échos l’ont propulsés au fil des années à la conquête d’un public tant sur la scène nationale qu’internationale. De retour en studio avec son troisième opus, Ferline s’est laissée inspirée de l’univers de ses ancêtres haïtiens ainsi que de celui de sa communauté d’accueil franco-ontarienne pour nous offrir une fresque musicale aux couleurs de l’Afrique, des Caraïbes et de l’Ontario-francophone."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g467580"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g467640"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/ferline-regis"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-09T08:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467560",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-02/Ferline%20Regis.jpeg?itok=1-7UHqPh"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467580",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Conseil des Arts de Hearst"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g467600"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g467620"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467640",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://lepointdevente.com/billets/hrt240309001"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Conseil des Arts de Hearst"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467600",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "75, 9e Rue, C.P. 2350"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Hearst"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "P0L 1N0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467620",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "49.688018"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-83.666955"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467840",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467860",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467940",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468020",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468100",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468180",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468260",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1685,15 +2819,179 @@
     ]
   },
   {
-    "@id": "_:g468360",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
+    "@id": "https://scenesfrancophones.ca/spectacles/stephanie-morin-robert-4157",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
       {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+        "@id": "https://scenesfrancophones.ca/spectacles/stephanie-morin-robert-4157"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stéphanie Morin-Robert"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g468360"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "ANGLE MORT est un morceau de bravoure captivant, où Stéphanie Morin-Robert, qui dans sa bataille contre le cancer a perdu un œil, nous raconte sa vie lorsqu’elle n’a que 7 ans. Petite fille fougueuse, elle brandit son œil de verre comme une arme. Avec l’aide de son chat, une paire de lunettes de soleil, et un super pouvoir intempestif, elle découvre vite qu’elle est capable d’affronter les brutes qui la tourmentent à sa nouvelle école et d’accepter son handicap."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g468380"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g468440"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/stephanie-morin-robert-0"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-09T08:00:00-04:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468360",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-02/stephanie%20morin%20robert.jpg?itok=eMSXywY9"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468380",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "École secondaire Trillium"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g468400"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g468420"
       }
     ]
   },
   {
     "@id": "_:g468440",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468400",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "9 Broomhead Rd"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Chapleau"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "P0M 1K0"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468420",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "47.839585"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-83.40972"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469400",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1701,7 +2999,7 @@
     ]
   },
   {
-    "@id": "_:g468540",
+    "@id": "_:g469460",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1709,7 +3007,47 @@
     ]
   },
   {
-    "@id": "_:g468560",
+    "@id": "_:g469480",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469500",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469520",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469540",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469580",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469600",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1738,7 +3076,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g469620"
+        "@id": "_:g469740"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1758,12 +3096,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g469640"
+        "@id": "_:g469760"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g469700"
+        "@id": "_:g469820"
       }
     ],
     "http://schema.org/organizer": [
@@ -1784,7 +3122,7 @@
     ]
   },
   {
-    "@id": "_:g469620",
+    "@id": "_:g469740",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1810,7 +3148,7 @@
     ]
   },
   {
-    "@id": "_:g469640",
+    "@id": "_:g469760",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1821,17 +3159,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g469660"
+        "@id": "_:g469780"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g469680"
+        "@id": "_:g469800"
       }
     ]
   },
   {
-    "@id": "_:g469700",
+    "@id": "_:g469820",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1847,7 +3185,7 @@
     ]
   },
   {
-    "@id": "_:g469660",
+    "@id": "_:g469780",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1878,7 +3216,7 @@
     ]
   },
   {
-    "@id": "_:g469680",
+    "@id": "_:g469800",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1894,7 +3232,7 @@
     ]
   },
   {
-    "@id": "_:g470200",
+    "@id": "_:g469940",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1902,7 +3240,7 @@
     ]
   },
   {
-    "@id": "_:g470220",
+    "@id": "_:g470000",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1910,7 +3248,7 @@
     ]
   },
   {
-    "@id": "_:g470260",
+    "@id": "_:g470060",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1918,7 +3256,7 @@
     ]
   },
   {
-    "@id": "_:g470300",
+    "@id": "_:g470080",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1926,7 +3264,7 @@
     ]
   },
   {
-    "@id": "_:g470380",
+    "@id": "_:g470160",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1934,7 +3272,7 @@
     ]
   },
   {
-    "@id": "_:g470400",
+    "@id": "_:g470180",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1963,7 +3301,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g470480"
+        "@id": "_:g470240"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1983,12 +3321,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g470500"
+        "@id": "_:g470260"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g470560"
+        "@id": "_:g470320"
       }
     ],
     "http://schema.org/organizer": [
@@ -2009,7 +3347,7 @@
     ]
   },
   {
-    "@id": "_:g470480",
+    "@id": "_:g470240",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2035,7 +3373,7 @@
     ]
   },
   {
-    "@id": "_:g470500",
+    "@id": "_:g470260",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2046,17 +3384,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g470520"
+        "@id": "_:g470280"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g470540"
+        "@id": "_:g470300"
       }
     ]
   },
   {
-    "@id": "_:g470560",
+    "@id": "_:g470320",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2088,7 +3426,7 @@
     ]
   },
   {
-    "@id": "_:g470520",
+    "@id": "_:g470280",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2119,7 +3457,7 @@
     ]
   },
   {
-    "@id": "_:g470540",
+    "@id": "_:g470300",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2135,7 +3473,7 @@
     ]
   },
   {
-    "@id": "_:g470700",
+    "@id": "_:g470720",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2143,7 +3481,7 @@
     ]
   },
   {
-    "@id": "_:g470760",
+    "@id": "_:g470780",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2151,7 +3489,7 @@
     ]
   },
   {
-    "@id": "_:g470820",
+    "@id": "_:g470840",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2159,15 +3497,7 @@
     ]
   },
   {
-    "@id": "_:g470880",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g470980",
+    "@id": "_:g470900",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2176,6 +3506,14 @@
   },
   {
     "@id": "_:g471000",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471020",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2204,7 +3542,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g472040"
+        "@id": "_:g472060"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2224,12 +3562,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g472060"
+        "@id": "_:g472080"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g472120"
+        "@id": "_:g472140"
       }
     ],
     "http://schema.org/organizer": [
@@ -2250,7 +3588,7 @@
     ]
   },
   {
-    "@id": "_:g472040",
+    "@id": "_:g472060",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2276,7 +3614,7 @@
     ]
   },
   {
-    "@id": "_:g472060",
+    "@id": "_:g472080",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2287,17 +3625,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g472080"
+        "@id": "_:g472100"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g472100"
+        "@id": "_:g472120"
       }
     ]
   },
   {
-    "@id": "_:g472120",
+    "@id": "_:g472140",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2329,7 +3667,7 @@
     ]
   },
   {
-    "@id": "_:g472080",
+    "@id": "_:g472100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2360,7 +3698,7 @@
     ]
   },
   {
-    "@id": "_:g472100",
+    "@id": "_:g472120",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2376,7 +3714,7 @@
     ]
   },
   {
-    "@id": "_:g473280",
+    "@id": "_:g473240",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2384,7 +3722,15 @@
     ]
   },
   {
-    "@id": "_:g473320",
+    "@id": "_:g473260",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473280",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2400,7 +3746,7 @@
     ]
   },
   {
-    "@id": "_:g473360",
+    "@id": "_:g473420",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2409,14 +3755,6 @@
   },
   {
     "@id": "_:g473440",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g473460",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2445,7 +3783,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g473520"
+        "@id": "_:g474460"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2465,12 +3803,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g473540"
+        "@id": "_:g474480"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g473600"
+        "@id": "_:g474540"
       }
     ],
     "http://schema.org/organizer": [
@@ -2491,7 +3829,7 @@
     ]
   },
   {
-    "@id": "_:g473520",
+    "@id": "_:g474460",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2517,7 +3855,7 @@
     ]
   },
   {
-    "@id": "_:g473540",
+    "@id": "_:g474480",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2528,17 +3866,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g473560"
+        "@id": "_:g474500"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g473580"
+        "@id": "_:g474520"
       }
     ]
   },
   {
-    "@id": "_:g473600",
+    "@id": "_:g474540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2570,7 +3908,7 @@
     ]
   },
   {
-    "@id": "_:g473560",
+    "@id": "_:g474500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2601,7 +3939,7 @@
     ]
   },
   {
-    "@id": "_:g473580",
+    "@id": "_:g474520",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2617,7 +3955,7 @@
     ]
   },
   {
-    "@id": "_:g474040",
+    "@id": "_:g475480",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2625,7 +3963,7 @@
     ]
   },
   {
-    "@id": "_:g474120",
+    "@id": "_:g475500",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2633,7 +3971,7 @@
     ]
   },
   {
-    "@id": "_:g474200",
+    "@id": "_:g475520",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2641,7 +3979,7 @@
     ]
   },
   {
-    "@id": "_:g474280",
+    "@id": "_:g475540",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2649,7 +3987,7 @@
     ]
   },
   {
-    "@id": "_:g474380",
+    "@id": "_:g475620",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2657,7 +3995,7 @@
     ]
   },
   {
-    "@id": "_:g474400",
+    "@id": "_:g475640",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2686,7 +4024,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g475480"
+        "@id": "_:g475700"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2706,12 +4044,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g475500"
+        "@id": "_:g475720"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g475560"
+        "@id": "_:g475780"
       }
     ],
     "http://schema.org/organizer": [
@@ -2732,7 +4070,7 @@
     ]
   },
   {
-    "@id": "_:g475480",
+    "@id": "_:g475700",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2758,7 +4096,7 @@
     ]
   },
   {
-    "@id": "_:g475500",
+    "@id": "_:g475720",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2769,17 +4107,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g475520"
+        "@id": "_:g475740"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g475540"
+        "@id": "_:g475760"
       }
     ]
   },
   {
-    "@id": "_:g475560",
+    "@id": "_:g475780",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2833,7 +4171,7 @@
     ]
   },
   {
-    "@id": "_:g475520",
+    "@id": "_:g475740",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2864,7 +4202,7 @@
     ]
   },
   {
-    "@id": "_:g475540",
+    "@id": "_:g475760",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2880,13 +4218,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/commenditaire/public/2022-09/logo-musicaction-Canada-vertical-svg.png?itok=fTi-ncQ1",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ]
-  },
-  {
-    "@id": "_:g476760",
+    "@id": "_:g475980",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2894,7 +4226,7 @@
     ]
   },
   {
-    "@id": "_:g476820",
+    "@id": "_:g476020",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2902,7 +4234,7 @@
     ]
   },
   {
-    "@id": "_:g476880",
+    "@id": "_:g476080",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2910,7 +4242,7 @@
     ]
   },
   {
-    "@id": "_:g476980",
+    "@id": "_:g476180",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2918,7 +4250,7 @@
     ]
   },
   {
-    "@id": "_:g477000",
+    "@id": "_:g476200",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2947,7 +4279,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g478000"
+        "@id": "_:g476280"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2967,12 +4299,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g478020"
+        "@id": "_:g476300"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g478080"
+        "@id": "_:g476360"
       }
     ],
     "http://schema.org/organizer": [
@@ -2993,7 +4325,7 @@
     ]
   },
   {
-    "@id": "_:g478000",
+    "@id": "_:g476280",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3019,7 +4351,7 @@
     ]
   },
   {
-    "@id": "_:g478020",
+    "@id": "_:g476300",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3030,17 +4362,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g478040"
+        "@id": "_:g476320"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g478060"
+        "@id": "_:g476340"
       }
     ]
   },
   {
-    "@id": "_:g478080",
+    "@id": "_:g476360",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3072,7 +4404,7 @@
     ]
   },
   {
-    "@id": "_:g478040",
+    "@id": "_:g476320",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3103,7 +4435,7 @@
     ]
   },
   {
-    "@id": "_:g478060",
+    "@id": "_:g476340",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3119,7 +4451,7 @@
     ]
   },
   {
-    "@id": "_:g478560",
+    "@id": "_:g477400",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3127,7 +4459,7 @@
     ]
   },
   {
-    "@id": "_:g478600",
+    "@id": "_:g477460",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3135,7 +4467,7 @@
     ]
   },
   {
-    "@id": "_:g478640",
+    "@id": "_:g477480",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3143,7 +4475,7 @@
     ]
   },
   {
-    "@id": "_:g478720",
+    "@id": "_:g477560",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3151,7 +4483,243 @@
     ]
   },
   {
-    "@id": "_:g478740",
+    "@id": "_:g477580",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/spectacles/ferline-regis-4152",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/ferline-regis-4152"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ferline Regis"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g477740"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "À la fois auteure-compositrice et professeur de chant, Ferline a deux albums à son actif dont les échos l’ont propulsés au fil des années à la conquête d’un public tant sur la scène nationale qu’internationale. De retour en studio avec son troisième opus, Ferline s’est laissée inspirée de l’univers de ses ancêtres haïtiens ainsi que de celui de sa communauté d’accueil franco-ontarienne pour nous offrir une fresque musicale aux couleurs de l’Afrique, des Caraïbes et de l’Ontario-francophone."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g477760"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g477820"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://scenesfrancophones.ca/artistes/ferline-regis"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-03-22T09:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477740",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-02/Ferline%20Regis.jpeg?itok=1-7UHqPh"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477760",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre culturel La Ronde"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g477780"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g477800"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477820",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477780",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "32, rue Mountjoy nord"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Timmins"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "ON"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "P4N 4V6"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477800",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "48.476702"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-81.335287"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477900",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477920",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478000",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478080",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478160",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478240",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478340",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478360",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3180,7 +4748,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g478840"
+        "@id": "_:g478420"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3200,12 +4768,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g478860"
+        "@id": "_:g478440"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g478920"
+        "@id": "_:g478500"
       }
     ],
     "http://schema.org/organizer": [
@@ -3226,7 +4794,7 @@
     ]
   },
   {
-    "@id": "_:g478840",
+    "@id": "_:g478420",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3252,7 +4820,7 @@
     ]
   },
   {
-    "@id": "_:g478860",
+    "@id": "_:g478440",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3263,17 +4831,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g478880"
+        "@id": "_:g478460"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g478900"
+        "@id": "_:g478480"
       }
     ]
   },
   {
-    "@id": "_:g478920",
+    "@id": "_:g478500",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3289,7 +4857,7 @@
     ]
   },
   {
-    "@id": "_:g478880",
+    "@id": "_:g478460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3320,7 +4888,7 @@
     ]
   },
   {
-    "@id": "_:g478900",
+    "@id": "_:g478480",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3336,7 +4904,7 @@
     ]
   },
   {
-    "@id": "_:g479060",
+    "@id": "_:g478580",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3344,7 +4912,7 @@
     ]
   },
   {
-    "@id": "_:g479120",
+    "@id": "_:g478600",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3352,7 +4920,7 @@
     ]
   },
   {
-    "@id": "_:g479180",
+    "@id": "_:g478660",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3360,7 +4928,7 @@
     ]
   },
   {
-    "@id": "_:g479260",
+    "@id": "_:g478740",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3368,7 +4936,7 @@
     ]
   },
   {
-    "@id": "_:g479280",
+    "@id": "_:g478760",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3397,7 +4965,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g480280"
+        "@id": "_:g479820"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3417,12 +4985,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g480300"
+        "@id": "_:g479840"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g480360"
+        "@id": "_:g479900"
       }
     ],
     "http://schema.org/organizer": [
@@ -3443,7 +5011,7 @@
     ]
   },
   {
-    "@id": "_:g480280",
+    "@id": "_:g479820",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3469,7 +5037,7 @@
     ]
   },
   {
-    "@id": "_:g480300",
+    "@id": "_:g479840",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3480,17 +5048,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g480320"
+        "@id": "_:g479860"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g480340"
+        "@id": "_:g479880"
       }
     ]
   },
   {
-    "@id": "_:g480360",
+    "@id": "_:g479900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3522,7 +5090,7 @@
     ]
   },
   {
-    "@id": "_:g480320",
+    "@id": "_:g479860",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3553,7 +5121,7 @@
     ]
   },
   {
-    "@id": "_:g480340",
+    "@id": "_:g479880",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3569,7 +5137,7 @@
     ]
   },
   {
-    "@id": "_:g481580",
+    "@id": "_:g481080",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3577,7 +5145,7 @@
     ]
   },
   {
-    "@id": "_:g481660",
+    "@id": "_:g481140",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3585,7 +5153,7 @@
     ]
   },
   {
-    "@id": "_:g481740",
+    "@id": "_:g481200",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3593,7 +5161,7 @@
     ]
   },
   {
-    "@id": "_:g481840",
+    "@id": "_:g481300",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3601,7 +5169,7 @@
     ]
   },
   {
-    "@id": "_:g481860",
+    "@id": "_:g481320",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3630,7 +5198,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g482920"
+        "@id": "_:g482360"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3650,12 +5218,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g482940"
+        "@id": "_:g482380"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g483000"
+        "@id": "_:g482440"
       }
     ],
     "http://schema.org/organizer": [
@@ -3671,7 +5239,7 @@
     ]
   },
   {
-    "@id": "_:g482920",
+    "@id": "_:g482360",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3697,7 +5265,7 @@
     ]
   },
   {
-    "@id": "_:g482940",
+    "@id": "_:g482380",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3708,17 +5276,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g482960"
+        "@id": "_:g482400"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g482980"
+        "@id": "_:g482420"
       }
     ]
   },
   {
-    "@id": "_:g483000",
+    "@id": "_:g482440",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3740,7 +5308,7 @@
     ]
   },
   {
-    "@id": "_:g482960",
+    "@id": "_:g482400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3771,7 +5339,7 @@
     ]
   },
   {
-    "@id": "_:g482980",
+    "@id": "_:g482420",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3787,7 +5355,7 @@
     ]
   },
   {
-    "@id": "_:g484220",
+    "@id": "_:g483620",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3795,7 +5363,7 @@
     ]
   },
   {
-    "@id": "_:g484240",
+    "@id": "_:g483640",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3824,7 +5392,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g485300"
+        "@id": "_:g484660"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3844,12 +5412,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g485320"
+        "@id": "_:g484680"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g485380"
+        "@id": "_:g484740"
       }
     ],
     "http://schema.org/organizer": [
@@ -3865,7 +5433,7 @@
     ]
   },
   {
-    "@id": "_:g485300",
+    "@id": "_:g484660",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3891,7 +5459,7 @@
     ]
   },
   {
-    "@id": "_:g485320",
+    "@id": "_:g484680",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3902,17 +5470,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g485340"
+        "@id": "_:g484700"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g485360"
+        "@id": "_:g484720"
       }
     ]
   },
   {
-    "@id": "_:g485380",
+    "@id": "_:g484740",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3934,7 +5502,7 @@
     ]
   },
   {
-    "@id": "_:g485340",
+    "@id": "_:g484700",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3965,7 +5533,7 @@
     ]
   },
   {
-    "@id": "_:g485360",
+    "@id": "_:g484720",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3981,7 +5549,7 @@
     ]
   },
   {
-    "@id": "_:g486580",
+    "@id": "_:g485780",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3989,7 +5557,7 @@
     ]
   },
   {
-    "@id": "_:g486600",
+    "@id": "_:g485800",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4018,7 +5586,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g487600"
+        "@id": "_:g485860"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -4038,12 +5606,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g487620"
+        "@id": "_:g485880"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g487680"
+        "@id": "_:g485940"
       }
     ],
     "http://schema.org/organizer": [
@@ -4059,7 +5627,7 @@
     ]
   },
   {
-    "@id": "_:g487600",
+    "@id": "_:g485860",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4085,7 +5653,7 @@
     ]
   },
   {
-    "@id": "_:g487620",
+    "@id": "_:g485880",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4096,17 +5664,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g487640"
+        "@id": "_:g485900"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g487660"
+        "@id": "_:g485920"
       }
     ]
   },
   {
-    "@id": "_:g487680",
+    "@id": "_:g485940",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4122,7 +5690,7 @@
     ]
   },
   {
-    "@id": "_:g487640",
+    "@id": "_:g485900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4153,7 +5721,7 @@
     ]
   },
   {
-    "@id": "_:g487660",
+    "@id": "_:g485920",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -4169,7 +5737,7 @@
     ]
   },
   {
-    "@id": "_:g488200",
+    "@id": "_:g486140",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4177,7 +5745,7 @@
     ]
   },
   {
-    "@id": "_:g488220",
+    "@id": "_:g486160",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4206,7 +5774,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g488340"
+        "@id": "_:g486240"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -4226,12 +5794,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g488360"
+        "@id": "_:g486260"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g488420"
+        "@id": "_:g486320"
       }
     ],
     "http://schema.org/organizer": [
@@ -4247,7 +5815,7 @@
     ]
   },
   {
-    "@id": "_:g488340",
+    "@id": "_:g486240",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4273,7 +5841,7 @@
     ]
   },
   {
-    "@id": "_:g488360",
+    "@id": "_:g486260",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4284,17 +5852,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g488380"
+        "@id": "_:g486280"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g488400"
+        "@id": "_:g486300"
       }
     ]
   },
   {
-    "@id": "_:g488420",
+    "@id": "_:g486320",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4326,7 +5894,7 @@
     ]
   },
   {
-    "@id": "_:g488380",
+    "@id": "_:g486280",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4357,7 +5925,7 @@
     ]
   },
   {
-    "@id": "_:g488400",
+    "@id": "_:g486300",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -4373,7 +5941,7 @@
     ]
   },
   {
-    "@id": "_:g488620",
+    "@id": "_:g486440",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4381,7 +5949,7 @@
     ]
   },
   {
-    "@id": "_:g488640",
+    "@id": "_:g486460",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4410,7 +5978,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g489660"
+        "@id": "_:g486520"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -4430,12 +5998,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g489680"
+        "@id": "_:g486540"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g489740"
+        "@id": "_:g486600"
       }
     ],
     "http://schema.org/organizer": [
@@ -4451,7 +6019,7 @@
     ]
   },
   {
-    "@id": "_:g489660",
+    "@id": "_:g486520",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4477,7 +6045,7 @@
     ]
   },
   {
-    "@id": "_:g489680",
+    "@id": "_:g486540",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4488,17 +6056,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g489700"
+        "@id": "_:g486560"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g489720"
+        "@id": "_:g486580"
       }
     ]
   },
   {
-    "@id": "_:g489740",
+    "@id": "_:g486600",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4530,7 +6098,7 @@
     ]
   },
   {
-    "@id": "_:g489700",
+    "@id": "_:g486560",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4561,7 +6129,7 @@
     ]
   },
   {
-    "@id": "_:g489720",
+    "@id": "_:g486580",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -4577,7 +6145,7 @@
     ]
   },
   {
-    "@id": "_:g490940",
+    "@id": "_:g487700",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4585,7 +6153,7 @@
     ]
   },
   {
-    "@id": "_:g490960",
+    "@id": "_:g487720",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4614,7 +6182,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g492020"
+        "@id": "_:g487860"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -4634,12 +6202,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g492040"
+        "@id": "_:g487880"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g492100"
+        "@id": "_:g487940"
       }
     ],
     "http://schema.org/organizer": [
@@ -4655,7 +6223,7 @@
     ]
   },
   {
-    "@id": "_:g492020",
+    "@id": "_:g487860",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4681,7 +6249,7 @@
     ]
   },
   {
-    "@id": "_:g492040",
+    "@id": "_:g487880",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4692,17 +6260,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g492060"
+        "@id": "_:g487900"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g492080"
+        "@id": "_:g487920"
       }
     ]
   },
   {
-    "@id": "_:g492100",
+    "@id": "_:g487940",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4718,7 +6286,7 @@
     ]
   },
   {
-    "@id": "_:g492060",
+    "@id": "_:g487900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4749,7 +6317,7 @@
     ]
   },
   {
-    "@id": "_:g492080",
+    "@id": "_:g487920",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -4765,7 +6333,7 @@
     ]
   },
   {
-    "@id": "_:g493280",
+    "@id": "_:g488040",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4773,7 +6341,7 @@
     ]
   },
   {
-    "@id": "_:g493300",
+    "@id": "_:g488060",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4802,7 +6370,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g494340"
+        "@id": "_:g489060"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -4822,12 +6390,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g494360"
+        "@id": "_:g489080"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g494420"
+        "@id": "_:g489140"
       }
     ],
     "http://schema.org/organizer": [
@@ -4843,7 +6411,7 @@
     ]
   },
   {
-    "@id": "_:g494340",
+    "@id": "_:g489060",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -4869,7 +6437,7 @@
     ]
   },
   {
-    "@id": "_:g494360",
+    "@id": "_:g489080",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -4880,17 +6448,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g494380"
+        "@id": "_:g489100"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g494400"
+        "@id": "_:g489120"
       }
     ]
   },
   {
-    "@id": "_:g494420",
+    "@id": "_:g489140",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -4906,7 +6474,7 @@
     ]
   },
   {
-    "@id": "_:g494380",
+    "@id": "_:g489100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -4937,7 +6505,7 @@
     ]
   },
   {
-    "@id": "_:g494400",
+    "@id": "_:g489120",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -4953,7 +6521,7 @@
     ]
   },
   {
-    "@id": "_:g495620",
+    "@id": "_:g490380",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4961,7 +6529,7 @@
     ]
   },
   {
-    "@id": "_:g495640",
+    "@id": "_:g490400",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -4990,7 +6558,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g496640"
+        "@id": "_:g491420"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -5010,12 +6578,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g496660"
+        "@id": "_:g491440"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g496720"
+        "@id": "_:g491500"
       }
     ],
     "http://schema.org/organizer": [
@@ -5031,7 +6599,7 @@
     ]
   },
   {
-    "@id": "_:g496640",
+    "@id": "_:g491420",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5057,7 +6625,7 @@
     ]
   },
   {
-    "@id": "_:g496660",
+    "@id": "_:g491440",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5068,17 +6636,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g496680"
+        "@id": "_:g491460"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g496700"
+        "@id": "_:g491480"
       }
     ]
   },
   {
-    "@id": "_:g496720",
+    "@id": "_:g491500",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5110,7 +6678,7 @@
     ]
   },
   {
-    "@id": "_:g496680",
+    "@id": "_:g491460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5141,7 +6709,7 @@
     ]
   },
   {
-    "@id": "_:g496700",
+    "@id": "_:g491480",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -5157,7 +6725,7 @@
     ]
   },
   {
-    "@id": "_:g497240",
+    "@id": "_:g492640",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5165,7 +6733,7 @@
     ]
   },
   {
-    "@id": "_:g497260",
+    "@id": "_:g492660",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5194,7 +6762,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g497360"
+        "@id": "_:g493680"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -5214,12 +6782,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g497380"
+        "@id": "_:g493700"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g497440"
+        "@id": "_:g493760"
       }
     ],
     "http://schema.org/organizer": [
@@ -5235,7 +6803,7 @@
     ]
   },
   {
-    "@id": "_:g497360",
+    "@id": "_:g493680",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5261,7 +6829,7 @@
     ]
   },
   {
-    "@id": "_:g497380",
+    "@id": "_:g493700",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5272,17 +6840,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g497400"
+        "@id": "_:g493720"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g497420"
+        "@id": "_:g493740"
       }
     ]
   },
   {
-    "@id": "_:g497440",
+    "@id": "_:g493760",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5298,7 +6866,7 @@
     ]
   },
   {
-    "@id": "_:g497400",
+    "@id": "_:g493720",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5329,7 +6897,7 @@
     ]
   },
   {
-    "@id": "_:g497420",
+    "@id": "_:g493740",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -5345,7 +6913,7 @@
     ]
   },
   {
-    "@id": "_:g497660",
+    "@id": "_:g494900",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5353,7 +6921,7 @@
     ]
   },
   {
-    "@id": "_:g497680",
+    "@id": "_:g494920",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5382,7 +6950,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g498740"
+        "@id": "_:g495920"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -5402,12 +6970,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g498760"
+        "@id": "_:g495940"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g498820"
+        "@id": "_:g496000"
       }
     ],
     "http://schema.org/organizer": [
@@ -5423,7 +6991,7 @@
     ]
   },
   {
-    "@id": "_:g498740",
+    "@id": "_:g495920",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5449,7 +7017,7 @@
     ]
   },
   {
-    "@id": "_:g498760",
+    "@id": "_:g495940",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5460,17 +7028,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g498780"
+        "@id": "_:g495960"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g498800"
+        "@id": "_:g495980"
       }
     ]
   },
   {
-    "@id": "_:g498820",
+    "@id": "_:g496000",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5492,7 +7060,7 @@
     ]
   },
   {
-    "@id": "_:g498780",
+    "@id": "_:g495960",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5523,7 +7091,7 @@
     ]
   },
   {
-    "@id": "_:g498800",
+    "@id": "_:g495980",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -5539,7 +7107,7 @@
     ]
   },
   {
-    "@id": "_:g500020",
+    "@id": "_:g497040",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5547,7 +7115,7 @@
     ]
   },
   {
-    "@id": "_:g500040",
+    "@id": "_:g497060",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5576,7 +7144,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g501100"
+        "@id": "_:g497140"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -5596,12 +7164,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g501120"
+        "@id": "_:g497160"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g501180"
+        "@id": "_:g497220"
       }
     ],
     "http://schema.org/organizer": [
@@ -5617,7 +7185,7 @@
     ]
   },
   {
-    "@id": "_:g501100",
+    "@id": "_:g497140",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5643,7 +7211,7 @@
     ]
   },
   {
-    "@id": "_:g501120",
+    "@id": "_:g497160",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5654,17 +7222,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g501140"
+        "@id": "_:g497180"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g501160"
+        "@id": "_:g497200"
       }
     ]
   },
   {
-    "@id": "_:g501180",
+    "@id": "_:g497220",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5680,7 +7248,7 @@
     ]
   },
   {
-    "@id": "_:g501140",
+    "@id": "_:g497180",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5711,7 +7279,7 @@
     ]
   },
   {
-    "@id": "_:g501160",
+    "@id": "_:g497200",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -5727,7 +7295,7 @@
     ]
   },
   {
-    "@id": "_:g502360",
+    "@id": "_:g497360",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5735,7 +7303,7 @@
     ]
   },
   {
-    "@id": "_:g502380",
+    "@id": "_:g497380",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5764,7 +7332,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g503420"
+        "@id": "_:g497460"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -5784,12 +7352,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g503440"
+        "@id": "_:g497480"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g503500"
+        "@id": "_:g497540"
       }
     ],
     "http://schema.org/organizer": [
@@ -5805,7 +7373,7 @@
     ]
   },
   {
-    "@id": "_:g503420",
+    "@id": "_:g497460",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -5831,7 +7399,7 @@
     ]
   },
   {
-    "@id": "_:g503440",
+    "@id": "_:g497480",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -5842,17 +7410,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g503460"
+        "@id": "_:g497500"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g503480"
+        "@id": "_:g497520"
       }
     ]
   },
   {
-    "@id": "_:g503500",
+    "@id": "_:g497540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -5868,7 +7436,7 @@
     ]
   },
   {
-    "@id": "_:g503460",
+    "@id": "_:g497500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -5899,7 +7467,7 @@
     ]
   },
   {
-    "@id": "_:g503480",
+    "@id": "_:g497520",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -5915,7 +7483,7 @@
     ]
   },
   {
-    "@id": "_:g504680",
+    "@id": "_:g497660",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5923,7 +7491,7 @@
     ]
   },
   {
-    "@id": "_:g504700",
+    "@id": "_:g497680",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -5952,7 +7520,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g505700"
+        "@id": "_:g497740"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -5972,12 +7540,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g505720"
+        "@id": "_:g497760"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g505780"
+        "@id": "_:g497820"
       }
     ],
     "http://schema.org/organizer": [
@@ -5993,7 +7561,7 @@
     ]
   },
   {
-    "@id": "_:g505700",
+    "@id": "_:g497740",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6019,7 +7587,7 @@
     ]
   },
   {
-    "@id": "_:g505720",
+    "@id": "_:g497760",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6030,17 +7598,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g505740"
+        "@id": "_:g497780"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g505760"
+        "@id": "_:g497800"
       }
     ]
   },
   {
-    "@id": "_:g505780",
+    "@id": "_:g497820",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6056,7 +7624,7 @@
     ]
   },
   {
-    "@id": "_:g505740",
+    "@id": "_:g497780",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6087,7 +7655,7 @@
     ]
   },
   {
-    "@id": "_:g505760",
+    "@id": "_:g497800",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -6103,7 +7671,7 @@
     ]
   },
   {
-    "@id": "_:g506300",
+    "@id": "_:g498920",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6111,7 +7679,7 @@
     ]
   },
   {
-    "@id": "_:g506320",
+    "@id": "_:g498940",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6140,7 +7708,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g506440"
+        "@id": "_:g499320"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -6160,12 +7728,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g506460"
+        "@id": "_:g499340"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g506520"
+        "@id": "_:g499400"
       }
     ],
     "http://schema.org/organizer": [
@@ -6181,7 +7749,7 @@
     ]
   },
   {
-    "@id": "_:g506440",
+    "@id": "_:g499320",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6207,7 +7775,7 @@
     ]
   },
   {
-    "@id": "_:g506460",
+    "@id": "_:g499340",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6218,17 +7786,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g506480"
+        "@id": "_:g499360"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g506500"
+        "@id": "_:g499380"
       }
     ]
   },
   {
-    "@id": "_:g506520",
+    "@id": "_:g499400",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6250,7 +7818,7 @@
     ]
   },
   {
-    "@id": "_:g506480",
+    "@id": "_:g499360",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6281,7 +7849,7 @@
     ]
   },
   {
-    "@id": "_:g506500",
+    "@id": "_:g499380",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -6297,7 +7865,7 @@
     ]
   },
   {
-    "@id": "_:g507740",
+    "@id": "_:g500620",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6305,7 +7873,7 @@
     ]
   },
   {
-    "@id": "_:g507760",
+    "@id": "_:g500640",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6334,7 +7902,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g508820"
+        "@id": "_:g501680"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -6354,12 +7922,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g508840"
+        "@id": "_:g501700"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g508900"
+        "@id": "_:g501760"
       }
     ],
     "http://schema.org/organizer": [
@@ -6375,7 +7943,7 @@
     ]
   },
   {
-    "@id": "_:g508820",
+    "@id": "_:g501680",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6401,7 +7969,7 @@
     ]
   },
   {
-    "@id": "_:g508840",
+    "@id": "_:g501700",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6412,17 +7980,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g508860"
+        "@id": "_:g501720"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g508880"
+        "@id": "_:g501740"
       }
     ]
   },
   {
-    "@id": "_:g508900",
+    "@id": "_:g501760",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6438,7 +8006,7 @@
     ]
   },
   {
-    "@id": "_:g508860",
+    "@id": "_:g501720",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6469,7 +8037,7 @@
     ]
   },
   {
-    "@id": "_:g508880",
+    "@id": "_:g501740",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -6485,7 +8053,7 @@
     ]
   },
   {
-    "@id": "_:g510080",
+    "@id": "_:g502940",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6493,7 +8061,7 @@
     ]
   },
   {
-    "@id": "_:g510100",
+    "@id": "_:g502960",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6522,7 +8090,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g511160"
+        "@id": "_:g504000"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -6542,12 +8110,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g511180"
+        "@id": "_:g504020"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g511240"
+        "@id": "_:g504080"
       }
     ],
     "http://schema.org/organizer": [
@@ -6563,7 +8131,7 @@
     ]
   },
   {
-    "@id": "_:g511160",
+    "@id": "_:g504000",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6589,7 +8157,7 @@
     ]
   },
   {
-    "@id": "_:g511180",
+    "@id": "_:g504020",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6600,17 +8168,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g511200"
+        "@id": "_:g504040"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g511220"
+        "@id": "_:g504060"
       }
     ]
   },
   {
-    "@id": "_:g511240",
+    "@id": "_:g504080",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6621,7 +8189,7 @@
     ]
   },
   {
-    "@id": "_:g511200",
+    "@id": "_:g504040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6652,7 +8220,7 @@
     ]
   },
   {
-    "@id": "_:g511220",
+    "@id": "_:g504060",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -6668,7 +8236,7 @@
     ]
   },
   {
-    "@id": "_:g512400",
+    "@id": "_:g505220",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6676,7 +8244,7 @@
     ]
   },
   {
-    "@id": "_:g512420",
+    "@id": "_:g505240",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6705,7 +8273,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g513460"
+        "@id": "_:g506260"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -6725,12 +8293,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g513480"
+        "@id": "_:g506280"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g513540"
+        "@id": "_:g506340"
       }
     ],
     "http://schema.org/organizer": [
@@ -6746,7 +8314,7 @@
     ]
   },
   {
-    "@id": "_:g513460",
+    "@id": "_:g506260",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6772,7 +8340,7 @@
     ]
   },
   {
-    "@id": "_:g513480",
+    "@id": "_:g506280",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6783,17 +8351,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g513500"
+        "@id": "_:g506300"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g513520"
+        "@id": "_:g506320"
       }
     ]
   },
   {
-    "@id": "_:g513540",
+    "@id": "_:g506340",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6809,7 +8377,7 @@
     ]
   },
   {
-    "@id": "_:g513500",
+    "@id": "_:g506300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -6840,7 +8408,7 @@
     ]
   },
   {
-    "@id": "_:g513520",
+    "@id": "_:g506320",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -6856,7 +8424,7 @@
     ]
   },
   {
-    "@id": "_:g514720",
+    "@id": "_:g507360",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6864,7 +8432,7 @@
     ]
   },
   {
-    "@id": "_:g514740",
+    "@id": "_:g507380",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -6893,7 +8461,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g515760"
+        "@id": "_:g507440"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -6913,12 +8481,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g515780"
+        "@id": "_:g507460"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g515840"
+        "@id": "_:g507520"
       }
     ],
     "http://schema.org/organizer": [
@@ -6934,7 +8502,7 @@
     ]
   },
   {
-    "@id": "_:g515760",
+    "@id": "_:g507440",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -6960,7 +8528,7 @@
     ]
   },
   {
-    "@id": "_:g515780",
+    "@id": "_:g507460",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -6971,17 +8539,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g515800"
+        "@id": "_:g507480"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g515820"
+        "@id": "_:g507500"
       }
     ]
   },
   {
-    "@id": "_:g515840",
+    "@id": "_:g507520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -6997,7 +8565,7 @@
     ]
   },
   {
-    "@id": "_:g515800",
+    "@id": "_:g507480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7028,7 +8596,7 @@
     ]
   },
   {
-    "@id": "_:g515820",
+    "@id": "_:g507500",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -7044,7 +8612,7 @@
     ]
   },
   {
-    "@id": "_:g516400",
+    "@id": "_:g507720",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7052,7 +8620,7 @@
     ]
   },
   {
-    "@id": "_:g516420",
+    "@id": "_:g507740",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7081,7 +8649,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g517480"
+        "@id": "_:g507820"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -7101,12 +8669,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g517500"
+        "@id": "_:g507840"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g517560"
+        "@id": "_:g507900"
       }
     ],
     "http://schema.org/organizer": [
@@ -7122,7 +8690,7 @@
     ]
   },
   {
-    "@id": "_:g517480",
+    "@id": "_:g507820",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -7148,7 +8716,7 @@
     ]
   },
   {
-    "@id": "_:g517500",
+    "@id": "_:g507840",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7159,17 +8727,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g517520"
+        "@id": "_:g507860"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g517540"
+        "@id": "_:g507880"
       }
     ]
   },
   {
-    "@id": "_:g517560",
+    "@id": "_:g507900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -7191,7 +8759,7 @@
     ]
   },
   {
-    "@id": "_:g517520",
+    "@id": "_:g507860",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7222,7 +8790,7 @@
     ]
   },
   {
-    "@id": "_:g517540",
+    "@id": "_:g507880",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -7238,7 +8806,7 @@
     ]
   },
   {
-    "@id": "_:g518720",
+    "@id": "_:g507980",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7246,7 +8814,7 @@
     ]
   },
   {
-    "@id": "_:g518740",
+    "@id": "_:g508000",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7275,7 +8843,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g519800"
+        "@id": "_:g508060"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -7295,12 +8863,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g519820"
+        "@id": "_:g508080"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g519880"
+        "@id": "_:g508140"
       }
     ],
     "http://schema.org/organizer": [
@@ -7316,7 +8884,7 @@
     ]
   },
   {
-    "@id": "_:g519800",
+    "@id": "_:g508060",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -7342,7 +8910,7 @@
     ]
   },
   {
-    "@id": "_:g519820",
+    "@id": "_:g508080",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7353,17 +8921,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g519840"
+        "@id": "_:g508100"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g519860"
+        "@id": "_:g508120"
       }
     ]
   },
   {
-    "@id": "_:g519880",
+    "@id": "_:g508140",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -7395,7 +8963,7 @@
     ]
   },
   {
-    "@id": "_:g519840",
+    "@id": "_:g508100",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7426,7 +8994,7 @@
     ]
   },
   {
-    "@id": "_:g519860",
+    "@id": "_:g508120",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -7442,7 +9010,7 @@
     ]
   },
   {
-    "@id": "_:g521060",
+    "@id": "_:g509240",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7450,7 +9018,7 @@
     ]
   },
   {
-    "@id": "_:g521080",
+    "@id": "_:g509260",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7479,7 +9047,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g522140"
+        "@id": "_:g509440"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -7499,12 +9067,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g522160"
+        "@id": "_:g509460"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g522220"
+        "@id": "_:g509520"
       }
     ],
     "http://schema.org/organizer": [
@@ -7520,7 +9088,7 @@
     ]
   },
   {
-    "@id": "_:g522140",
+    "@id": "_:g509440",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -7546,7 +9114,7 @@
     ]
   },
   {
-    "@id": "_:g522160",
+    "@id": "_:g509460",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7557,17 +9125,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g522180"
+        "@id": "_:g509480"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g522200"
+        "@id": "_:g509500"
       }
     ]
   },
   {
-    "@id": "_:g522220",
+    "@id": "_:g509520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -7583,7 +9151,7 @@
     ]
   },
   {
-    "@id": "_:g522180",
+    "@id": "_:g509480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7614,7 +9182,7 @@
     ]
   },
   {
-    "@id": "_:g522200",
+    "@id": "_:g509500",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -7630,7 +9198,7 @@
     ]
   },
   {
-    "@id": "_:g523400",
+    "@id": "_:g510720",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7638,7 +9206,7 @@
     ]
   },
   {
-    "@id": "_:g523420",
+    "@id": "_:g510740",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7667,7 +9235,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g524460"
+        "@id": "_:g511800"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -7687,12 +9255,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g524480"
+        "@id": "_:g511820"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g524540"
+        "@id": "_:g511880"
       }
     ],
     "http://schema.org/organizer": [
@@ -7708,7 +9276,7 @@
     ]
   },
   {
-    "@id": "_:g524460",
+    "@id": "_:g511800",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -7734,7 +9302,7 @@
     ]
   },
   {
-    "@id": "_:g524480",
+    "@id": "_:g511820",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7745,17 +9313,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g524500"
+        "@id": "_:g511840"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g524520"
+        "@id": "_:g511860"
       }
     ]
   },
   {
-    "@id": "_:g524540",
+    "@id": "_:g511880",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -7772,7 +9340,7 @@
     ]
   },
   {
-    "@id": "_:g524500",
+    "@id": "_:g511840",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7803,7 +9371,7 @@
     ]
   },
   {
-    "@id": "_:g524520",
+    "@id": "_:g511860",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -7819,7 +9387,7 @@
     ]
   },
   {
-    "@id": "_:g525720",
+    "@id": "_:g513060",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7827,7 +9395,7 @@
     ]
   },
   {
-    "@id": "_:g525740",
+    "@id": "_:g513080",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -7856,7 +9424,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g526800"
+        "@id": "_:g514120"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -7876,12 +9444,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g526820"
+        "@id": "_:g514140"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g526880"
+        "@id": "_:g514200"
       }
     ],
     "http://schema.org/organizer": [
@@ -7897,7 +9465,7 @@
     ]
   },
   {
-    "@id": "_:g526800",
+    "@id": "_:g514120",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -7923,7 +9491,7 @@
     ]
   },
   {
-    "@id": "_:g526820",
+    "@id": "_:g514140",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -7934,17 +9502,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g526840"
+        "@id": "_:g514160"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g526860"
+        "@id": "_:g514180"
       }
     ]
   },
   {
-    "@id": "_:g526880",
+    "@id": "_:g514200",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -7960,7 +9528,7 @@
     ]
   },
   {
-    "@id": "_:g526840",
+    "@id": "_:g514160",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -7991,7 +9559,7 @@
     ]
   },
   {
-    "@id": "_:g526860",
+    "@id": "_:g514180",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -8007,7 +9575,7 @@
     ]
   },
   {
-    "@id": "_:g528080",
+    "@id": "_:g515400",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -8015,7 +9583,7 @@
     ]
   },
   {
-    "@id": "_:g528100",
+    "@id": "_:g515420",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -8044,7 +9612,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g529160"
+        "@id": "_:g516460"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -8064,12 +9632,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g529180"
+        "@id": "_:g516480"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g529240"
+        "@id": "_:g516540"
       }
     ],
     "http://schema.org/organizer": [
@@ -8085,7 +9653,7 @@
     ]
   },
   {
-    "@id": "_:g529160",
+    "@id": "_:g516460",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -8111,7 +9679,7 @@
     ]
   },
   {
-    "@id": "_:g529180",
+    "@id": "_:g516480",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -8122,17 +9690,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g529200"
+        "@id": "_:g516500"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g529220"
+        "@id": "_:g516520"
       }
     ]
   },
   {
-    "@id": "_:g529240",
+    "@id": "_:g516540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -8148,7 +9716,7 @@
     ]
   },
   {
-    "@id": "_:g529200",
+    "@id": "_:g516500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -8179,7 +9747,7 @@
     ]
   },
   {
-    "@id": "_:g529220",
+    "@id": "_:g516520",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -8195,7 +9763,7 @@
     ]
   },
   {
-    "@id": "_:g530440",
+    "@id": "_:g517700",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -8203,7 +9771,7 @@
     ]
   },
   {
-    "@id": "_:g530460",
+    "@id": "_:g517720",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
