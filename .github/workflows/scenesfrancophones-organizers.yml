@@ -32,6 +32,6 @@ jobs:
       - name: Action setup
         uses: culturecreates/artsdata-pipeline-action@v1.1.0
         with:
-          artifact: scenesfrancoprones-organizers
+          artifact: scenesfrancophones-organizers
           publisher: "${{ secrets.PUBLISHER_URI_GREGORY }}"
           downloadUrl: "https://raw.githubusercontent.com/culturecreates/artsdata-planet-scenesfrancophones/main/output/organizers.jsonld"
