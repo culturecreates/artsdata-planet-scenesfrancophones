@@ -1,17 +1,17 @@
 [
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/simon-leoza-4171",
+    "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4069",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/simon-leoza-4171"
+        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4069"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Simon Leoza"
+        "@value": "QW4RTZ"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -31,7 +31,7 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "Le compositeur, producteur et multi-instrumentiste montréalais Simon Leoza dévoile son nouvel album, ACTE III. Ce second opus très attendu allie avec brio l’indie-classical, la pop et la musique électronique. Débordantes d'orchestrations évocatrices et abstraites, accompagnées d'éléments électroniques électrisants, les pièces de Simon Leoza créent un paysage vibrant à la fois chaleureux et exaltant. Alors que l'album précédent, Albatross, possédait un caractère très cinématographique, ACTE III dégage une essence théâtrale enchanteresse."
+        "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -51,13 +51,13 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-de-lisle-saint-jean"
+        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-04-12T09:00:00-03:00"
+        "@value": "2024-05-07T09:00:00-03:00"
       }
     ]
   },
@@ -73,7 +73,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/SIMON%20LEOZA%20SF.png?itok=vrwr_Ln3"
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs"
       }
     ],
     "http://schema.org/width": [
@@ -94,7 +94,7 @@
     ],
     "http://schema.org/name": [
       {
-        "@value": "Carrefour de l'Isle Saint-Jean"
+        "@value": "Salle J.-Armand-Lavoie"
       }
     ],
     "http://schema.org/address": [
@@ -115,7 +115,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.facebook.com/events/795975469243584/?ref=newsfeed"
+        "@id": "https://billetterietracadie.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30115"
       }
     ],
     "http://schema.org/availability": [
@@ -125,23 +125,23 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-de-lisle-saint-jean",
+    "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Carrefour de l’Isle Saint-Jean"
+        "@value": "Société culturelle des Tracadilles"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-de-lisle-saint-jean"
+        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
       }
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/SIMON%20LEOZA%20SF.png?itok=vrwr_Ln3",
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ]
@@ -153,22 +153,22 @@
     ],
     "http://schema.org/streetAddress": [
       {
-        "@value": "5 prom Acadienne"
+        "@value": "585, rue de l'Église"
       }
     ],
     "http://schema.org/addressLocality": [
       {
-        "@value": "Charlottetown"
+        "@value": "Tracadie"
       }
     ],
     "http://schema.org/addressRegion": [
       {
-        "@value": "PE"
+        "@value": "NB"
       }
     ],
     "http://schema.org/postalCode": [
       {
-        "@value": "C1C 1M2"
+        "@value": "E1X 1G5"
       }
     ],
     "http://schema.org/addressCountry": [
@@ -184,12 +184,12 @@
     ],
     "http://schema.org/latitude": [
       {
-        "@value": "46.26131"
+        "@value": "47.513094"
       }
     ],
     "http://schema.org/longitude": [
       {
-        "@value": "-63.09456"
+        "@value": "-64.920763"
       }
     ]
   },
@@ -216,18 +216,18 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/simon-leoza-4095",
+    "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4070",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/simon-leoza-4095"
+        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4070"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Simon Leoza"
+        "@value": "QW4RTZ"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -247,7 +247,7 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "Le compositeur, producteur et multi-instrumentiste montréalais Simon Leoza dévoile son nouvel album, ACTE III. Ce second opus très attendu allie avec brio l’indie-classical, la pop et la musique électronique. Débordantes d'orchestrations évocatrices et abstraites, accompagnées d'éléments électroniques électrisants, les pièces de Simon Leoza créent un paysage vibrant à la fois chaleureux et exaltant. Alors que l'album précédent, Albatross, possédait un caractère très cinématographique, ACTE III dégage une essence théâtrale enchanteresse."
+        "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -273,7 +273,7 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-04-13T09:00:00-03:00"
+        "@value": "2024-05-09T09:00:00-03:00"
       }
     ]
   },
@@ -289,7 +289,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/SIMON%20LEOZA%20SF.png?itok=vrwr_Ln3"
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs"
       }
     ],
     "http://schema.org/width": [
@@ -331,7 +331,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://carbeau.tuxedobillet.com/main/simon-leoza"
+        "@id": "https://www.carbeau.ca/qw4rtz-pdf"
       }
     ],
     "http://schema.org/availability": [
@@ -404,7 +404,7 @@
     ]
   },
   {
-    "@id": "_:g458860",
+    "@id": "_:g458060",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -412,7 +412,7 @@
     ]
   },
   {
-    "@id": "_:g458880",
+    "@id": "_:g458080",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -420,18 +420,18 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/philippe-laprise-4068",
+    "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4071",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/philippe-laprise-4068"
+        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4071"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "Philippe Laprise"
+        "@value": "QW4RTZ"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -441,7 +441,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g459860"
+        "@id": "_:g458580"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -451,7 +451,7 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "Inspiré comme jamais, l’humoriste Philippe Laprise lance un tout nouveau spectacle, Pourquoi pas, son 4e en carrière. Un événement significatif et inusité dans la vie de Philippe a été une véritable bougie d’allumage pour la création de ce nouveau spectacle. En effet, cette expérience hors de l’ordinaire a fait cheminer notre Phil national vers une grande ouverture à de nouvelles expériences... nouvelles expériences qui viennent évidemment avec de multiples rebondissements!"
+        "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -461,28 +461,28 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g459880"
+        "@id": "_:g458600"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g459940"
+        "@id": "_:g458660"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-communautaire-sainte-anne"
+        "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-04-14T09:00:00-03:00"
+        "@value": "2024-05-10T09:00:00-03:00"
       }
     ]
   },
   {
-    "@id": "_:g459860",
+    "@id": "_:g458580",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -493,7 +493,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/PHILIPPE%20LAPRISE%20SF.png?itok=PVADYldu"
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs"
       }
     ],
     "http://schema.org/width": [
@@ -508,34 +508,34 @@
     ]
   },
   {
-    "@id": "_:g459880",
+    "@id": "_:g458600",
     "@type": [
       "http://schema.org/Place"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Théâtre Bernard Poirier"
+        "@value": "Théâtre Louis Vermeersch"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g459900"
+        "@id": "_:g458620"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g459920"
+        "@id": "_:g458640"
       }
     ]
   },
   {
-    "@id": "_:g459940",
+    "@id": "_:g458660",
     "@type": [
       "http://schema.org/Offer"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://centre-sainte-anne.nb.ca/programmation/item/850-philippe-laprise"
+        "@id": "https://arcf.tuxedobillet.com/main/qw4rtz"
       }
     ],
     "http://schema.org/availability": [
@@ -545,40 +545,34 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/centre-communautaire-sainte-anne",
+    "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf",
     "@type": [
       "http://schema.org/Organization"
     ],
     "http://schema.org/name": [
       {
-        "@value": "Centre communautaire Sainte-Anne"
+        "@value": "Association régionale de la Communauté Francophone de Saint-Jean (ARCf)"
       }
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-communautaire-sainte-anne"
+        "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
       }
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/PHILIPPE%20LAPRISE%20SF.png?itok=PVADYldu",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ]
-  },
-  {
-    "@id": "_:g459900",
+    "@id": "_:g458620",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
     "http://schema.org/streetAddress": [
       {
-        "@value": "715, rue Priestman"
+        "@value": "67, chemin Ragged Point"
       }
     ],
     "http://schema.org/addressLocality": [
       {
-        "@value": "Fredericton"
+        "@value": "Saint-Jean"
       }
     ],
     "http://schema.org/addressRegion": [
@@ -588,7 +582,7 @@
     ],
     "http://schema.org/postalCode": [
       {
-        "@value": "E3B 5W7"
+        "@value": "E2K 5C3"
       }
     ],
     "http://schema.org/addressCountry": [
@@ -598,23 +592,23 @@
     ]
   },
   {
-    "@id": "_:g459920",
+    "@id": "_:g458640",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
     "http://schema.org/latitude": [
       {
-        "@value": "45.941773"
+        "@value": "45.294095"
       }
     ],
     "http://schema.org/longitude": [
       {
-        "@value": "-66.651817"
+        "@value": "-66.116083"
       }
     ]
   },
   {
-    "@id": "_:g460180",
+    "@id": "_:g459660",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -622,7 +616,7 @@
     ]
   },
   {
-    "@id": "_:g460200",
+    "@id": "_:g459680",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -630,13 +624,13 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4069",
+    "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4072",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4069"
+        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4072"
       }
     ],
     "http://schema.org/name": [
@@ -681,13 +675,13 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
+        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-07T09:00:00-03:00"
+        "@value": "2024-05-11T09:00:00-03:00"
       }
     ]
   },
@@ -724,7 +718,7 @@
     ],
     "http://schema.org/name": [
       {
-        "@value": "Salle J.-Armand-Lavoie"
+        "@value": "Auditorium Richelieu"
       }
     ],
     "http://schema.org/address": [
@@ -740,608 +734,6 @@
   },
   {
     "@id": "_:g460340",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterietracadie.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30115"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Société culturelle des Tracadilles"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ]
-  },
-  {
-    "@id": "_:g460300",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "585, rue de l'Église"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Tracadie"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1X 1G5"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460320",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.513094"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.920763"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460520",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460540",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4070",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4070"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "QW4RTZ"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g460620"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g460640"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g460700"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-09T09:00:00-03:00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460620",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460640",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Théâtre Gilles-Laplante"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g460660"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g460680"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460700",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.carbeau.ca/qw4rtz-pdf"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460660",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "300, chemin Beaverbrook"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Miramichi"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1V 1A1"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460680",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.011404"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-65.586856"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460860",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460880",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4071",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4071"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "QW4RTZ"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g461020"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g461040"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g461100"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-10T09:00:00-03:00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461020",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461040",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Théâtre Louis Vermeersch"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g461060"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g461080"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461100",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://arcf.tuxedobillet.com/main/qw4rtz"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Association régionale de la Communauté Francophone de Saint-Jean (ARCf)"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461060",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "67, chemin Ragged Point"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Saint-Jean"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E2K 5C3"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461080",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "45.294095"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-66.116083"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462000",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462020",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4072",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4072"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "QW4RTZ"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g462900"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g462920"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g462980"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-11T09:00:00-03:00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462900",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462920",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Auditorium Richelieu"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g462940"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g462960"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462980",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1373,7 +765,7 @@
     ]
   },
   {
-    "@id": "_:g462940",
+    "@id": "_:g460300",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1404,7 +796,7 @@
     ]
   },
   {
-    "@id": "_:g462960",
+    "@id": "_:g460320",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1420,7 +812,7 @@
     ]
   },
   {
-    "@id": "_:g463100",
+    "@id": "_:g460460",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1428,7 +820,7 @@
     ]
   },
   {
-    "@id": "_:g463120",
+    "@id": "_:g460480",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1457,7 +849,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g463180"
+        "@id": "_:g460540"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1477,12 +869,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g463200"
+        "@id": "_:g460560"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g463260"
+        "@id": "_:g460620"
       }
     ],
     "http://schema.org/organizer": [
@@ -1498,7 +890,7 @@
     ]
   },
   {
-    "@id": "_:g463180",
+    "@id": "_:g460540",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1524,7 +916,7 @@
     ]
   },
   {
-    "@id": "_:g463200",
+    "@id": "_:g460560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1535,17 +927,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g463220"
+        "@id": "_:g460580"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g463240"
+        "@id": "_:g460600"
       }
     ]
   },
   {
-    "@id": "_:g463260",
+    "@id": "_:g460620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1583,7 +975,7 @@
     ]
   },
   {
-    "@id": "_:g463220",
+    "@id": "_:g460580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1614,7 +1006,7 @@
     ]
   },
   {
-    "@id": "_:g463240",
+    "@id": "_:g460600",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1626,6 +1018,597 @@
     "http://schema.org/longitude": [
       {
         "@value": "-67.354525"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460760",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460780",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4060",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4060"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dominic Paquet"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g460860"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g460880"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g460940"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-22T09:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460860",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/DOMINIC%20PAQUET%20SF.png?itok=Krt7H61c"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Théâtre Restigouche"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g460900"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g460920"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460940",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://societeculturellebdc.tuxedobillet.com/main/dominic-paquet"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Société culturelle de la Baie des Chaleurs"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460900",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "45 A, avenue du Village"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Campbellton"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E3N 1N5"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460920",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "48.001855"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-66.665314"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461080",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461100",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4061",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4061"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dominic Paquet"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g461240"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g461260"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g461320"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-23T09:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461240",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/DOMINIC%20PAQUET%20SF.png?itok=Krt7H61c"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Salle de spectacle du Centre culturel de Caraquet"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g461280"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g461300"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461320",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Centre culturel de Caraquet"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461280",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "220, boulevard Saint-Pierre Ouest"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Caraquet"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1W 1A5"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461300",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "47.788818"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-64.964955"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462300",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462320",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
+      }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4062",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4062"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Dominic Paquet"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "_:g463240"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
+      }
+    ],
+    "http://schema.org/isAccessibleForFree": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g463260"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g463320"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-24T09:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463240",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/representativeOfPage": [
+      {
+        "@value": "True"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/DOMINIC%20PAQUET%20SF.png?itok=Krt7H61c"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@value": "480"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@value": "480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463260",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Salle J.-Armand-Lavoie"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:g463280"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g463300"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463320",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://billetterietracadie.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30116"
+      }
+    ],
+    "http://schema.org/availability": [
+      {
+        "@value": "https://schema.org/InStock"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463280",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@value": "585, rue de l'Église"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@value": "Tracadie"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@value": "NB"
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@value": "E1X 1G5"
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "_:g463300",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "47.513094"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-64.920763"
       }
     ]
   },
@@ -1646,13 +1629,13 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4060",
+    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4063",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4060"
+        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4063"
       }
     ],
     "http://schema.org/name": [
@@ -1697,13 +1680,13 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
+        "@id": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-22T09:00:00-03:00"
+        "@value": "2024-05-26T09:00:00-03:00"
       }
     ]
   },
@@ -1740,7 +1723,7 @@
     ],
     "http://schema.org/name": [
       {
-        "@value": "Théâtre Restigouche"
+        "@value": "Salle Léo-Poulin"
       }
     ],
     "http://schema.org/address": [
@@ -1758,602 +1741,6 @@
     "@id": "_:g463560",
     "@type": [
       "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://societeculturellebdc.tuxedobillet.com/main/dominic-paquet"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Société culturelle de la Baie des Chaleurs"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463520",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "45 A, avenue du Village"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Campbellton"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E3N 1N5"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463540",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "48.001855"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-66.665314"
-      }
-    ]
-  },
-  {
-    "@id": "_:g464160",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g464180",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4061",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4061"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dominic Paquet"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g465340"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g465360"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g465420"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-23T09:00:00-03:00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465340",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/DOMINIC%20PAQUET%20SF.png?itok=Krt7H61c"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465360",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Salle de spectacle du Centre culturel de Caraquet"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g465380"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g465400"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465420",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Centre culturel de Caraquet"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465380",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "220, boulevard Saint-Pierre Ouest"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Caraquet"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1W 1A5"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465400",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.788818"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.964955"
-      }
-    ]
-  },
-  {
-    "@id": "_:g466520",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g466540",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4062",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4062"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dominic Paquet"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g467500"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g467520"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g467580"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-24T09:00:00-03:00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467500",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/DOMINIC%20PAQUET%20SF.png?itok=Krt7H61c"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467520",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Salle J.-Armand-Lavoie"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g467540"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g467560"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467580",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterietracadie.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30116"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467540",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "585, rue de l'Église"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Tracadie"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1X 1G5"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467560",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.513094"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.920763"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467840",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467860",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4063",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4063"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dominic Paquet"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g467940"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g467960"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g468020"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-26T09:00:00-03:00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467940",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/DOMINIC%20PAQUET%20SF.png?itok=Krt7H61c"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467960",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Salle Léo-Poulin"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g467980"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g468000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468020",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://artsedmundston.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30167"
-      }
     ],
     "http://schema.org/availability": [
       {
@@ -2378,7 +1765,7 @@
     ]
   },
   {
-    "@id": "_:g467980",
+    "@id": "_:g463520",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2409,7 +1796,7 @@
     ]
   },
   {
-    "@id": "_:g468000",
+    "@id": "_:g463540",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2425,7 +1812,7 @@
     ]
   },
   {
-    "@id": "_:g468180",
+    "@id": "_:g463660",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2433,7 +1820,7 @@
     ]
   },
   {
-    "@id": "_:g468200",
+    "@id": "_:g463680",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2462,7 +1849,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g468260"
+        "@id": "_:g464040"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2482,12 +1869,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g468280"
+        "@id": "_:g464060"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g468340"
+        "@id": "_:g464120"
       }
     ],
     "http://schema.org/organizer": [
@@ -2503,7 +1890,7 @@
     ]
   },
   {
-    "@id": "_:g468260",
+    "@id": "_:g464040",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2529,7 +1916,7 @@
     ]
   },
   {
-    "@id": "_:g468280",
+    "@id": "_:g464060",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2540,17 +1927,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g468300"
+        "@id": "_:g464080"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g468320"
+        "@id": "_:g464100"
       }
     ]
   },
   {
-    "@id": "_:g468340",
+    "@id": "_:g464120",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2572,7 +1959,7 @@
     ]
   },
   {
-    "@id": "_:g468300",
+    "@id": "_:g464080",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2603,7 +1990,7 @@
     ]
   },
   {
-    "@id": "_:g468320",
+    "@id": "_:g464100",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2619,7 +2006,7 @@
     ]
   },
   {
-    "@id": "_:g468620",
+    "@id": "_:g465340",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2627,7 +2014,7 @@
     ]
   },
   {
-    "@id": "_:g468640",
+    "@id": "_:g465360",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2656,7 +2043,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g468940"
+        "@id": "_:g466440"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2676,12 +2063,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g468960"
+        "@id": "_:g466460"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g469020"
+        "@id": "_:g466520"
       }
     ],
     "http://schema.org/organizer": [
@@ -2697,7 +2084,7 @@
     ]
   },
   {
-    "@id": "_:g468940",
+    "@id": "_:g466440",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2723,7 +2110,7 @@
     ]
   },
   {
-    "@id": "_:g468960",
+    "@id": "_:g466460",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2734,17 +2121,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g468980"
+        "@id": "_:g466480"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g469000"
+        "@id": "_:g466500"
       }
     ]
   },
   {
-    "@id": "_:g469020",
+    "@id": "_:g466520",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2776,7 +2163,7 @@
     ]
   },
   {
-    "@id": "_:g468980",
+    "@id": "_:g466480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2807,7 +2194,7 @@
     ]
   },
   {
-    "@id": "_:g469000",
+    "@id": "_:g466500",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2823,7 +2210,7 @@
     ]
   },
   {
-    "@id": "_:g469920",
+    "@id": "_:g467500",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2831,7 +2218,7 @@
     ]
   },
   {
-    "@id": "_:g469940",
+    "@id": "_:g467520",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2860,7 +2247,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g470820"
+        "@id": "_:g468100"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2880,12 +2267,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g470840"
+        "@id": "_:g468120"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g470900"
+        "@id": "_:g468180"
       }
     ],
     "http://schema.org/organizer": [
@@ -2901,7 +2288,7 @@
     ]
   },
   {
-    "@id": "_:g470820",
+    "@id": "_:g468100",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2927,7 +2314,7 @@
     ]
   },
   {
-    "@id": "_:g470840",
+    "@id": "_:g468120",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2938,17 +2325,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g470860"
+        "@id": "_:g468140"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g470880"
+        "@id": "_:g468160"
       }
     ]
   },
   {
-    "@id": "_:g470900",
+    "@id": "_:g468180",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2964,7 +2351,7 @@
     ]
   },
   {
-    "@id": "_:g470860",
+    "@id": "_:g468140",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2995,7 +2382,7 @@
     ]
   },
   {
-    "@id": "_:g470880",
+    "@id": "_:g468160",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3011,7 +2398,7 @@
     ]
   },
   {
-    "@id": "_:g471020",
+    "@id": "_:g468300",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3019,7 +2406,7 @@
     ]
   },
   {
-    "@id": "_:g471040",
+    "@id": "_:g468320",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3048,7 +2435,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g471100"
+        "@id": "_:g468400"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3068,12 +2455,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g471120"
+        "@id": "_:g468420"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g471180"
+        "@id": "_:g468480"
       }
     ],
     "http://schema.org/organizer": [
@@ -3089,7 +2476,7 @@
     ]
   },
   {
-    "@id": "_:g471100",
+    "@id": "_:g468400",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3115,7 +2502,7 @@
     ]
   },
   {
-    "@id": "_:g471120",
+    "@id": "_:g468420",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3126,17 +2513,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g471140"
+        "@id": "_:g468440"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g471160"
+        "@id": "_:g468460"
       }
     ]
   },
   {
-    "@id": "_:g471180",
+    "@id": "_:g468480",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3153,7 +2540,7 @@
     ]
   },
   {
-    "@id": "_:g471140",
+    "@id": "_:g468440",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3184,7 +2571,7 @@
     ]
   },
   {
-    "@id": "_:g471160",
+    "@id": "_:g468460",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3200,7 +2587,7 @@
     ]
   },
   {
-    "@id": "_:g471460",
+    "@id": "_:g468600",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3208,7 +2595,7 @@
     ]
   },
   {
-    "@id": "_:g471480",
+    "@id": "_:g468620",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3237,7 +2624,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g472640"
+        "@id": "_:g468680"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3257,12 +2644,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g472660"
+        "@id": "_:g468700"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g472720"
+        "@id": "_:g468760"
       }
     ],
     "http://schema.org/organizer": [
@@ -3278,7 +2665,7 @@
     ]
   },
   {
-    "@id": "_:g472640",
+    "@id": "_:g468680",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3304,7 +2691,7 @@
     ]
   },
   {
-    "@id": "_:g472660",
+    "@id": "_:g468700",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3315,17 +2702,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g472680"
+        "@id": "_:g468720"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g472700"
+        "@id": "_:g468740"
       }
     ]
   },
   {
-    "@id": "_:g472720",
+    "@id": "_:g468760",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3341,7 +2728,7 @@
     ]
   },
   {
-    "@id": "_:g472680",
+    "@id": "_:g468720",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3372,7 +2759,7 @@
     ]
   },
   {
-    "@id": "_:g472700",
+    "@id": "_:g468740",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3388,7 +2775,7 @@
     ]
   },
   {
-    "@id": "_:g473900",
+    "@id": "_:g469080",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3396,7 +2783,7 @@
     ]
   },
   {
-    "@id": "_:g473920",
+    "@id": "_:g469100",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3425,7 +2812,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g475060"
+        "@id": "_:g469360"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -3445,12 +2832,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g475080"
+        "@id": "_:g469380"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g475140"
+        "@id": "_:g469440"
       }
     ],
     "http://schema.org/organizer": [
@@ -3466,7 +2853,7 @@
     ]
   },
   {
-    "@id": "_:g475060",
+    "@id": "_:g469360",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -3492,7 +2879,7 @@
     ]
   },
   {
-    "@id": "_:g475080",
+    "@id": "_:g469380",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3503,17 +2890,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g475100"
+        "@id": "_:g469400"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g475120"
+        "@id": "_:g469420"
       }
     ]
   },
   {
-    "@id": "_:g475140",
+    "@id": "_:g469440",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3529,7 +2916,7 @@
     ]
   },
   {
-    "@id": "_:g475100",
+    "@id": "_:g469400",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3560,7 +2947,7 @@
     ]
   },
   {
-    "@id": "_:g475120",
+    "@id": "_:g469420",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3576,7 +2963,7 @@
     ]
   },
   {
-    "@id": "_:g476260",
+    "@id": "_:g470420",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -3584,7 +2971,7 @@
     ]
   },
   {
-    "@id": "_:g476280",
+    "@id": "_:g470440",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
