@@ -1,12 +1,12 @@
 [
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4069",
+    "@id": "https://scenesfrancophones.ca/id/4070",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4069"
+        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4070"
       }
     ],
     "http://schema.org/name": [
@@ -51,13 +51,13 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
+        "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-07T09:00:00-03:00"
+        "@value": "2024-05-09T09:00:00-03::00"
       }
     ]
   },
@@ -94,7 +94,7 @@
     ],
     "http://schema.org/name": [
       {
-        "@value": "Salle J.-Armand-Lavoie"
+        "@value": "Théâtre Gilles-Laplante"
       }
     ],
     "http://schema.org/address": [
@@ -110,222 +110,6 @@
   },
   {
     "@id": "_:g455580",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterietracadie.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30115"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Société culturelle des Tracadilles"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ]
-  },
-  {
-    "@id": "_:g455540",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "585, rue de l'Église"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Tracadie"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1X 1G5"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g455560",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.513094"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.920763"
-      }
-    ]
-  },
-  {
-    "@id": "_:g456780",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g456800",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-09/ScenesFranco_Point_ca_Logo_Principale_Colour_RGB_72ppi.png?itok=eMjMfcCX",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4070",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4070"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "QW4RTZ"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g457860"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g457880"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g457940"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-09T09:00:00-03:00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g457860",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g457880",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Théâtre Gilles-Laplante"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g457900"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g457920"
-      }
-    ]
-  },
-  {
-    "@id": "_:g457940",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -357,7 +141,13 @@
     ]
   },
   {
-    "@id": "_:g457900",
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ]
+  },
+  {
+    "@id": "_:g455540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -388,7 +178,7 @@
     ]
   },
   {
-    "@id": "_:g457920",
+    "@id": "_:g455560",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -404,7 +194,7 @@
     ]
   },
   {
-    "@id": "_:g458060",
+    "@id": "_:g456780",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -412,7 +202,7 @@
     ]
   },
   {
-    "@id": "_:g458080",
+    "@id": "_:g456800",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -420,7 +210,13 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4071",
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-09/ScenesFranco_Point_ca_Logo_Principale_Colour_RGB_72ppi.png?itok=eMjMfcCX",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/id/4071",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -441,7 +237,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g458580"
+        "@id": "_:g457960"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -461,12 +257,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g458600"
+        "@id": "_:g457980"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g458660"
+        "@id": "_:g458040"
       }
     ],
     "http://schema.org/organizer": [
@@ -477,12 +273,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-10T09:00:00-03:00"
+        "@value": "2024-05-10T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g458580",
+    "@id": "_:g457960",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -508,7 +304,7 @@
     ]
   },
   {
-    "@id": "_:g458600",
+    "@id": "_:g457980",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -519,17 +315,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g458620"
+        "@id": "_:g458000"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g458640"
+        "@id": "_:g458020"
       }
     ]
   },
   {
-    "@id": "_:g458660",
+    "@id": "_:g458040",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -561,7 +357,7 @@
     ]
   },
   {
-    "@id": "_:g458620",
+    "@id": "_:g458000",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -592,7 +388,7 @@
     ]
   },
   {
-    "@id": "_:g458640",
+    "@id": "_:g458020",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -608,7 +404,7 @@
     ]
   },
   {
-    "@id": "_:g459660",
+    "@id": "_:g459220",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -616,7 +412,7 @@
     ]
   },
   {
-    "@id": "_:g459680",
+    "@id": "_:g459240",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -624,7 +420,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4072",
+    "@id": "https://scenesfrancophones.ca/id/4072",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -645,7 +441,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g460260"
+        "@id": "_:g459340"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -665,12 +461,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g460280"
+        "@id": "_:g459360"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g460340"
+        "@id": "_:g459420"
       }
     ],
     "http://schema.org/organizer": [
@@ -681,12 +477,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-11T09:00:00-03:00"
+        "@value": "2024-05-11T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g460260",
+    "@id": "_:g459340",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -712,7 +508,7 @@
     ]
   },
   {
-    "@id": "_:g460280",
+    "@id": "_:g459360",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -723,17 +519,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g460300"
+        "@id": "_:g459380"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g460320"
+        "@id": "_:g459400"
       }
     ]
   },
   {
-    "@id": "_:g460340",
+    "@id": "_:g459420",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -765,7 +561,7 @@
     ]
   },
   {
-    "@id": "_:g460300",
+    "@id": "_:g459380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -796,7 +592,7 @@
     ]
   },
   {
-    "@id": "_:g460320",
+    "@id": "_:g459400",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -812,7 +608,7 @@
     ]
   },
   {
-    "@id": "_:g460460",
+    "@id": "_:g460020",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -820,7 +616,7 @@
     ]
   },
   {
-    "@id": "_:g460480",
+    "@id": "_:g460040",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -828,7 +624,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4059",
+    "@id": "https://scenesfrancophones.ca/id/4059",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -849,7 +645,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g460540"
+        "@id": "_:g461080"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -869,12 +665,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g460560"
+        "@id": "_:g461100"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g460620"
+        "@id": "_:g461160"
       }
     ],
     "http://schema.org/organizer": [
@@ -885,12 +681,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-21T09:00:00-03:00"
+        "@value": "2024-05-21T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g460540",
+    "@id": "_:g461080",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -916,7 +712,7 @@
     ]
   },
   {
-    "@id": "_:g460560",
+    "@id": "_:g461100",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -927,17 +723,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g460580"
+        "@id": "_:g461120"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g460600"
+        "@id": "_:g461140"
       }
     ]
   },
   {
-    "@id": "_:g460620",
+    "@id": "_:g461160",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -975,7 +771,7 @@
     ]
   },
   {
-    "@id": "_:g460580",
+    "@id": "_:g461120",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1006,7 +802,7 @@
     ]
   },
   {
-    "@id": "_:g460600",
+    "@id": "_:g461140",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1022,7 +818,7 @@
     ]
   },
   {
-    "@id": "_:g460760",
+    "@id": "_:g462380",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1030,7 +826,7 @@
     ]
   },
   {
-    "@id": "_:g460780",
+    "@id": "_:g462400",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1038,7 +834,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4060",
+    "@id": "https://scenesfrancophones.ca/id/4060",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1059,7 +855,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g460860"
+        "@id": "_:g463540"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1079,12 +875,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g460880"
+        "@id": "_:g463560"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g460940"
+        "@id": "_:g463620"
       }
     ],
     "http://schema.org/organizer": [
@@ -1095,12 +891,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-22T09:00:00-03:00"
+        "@value": "2024-05-22T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g460860",
+    "@id": "_:g463540",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1126,7 +922,7 @@
     ]
   },
   {
-    "@id": "_:g460880",
+    "@id": "_:g463560",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1137,17 +933,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g460900"
+        "@id": "_:g463580"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g460920"
+        "@id": "_:g463600"
       }
     ]
   },
   {
-    "@id": "_:g460940",
+    "@id": "_:g463620",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1179,7 +975,7 @@
     ]
   },
   {
-    "@id": "_:g460900",
+    "@id": "_:g463580",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1210,7 +1006,7 @@
     ]
   },
   {
-    "@id": "_:g460920",
+    "@id": "_:g463600",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1226,7 +1022,7 @@
     ]
   },
   {
-    "@id": "_:g461080",
+    "@id": "_:g464820",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1234,7 +1030,7 @@
     ]
   },
   {
-    "@id": "_:g461100",
+    "@id": "_:g464840",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1242,7 +1038,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4061",
+    "@id": "https://scenesfrancophones.ca/id/4061",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1263,7 +1059,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g461240"
+        "@id": "_:g465640"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1283,12 +1079,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g461260"
+        "@id": "_:g465660"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g461320"
+        "@id": "_:g465720"
       }
     ],
     "http://schema.org/organizer": [
@@ -1299,12 +1095,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-23T09:00:00-03:00"
+        "@value": "2024-05-23T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g461240",
+    "@id": "_:g465640",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1330,7 +1126,7 @@
     ]
   },
   {
-    "@id": "_:g461260",
+    "@id": "_:g465660",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1341,17 +1137,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g461280"
+        "@id": "_:g465680"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g461300"
+        "@id": "_:g465700"
       }
     ]
   },
   {
-    "@id": "_:g461320",
+    "@id": "_:g465720",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1378,7 +1174,7 @@
     ]
   },
   {
-    "@id": "_:g461280",
+    "@id": "_:g465680",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1409,7 +1205,7 @@
     ]
   },
   {
-    "@id": "_:g461300",
+    "@id": "_:g465700",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1425,7 +1221,7 @@
     ]
   },
   {
-    "@id": "_:g462300",
+    "@id": "_:g466920",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1433,7 +1229,7 @@
     ]
   },
   {
-    "@id": "_:g462320",
+    "@id": "_:g466940",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1441,7 +1237,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4062",
+    "@id": "https://scenesfrancophones.ca/id/4062",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1462,7 +1258,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g463240"
+        "@id": "_:g468100"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1482,12 +1278,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g463260"
+        "@id": "_:g468120"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g463320"
+        "@id": "_:g468180"
       }
     ],
     "http://schema.org/organizer": [
@@ -1498,12 +1294,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-24T09:00:00-03:00"
+        "@value": "2024-05-24T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g463240",
+    "@id": "_:g468100",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1529,7 +1325,7 @@
     ]
   },
   {
-    "@id": "_:g463260",
+    "@id": "_:g468120",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1540,17 +1336,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g463280"
+        "@id": "_:g468140"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g463300"
+        "@id": "_:g468160"
       }
     ]
   },
   {
-    "@id": "_:g463320",
+    "@id": "_:g468180",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1566,7 +1362,23 @@
     ]
   },
   {
-    "@id": "_:g463280",
+    "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Société culturelle des Tracadilles"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468140",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1597,7 +1409,7 @@
     ]
   },
   {
-    "@id": "_:g463300",
+    "@id": "_:g468160",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1613,7 +1425,7 @@
     ]
   },
   {
-    "@id": "_:g463400",
+    "@id": "_:g469380",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1621,7 +1433,7 @@
     ]
   },
   {
-    "@id": "_:g463420",
+    "@id": "_:g469400",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1629,7 +1441,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4063",
+    "@id": "https://scenesfrancophones.ca/id/4063",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1650,7 +1462,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g463480"
+        "@id": "_:g470000"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1670,12 +1482,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g463500"
+        "@id": "_:g470020"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g463560"
+        "@id": "_:g470080"
       }
     ],
     "http://schema.org/organizer": [
@@ -1686,12 +1498,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-26T09:00:00-03:00"
+        "@value": "2024-05-26T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g463480",
+    "@id": "_:g470000",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1717,7 +1529,7 @@
     ]
   },
   {
-    "@id": "_:g463500",
+    "@id": "_:g470020",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1728,17 +1540,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g463520"
+        "@id": "_:g470040"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g463540"
+        "@id": "_:g470060"
       }
     ]
   },
   {
-    "@id": "_:g463560",
+    "@id": "_:g470080",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1765,7 +1577,7 @@
     ]
   },
   {
-    "@id": "_:g463520",
+    "@id": "_:g470040",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1796,7 +1608,7 @@
     ]
   },
   {
-    "@id": "_:g463540",
+    "@id": "_:g470060",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1812,7 +1624,7 @@
     ]
   },
   {
-    "@id": "_:g463660",
+    "@id": "_:g471240",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1820,7 +1632,7 @@
     ]
   },
   {
-    "@id": "_:g463680",
+    "@id": "_:g471260",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1828,7 +1640,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/alexandre-poulin-4055",
+    "@id": "https://scenesfrancophones.ca/id/4055",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -1849,7 +1661,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g464040"
+        "@id": "_:g471880"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -1869,12 +1681,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g464060"
+        "@id": "_:g471900"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g464120"
+        "@id": "_:g471960"
       }
     ],
     "http://schema.org/organizer": [
@@ -1885,12 +1697,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-29T09:00:00-03:00"
+        "@value": "2024-05-29T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g464040",
+    "@id": "_:g471880",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -1916,7 +1728,7 @@
     ]
   },
   {
-    "@id": "_:g464060",
+    "@id": "_:g471900",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1927,17 +1739,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g464080"
+        "@id": "_:g471920"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g464100"
+        "@id": "_:g471940"
       }
     ]
   },
   {
-    "@id": "_:g464120",
+    "@id": "_:g471960",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1959,7 +1771,7 @@
     ]
   },
   {
-    "@id": "_:g464080",
+    "@id": "_:g471920",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1990,7 +1802,7 @@
     ]
   },
   {
-    "@id": "_:g464100",
+    "@id": "_:g471940",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2006,7 +1818,7 @@
     ]
   },
   {
-    "@id": "_:g465340",
+    "@id": "_:g472040",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2014,7 +1826,7 @@
     ]
   },
   {
-    "@id": "_:g465360",
+    "@id": "_:g472060",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2022,7 +1834,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/alexandre-poulin-4056",
+    "@id": "https://scenesfrancophones.ca/id/4056",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2043,7 +1855,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g466440"
+        "@id": "_:g472680"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2063,12 +1875,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g466460"
+        "@id": "_:g472700"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g466520"
+        "@id": "_:g472760"
       }
     ],
     "http://schema.org/organizer": [
@@ -2079,12 +1891,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-30T09:00:00-03:00"
+        "@value": "2024-05-30T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g466440",
+    "@id": "_:g472680",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2110,7 +1922,7 @@
     ]
   },
   {
-    "@id": "_:g466460",
+    "@id": "_:g472700",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2121,17 +1933,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g466480"
+        "@id": "_:g472720"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g466500"
+        "@id": "_:g472740"
       }
     ]
   },
   {
-    "@id": "_:g466520",
+    "@id": "_:g472760",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2163,7 +1975,7 @@
     ]
   },
   {
-    "@id": "_:g466480",
+    "@id": "_:g472720",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2194,7 +2006,7 @@
     ]
   },
   {
-    "@id": "_:g466500",
+    "@id": "_:g472740",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2210,7 +2022,7 @@
     ]
   },
   {
-    "@id": "_:g467500",
+    "@id": "_:g473380",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2218,7 +2030,7 @@
     ]
   },
   {
-    "@id": "_:g467520",
+    "@id": "_:g473400",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2226,7 +2038,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/alexandre-poulin-4057",
+    "@id": "https://scenesfrancophones.ca/id/4057",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2247,7 +2059,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g468100"
+        "@id": "_:g473460"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2267,12 +2079,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g468120"
+        "@id": "_:g473480"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g468180"
+        "@id": "_:g473540"
       }
     ],
     "http://schema.org/organizer": [
@@ -2283,12 +2095,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-31T09:00:00-03:00"
+        "@value": "2024-05-31T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g468100",
+    "@id": "_:g473460",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2314,7 +2126,7 @@
     ]
   },
   {
-    "@id": "_:g468120",
+    "@id": "_:g473480",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2325,17 +2137,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g468140"
+        "@id": "_:g473500"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g468160"
+        "@id": "_:g473520"
       }
     ]
   },
   {
-    "@id": "_:g468180",
+    "@id": "_:g473540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2351,7 +2163,7 @@
     ]
   },
   {
-    "@id": "_:g468140",
+    "@id": "_:g473500",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2382,7 +2194,7 @@
     ]
   },
   {
-    "@id": "_:g468160",
+    "@id": "_:g473520",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2398,7 +2210,7 @@
     ]
   },
   {
-    "@id": "_:g468300",
+    "@id": "_:g474240",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2406,7 +2218,7 @@
     ]
   },
   {
-    "@id": "_:g468320",
+    "@id": "_:g474260",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2414,7 +2226,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/buzz-cuivres-2662",
+    "@id": "https://scenesfrancophones.ca/id/2662",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2435,7 +2247,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g468400"
+        "@id": "_:g475380"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2455,12 +2267,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g468420"
+        "@id": "_:g475400"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g468480"
+        "@id": "_:g475460"
       }
     ],
     "http://schema.org/organizer": [
@@ -2471,12 +2283,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-06-01T09:00:00-03:00"
+        "@value": "2024-06-01T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g468400",
+    "@id": "_:g475380",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2502,7 +2314,7 @@
     ]
   },
   {
-    "@id": "_:g468420",
+    "@id": "_:g475400",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2513,17 +2325,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g468440"
+        "@id": "_:g475420"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g468460"
+        "@id": "_:g475440"
       }
     ]
   },
   {
-    "@id": "_:g468480",
+    "@id": "_:g475460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2540,7 +2352,7 @@
     ]
   },
   {
-    "@id": "_:g468440",
+    "@id": "_:g475420",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2571,7 +2383,7 @@
     ]
   },
   {
-    "@id": "_:g468460",
+    "@id": "_:g475440",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2587,7 +2399,7 @@
     ]
   },
   {
-    "@id": "_:g468600",
+    "@id": "_:g476680",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2595,7 +2407,7 @@
     ]
   },
   {
-    "@id": "_:g468620",
+    "@id": "_:g476700",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2603,7 +2415,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/alexandre-poulin-4058",
+    "@id": "https://scenesfrancophones.ca/id/4058",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2624,7 +2436,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g468680"
+        "@id": "_:g477840"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2644,12 +2456,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g468700"
+        "@id": "_:g477860"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g468760"
+        "@id": "_:g477920"
       }
     ],
     "http://schema.org/organizer": [
@@ -2660,12 +2472,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-06-01T09:00:00-03:00"
+        "@value": "2024-06-01T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g468680",
+    "@id": "_:g477840",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2691,7 +2503,7 @@
     ]
   },
   {
-    "@id": "_:g468700",
+    "@id": "_:g477860",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2702,17 +2514,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g468720"
+        "@id": "_:g477880"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g468740"
+        "@id": "_:g477900"
       }
     ]
   },
   {
-    "@id": "_:g468760",
+    "@id": "_:g477920",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2728,7 +2540,7 @@
     ]
   },
   {
-    "@id": "_:g468720",
+    "@id": "_:g477880",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2759,7 +2571,7 @@
     ]
   },
   {
-    "@id": "_:g468740",
+    "@id": "_:g477900",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2775,7 +2587,7 @@
     ]
   },
   {
-    "@id": "_:g469080",
+    "@id": "_:g479120",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2783,7 +2595,7 @@
     ]
   },
   {
-    "@id": "_:g469100",
+    "@id": "_:g479140",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2791,7 +2603,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/spectacles/buzz-cuivres-2663",
+    "@id": "https://scenesfrancophones.ca/id/2663",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2812,7 +2624,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g469360"
+        "@id": "_:g479760"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2832,12 +2644,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g469380"
+        "@id": "_:g479780"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g469440"
+        "@id": "_:g479840"
       }
     ],
     "http://schema.org/organizer": [
@@ -2848,12 +2660,12 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-06-08T09:00:00-03:00"
+        "@value": "2024-06-08T09:00:00-03::00"
       }
     ]
   },
   {
-    "@id": "_:g469360",
+    "@id": "_:g479760",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2879,7 +2691,7 @@
     ]
   },
   {
-    "@id": "_:g469380",
+    "@id": "_:g479780",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2890,17 +2702,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g469400"
+        "@id": "_:g479800"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g469420"
+        "@id": "_:g479820"
       }
     ]
   },
   {
-    "@id": "_:g469440",
+    "@id": "_:g479840",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2916,7 +2728,7 @@
     ]
   },
   {
-    "@id": "_:g469400",
+    "@id": "_:g479800",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2947,7 +2759,7 @@
     ]
   },
   {
-    "@id": "_:g469420",
+    "@id": "_:g479820",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2963,7 +2775,7 @@
     ]
   },
   {
-    "@id": "_:g470420",
+    "@id": "_:g479960",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2971,7 +2783,7 @@
     ]
   },
   {
-    "@id": "_:g470440",
+    "@id": "_:g479980",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
