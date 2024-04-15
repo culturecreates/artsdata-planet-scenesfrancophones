@@ -1,17 +1,17 @@
 [
   {
-    "@id": "https://scenesfrancophones.ca/id/4070",
+    "@id": "https://scenesfrancophones.ca/id/4057",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4070"
+        "@id": "https://scenesfrancophones.ca/spectacles/alexandre-poulin-4057"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "QW4RTZ"
+        "@value": "Alexandre Poulin"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -31,7 +31,7 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
+        "@value": "Avec son tout nouveau spectacle La somme des êtres aimés, Alexandre Poulin approfondit l’alchimie des rencontres qui s’additionnent pour nous mener à l’équation finale, celle qui prend tout son sens dans le temps passé avec les gens qu’on a aimé, qu’on aime et qu’on aimera.  Propulsé par ses nouvelles pièces et ses incontournables, plus que jamais Poulin maÎtrise ce savant mélange entre chansons et histoires qui fait la singularité de l’artiste sur scène.   "
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -57,7 +57,7 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-09T09:00:00-03::00"
+        "@value": "2024-05-31T09:00:00-03::00"
       }
     ]
   },
@@ -73,7 +73,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs"
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/ALEXANDRE%20POULIN%20SF.png?itok=_xiw3zQU"
       }
     ],
     "http://schema.org/width": [
@@ -94,7 +94,7 @@
     ],
     "http://schema.org/name": [
       {
-        "@value": "Théâtre Gilles-Laplante"
+        "@value": "Cafétéria du Carrefour Beausoleil"
       }
     ],
     "http://schema.org/address": [
@@ -115,7 +115,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.carbeau.ca/qw4rtz-pdf"
+        "@id": "https://www.carbeau.ca/alexandre-poulin-pdf"
       }
     ],
     "http://schema.org/availability": [
@@ -141,7 +141,7 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs",
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/ALEXANDRE%20POULIN%20SF.png?itok=_xiw3zQU",
     "@type": [
       "http://xmlns.com/foaf/0.1/Image"
     ]
@@ -216,18 +216,18 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/4071",
+    "@id": "https://scenesfrancophones.ca/id/2662",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4071"
+        "@id": "https://scenesfrancophones.ca/spectacles/buzz-cuivres-2662"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "QW4RTZ"
+        "@value": "Buzz Cuivres"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -247,7 +247,7 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
+        "@value": "Une incomparable odyssée théâtrale à travers l’espace et le temps qui explore à un train d’enfer la musique occidentale depuis la préhistoire jusqu’à nos jours. Une véritable aventure musicale se vouant à la découverte de la musique de chambre pour cuivres. Ce spectacle débordant d’énergie allie une originalité ahurissante et une qualité d’interprétation extraordinaire à un humour sans fausse note ! L’histoire de la musique a été présenté plus de 950 fois dans 3 langues et sur 3 continents."
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -273,7 +273,7 @@
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-10T09:00:00-03::00"
+        "@value": "2024-06-01T09:00:00-03::00"
       }
     ]
   },
@@ -289,7 +289,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs"
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-08/Buzz%20Cuivres%20Sf.png?itok=CXQgC_S9"
       }
     ],
     "http://schema.org/width": [
@@ -329,11 +329,6 @@
     "@type": [
       "http://schema.org/Offer"
     ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://arcf.tuxedobillet.com/main/qw4rtz"
-      }
-    ],
     "http://schema.org/availability": [
       {
         "@value": "https://schema.org/InStock"
@@ -354,6 +349,12 @@
       {
         "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
       }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-08/Buzz%20Cuivres%20Sf.png?itok=CXQgC_S9",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
     ]
   },
   {
@@ -420,18 +421,18 @@
     ]
   },
   {
-    "@id": "https://scenesfrancophones.ca/id/4072",
+    "@id": "https://scenesfrancophones.ca/id/4058",
     "@type": [
       "http://schema.org/Event"
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/spectacles/qw4rtz-4072"
+        "@id": "https://scenesfrancophones.ca/spectacles/alexandre-poulin-4058"
       }
     ],
     "http://schema.org/name": [
       {
-        "@value": "QW4RTZ"
+        "@value": "Alexandre Poulin"
       }
     ],
     "http://schema.org/eventStatus": [
@@ -451,7 +452,7 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "Indéniablement le meilleur quatuor pop a cappella trifluvien au monde, QW4RTZ repousse une fois de plus les limites de l’a cappella dans ce nouveau spectacle. Plongeant dans un univers ludique où tout est permis, les 4 chanteurs atteignent des sommets de virtuosité et d’ingéniosité, navigant dans le répertoire pop bien connu d’aujourd’hui et d’hier. Dans une mise en scène de Serge Postigo, le groupe dévoile une avalanche de cascades vocales, sketchs humoristiques et numéros originaux qui laisseront le spectateur… bouche bée."
+        "@value": "Avec son tout nouveau spectacle La somme des êtres aimés, Alexandre Poulin approfondit l’alchimie des rencontres qui s’additionnent pour nous mener à l’équation finale, celle qui prend tout son sens dans le temps passé avec les gens qu’on a aimé, qu’on aime et qu’on aimera.  Propulsé par ses nouvelles pièces et ses incontournables, plus que jamais Poulin maÎtrise ce savant mélange entre chansons et histoires qui fait la singularité de l’artiste sur scène.   "
       }
     ],
     "http://schema.org/isAccessibleForFree": [
@@ -471,13 +472,13 @@
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
+        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
       }
     ],
     "http://schema.org/startDate": [
       {
         "@type": "http://schema.org/Date",
-        "@value": "2024-05-11T09:00:00-03::00"
+        "@value": "2024-06-01T09:00:00-03::00"
       }
     ]
   },
@@ -493,7 +494,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/QW4RTZ%20SF.png?itok=jHLgKfTs"
+        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/ALEXANDRE%20POULIN%20SF.png?itok=_xiw3zQU"
       }
     ],
     "http://schema.org/width": [
@@ -514,7 +515,7 @@
     ],
     "http://schema.org/name": [
       {
-        "@value": "Auditorium Richelieu"
+        "@value": "Salle J.-Armand-Lavoie"
       }
     ],
     "http://schema.org/address": [
@@ -535,824 +536,7 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://leschutes.tuxedobillet.com/main/qu4rtz"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Société culturelle régionale Les Chutes"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
-      }
-    ]
-  },
-  {
-    "@id": "_:g459380",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "215, rue Guimont"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Grand-Sault"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E3Y 3W3"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g459400",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.056374"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-67.73096"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460040",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460060",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/4059",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4059"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dominic Paquet"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g461120"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g461140"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g461200"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-21T09:00:00-03::00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461120",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/DOMINIC%20PAQUET%20SF.png?itok=Krt7H61c"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461140",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Théâtre Fatima"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g461160"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g461180"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461200",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://societeculturelledeshautsplateaux.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=78"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Société culturelle des Hauts-Plateaux"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/DOMINIC%20PAQUET%20SF.png?itok=Krt7H61c",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ]
-  },
-  {
-    "@id": "_:g461160",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "Rue St Jean Baptiste"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Kedgwick"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E8B 1M5"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461180",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.646354"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-67.354525"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462420",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462440",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/4060",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4060"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dominic Paquet"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g463560"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g463580"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g463640"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-22T09:00:00-03::00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463560",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/DOMINIC%20PAQUET%20SF.png?itok=Krt7H61c"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463580",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Théâtre Restigouche"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g463600"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g463620"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463640",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://societeculturellebdc.tuxedobillet.com/main/dominic-paquet"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Société culturelle de la Baie des Chaleurs"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463600",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "45 A, avenue du Village"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Campbellton"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E3N 1N5"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463620",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "48.001855"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-66.665314"
-      }
-    ]
-  },
-  {
-    "@id": "_:g464840",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g464860",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/4061",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4061"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dominic Paquet"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g465700"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g465720"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g465780"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-23T09:00:00-03::00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465700",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/DOMINIC%20PAQUET%20SF.png?itok=Krt7H61c"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465720",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Salle de spectacle du Centre culturel de Caraquet"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g465740"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g465760"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465780",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Centre culturel de Caraquet"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465740",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "220, boulevard Saint-Pierre Ouest"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Caraquet"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1W 1A5"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465760",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.788818"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.964955"
-      }
-    ]
-  },
-  {
-    "@id": "_:g466980",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467000",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/4062",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4062"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dominic Paquet"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g468160"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g468180"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g468240"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-24T09:00:00-03::00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468160",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/DOMINIC%20PAQUET%20SF.png?itok=Krt7H61c"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468180",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Salle J.-Armand-Lavoie"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g468200"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g468220"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468240",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterietracadie.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30116"
+        "@id": "https://billetterietracadie.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30117"
       }
     ],
     "http://schema.org/availability": [
@@ -1378,7 +562,7 @@
     ]
   },
   {
-    "@id": "_:g468200",
+    "@id": "_:g459380",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1409,7 +593,7 @@
     ]
   },
   {
-    "@id": "_:g468220",
+    "@id": "_:g459400",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1425,7 +609,7 @@
     ]
   },
   {
-    "@id": "_:g469440",
+    "@id": "_:g460060",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -1433,1169 +617,7 @@
     ]
   },
   {
-    "@id": "_:g469460",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/4063",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/dominic-paquet-4063"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dominic Paquet"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g470100"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Alors que tout le monde attend son nouveau spectacle avec impatience, Dominic Paquet revient sur scène avec Laisse-moi partir, un quatrième oneman-show dans lequel il met le paquet! Unique en son genre, Dominic donne vie à son imaginaire éclaté en créant une variété d’univers et de personnages à travers ses mimiques, ses gestes et ses voix. Que ce soit un élément historique, un comportement, un fait divers ou une banalité du quotidien, tout peut devenir aussi exceptionnel qu’hilarant vu à travers ses yeux."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g470120"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g470180"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-26T09:00:00-03::00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g470100",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/DOMINIC%20PAQUET%20SF.png?itok=Krt7H61c"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g470120",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Salle Léo-Poulin"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g470140"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g470160"
-      }
-    ]
-  },
-  {
-    "@id": "_:g470180",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Le Centre des arts d’Edmundston"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
-      }
-    ]
-  },
-  {
-    "@id": "_:g470140",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "300, rue Martin"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Edmundston"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E3V 2N6"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g470160",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.367979"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-68.313597"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471340",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471360",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/4055",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/alexandre-poulin-4055"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Alexandre Poulin"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g471940"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Avec son tout nouveau spectacle La somme des êtres aimés, Alexandre Poulin approfondit l’alchimie des rencontres qui s’additionnent pour nous mener à l’équation finale, celle qui prend tout son sens dans le temps passé avec les gens qu’on a aimé, qu’on aime et qu’on aimera.  Propulsé par ses nouvelles pièces et ses incontournables, plus que jamais Poulin maÎtrise ce savant mélange entre chansons et histoires qui fait la singularité de l’artiste sur scène.   "
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g471960"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g472020"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-29T09:00:00-03::00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471940",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/ALEXANDRE%20POULIN%20SF.png?itok=_xiw3zQU"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471960",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Salle Léo-Poulin"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g471980"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g472000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472020",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://artsedmundston.ticketacces.net/fr/organisation/achat/recherche-manuelle.cfm?RepresentationID=30230&SectionsID=1"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/ALEXANDRE%20POULIN%20SF.png?itok=_xiw3zQU",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ]
-  },
-  {
-    "@id": "_:g471980",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "300, rue Martin"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Edmundston"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E3V 2N6"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472000",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.367979"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-68.313597"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472100",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472120",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/4056",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/alexandre-poulin-4056"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Alexandre Poulin"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g472800"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Avec son tout nouveau spectacle La somme des êtres aimés, Alexandre Poulin approfondit l’alchimie des rencontres qui s’additionnent pour nous mener à l’équation finale, celle qui prend tout son sens dans le temps passé avec les gens qu’on a aimé, qu’on aime et qu’on aimera.  Propulsé par ses nouvelles pièces et ses incontournables, plus que jamais Poulin maÎtrise ce savant mélange entre chansons et histoires qui fait la singularité de l’artiste sur scène.   "
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g472820"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g472880"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-30T09:00:00-03::00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472800",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/ALEXANDRE%20POULIN%20SF.png?itok=_xiw3zQU"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472820",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "La Caserne"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g472840"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g472860"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472880",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://centredesartsdieppe.tuxedobillet.com/main/alexandre-poulin"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Centre des arts et de la culture de Dieppe"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472840",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "331, ave. Acadie"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Dieppe"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1A 1G9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472860",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "46.094515"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.748301"
-      }
-    ]
-  },
-  {
-    "@id": "_:g473460",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g473480",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/4057",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/alexandre-poulin-4057"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Alexandre Poulin"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g473540"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Avec son tout nouveau spectacle La somme des êtres aimés, Alexandre Poulin approfondit l’alchimie des rencontres qui s’additionnent pour nous mener à l’équation finale, celle qui prend tout son sens dans le temps passé avec les gens qu’on a aimé, qu’on aime et qu’on aimera.  Propulsé par ses nouvelles pièces et ses incontournables, plus que jamais Poulin maÎtrise ce savant mélange entre chansons et histoires qui fait la singularité de l’artiste sur scène.   "
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g473560"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g473620"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-31T09:00:00-03::00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g473540",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/ALEXANDRE%20POULIN%20SF.png?itok=_xiw3zQU"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g473560",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Cafétéria du Carrefour Beausoleil"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g473580"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g473600"
-      }
-    ]
-  },
-  {
-    "@id": "_:g473620",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.carbeau.ca/alexandre-poulin-pdf"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g473580",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "300, chemin Beaverbrook"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Miramichi"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1V 1A1"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g473600",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.011404"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-65.586856"
-      }
-    ]
-  },
-  {
-    "@id": "_:g474360",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g474380",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/2662",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/buzz-cuivres-2662"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Buzz Cuivres"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g475520"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Une incomparable odyssée théâtrale à travers l’espace et le temps qui explore à un train d’enfer la musique occidentale depuis la préhistoire jusqu’à nos jours. Une véritable aventure musicale se vouant à la découverte de la musique de chambre pour cuivres. Ce spectacle débordant d’énergie allie une originalité ahurissante et une qualité d’interprétation extraordinaire à un humour sans fausse note ! L’histoire de la musique a été présenté plus de 950 fois dans 3 langues et sur 3 continents."
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g475540"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g475600"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-06-01T09:00:00-03::00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475520",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-08/Buzz%20Cuivres%20Sf.png?itok=CXQgC_S9"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475540",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Théâtre Louis Vermeersch"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g475560"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g475580"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475600",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-08/Buzz%20Cuivres%20Sf.png?itok=CXQgC_S9",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ]
-  },
-  {
-    "@id": "_:g475560",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "67, chemin Ragged Point"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Saint-Jean"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E2K 5C3"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475580",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "45.294095"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-66.116083"
-      }
-    ]
-  },
-  {
-    "@id": "_:g476820",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g476840",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/id/4058",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/alexandre-poulin-4058"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Alexandre Poulin"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g477980"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Avec son tout nouveau spectacle La somme des êtres aimés, Alexandre Poulin approfondit l’alchimie des rencontres qui s’additionnent pour nous mener à l’équation finale, celle qui prend tout son sens dans le temps passé avec les gens qu’on a aimé, qu’on aime et qu’on aimera.  Propulsé par ses nouvelles pièces et ses incontournables, plus que jamais Poulin maÎtrise ce savant mélange entre chansons et histoires qui fait la singularité de l’artiste sur scène.   "
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g478000"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g478060"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-06-01T09:00:00-03::00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g477980",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/ALEXANDRE%20POULIN%20SF.png?itok=_xiw3zQU"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478000",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Salle J.-Armand-Lavoie"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g478020"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g478040"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478060",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://billetterietracadie.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30117"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478020",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "585, rue de l'Église"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Tracadie"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1X 1G5"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g478040",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.513094"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-64.920763"
-      }
-    ]
-  },
-  {
-    "@id": "_:g479260",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g479280",
+    "@id": "_:g460080",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2624,7 +646,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g479860"
+        "@id": "_:g461220"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -2644,12 +666,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g479880"
+        "@id": "_:g461240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g479940"
+        "@id": "_:g461300"
       }
     ],
     "http://schema.org/organizer": [
@@ -2665,7 +687,7 @@
     ]
   },
   {
-    "@id": "_:g479860",
+    "@id": "_:g461220",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -2691,7 +713,7 @@
     ]
   },
   {
-    "@id": "_:g479880",
+    "@id": "_:g461240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2702,17 +724,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g479900"
+        "@id": "_:g461260"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g479920"
+        "@id": "_:g461280"
       }
     ]
   },
   {
-    "@id": "_:g479940",
+    "@id": "_:g461300",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2728,7 +750,23 @@
     ]
   },
   {
-    "@id": "_:g479900",
+    "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Société culturelle régionale Les Chutes"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2759,7 +797,7 @@
     ]
   },
   {
-    "@id": "_:g479920",
+    "@id": "_:g461280",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2775,7 +813,7 @@
     ]
   },
   {
-    "@id": "_:g480060",
+    "@id": "_:g462540",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -2783,7 +821,7 @@
     ]
   },
   {
-    "@id": "_:g480080",
+    "@id": "_:g462560",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
