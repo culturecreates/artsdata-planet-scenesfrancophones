@@ -1,221 +1,5 @@
 [
   {
-    "@id": "https://scenesfrancophones.ca/id/4057",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/spectacles/alexandre-poulin-4057"
-      }
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Alexandre Poulin"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "_:g455500"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Avec son tout nouveau spectacle La somme des êtres aimés, Alexandre Poulin approfondit l’alchimie des rencontres qui s’additionnent pour nous mener à l’équation finale, celle qui prend tout son sens dans le temps passé avec les gens qu’on a aimé, qu’on aime et qu’on aimera.  Propulsé par ses nouvelles pièces et ses incontournables, plus que jamais Poulin maÎtrise ce savant mélange entre chansons et histoires qui fait la singularité de l’artiste sur scène.   "
-      }
-    ],
-    "http://schema.org/isAccessibleForFree": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g455520"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g455580"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-05-31T09:00:00-03::00"
-      }
-    ]
-  },
-  {
-    "@id": "_:g455500",
-    "@type": [
-      "http://schema.org/ImageObject"
-    ],
-    "http://schema.org/representativeOfPage": [
-      {
-        "@value": "True"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/ALEXANDRE%20POULIN%20SF.png?itok=_xiw3zQU"
-      }
-    ],
-    "http://schema.org/width": [
-      {
-        "@value": "480"
-      }
-    ],
-    "http://schema.org/height": [
-      {
-        "@value": "480"
-      }
-    ]
-  },
-  {
-    "@id": "_:g455520",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Cafétéria du Carrefour Beausoleil"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g455540"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g455560"
-      }
-    ]
-  },
-  {
-    "@id": "_:g455580",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.carbeau.ca/alexandre-poulin-pdf"
-      }
-    ],
-    "http://schema.org/availability": [
-      {
-        "@value": "https://schema.org/InStock"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Carrefour communautaire Beausoleil"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/ALEXANDRE%20POULIN%20SF.png?itok=_xiw3zQU",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ]
-  },
-  {
-    "@id": "_:g455540",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "300, chemin Beaverbrook"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Miramichi"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "NB"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "E1V 1A1"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g455560",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "47.011404"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-65.586856"
-      }
-    ]
-  },
-  {
-    "@id": "_:g456780",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "_:g456800",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#article"
-      }
-    ]
-  },
-  {
-    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-09/ScenesFranco_Point_ca_Logo_Principale_Colour_RGB_72ppi.png?itok=eMjMfcCX",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Image"
-    ]
-  },
-  {
     "@id": "https://scenesfrancophones.ca/id/2662",
     "@type": [
       "http://schema.org/Event"
@@ -237,7 +21,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g457960"
+        "@id": "_:g455500"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -257,12 +41,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g457980"
+        "@id": "_:g455520"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g458040"
+        "@id": "_:g455580"
       }
     ],
     "http://schema.org/organizer": [
@@ -278,7 +62,7 @@
     ]
   },
   {
-    "@id": "_:g457960",
+    "@id": "_:g455500",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -304,7 +88,7 @@
     ]
   },
   {
-    "@id": "_:g457980",
+    "@id": "_:g455520",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -315,17 +99,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g458000"
+        "@id": "_:g455540"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g458020"
+        "@id": "_:g455560"
       }
     ]
   },
   {
-    "@id": "_:g458040",
+    "@id": "_:g455580",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -358,7 +142,7 @@
     ]
   },
   {
-    "@id": "_:g458000",
+    "@id": "_:g455540",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -389,7 +173,7 @@
     ]
   },
   {
-    "@id": "_:g458020",
+    "@id": "_:g455560",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -405,7 +189,7 @@
     ]
   },
   {
-    "@id": "_:g459220",
+    "@id": "_:g456780",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -413,11 +197,17 @@
     ]
   },
   {
-    "@id": "_:g459240",
+    "@id": "_:g456800",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
       }
+    ]
+  },
+  {
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-09/ScenesFranco_Point_ca_Logo_Principale_Colour_RGB_72ppi.png?itok=eMjMfcCX",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
     ]
   },
   {
@@ -442,7 +232,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g459340"
+        "@id": "_:g457980"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -462,12 +252,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g459360"
+        "@id": "_:g458000"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g459420"
+        "@id": "_:g458060"
       }
     ],
     "http://schema.org/organizer": [
@@ -483,7 +273,7 @@
     ]
   },
   {
-    "@id": "_:g459340",
+    "@id": "_:g457980",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -509,7 +299,7 @@
     ]
   },
   {
-    "@id": "_:g459360",
+    "@id": "_:g458000",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -520,17 +310,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g459380"
+        "@id": "_:g458020"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g459400"
+        "@id": "_:g458040"
       }
     ]
   },
   {
-    "@id": "_:g459420",
+    "@id": "_:g458060",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -562,7 +352,13 @@
     ]
   },
   {
-    "@id": "_:g459380",
+    "@id": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-12/ALEXANDRE%20POULIN%20SF.png?itok=_xiw3zQU",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Image"
+    ]
+  },
+  {
+    "@id": "_:g458020",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -593,7 +389,7 @@
     ]
   },
   {
-    "@id": "_:g459400",
+    "@id": "_:g458040",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -609,7 +405,7 @@
     ]
   },
   {
-    "@id": "_:g460040",
+    "@id": "_:g459100",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -617,7 +413,7 @@
     ]
   },
   {
-    "@id": "_:g460060",
+    "@id": "_:g459120",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -646,7 +442,7 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "_:g461180"
+        "@id": "_:g459220"
       }
     ],
     "http://schema.org/eventAttendanceMode": [
@@ -666,12 +462,12 @@
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g461200"
+        "@id": "_:g459240"
       }
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g461260"
+        "@id": "_:g459300"
       }
     ],
     "http://schema.org/organizer": [
@@ -687,7 +483,7 @@
     ]
   },
   {
-    "@id": "_:g461180",
+    "@id": "_:g459220",
     "@type": [
       "http://schema.org/ImageObject"
     ],
@@ -713,7 +509,7 @@
     ]
   },
   {
-    "@id": "_:g461200",
+    "@id": "_:g459240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -724,17 +520,17 @@
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g461220"
+        "@id": "_:g459260"
       }
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g461240"
+        "@id": "_:g459280"
       }
     ]
   },
   {
-    "@id": "_:g461260",
+    "@id": "_:g459300",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -766,7 +562,7 @@
     ]
   },
   {
-    "@id": "_:g461220",
+    "@id": "_:g459260",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -797,7 +593,7 @@
     ]
   },
   {
-    "@id": "_:g461240",
+    "@id": "_:g459280",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -813,7 +609,7 @@
     ]
   },
   {
-    "@id": "_:g462500",
+    "@id": "_:g460340",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
@@ -821,7 +617,7 @@
     ]
   },
   {
-    "@id": "_:g462520",
+    "@id": "_:g460360",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#article"
