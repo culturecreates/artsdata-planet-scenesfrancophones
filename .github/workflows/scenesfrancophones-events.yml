@@ -20,16 +20,11 @@ jobs:
     - name: Check for file changes
       id: check-changes
       run: |
-        if [ -f "output/events.jsonld" ]; then
-          if git diff --exit-code output/events.jsonld; then
-            echo "HAS_CHANGES=false" >> $GITHUB_OUTPUT
-          else
-            echo "HAS_CHANGES=true" >> $GITHUB_OUTPUT
-          fi
-        else
+        if git status --porcelain | grep -q 'output/events.jsonld'; then
           echo "HAS_CHANGES=true" >> $GITHUB_OUTPUT
+        else
+          echo "HAS_CHANGES=false" >> $GITHUB_OUTPUT
         fi
-      shell: bash
 
     - name: Commit and Push Changes
       if: steps.check-changes.outputs.HAS_CHANGES == 'true'
