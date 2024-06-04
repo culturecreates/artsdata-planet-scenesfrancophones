@@ -3,21 +3,36 @@ name: Fetch Scenesfrancophones Artists
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 * *' #run every month first day
+    - cron: "0 5 * * 1"  # Run at 1:00 AM ET every Monday
 
 jobs:
   fetch-and-commit-data:
     runs-on: ubuntu-latest
+    outputs:
+      changes: ${{ steps.check-changes.outputs.HAS_CHANGES }}
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        bundler-cache: true
-    - name: Run Main Script
-      run: bundle exec ruby main.rb "https://scenesfrancophones.ca/artistes?page=" "https://scenesfrancophones.ca" "article.node.node--promoted.artiste.artiste--teaser.card" "output/artists.jsonld"
+
+    - name: curl-jsonld
+      run: curl https://scenesfrancophones.ca/donneesouvertes/artistes.json > output/artists.jsonld
+
+    - name: Check for file changes
+      id: check-changes
+      run: |
+        if [ -f "output/artists.jsonld" ]; then
+          if git diff --exit-code output/artists.jsonld; then
+            echo "HAS_CHANGES=false" >> $GITHUB_OUTPUT
+          else
+            echo "HAS_CHANGES=true" >> $GITHUB_OUTPUT
+          fi
+        else
+          echo "HAS_CHANGES=true" >> $GITHUB_OUTPUT
+        fi
+      shell: bash
+
     - name: Commit and Push Changes
+      if: steps.check-changes.outputs.HAS_CHANGES == 'true'
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
@@ -29,6 +44,7 @@ jobs:
   artsdata-push:
     runs-on: ubuntu-latest
     needs: fetch-and-commit-data
+    if: needs.fetch-and-commit-data.outputs.changes == 'true'
     steps:
       - name: Action setup
         uses: culturecreates/artsdata-pipeline-action@v1.1.0
@@ -36,4 +52,3 @@ jobs:
           artifact: scenesfrancophones-artists
           publisher: "${{ secrets.PUBLISHER_URI_GREGORY }}"
           downloadUrl: "https://raw.githubusercontent.com/culturecreates/artsdata-planet-scenesfrancophones/main/output/artists.jsonld"
-      
