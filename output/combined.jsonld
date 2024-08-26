@@ -20492,7 +20492,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/6072",
         "url": "https://scenesfrancophones.ca/artistes/bouchardanse-2",
         "name": "BoucharDanse"
@@ -20503,7 +20503,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/6073",
         "url": "https://scenesfrancophones.ca/artistes/bouchardanse-3",
         "name": "BoucharDanse"
@@ -20514,7 +20514,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/6076",
         "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie",
         "name": "Théâtre populaire d'Acadie",
@@ -20568,7 +20568,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/6142",
         "url": "https://scenesfrancophones.ca/artistes/zeugma-danse",
         "name": "Zeugma Danse",
@@ -20586,7 +20586,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/6157",
         "url": "https://scenesfrancophones.ca/artistes/patrick-norman-et-nathalie-lord",
         "name": "Patrick Norman et Nathalie Lord",
@@ -20615,7 +20615,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/6378",
         "url": "https://scenesfrancophones.ca/artistes/theatre-qui-vivemetaphysical-theatre",
         "name": "Théâtre Qui Vive/MetaPhysical Theatre"
@@ -20626,7 +20626,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/6379",
         "url": "https://scenesfrancophones.ca/artistes/katia-cafe-febrissy",
         "name": "Katia Café-Fébrissy"
@@ -20637,7 +20637,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/6380",
         "url": "https://scenesfrancophones.ca/artistes/creations-vivo-2",
         "name": "Créations In Vivo"
@@ -20648,7 +20648,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/6918",
         "url": "https://scenesfrancophones.ca/artistes/theatre-du-nouvel-ontario-alex-tetreault",
         "name": "Théâtre du Nouvel-Ontario / Alex Tétreault"
