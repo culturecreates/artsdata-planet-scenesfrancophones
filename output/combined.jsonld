@@ -9584,6 +9584,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://my.weezevent.com/lancement-de-programmation-du-francofest-avec-richardson-zephir",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
