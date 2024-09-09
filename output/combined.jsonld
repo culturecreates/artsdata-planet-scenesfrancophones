@@ -20381,10 +20381,17 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5976",
         "url": "https://scenesfrancophones.ca/artistes/leflofranco-1",
-        "name": "LeFLOFRANCO"
+        "name": "LeFLOFRANCO",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-09/leflofranco_photo_pochette_resize.jpg?itok=Tx2bAMXW",
+          "width": "480",
+          "height": "480"
+        }
       }
     ]
   },
