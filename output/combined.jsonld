@@ -12901,6 +12901,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://billetterietracadie.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30184",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -13427,8 +13428,28 @@
         "startDate": "2024-09-27T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6089",
+        "location": {
+          "@type": "Place",
+          "name": "Carrefour de l'Isle Saint-Jean",
+          "url": "https://scenesfrancophones.ca/node/4139",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5 prom Acadienne",
+            "addressLocality": "Charlottetown",
+            "addressRegion": "PE",
+            "postalCode": "C1C 1M2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.26131",
+            "longitude": "-63.09456"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4139"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://form.jotform.com/242394377760263",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -18914,7 +18935,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4023",
         "url": "https://scenesfrancophones.ca/artistes/emilie-landry-0",
-        "name": "Émilie Landry"
+        "name": "Emilie Landry"
       }
     ]
   },
@@ -20660,6 +20681,39 @@
         "@id": "https://scenesfrancophones.ca/id/6918",
         "url": "https://scenesfrancophones.ca/artistes/theatre-du-nouvel-ontario-alex-tetreault",
         "name": "Théâtre du Nouvel-Ontario / Alex Tétreault"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/7566",
+        "url": "https://scenesfrancophones.ca/artistes/satellite-theatre",
+        "name": "Satellite Théâtre"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/7567",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-0",
+        "name": "Théâtre populaire d'Acadie"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/7568",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-1",
+        "name": "Théâtre populaire d'Acadie"
       }
     ]
   },
