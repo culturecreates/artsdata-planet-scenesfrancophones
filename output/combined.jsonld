@@ -10433,6 +10433,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scn.ticketacces.net",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -11927,6 +11928,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scn.ticketacces.net",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -20714,6 +20716,17 @@
         "@id": "https://scenesfrancophones.ca/id/7568",
         "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-1",
         "name": "Théâtre populaire d'Acadie"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/7569",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-theatre-new-brunswick",
+        "name": "Théâtre populaire d'Acadie & Theatre New Brunswick"
       }
     ]
   },
