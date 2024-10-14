@@ -16756,6 +16756,65 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/maten-utenat-7574",
+        "name": "Maten - Utenat",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-07/Maten%20-%20Sf.png?itok=qjWZfzae",
+          "width": "480",
+          "height": "480"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le groupe innu Maten est originaire de Mani-Utenam, sur la Côte Nord du Québec, ancré entre la rive du Saint-Laurent et la forêt boréale. Maten, formé de Mathieu Mckenzie, Samuel Pinette et Kim Fontaine a visité des centaines de scènes au Québec depuis la fin des années 1990. Le trio manifeste un réel engagement pour leur communauté, leur langue et leurs racines innues. Et c’est tout le propos de l’album Utenat (La grande ville), dont les textes sont porteurs de leurs valeurs, de leur culture et de la fierté de leur identité.",
+        "startDate": "2024-11-07T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7574",
+        "location": {
+          "@type": "Place",
+          "name": "Centre culturel La Ronde",
+          "url": "https://scenesfrancophones.ca/node/4155",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "32, rue Mountjoy nord",
+            "addressLocality": "Timmins",
+            "addressRegion": "ON",
+            "postalCode": "P4N 4V6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.476702",
+            "longitude": "-81.335287"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4155"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.eventbrite.ca/e/maten-tickets-961513481707?aff=oddtdtcreator",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/6108",
+            "url": "https://scenesfrancophones.ca/artistes/maten",
+            "name": "Maten"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/204",
         "url": "https://scenesfrancophones.ca/artistes/anique-granger",
