@@ -1486,20 +1486,20 @@
         "@id": "https://scenesfrancophones.ca/id/1084",
         "location": {
           "@type": "Place",
-          "name": "Orillia Opera House",
+          "name": "Salle Rolland Desroches",
           "url": "https://scenesfrancophones.ca/node/1065",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "20 Mississaga St W",
-            "addressLocality": "Orillia",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
             "addressRegion": "ON",
-            "postalCode": "L3V 3A6",
+            "postalCode": "L9M 2G3",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "44.60822",
-            "longitude": "-79.420393"
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
           },
           "@id": "https://scenesfrancophones.ca/id/1065"
         },
@@ -16815,6 +16815,58 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/celeste-levis-si-tu-veux-tout-savoir-7575",
+        "name": "Céleste Lévis - Si tu veux tout savoir",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "C’est avec transparence que Céleste Lévis vous invite à découvrir son nouveau spectacle “Si tu veux tout savoir”; un spectacle qui entame les réflexions et les combats des dernières années. L’auteure-compositrice-interprète propose sur scène des pièces Indie/pop accompagnées de son band passionné et dévoué à la recherche sonore de son nouvel album. Tomber sous le charme de sa voix à la fois douce et puissante et laissez-vous transporter par ses histoires de rêves et d’espoir.",
+        "startDate": "2025-02-14T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7575",
+        "location": {
+          "@type": "Place",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/node/1057",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "7, avenue Aurora",
+            "addressLocality": "Kapuskasing",
+            "addressRegion": "ON",
+            "postalCode": "P5N 1J6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.41929",
+            "longitude": "-82.429869"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1057"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/console/boxoffice/order?lang=fr&org=WG5",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/206",
+            "url": "https://scenesfrancophones.ca/artistes/celeste-levis",
+            "name": "Céleste Lévis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/204",
         "url": "https://scenesfrancophones.ca/artistes/anique-granger",
@@ -23059,19 +23111,19 @@
       {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/1065",
-        "name": "Orillia Opera House",
+        "name": "Salle Rolland Desroches",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "20 Mississaga St W",
-          "addressLocality": "Orillia",
+          "streetAddress": "63 rue Main",
+          "addressLocality": "Penetanguishene",
           "addressRegion": "ON",
-          "postalCode": "L3V 3A6",
+          "postalCode": "L9M 2G3",
           "addressCountry": "CA"
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": "44.60822",
-          "longitude": "-79.420393"
+          "latitude": "44.769711",
+          "longitude": "-79.934351"
         },
         "@id": "https://scenesfrancophones.ca/id/1065"
       }
