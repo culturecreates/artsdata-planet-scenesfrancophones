@@ -16681,6 +16681,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://centredesartsdieppe.tuxedobillet.com/main/vitrines-de-soiree",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -16858,6 +16859,58 @@
             "@id": "https://scenesfrancophones.ca/id/206",
             "url": "https://scenesfrancophones.ca/artistes/celeste-levis",
             "name": "Céleste Lévis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/reglement-17-contre-courant-7580",
+        "name": "Règlement 17 - Contre-courant",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "À la fois dérangeant tout en étant rassembleur, R17 cherche à faire une contribution à la conscience collective et à être un agent de changement au sein de sa communauté. Rassemblant cinq musiciens et une chanteuse, le collectif amalgame les instruments habituels du rock, guitare, basse, batterie mais aussi du violon, du synthétiseur et des boucles percussives. Ce choix se veut un clin d’œil aux multiples influences musicales qui ont informé la pratique artistique du groupe, tout en intégrant avec doigté ces éléments à la musique rock. Nommé Meilleur Spectacle aux Trille Or 2019, Règlement 17 propose un tout nouveau spectacle peuplé de chansons tirées de leur tout nouvel album Contre-courant, paru en octobre 2021.",
+        "startDate": "2024-11-09T19:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7580",
+        "location": {
+          "@type": "Place",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/node/1050",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2720, chemin Richmond",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K2B 6S2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.358648",
+            "longitude": "-75.792699"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1050"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/tickets/n52241109001?fbclid=IwZXh0bgNhZW0CMTAAAR1cchTYNRUoXyxsepn1nUkYz2eD5rta4cEe7U3rI7Udsn-famBvFcW7GY4_aem_eg1A4ERi43qJ5YfSJCGZnA&lang=fr",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/255",
+            "url": "https://scenesfrancophones.ca/artistes/reglement-17",
+            "name": "Règlement 17"
           }
         ]
       }
