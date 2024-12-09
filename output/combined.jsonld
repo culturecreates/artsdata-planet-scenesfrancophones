@@ -269,7 +269,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/968",
-        "name": "Shaun Ferguson - La Lumière De L'Ombre",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -315,9 +315,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/258",
-          "name": "Shaun Ferguson",
-          "url": "https://scenesfrancophones.ca/artistes/shaun-ferguson"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -696,7 +694,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/977",
-        "name": "Shaun Ferguson - La Lumière De L'Ombre",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Véritable guitariste virtuose, Shaun Ferguson est un compositeur et interprète accompli. Le musicien de Caraquet propose une musique instrumentale moderne, libre, transcendante et unique. Son langage musical, représentant une poésie riche en subtilités, se veut d’une intensité surprenante et nous fait inévitablement voyager.\nTant sur les scènes du Canada que celles des quatre coins de l'Europe, Shaun Ferguson réussit à captiver son public par sa personnalité charismatique et ses envolées musicales, tantôt douces, tantôt puissantes.",
@@ -735,9 +733,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/258",
-          "name": "Shaun Ferguson",
-          "url": "https://scenesfrancophones.ca/artistes/shaun-ferguson"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -958,7 +954,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/982",
-        "name": "Shaun Ferguson - La Lumière De L'Ombre",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Véritable guitariste virtuose, Shaun Ferguson est un compositeur et interprète accompli. Le musicien de Caraquet propose une musique instrumentale moderne, libre, transcendante et unique. Son langage musical, représentant une poésie riche en subtilités, se veut d’une intensité surprenante et nous fait inévitablement voyager.\nTant sur les scènes du Canada que celles des quatre coins de l'Europe, Shaun Ferguson réussit à captiver son public par sa personnalité charismatique et ses envolées musicales, tantôt douces, tantôt puissantes.",
@@ -997,9 +993,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/258",
-          "name": "Shaun Ferguson",
-          "url": "https://scenesfrancophones.ca/artistes/shaun-ferguson"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -1218,7 +1212,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1040",
-        "name": "Shaun Ferguson - La Lumière De L'Ombre",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Véritable guitariste virtuose, Shaun Ferguson est un compositeur et interprète accompli. Le musicien de Caraquet propose une musique instrumentale moderne, libre, transcendante et unique. Son langage musical, représentant une poésie riche en subtilités, se veut d’une intensité surprenante et nous fait inévitablement voyager.",
@@ -1257,9 +1251,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/258",
-          "name": "Shaun Ferguson",
-          "url": "https://scenesfrancophones.ca/artistes/shaun-ferguson"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -1270,7 +1262,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1041",
-        "name": "Shaun Ferguson - La Lumière De L'Ombre",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Véritable guitariste virtuose, Shaun Ferguson est un compositeur et interprète accompli. Le musicien de Caraquet propose une musique instrumentale moderne, libre, transcendante et unique. Son langage musical, représentant une poésie riche en subtilités, se veut d’une intensité surprenante et nous fait inévitablement voyager.",
@@ -1308,9 +1300,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/258",
-          "name": "Shaun Ferguson",
-          "url": "https://scenesfrancophones.ca/artistes/shaun-ferguson"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -1789,7 +1779,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1703",
-        "name": "Les Chiclettes - Les Chiclettes 2.0",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -1835,9 +1825,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/235",
-          "name": "Les Chiclettes",
-          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -1848,7 +1836,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1704",
-        "name": "Les Chiclettes - Les Chiclettes 2.0",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -1894,9 +1882,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/235",
-          "name": "Les Chiclettes",
-          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -1907,7 +1893,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1705",
-        "name": "Les Chiclettes - Les Chiclettes 2.0",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -1953,9 +1939,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/235",
-          "name": "Les Chiclettes",
-          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -1966,7 +1950,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1706",
-        "name": "Les Chiclettes - Les Chiclettes 2.0",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2012,9 +1996,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/235",
-          "name": "Les Chiclettes",
-          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2025,7 +2007,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1707",
-        "name": "Les Chiclettes - Les Chiclettes 2.0",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2071,9 +2053,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/235",
-          "name": "Les Chiclettes",
-          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2084,7 +2064,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1708",
-        "name": "Les Chiclettes - Les Chiclettes 2.0",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2130,9 +2110,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/235",
-          "name": "Les Chiclettes",
-          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2143,7 +2121,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1709",
-        "name": "Les Chiclettes - Les Chiclettes 2.0",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2189,9 +2167,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/235",
-          "name": "Les Chiclettes",
-          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2202,7 +2178,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1710",
-        "name": "Les Chiclettes - Les Chiclettes 2.0",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2248,9 +2224,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/235",
-          "name": "Les Chiclettes",
-          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2261,7 +2235,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1711",
-        "name": "Les Chiclettes - Les Chiclettes 2.0",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2307,9 +2281,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/235",
-          "name": "Les Chiclettes",
-          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2320,7 +2292,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1712",
-        "name": "Les Chiclettes - Les Chiclettes 2.0",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2366,9 +2338,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/235",
-          "name": "Les Chiclettes",
-          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2379,7 +2349,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/1713",
-        "name": "Les Chiclettes - Les Chiclettes 2.0",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2425,9 +2395,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/235",
-          "name": "Les Chiclettes",
-          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2699,7 +2667,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/2522",
-        "name": "La Patente - L'illusion d'la perfection",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2745,9 +2713,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/909",
-          "name": "La Patente",
-          "url": "https://scenesfrancophones.ca/artistes/la-patente"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2758,7 +2724,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/2523",
-        "name": "La Patente - L'illusion d'la perfection",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2804,9 +2770,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/909",
-          "name": "La Patente",
-          "url": "https://scenesfrancophones.ca/artistes/la-patente"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2817,7 +2781,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/2524",
-        "name": "La Patente - L'illusion d'la perfection",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2862,9 +2826,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/909",
-          "name": "La Patente",
-          "url": "https://scenesfrancophones.ca/artistes/la-patente"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2875,7 +2837,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/2525",
-        "name": "La Patente - L'illusion d'la perfection",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2920,9 +2882,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/909",
-          "name": "La Patente",
-          "url": "https://scenesfrancophones.ca/artistes/la-patente"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2933,7 +2893,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/2526",
-        "name": "La Patente - L'illusion d'la perfection",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -2979,9 +2939,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/909",
-          "name": "La Patente",
-          "url": "https://scenesfrancophones.ca/artistes/la-patente"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -2992,7 +2950,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/2527",
-        "name": "La Patente - L'illusion d'la perfection",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -3038,9 +2996,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/909",
-          "name": "La Patente",
-          "url": "https://scenesfrancophones.ca/artistes/la-patente"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -3051,7 +3007,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/2528",
-        "name": "La Patente - L'illusion d'la perfection",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -3097,9 +3053,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/909",
-          "name": "La Patente",
-          "url": "https://scenesfrancophones.ca/artistes/la-patente"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -3110,7 +3064,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/2529",
-        "name": "La Patente - L'illusion d'la perfection",
+        "name": "-",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -3156,9 +3110,7 @@
         },
         "performer": {
           "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/909",
-          "name": "La Patente",
-          "url": "https://scenesfrancophones.ca/artistes/la-patente"
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -16964,17 +16916,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/208",
-        "url": "https://scenesfrancophones.ca/artistes/corpus-dance-projects",
-        "name": "CORPUS Dance Projects"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/210",
         "url": "https://scenesfrancophones.ca/artistes/creations-vivo-0",
@@ -17052,17 +16993,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/217",
-        "url": "https://scenesfrancophones.ca/artistes/emilie-landry",
-        "name": "Emilie Landry"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/218",
         "url": "https://scenesfrancophones.ca/artistes/eric-leclerc",
@@ -17118,32 +17048,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/223",
-        "url": "https://scenesfrancophones.ca/artistes/isa-cliche",
-        "name": "Isa Cliche"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/224",
         "url": "https://scenesfrancophones.ca/artistes/isabelle-cyr",
         "name": "Isabelle Cyr"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/225",
-        "url": "https://scenesfrancophones.ca/artistes/jacques-surette",
-        "name": "Jacques Surette"
       }
     ]
   },
@@ -17218,53 +17126,9 @@
     "@graph": [
       {
         "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/232",
-        "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
-        "name": "La Famille LeBlanc"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/233",
         "url": "https://scenesfrancophones.ca/artistes/la-legende-de-calamity-jane",
         "name": "La Légende de Calamity Jane"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/234",
-        "url": "https://scenesfrancophones.ca/artistes/leflofranco",
-        "name": "LeFLOFRANCO"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/235",
-        "url": "https://scenesfrancophones.ca/artistes/les-chiclettes",
-        "name": "Les Chiclettes"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/236",
-        "url": "https://scenesfrancophones.ca/artistes/les-rats-dswompe",
-        "name": "Les Rats d'Swompe"
       }
     ]
   },
@@ -17371,54 +17235,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/247",
-        "url": "https://scenesfrancophones.ca/artistes/melissa-ouimet",
-        "name": "Melissa Ouimet"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/248",
-        "url": "https://scenesfrancophones.ca/artistes/michel-lalonde",
-        "name": "Michel Lalonde"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/249",
-        "url": "https://scenesfrancophones.ca/artistes/moov-ottawa-dance",
-        "name": "Moov Ottawa Dance"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/250",
         "url": "https://scenesfrancophones.ca/artistes/nathalie-nadon",
         "name": "Nathalie Nadon"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/251",
-        "url": "https://scenesfrancophones.ca/artistes/ponteix",
-        "name": "Ponteix"
       }
     ]
   },
@@ -17444,28 +17264,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/253",
-        "url": "https://scenesfrancophones.ca/artistes/rebecca-noelle",
-        "name": "Rebecca Noëlle"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/254",
-        "url": "https://scenesfrancophones.ca/artistes/rebecca-noelle-0",
-        "name": "Rebecca Noëlle"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/255",
         "url": "https://scenesfrancophones.ca/artistes/reglement-17",
@@ -17478,53 +17276,9 @@
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/256",
-        "url": "https://scenesfrancophones.ca/artistes/sala",
-        "name": "Sala"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/257",
         "url": "https://scenesfrancophones.ca/artistes/serge-monette",
         "name": "Serge Monette"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/258",
-        "url": "https://scenesfrancophones.ca/artistes/shaun-ferguson",
-        "name": "Shaun Ferguson"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/259",
-        "url": "https://scenesfrancophones.ca/artistes/shawn-jobin",
-        "name": "Shawn Jobin"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/260",
-        "url": "https://scenesfrancophones.ca/artistes/sirene-et-matelot",
-        "name": "Sirène et Matelot"
       }
     ]
   },
@@ -17547,17 +17301,6 @@
         "@id": "https://scenesfrancophones.ca/id/262",
         "url": "https://scenesfrancophones.ca/artistes/stef-paquette",
         "name": "Stef Paquette"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/263",
-        "url": "https://scenesfrancophones.ca/artistes/surface-dance",
-        "name": "surFace Dance"
       }
     ]
   },
@@ -17610,17 +17353,6 @@
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/268",
-        "url": "https://scenesfrancophones.ca/artistes/vincent-bishop",
-        "name": "Vincent Bishop"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/269",
         "url": "https://scenesfrancophones.ca/artistes/yao",
         "name": "Yao"
@@ -17642,24 +17374,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/886",
-        "url": "https://scenesfrancophones.ca/artistes/adrian-house",
-        "name": "Adrian House",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-02/Adrian%20House-photo.jpg?itok=6t-pHjcO",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/888",
         "url": "https://scenesfrancophones.ca/artistes/amandine-et-rosalie",
@@ -17668,24 +17382,6 @@
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-02/Amandine%20et%20Rosalie-photo.jpg?itok=dqjUvBWn",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/889",
-        "url": "https://scenesfrancophones.ca/artistes/baie",
-        "name": "BAIE",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/BAIE-photo.jpg?itok=9lqL0PBk",
           "width": "480",
           "height": "480"
         }
@@ -17841,60 +17537,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/900",
-        "url": "https://scenesfrancophones.ca/artistes/gabrielle-goulet",
-        "name": "Gabrielle Goulet",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Gabrielle%20Goulet.jpg?itok=2A880KQd",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/901",
-        "url": "https://scenesfrancophones.ca/artistes/improteine",
-        "name": "Improtéine",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Improt%C3%A9ine-photo.jpg?itok=V31uyYe3",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/902",
-        "url": "https://scenesfrancophones.ca/artistes/isabelle-la-wonderful",
-        "name": "Isabelle la Wonderful",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Isabelle%20la%20Wonderful-photo.jpg?itok=U5mLY0bq",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/903",
         "url": "https://scenesfrancophones.ca/artistes/jeremie-delicious-hounds",
@@ -17903,24 +17545,6 @@
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/IMG-20201106-WA0005.jpg?itok=46jYb0RQ",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/904",
-        "url": "https://scenesfrancophones.ca/artistes/joey-robin-hache",
-        "name": "Joey Robin Haché",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Joey%20Robin%20Hach%C3%A9%20-%20caf%C3%A9%20export.jpg?itok=bCU5DhcK",
           "width": "480",
           "height": "480"
         }
@@ -17986,24 +17610,6 @@
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Justin%20Guitard-photo.jpg?itok=2jqaBgT6",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/909",
-        "url": "https://scenesfrancophones.ca/artistes/la-patente",
-        "name": "La Patente",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/La%20Patente-photo.jpg?itok=Zdb-el1k",
           "width": "480",
           "height": "480"
         }
@@ -18263,24 +17869,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/925",
-        "url": "https://scenesfrancophones.ca/artistes/theatre-du-tsar",
-        "name": "Théâtre du Tsar",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Th%C3%A9%C3%A2tre%20du%20Tsar-photo.jpg?itok=Ca6AZJ-g",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/926",
         "url": "https://scenesfrancophones.ca/artistes/tresor-otshudi",
@@ -18382,24 +17970,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/993",
-        "url": "https://scenesfrancophones.ca/artistes/mitch-jean",
-        "name": "Mitch Jean",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Mitch%20Jean%20-%20photo%20credit%20Jean-Daniel%20Francoeur.jpg?itok=jdmHU4YW",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/994",
         "url": "https://scenesfrancophones.ca/artistes/citadel-compagnie",
@@ -18408,24 +17978,6 @@
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Citadel.png?itok=tOMTkK_E",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/995",
-        "url": "https://scenesfrancophones.ca/artistes/bouchardanse-1",
-        "name": "BoucharDanse",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Compagnie%20Bouchard.jpg?itok=ZFcvokGe",
           "width": "480",
           "height": "480"
         }
@@ -18477,24 +18029,6 @@
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/999",
-        "url": "https://scenesfrancophones.ca/artistes/plywood-joe",
-        "name": "Plywood Joe",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Plywood%20Joe.jpg?itok=TbUqgCjN",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/1000",
         "url": "https://scenesfrancophones.ca/artistes/celia-opera",
         "name": "Célia Opéra",
@@ -18527,24 +18061,6 @@
         "@id": "https://scenesfrancophones.ca/id/1002",
         "url": "https://scenesfrancophones.ca/artistes/smpty",
         "name": "SMPTY"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/1003",
-        "url": "https://scenesfrancophones.ca/artistes/sophie-dorleans",
-        "name": "Sophie D’orléans",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Sophie%20DOrleans%20Originale%20credit%20Derek%20Cushing.JPG?itok=yxxkLrKW",
-          "width": "480",
-          "height": "480"
-        }
       }
     ]
   },
@@ -18701,24 +18217,6 @@
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/1014",
-        "url": "https://scenesfrancophones.ca/artistes/pierre-guitard",
-        "name": "Pierre Guitard",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Pierre%20Guitard.jpg?itok=18KEma4N",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/1015",
         "url": "https://scenesfrancophones.ca/artistes/janie-renee",
         "name": "Janie Renée",
@@ -18726,24 +18224,6 @@
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Janie%20Ren%C3%A9e8344%20%28c%29%20DavePoulin.jpg?itok=-Oa13fck",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/1016",
-        "url": "https://scenesfrancophones.ca/artistes/mehdi-cayenne",
-        "name": "Mehdi Cayenne",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Mehdi%20Cayenne.jpg?itok=UCmqVm33",
           "width": "480",
           "height": "480"
         }
@@ -18772,24 +18252,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/1019",
-        "url": "https://scenesfrancophones.ca/artistes/creations-vivo",
-        "name": "Créations In Vivo",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Cr%C3%A9ation%20In%20Vivo_vie%20et%20mort.jpg?itok=z0YsbLvr",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/1020",
         "url": "https://scenesfrancophones.ca/artistes/theatre-catapulte",
@@ -18805,17 +18267,6 @@
         "@id": "https://scenesfrancophones.ca/id/3990",
         "url": "https://scenesfrancophones.ca/artistes/aubin-pi-la-scb",
         "name": "Aubin pi la S.C.B."
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/3992",
-        "url": "https://scenesfrancophones.ca/artistes/mclean-0",
-        "name": "McLean"
       }
     ]
   },
@@ -18867,32 +18318,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/3997",
-        "url": "https://scenesfrancophones.ca/artistes/messe",
-        "name": "MESSE"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/3998",
         "url": "https://scenesfrancophones.ca/artistes/jp-leblanc",
         "name": "JP LeBlanc"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/3999",
-        "url": "https://scenesfrancophones.ca/artistes/leflofranco-0",
-        "name": "LeFLOFRANCO"
       }
     ]
   },
@@ -18970,17 +18399,6 @@
         "@id": "https://scenesfrancophones.ca/id/4006",
         "url": "https://scenesfrancophones.ca/artistes/la-compagnie-dansencorps",
         "name": "La compagnie DansEncorps"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/4007",
-        "url": "https://scenesfrancophones.ca/artistes/sirene-et-matelot-0",
-        "name": "Sirène et Matelot"
       }
     ]
   },
@@ -19098,17 +18516,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4018",
-        "url": "https://scenesfrancophones.ca/artistes/bouchardanse-0",
-        "name": "BoucharDanse"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4019",
         "url": "https://scenesfrancophones.ca/artistes/helene-nicole",
@@ -19143,31 +18550,9 @@
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/4022",
-        "url": "https://scenesfrancophones.ca/artistes/joey-robin-hache-0",
-        "name": "Joey Robin Haché"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4023",
         "url": "https://scenesfrancophones.ca/artistes/emilie-landry-0",
         "name": "Emilie Landry"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4024",
-        "url": "https://scenesfrancophones.ca/artistes/corpus-2",
-        "name": "CORPUS"
       }
     ]
   },
@@ -19197,17 +18582,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4027",
-        "url": "https://scenesfrancophones.ca/artistes/shaun-ferguson-0",
-        "name": "Shaun Ferguson"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4028",
         "url": "https://scenesfrancophones.ca/artistes/jacques-surette-0",
@@ -19223,28 +18597,6 @@
         "@id": "https://scenesfrancophones.ca/id/4029",
         "url": "https://scenesfrancophones.ca/artistes/micah",
         "name": "Micah"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4030",
-        "url": "https://scenesfrancophones.ca/artistes/vincent-bishop-0",
-        "name": "Vincent Bishop"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/4031",
-        "url": "https://scenesfrancophones.ca/artistes/moovottawa",
-        "name": "Moov'Ottawa"
       }
     ]
   },
@@ -19278,17 +18630,6 @@
         "@id": "https://scenesfrancophones.ca/id/4034",
         "url": "https://scenesfrancophones.ca/artistes/daniel-goguen-daniel-leger",
         "name": "Daniel Goguen & Daniel Léger"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4035",
-        "url": "https://scenesfrancophones.ca/artistes/jono-0",
-        "name": "Jono"
       }
     ]
   },
@@ -19395,17 +18736,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4104",
-        "url": "https://scenesfrancophones.ca/artistes/trio-de-guitare-dottawa",
-        "name": "Trio de Guitare d'Ottawa"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/4105",
         "url": "https://scenesfrancophones.ca/artistes/alex-tetreault-theatre-du-nouvel-ontario",
@@ -19461,28 +18791,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4110",
-        "url": "https://scenesfrancophones.ca/artistes/hey-wow-0",
-        "name": "Hey, Wow"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4111",
-        "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre-0",
-        "name": "BRIAN ST-PIERRE"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4112",
         "url": "https://scenesfrancophones.ca/artistes/veloce-andre",
@@ -19506,31 +18814,9 @@
     "@graph": [
       {
         "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4114",
-        "url": "https://scenesfrancophones.ca/artistes/eric-leclerc-0",
-        "name": "Éric Leclerc"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/4115",
         "url": "https://scenesfrancophones.ca/artistes/beau-nectar",
         "name": "Beau Nectar"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4116",
-        "url": "https://scenesfrancophones.ca/artistes/creations-vivo-1",
-        "name": "Créations In Vivo"
       }
     ]
   },
@@ -19627,17 +18913,6 @@
     "@graph": [
       {
         "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4125",
-        "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre-1",
-        "name": "Brian St-Pierre"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/4126",
         "url": "https://scenesfrancophones.ca/artistes/moonfruits",
         "name": "Moonfruits"
@@ -19663,17 +18938,6 @@
         "@id": "https://scenesfrancophones.ca/id/4128",
         "url": "https://scenesfrancophones.ca/artistes/michel-lalonde-0",
         "name": "Michel Lalonde"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4129",
-        "url": "https://scenesfrancophones.ca/artistes/dj-unpier-0",
-        "name": "DJ UNPIER"
       }
     ]
   },
@@ -19736,28 +19000,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4136",
-        "url": "https://scenesfrancophones.ca/artistes/dj-unpier-1",
-        "name": "DJ UNPIER"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4173",
-        "url": "https://scenesfrancophones.ca/artistes/vero-test",
-        "name": "Véro test"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4176",
         "url": "https://scenesfrancophones.ca/artistes/isabelle-mercier",
@@ -19781,42 +19023,9 @@
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/4182",
-        "url": "https://scenesfrancophones.ca/artistes/mehdi-cayenne-1",
-        "name": "Mehdi Cayenne"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/4183",
-        "url": "https://scenesfrancophones.ca/artistes/smpty-0",
-        "name": "SMPTY"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4184",
         "url": "https://scenesfrancophones.ca/artistes/ponteix-0",
         "name": "Ponteix"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/4185",
-        "url": "https://scenesfrancophones.ca/artistes/moovottawa-0",
-        "name": "Moov'Ottawa"
       }
     ]
   },
@@ -19828,17 +19037,6 @@
         "@id": "https://scenesfrancophones.ca/id/4186",
         "url": "https://scenesfrancophones.ca/artistes/vincent-bishop-1",
         "name": "Vincent Bishop"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/4187",
-        "url": "https://scenesfrancophones.ca/artistes/michel-lalonde-1",
-        "name": "Michel Lalonde"
       }
     ]
   },
@@ -19945,17 +19143,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/4197",
-        "url": "https://scenesfrancophones.ca/artistes/isabelle-la-wonderful-1",
-        "name": "Isabelle la Wonderful"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4198",
         "url": "https://scenesfrancophones.ca/artistes/prairies-funk-o-fone",
@@ -19971,28 +19158,6 @@
         "@id": "https://scenesfrancophones.ca/id/4199",
         "url": "https://scenesfrancophones.ca/artistes/vaero",
         "name": "Vaero"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/4200",
-        "url": "https://scenesfrancophones.ca/artistes/plywood-joe-1",
-        "name": "Plywood Joe"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/4201",
-        "url": "https://scenesfrancophones.ca/artistes/jacques-surette-1",
-        "name": "Jacques Surette"
       }
     ]
   },
@@ -20327,17 +19492,6 @@
     "@graph": [
       {
         "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5003",
-        "url": "https://scenesfrancophones.ca/artistes/maude-cyr-deschenes-0",
-        "name": "Maude Cyr-Deschênes"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/5029",
         "url": "https://scenesfrancophones.ca/artistes/samantha",
         "name": "Samantha"
@@ -20359,43 +19513,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5340",
-        "url": "https://scenesfrancophones.ca/artistes/effet-papillon-0",
-        "name": "Effet Papillon"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5398",
-        "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre-2",
-        "name": "Brian St-Pierre"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5401",
         "url": "https://scenesfrancophones.ca/artistes/gabrielle-goulet-0",
         "name": "Gabrielle Goulet"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5402",
-        "url": "https://scenesfrancophones.ca/artistes/hey-wow-1",
-        "name": "Hey, Wow"
       }
     ]
   },
@@ -20425,54 +19546,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5406",
         "url": "https://scenesfrancophones.ca/artistes/melissa-ouimet-0",
         "name": "Melissa Ouimet"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5408",
-        "url": "https://scenesfrancophones.ca/artistes/mitch-jean-1",
-        "name": "Mitch Jean"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5414",
-        "url": "https://scenesfrancophones.ca/artistes/vincent-bishop-2",
-        "name": "Vincent Bishop"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5432",
-        "url": "https://scenesfrancophones.ca/artistes/moovottawa-2",
-        "name": "Moov'Ottawa"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5433",
-        "url": "https://scenesfrancophones.ca/artistes/theatre-catapulte-0",
-        "name": "Théâtre Catapulte"
       }
     ]
   },
@@ -20536,39 +19613,6 @@
     "@graph": [
       {
         "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5591",
-        "url": "https://scenesfrancophones.ca/artistes/reglement-17-0",
-        "name": "Règlement 17"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5592",
-        "url": "https://scenesfrancophones.ca/artistes/dj-unpier-2",
-        "name": "DJ UNPIER"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5593",
-        "url": "https://scenesfrancophones.ca/artistes/kelly-bado-0",
-        "name": "Kelly Bado"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/5729",
         "url": "https://scenesfrancophones.ca/artistes/sacha-lee",
         "name": "Sacha-Lee"
@@ -20594,28 +19638,6 @@
         "@id": "https://scenesfrancophones.ca/id/5731",
         "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
         "name": "Caroline Raynaud"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5732",
-        "url": "https://scenesfrancophones.ca/artistes/tresor-otshudi-tresor-music",
-        "name": "Tresor Otshudi / Tresor Music"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/5872",
-        "url": "https://scenesfrancophones.ca/artistes/tresor-otshudi-et-juste-chanter-gospel-choir",
-        "name": "Tresor Otshudi et Juste Chanter Gospel Choir"
       }
     ]
   },
@@ -20735,28 +19757,6 @@
           "width": "480",
           "height": "480"
         }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/6072",
-        "url": "https://scenesfrancophones.ca/artistes/bouchardanse-2",
-        "name": "BoucharDanse"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/6073",
-        "url": "https://scenesfrancophones.ca/artistes/bouchardanse-3",
-        "name": "BoucharDanse"
       }
     ]
   },
@@ -20888,75 +19888,9 @@
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/6380",
-        "url": "https://scenesfrancophones.ca/artistes/creations-vivo-2",
-        "name": "Créations In Vivo"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/6918",
-        "url": "https://scenesfrancophones.ca/artistes/theatre-du-nouvel-ontario-alex-tetreault",
-        "name": "Théâtre du Nouvel-Ontario / Alex Tétreault"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/7566",
         "url": "https://scenesfrancophones.ca/artistes/satellite-theatre",
         "name": "Satellite Théâtre"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/7567",
-        "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-0",
-        "name": "Théâtre populaire d'Acadie"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/7568",
-        "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-1",
-        "name": "Théâtre populaire d'Acadie"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/7569",
-        "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-theatre-new-brunswick",
-        "name": "Théâtre populaire d'Acadie & Theatre New Brunswick"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/7585",
-        "url": "https://scenesfrancophones.ca/artistes/samuel-bourgeois-0",
-        "name": "Samuel Bourgeois"
       }
     ]
   },
