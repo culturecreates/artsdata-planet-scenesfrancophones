@@ -15036,13 +15036,6 @@
         "url": "https://scenesfrancophones.ca/spectacles/zeugma-danse-errances-6145",
         "name": "Zeugma Danse - Errances",
         "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-07/Zeugma%20Danse%20-%20Sf.png?itok=pX0EJRtx",
-          "width": "480",
-          "height": "480"
-        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Huit personnes, chacune portant une histoire unique, s’allient dans une quête commune. À travers les pas cadencés et les gestuelles fluides, elles surmontent les obstacles et découvrent de nouveaux horizons avec une énergie collective grandissante. Une performance qui célèbre la richesse de la collaboration, du dépassement de soi et de la découverte de l’autre à travers la danse percussive.",
         "startDate": "2025-05-03T09:00:00-03:00",
@@ -16872,6 +16865,48 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/7631",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-01-29T19:30:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7631",
+        "location": {
+          "@type": "Place",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/node/1051",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333, avenue King-Edward",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430411",
+            "longitude": "-75.686459"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1051"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://nouvellescene.tuxedobillet.com/LA%20NOUVELLE%20SC%C3%88NE%20GILLES%20DESJARDINS/onde",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/204",
         "url": "https://scenesfrancophones.ca/artistes/anique-granger",
@@ -17235,7 +17270,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Organization",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/250",
         "url": "https://scenesfrancophones.ca/artistes/nathalie-nadon",
         "name": "Nathalie Nadon"
@@ -17558,7 +17593,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/905",
         "url": "https://scenesfrancophones.ca/artistes/joly",
-        "name": "Joly"
+        "name": "JOLY"
       }
     ]
   },
@@ -18342,7 +18377,7 @@
       {
         "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/4001",
-        "url": "https://scenesfrancophones.ca/artistes/les-rats-dswompe-0",
+        "url": "https://scenesfrancophones.ca/artistes/les-rats-dswompe",
         "name": "Les Rats d'Swompe"
       }
     ]
@@ -18881,7 +18916,7 @@
       {
         "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/4122",
-        "url": "https://scenesfrancophones.ca/artistes/improteine-0",
+        "url": "https://scenesfrancophones.ca/artistes/improteine",
         "name": "Improtéine"
       }
     ]
@@ -18890,7 +18925,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4123",
         "url": "https://scenesfrancophones.ca/artistes/johanne-lefebvre-et-brian-st-pierre",
         "name": "Johanne Lefebvre et Brian St-Pierre"
@@ -19891,6 +19926,28 @@
         "@id": "https://scenesfrancophones.ca/id/7566",
         "url": "https://scenesfrancophones.ca/artistes/satellite-theatre",
         "name": "Satellite Théâtre"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/7613",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-du-nouvel-ontario-0",
+        "name": "Théâtre du Nouvel-Ontario"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/7614",
+        "url": "https://scenesfrancophones.ca/artistes/tunasi",
+        "name": "TUNASI"
       }
     ]
   },
