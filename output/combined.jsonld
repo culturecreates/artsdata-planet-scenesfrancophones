@@ -14700,11 +14700,31 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Le groupe innu Maten est originaire de Mani-Utenam, sur la Côte Nord du Québec, ancré entre la rive du Saint-Laurent et la forêt boréale. Maten, formé de Mathieu Mckenzie, Samuel Pinette et Kim Fontaine a visité des centaines de scènes au Québec depuis la fin des années 1990. Le trio manifeste un réel engagement pour leur communauté, leur langue et leurs racines innues. Et c’est tout le propos de l’album Utenat (La grande ville), dont les textes sont porteurs de leurs valeurs, de leur culture et de la fierté de leur identité.",
-        "startDate": "2025-05-02T09:00:00-03:00",
+        "startDate": "2025-05-02T19:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6131",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Port-Lajoye",
+          "url": "https://scenesfrancophones.ca/node/520",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5, promenade Acadian",
+            "addressLocality": "Charlottetown",
+            "addressRegion": "PE",
+            "postalCode": "C1C 1M2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.26131",
+            "longitude": "-63.09456"
+          },
+          "@id": "https://scenesfrancophones.ca/id/520"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://spectaclescarrefour.square.site/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -16196,11 +16216,31 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock ! Un beau mélange de chansons, de contes et de réels, tout ça entouré de rires et de plaisir ! Les membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et ça se ressent sur scène ! Les membres sont : Christian Brideau (chanteur et guitariste), Janelle Melanson (violoniste), Wesley Lebouthillier (guitariste), Bruno LaPlante (bassiste) et Dany Boucher (batteur). Ils ont vraiment hâte de vous présenter leur nouveau spectacle !",
-        "startDate": "2025-03-14T09:00:00-03:00",
+        "startDate": "2025-03-14T19:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6174",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Port-Lajoye",
+          "url": "https://scenesfrancophones.ca/node/520",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5, promenade Acadian",
+            "addressLocality": "Charlottetown",
+            "addressRegion": "PE",
+            "postalCode": "C1C 1M2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.26131",
+            "longitude": "-63.09456"
+          },
+          "@id": "https://scenesfrancophones.ca/id/520"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://spectaclescarrefour.square.site/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
