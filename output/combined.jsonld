@@ -13629,6 +13629,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scn.ticketacces.net",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
