@@ -13308,67 +13308,6 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-vent-vendre-6085",
-        "name": "Théâtre populaire d'Acadie - Vent à vendre",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-07/Vent%20a%CC%80%20vendre%20-%20Sf.png?itok=ID2HedVR",
-          "width": "480",
-          "height": "480"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "En 2017, les habitants du petit village d’Anse-Bleue dans la Péninsule acadienne, au nord du Nouveau-Brunswick, apprennent par un dépliant reçu dans leur boîte aux lettres que leur village accueillerait bientôt un parc éolien. Bonne nouvelle financière pour certains, escroquerie pour d’autres, l’histoire s’est rapidement envenimée et s’est transformée en conflit social, environnemental et politique. Pourquoi ?",
-        "startDate": "2024-12-05T19:30:00-04:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/6085",
-        "location": {
-          "@type": "Place",
-          "name": "Théâtre Fatima",
-          "url": "https://scenesfrancophones.ca/node/498",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Rue St Jean Baptiste",
-            "addressLocality": "Kedgwick",
-            "addressRegion": "NB",
-            "postalCode": "E8B 1M5",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "47.646354",
-            "longitude": "-67.354525"
-          },
-          "@id": "https://scenesfrancophones.ca/id/498"
-        },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://societeculturelledeshautsplateaux.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=93",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/49",
-          "name": "Société culturelle des Hauts-Plateaux",
-          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
-        },
-        "performer": [
-          {
-            "@type": "Organization",
-            "@id": "https://scenesfrancophones.ca/id/6076",
-            "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie",
-            "name": "Théâtre populaire d'Acadie"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/la-famille-leblanc-perdrais-je-mon-temps-6089",
         "name": "La Famille LeBlanc - Perdrais-je mon temps?",
         "eventStatus": "https://schema.org/EventScheduled",
@@ -13958,67 +13897,6 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/stephanie-morin-robert-angle-mort-6100",
-        "name": "Stéphanie Morin-Robert - Angle Mort",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-07/Ste%CC%81phanie%20morin%20robert%20-%20Sf.png?itok=uhhGLNSd",
-          "width": "480",
-          "height": "480"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "ANGLE MORT est un morceau de bravoure captivant, où Stéphanie Morin-Robert, qui dans sa bataille contre le cancer a perdu un œil, nous raconte sa vie lorsqu’elle n’a que 7 ans. Petite fille fougueuse, elle brandit son œil de verre comme une arme. Avec l’aide de son chat, une paire de lunettes de soleil, et un super pouvoir intempestif, elle découvre vite qu’elle est capable d’affronter les brutes qui la tourmentent à sa nouvelle école et d’accepter son handicap. Ce spectacle percutant mêle humour, narration, jeu de marionnettes, travail audiovisuel et interactions avec le public.",
-        "startDate": "2025-03-19T20:00:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/6100",
-        "location": {
-          "@type": "Place",
-          "name": "Théâtre Fatima",
-          "url": "https://scenesfrancophones.ca/node/498",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Rue St Jean Baptiste",
-            "addressLocality": "Kedgwick",
-            "addressRegion": "NB",
-            "postalCode": "E8B 1M5",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "47.646354",
-            "longitude": "-67.354525"
-          },
-          "@id": "https://scenesfrancophones.ca/id/498"
-        },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://societeculturelledeshautsplateaux.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=96",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/49",
-          "name": "Société culturelle des Hauts-Plateaux",
-          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
-        },
-        "performer": [
-          {
-            "@type": "Person",
-            "@id": "https://scenesfrancophones.ca/id/4010",
-            "url": "https://scenesfrancophones.ca/artistes/stephanie-morin-robert",
-            "name": "Stéphanie Morin-Robert"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/stephanie-morin-robert-angle-mort-6101",
         "name": "Stéphanie Morin-Robert - Angle Mort",
         "eventStatus": "https://schema.org/EventScheduled",
@@ -14482,6 +14360,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=46",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -16120,6 +15999,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=44",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -16952,6 +16832,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/la-patente-le-cirque-des-mal-aimes-7702",
         "name": "La Patente - Le cirque des mal-aimés",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/La%20Patente%20-%20PHOTO%202024%20HR%20-%20Par%20David%20Couturier.jpg?itok=dB6EHnnk",
+          "width": "480",
+          "height": "480"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "La Patente, c’est un party, une véritable bête de scène qui boit du diesel et crache d’la boucane ! L'énergie explosive du groupe enflamme les scènes les plus froides. La musique crue et tranchante a déjà réussi à gagner une grande base de fans dévoués. \r\n\r\nAvec “Le cirque des mal-aimés”, La Patente présente un mélange de punk-rock et de country-folk avec une touche contemporaine distincte. Les paroles de Marc Colecchio jonglent habilement entre la nostalgie, la mélancolie et l’espoir. La musique crue, tranchante et parfois délicate, scintille comme un feu d’artifice dans un ciel sombre.",
         "startDate": "2025-03-01T19:00:00-08:00",
@@ -17006,6 +16893,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/la-patente-le-cirque-des-mal-aimes-7703",
         "name": "La Patente - Le cirque des mal-aimés",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/La%20Patente%20-%20PHOTO%202024%20HR%20-%20Par%20David%20Couturier.jpg?itok=dB6EHnnk",
+          "width": "480",
+          "height": "480"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "La Patente, c’est un party, une véritable bête de scène qui boit du diesel et crache d’la boucane ! L'énergie explosive du groupe enflamme les scènes les plus froides. La musique crue et tranchante a déjà réussi à gagner une grande base de fans dévoués. \r\n\r\nAvec “Le cirque des mal-aimés”, La Patente présente un mélange de punk-rock et de country-folk avec une touche contemporaine distincte. Les paroles de Marc Colecchio jonglent habilement entre la nostalgie, la mélancolie et l’espoir. La musique crue, tranchante et parfois délicate, scintille comme un feu d’artifice dans un ciel sombre.",
         "startDate": "2025-03-06T20:00:00-08:00",
@@ -17059,9 +16953,16 @@
         "url": "https://scenesfrancophones.ca/spectacles/la-patente-le-cirque-des-mal-aimes-7704",
         "name": "La Patente - Le cirque des mal-aimés",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/La%20Patente%20-%20PHOTO%202024%20HR%20-%20Par%20David%20Couturier.jpg?itok=dB6EHnnk",
+          "width": "480",
+          "height": "480"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "La Patente, c’est un party, une véritable bête de scène qui boit du diesel et crache d’la boucane ! L'énergie explosive du groupe enflamme les scènes les plus froides. La musique crue et tranchante a déjà réussi à gagner une grande base de fans dévoués. \r\n\r\nAvec “Le cirque des mal-aimés”, La Patente présente un mélange de punk-rock et de country-folk avec une touche contemporaine distincte. Les paroles de Marc Colecchio jonglent habilement entre la nostalgie, la mélancolie et l’espoir. La musique crue, tranchante et parfois délicate, scintille comme un feu d’artifice dans un ciel sombre.",
-        "startDate": "2025-03-08T14:00:00-08:00",
+        "startDate": "2025-03-08T13:15:00-08:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/7704",
         "location": {
@@ -17113,9 +17014,16 @@
         "url": "https://scenesfrancophones.ca/spectacles/la-patente-le-cirque-des-mal-aimes-7705",
         "name": "La Patente - Le cirque des mal-aimés",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/La%20Patente%20-%20PHOTO%202024%20HR%20-%20Par%20David%20Couturier.jpg?itok=dB6EHnnk",
+          "width": "480",
+          "height": "480"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "La Patente, c’est un party, une véritable bête de scène qui boit du diesel et crache d’la boucane ! L'énergie explosive du groupe enflamme les scènes les plus froides. La musique crue et tranchante a déjà réussi à gagner une grande base de fans dévoués. \r\n\r\nAvec “Le cirque des mal-aimés”, La Patente présente un mélange de punk-rock et de country-folk avec une touche contemporaine distincte. Les paroles de Marc Colecchio jonglent habilement entre la nostalgie, la mélancolie et l’espoir. La musique crue, tranchante et parfois délicate, scintille comme un feu d’artifice dans un ciel sombre.",
-        "startDate": "2025-03-09T11:00:00-07:00",
+        "startDate": "2025-03-09T11:45:00-07:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/7705",
         "location": {
@@ -17167,6 +17075,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/ponteix-le-canadien-errant-7706",
         "name": "Ponteix - Le Canadien Errant",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/Ponteix%20-%20PHOTO%20DE%20PRESSE%20-%20SQUARE%20%28hannah%20alex%20photo%29.jpg?itok=kwqsLegs",
+          "width": "480",
+          "height": "480"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Plongez dans l'univers de Ponteix, projet psyché-pop de Mario Lepage. \r\nLe Canadien errant relate l’expérience d’un Francophone minoritaire s'installant au cœur d'une grande ville francophone et met en avant les cultures francophones hors Québec, explorant une identité culturelle unique qui saura charmer les publics francophones d'ici et d'aileurs.\r\nLes trois multi-instrumentistes créent un son maximaliste, Les mélodies aériennes de Mario Lepage s'harmonisent parfaitement avec le rock indie aux nuances psyché-pop de Ponteix, créant une ambiance psychédélique vibrante et illuminée de néon.",
         "startDate": "2025-02-21T22:00:00-06:00",
@@ -17221,6 +17136,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/ponteix-le-canadien-errant-7707",
         "name": "Ponteix - Le Canadien Errant",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/Ponteix%20-%20PHOTO%20DE%20PRESSE%20-%20SQUARE%20%28hannah%20alex%20photo%29.jpg?itok=kwqsLegs",
+          "width": "480",
+          "height": "480"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Plongez dans l'univers de Ponteix, projet psyché-pop de Mario Lepage. \r\nLe Canadien errant relate l’expérience d’un Francophone minoritaire s'installant au cœur d'une grande ville francophone et met en avant les cultures francophones hors Québec, explorant une identité culturelle unique qui saura charmer les publics francophones d'ici et d'aileurs.\r\nLes trois multi-instrumentistes créent un son maximaliste, Les mélodies aériennes de Mario Lepage s'harmonisent parfaitement avec le rock indie aux nuances psyché-pop de Ponteix, créant une ambiance psychédélique vibrante et illuminée de néon.",
         "startDate": "2025-02-22T20:00:00-06:00",
@@ -17275,6 +17197,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/ponteix-le-canadien-errant-7708",
         "name": "Ponteix - Le Canadien Errant",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/Ponteix%20-%20PHOTO%20DE%20PRESSE%20-%20SQUARE%20%28hannah%20alex%20photo%29.jpg?itok=kwqsLegs",
+          "width": "480",
+          "height": "480"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Plongez dans l'univers de Ponteix, projet psyché-pop de Mario Lepage. \r\nLe Canadien errant relate l’expérience d’un Francophone minoritaire s'installant au cœur d'une grande ville francophone et met en avant les cultures francophones hors Québec, explorant une identité culturelle unique qui saura charmer les publics francophones d'ici et d'aileurs.\r\nLes trois multi-instrumentistes créent un son maximaliste, Les mélodies aériennes de Mario Lepage s'harmonisent parfaitement avec le rock indie aux nuances psyché-pop de Ponteix, créant une ambiance psychédélique vibrante et illuminée de néon.",
         "startDate": "2025-02-26T19:00:00-06:00",
@@ -17328,6 +17257,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/ponteix-le-canadien-errant-7709",
         "name": "Ponteix - Le Canadien Errant",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/Ponteix%20-%20PHOTO%20DE%20PRESSE%20-%20SQUARE%20%28hannah%20alex%20photo%29.jpg?itok=kwqsLegs",
+          "width": "480",
+          "height": "480"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Plongez dans l'univers de Ponteix, projet psyché-pop de Mario Lepage. \r\nLe Canadien errant relate l’expérience d’un Francophone minoritaire s'installant au cœur d'une grande ville francophone et met en avant les cultures francophones hors Québec, explorant une identité culturelle unique qui saura charmer les publics francophones d'ici et d'aileurs.\r\nLes trois multi-instrumentistes créent un son maximaliste, Les mélodies aériennes de Mario Lepage s'harmonisent parfaitement avec le rock indie aux nuances psyché-pop de Ponteix, créant une ambiance psychédélique vibrante et illuminée de néon.",
         "startDate": "2025-02-27T13:30:00-06:00",
@@ -17381,6 +17317,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/ponteix-le-canadien-errant-7710",
         "name": "Ponteix - Le Canadien Errant",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/Ponteix%20-%20PHOTO%20DE%20PRESSE%20-%20SQUARE%20%28hannah%20alex%20photo%29.jpg?itok=kwqsLegs",
+          "width": "480",
+          "height": "480"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Plongez dans l'univers de Ponteix, projet psyché-pop de Mario Lepage. \r\nLe Canadien errant relate l’expérience d’un Francophone minoritaire s'installant au cœur d'une grande ville francophone et met en avant les cultures francophones hors Québec, explorant une identité culturelle unique qui saura charmer les publics francophones d'ici et d'aileurs.\r\nLes trois multi-instrumentistes créent un son maximaliste, Les mélodies aériennes de Mario Lepage s'harmonisent parfaitement avec le rock indie aux nuances psyché-pop de Ponteix, créant une ambiance psychédélique vibrante et illuminée de néon.",
         "startDate": "2025-02-28T19:00:00-06:00",
@@ -17434,6 +17377,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/ponteix-le-canadien-errant-7711",
         "name": "Ponteix - Le Canadien Errant",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/Ponteix%20-%20PHOTO%20DE%20PRESSE%20-%20SQUARE%20%28hannah%20alex%20photo%29.jpg?itok=kwqsLegs",
+          "width": "480",
+          "height": "480"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Plongez dans l'univers de Ponteix, projet psyché-pop de Mario Lepage. \r\nLe Canadien errant relate l’expérience d’un Francophone minoritaire s'installant au cœur d'une grande ville francophone et met en avant les cultures francophones hors Québec, explorant une identité culturelle unique qui saura charmer les publics francophones d'ici et d'aileurs.\r\nLes trois multi-instrumentistes créent un son maximaliste, Les mélodies aériennes de Mario Lepage s'harmonisent parfaitement avec le rock indie aux nuances psyché-pop de Ponteix, créant une ambiance psychédélique vibrante et illuminée de néon.",
         "startDate": "2025-03-01T21:00:00-06:00",
@@ -17488,6 +17438,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/ponteix-le-canadien-errant-7712",
         "name": "Ponteix - Le Canadien Errant",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/Ponteix%20-%20PHOTO%20DE%20PRESSE%20-%20SQUARE%20%28hannah%20alex%20photo%29.jpg?itok=kwqsLegs",
+          "width": "480",
+          "height": "480"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Plongez dans l'univers de Ponteix, projet psyché-pop de Mario Lepage. \r\nLe Canadien errant relate l’expérience d’un Francophone minoritaire s'installant au cœur d'une grande ville francophone et met en avant les cultures francophones hors Québec, explorant une identité culturelle unique qui saura charmer les publics francophones d'ici et d'aileurs.\r\nLes trois multi-instrumentistes créent un son maximaliste, Les mélodies aériennes de Mario Lepage s'harmonisent parfaitement avec le rock indie aux nuances psyché-pop de Ponteix, créant une ambiance psychédélique vibrante et illuminée de néon.",
         "startDate": "2025-03-07T20:15:00-07:00",
@@ -17690,6 +17647,121 @@
             "@id": "https://scenesfrancophones.ca/id/4028",
             "url": "https://scenesfrancophones.ca/artistes/jacques-surette-0",
             "name": "Jacques Surette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/tcheu-misere-tcheu-misere-7745",
+        "name": "Tcheu Misère -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Composée de 6 musiciens, Tcheu Misère est un groupe de musique blues acadien qui emporte une nouvelle approche à la musique acadienne traditionnelle. Le nom du groupe décrit bien la musique qu’ils composent, la misère. De la région de Dieppe, Tcheu Misère cherche à garder la musique acadienne en vie.",
+        "startDate": "2025-03-04T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7745",
+        "location": {
+          "@type": "Place",
+          "name": "La Caserne",
+          "url": "https://scenesfrancophones.ca/node/476",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "331, ave. Acadie",
+            "addressLocality": "Dieppe",
+            "addressRegion": "NB",
+            "postalCode": "E1A 1G9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.094515",
+            "longitude": "-64.748301"
+          },
+          "@id": "https://scenesfrancophones.ca/id/476"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://centredesartsdieppe.tuxedobillet.com/main/tcheu-misere/20250304193000",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/40",
+          "name": "Centre des arts et de la culture de Dieppe",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7743",
+            "url": "https://scenesfrancophones.ca/artistes/tcheu-misere",
+            "name": "Tcheu Misère"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/la-patente-le-cirque-des-mal-aimes-7747",
+        "name": "La Patente - Le cirque des mal-aimés",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/La%20Patente%20-%20PHOTO%202024%20HR%20-%20Par%20David%20Couturier.jpg?itok=dB6EHnnk",
+          "width": "480",
+          "height": "480"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "La Patente, c’est un party, une véritable bête de scène qui boit du diesel et crache d’la boucane ! L'énergie explosive du groupe enflamme les scènes les plus froides. La musique crue et tranchante a déjà réussi à gagner une grande base de fans dévoués. \r\n\r\nAvec “Le cirque des mal-aimés”, La Patente présente un mélange de punk-rock et de country-folk avec une touche contemporaine distincte. Les paroles de Marc Colecchio jonglent habilement entre la nostalgie, la mélancolie et l’espoir. La musique crue, tranchante et parfois délicate, scintille comme un feu d’artifice dans un ciel sombre.",
+        "startDate": "2025-03-02T19:00:00-08:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7747",
+        "location": {
+          "@type": "Place",
+          "name": "Church St. Taphouse",
+          "url": "https://scenesfrancophones.ca/node/7746",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "215, rue Church",
+            "addressLocality": "Comox",
+            "addressRegion": "BC",
+            "postalCode": "V9M1X7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.674614",
+            "longitude": "-124.927926"
+          },
+          "@id": "https://scenesfrancophones.ca/id/7746"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.eventbrite.fr/e/billets-concert-du-groupe-la-patente-1250053135579?utm_experiment=test_share_listing&aff=ebdsshios",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/141",
+          "name": "Association francophone du centre de l'île (AFCI)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-francophone-du-centre-de-lile-afci"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/4132",
+            "url": "https://scenesfrancophones.ca/artistes/la-patente-0",
+            "name": "La Patente"
           }
         ]
       }
@@ -20839,6 +20911,17 @@
         "@id": "https://scenesfrancophones.ca/id/7735",
         "url": "https://scenesfrancophones.ca/artistes/les-bb-par-ludovick-bourgeois-3",
         "name": "Les BB par Ludovick Bourgeois"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7743",
+        "url": "https://scenesfrancophones.ca/artistes/tcheu-misere",
+        "name": "Tcheu Misère"
       }
     ]
   },
@@ -24152,6 +24235,30 @@
           "longitude": "-106.654252"
         },
         "@id": "https://scenesfrancophones.ca/id/7701"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/7746",
+        "name": "Church St. Taphouse",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "215, rue Church",
+          "addressLocality": "Comox",
+          "addressRegion": "BC",
+          "postalCode": "V9M1X7",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "49.674614",
+          "longitude": "-124.927926"
+        },
+        "@id": "https://scenesfrancophones.ca/id/7746"
       }
     ]
   }
