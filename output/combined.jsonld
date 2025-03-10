@@ -16152,36 +16152,37 @@
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-02/Aboiteau-1080x1080-2025.png?itok=tWog0ptd",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-03/483028281_18019960754671691_1777209890772139708_n.jpg?itok=NFELHkq_",
           "width": "480",
           "height": "480"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock ! Un beau mélange de chansons, de contes et de réels, tout ça entouré de rires et de plaisir ! Les membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et ça se ressent sur scène ! Les membres sont : Christian Brideau (chanteur et guitariste), Janelle Melanson (violoniste), Wesley Lebouthillier (guitariste), Bruno LaPlante (bassiste) et Dany Boucher (batteur). Ils ont vraiment hâte de vous présenter leur nouveau spectacle !",
-        "startDate": "2025-03-15T20:00:00-03:00",
+        "startDate": "2025-03-15T18:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6175",
         "location": {
           "@type": "Place",
-          "name": "Frikinstein Brewing",
-          "url": "https://scenesfrancophones.ca/node/4047",
+          "name": "Centre communautaire de Cookville",
+          "url": "https://scenesfrancophones.ca/node/460",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "673 King St",
-            "addressLocality": "Bridgewater",
+            "streetAddress": "20, chemin Petite Évangéline",
+            "addressLocality": "Cookville",
             "addressRegion": "NS",
-            "postalCode": "B4V 1B4",
+            "postalCode": "B4V 8A3",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "44.378928",
-            "longitude": "-64.520939"
+            "latitude": "44.404633",
+            "longitude": "-64.540617"
           },
-          "@id": "https://scenesfrancophones.ca/id/4047"
+          "@id": "https://scenesfrancophones.ca/id/460"
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://my.weezevent.com/aboiteau",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -18687,6 +18688,60 @@
             "@id": "https://scenesfrancophones.ca/id/4411",
             "url": "https://scenesfrancophones.ca/artistes/stacy-arseneault",
             "name": "Stacy Arseneault"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/natalie-robichaud-trecarre-7787",
+        "name": "Natalie Robichaud -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Venez célébrer la journée internationale de la francophonie avec le Conseil Communautaire du Grand-Havre\r\n\r\nLe jeudi 20 mars 2025 à partir de 19h, le CCGH vous accueille dans la salle George Cottreau à Dartmouth pour la projection du film de Natalie Robichaud Trécarré: À la source du son de la Baie Sainte-Marie.\r\n\r\nLa projection du film sera suivie de performances musicales de Simon Robichaud, Sébastien Dol, Daniel Leblanc et Natalie Robichaud, d'un moment de questions/réponses, et nous terminerons avec une dégustation de fricot.\r\n\r\nL'évènement est gratuit mais les réservations sont recommandées.\r\nLe film est en français avec des sous-titres anglais\r\n\r\nCet évènement est rendu possible grâce aux financements du gouvernement du Canada, et de la province de la Nouvelle-Écosse. Merci à nos partenaires: les rdv de la francophonie et Réseau Dialogue",
+        "startDate": "2025-03-20T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7787",
+        "location": {
+          "@type": "Place",
+          "name": "Salle George-Cottreau",
+          "url": "https://scenesfrancophones.ca/node/477",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "201 C, avenue du Portage",
+            "addressLocality": "Dartmouth",
+            "addressRegion": "NS",
+            "postalCode": "B2X 3S3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.705297",
+            "longitude": "-63.53267"
+          },
+          "@id": "https://scenesfrancophones.ca/id/477"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://my.weezevent.com/projection-du-film-trecarre",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/31",
+          "name": "Conseil communautaire du Grand-Havre",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-communautaire-du-grand-havre"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7785",
+            "url": "https://scenesfrancophones.ca/artistes/natalie-robichaud",
+            "name": "Natalie Robichaud"
           }
         ]
       }
@@ -21913,6 +21968,17 @@
         "@id": "https://scenesfrancophones.ca/id/7776",
         "url": "https://scenesfrancophones.ca/artistes/marie-eve-fontaine",
         "name": "Marie-Ève Fontaine"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7785",
+        "url": "https://scenesfrancophones.ca/artistes/natalie-robichaud",
+        "name": "Natalie Robichaud"
       }
     ]
   },
