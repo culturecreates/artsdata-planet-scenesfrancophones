@@ -18751,6 +18751,1947 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/shaun-ferguson-la-lumiere-de-lombre-lombre-de-la-lumiere-7793",
+        "name": "Shaun Ferguson - La Lumière De L'Ombre - L'Ombre De La Lumière",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Véritable guitariste virtuose, de renommée internationale, alchimiste des cordes, Shaun Ferguson est un compositeur et interprète accompli. Le musicien autodidacte de Caraquet propose une musique instrumentale moderne, libre, transcendante et unique. Son langage musical, représentant une poésie riche en subtilités, se veut d’une intensité surprenante et nous fait inévitablement voyager.",
+        "startDate": "2025-02-08T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7793",
+        "location": {
+          "@type": "Place",
+          "name": "Palais Centre-Ville",
+          "url": "https://scenesfrancophones.ca/node/496",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Rue Deschênes",
+            "addressLocality": "Saint-Quentin",
+            "addressRegion": "NB",
+            "postalCode": "E8A 1G9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.511393",
+            "longitude": "-67.391806"
+          },
+          "@id": "https://scenesfrancophones.ca/id/496"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/49",
+          "name": "Société culturelle des Hauts-Plateaux",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4177",
+            "url": "https://scenesfrancophones.ca/artistes/shaun-ferguson-1",
+            "name": "Shaun Ferguson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/neev-pas-besoin-dajouter-la-sauce-7797",
+        "name": "Neev -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Neev roule sa bosse dans le milieu de l’humour depuis plusieurs années, tant à la télévision et à la radio que dans de nombreux festivals partout à travers le pays. Après avoir sillonné le Québec en première partie de Louis-José Houde, il présente maintenant son tout premier one-man-show !\r\n\r\nDans ce spectacle, Neev pose un regard sur ce que nous sommes en tant que société. Il prend plaisir à mettre en lumière les petits travers de notre quotidien. Non seulement il nous fait part de ses réflexions, mais il nous parle avec beaucoup de sensibilité de ses origines multiples, d’intégration, et ce, sur un ton personnel et sans flafla.\r\n\r\nAvec sa personnalité attachante, son rire chaleureux et son humour bien ficelé, Neev est déjà parfaitement épicé ; pas besoin d’ajouter la sauce.",
+        "startDate": "2025-03-15T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7797",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/neev",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7795",
+            "url": "https://scenesfrancophones.ca/artistes/neev-0",
+            "name": "Neev"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ccnb-sur-scene-ccnb-sur-scene-7800",
+        "name": "CCNB sur scène -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "CCNB sur scène est un évènement de haut calibre qui est mandaté de présenter un concours musical, soit une interprétation sur scène. Celui-ci permettra donc à nos étudiants de démontrer leurs talents. Lancé par le Collège communautaire du Nouveau-Brunswick (CCNB) et entièrement organisé par les étudiantes et étudiants collégiaux.",
+        "startDate": "2025-04-05T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7800",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/ccnb-sur-scene",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7798",
+            "url": "https://scenesfrancophones.ca/artistes/ccnb-sur-scene",
+            "name": "CCNB sur scène"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/love-guns-hommage-kiss-7803",
+        "name": "LOVE GUNS -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Vivez l'ultime hommage à KISS\r\n\r\nPréparez-vous au rock and roll toute la nuit avec Love Guns, le groupe hommage KISS qui est un véritable « coup » d'adrénaline pour les fans des rockers légendaires ! Composé de quatre musiciens talentueux de l'Est du Canada – Mike Bourgeois, Danny Bourgeois, Danny Roy et Stephen LeBlanc – Love Guns a pour mission de capturer l'essence de KISS depuis son enfance.\r\n\r\nCe groupe puissant offre une performance électrisante qui rend l'hommage parfait au groupe emblématique qui a « appuyé sur la gâchette » sur leur passion pour la musique. Avec des spectacles à haute énergie et une expérience KISS authentique, Love Guns est sûr de laisser le public crier pour un rappel. Ne manquez pas la chance d'assister à une « balle » d'excitation et de nostalgie lors de leur prochain spectacle !\r\n\r\nPréparez-vous pour une nuit de rock and roll inoubliable avec Love Guns - c'est une expérience que vous ne voudrez pas manquer !",
+        "startDate": "2025-03-22T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7803",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/love-guns-hommage-a-kiss",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7801",
+            "url": "https://scenesfrancophones.ca/artistes/love-guns",
+            "name": "LOVE GUNS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/matthieu-pepper-en-attendant-la-fete-au-village-7806",
+        "name": "Matthieu Pepper -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Quand la vie nous plonge dans des moments plus difficiles, il faut se rappeler qu’il y aura toujours, une fête au village. Dans ce premier spectacle solo, Matthieu Pepper se livre sur ses travers, ses embûches et ses réflexions. Il laisse entrer les gens dans son intimité pour s’y installer confortablement et rire un bon coup. Auteur aguerri, il nous emmène là où réflexion et introspection croisent l’hilarité.",
+        "startDate": "2025-04-11T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7806",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/matthieu-pepper",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7804",
+            "url": "https://scenesfrancophones.ca/artistes/matthieu-pepper-0",
+            "name": "Matthieu Pepper"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/larriere-scene-sur-scene-7809",
+        "name": "L'ARRIÈRE SCÈNE -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le spectacle rassemble sur scène les artistes musicaux : Port-Aux-Poutines (T.-N.-L), Messe (NB), Maude Sonier (NB), Samuel Bourgeois (NB), Sam Mallais (NB), Aliasjazz (NS) et Valérie Clio (QC). Mise en Scène par Kat Noël et Paule-Andrée Cassidy, une chose est sûre, ce spectacle vous permettra d’avoir un échantillon de toute la diversité qui existe en Atlantique auquel se greffera une artiste du Québec pas piquée des vers elle non plus. \r\n\r\nUn concept qui sort de l'ordinaire, dans lequel les uns et les autres s’accompagneront mutuellement et qui vous permettra de découvrir une nouvelle vague d'artistes.",
+        "startDate": "2025-04-12T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7809",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/larriere-scene-sur-scene",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7807",
+            "url": "https://scenesfrancophones.ca/artistes/larriere-scene",
+            "name": "L'ARRIÈRE SCÈNE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-bb-par-ludovick-bourgeois-les-bb-par-ludovick-bourgeois-7812",
+        "name": "LES BB par LUDOVICK BOURGEOIS -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "On lui demandait depuis longtemps et le moment est enfin venu pour Ludovick Bourgeois de saluer en chansons et en images le parcours artistique, mais également plus personnel, de son célèbre père Patrick et son groupe culte Les BB. En compagnie de ses musiciens, Ludovick proposera un voyage dans le temps en revisitant les innombrables succès de la formation — Parfums du passé, Seul au combat, Donne-moi ma chance, Tu ne sauras jamais, T’es dans la lune et tant d’autres —, ainsi que quelques-uns de ses titres coups de cœur. Un spectacle-événement empreint de nostalgie, mis en scène par Joël Legendre, que le chanteur chouchou des Québécois.e.s souhaite aussi prenant que grandiose !",
+        "startDate": "2025-05-10T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7812",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/les-bb-par-ludovick-bourgeois",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7810",
+            "url": "https://scenesfrancophones.ca/artistes/les-bb-par-ludovick-bourgeois-4",
+            "name": "LES BB par LUDOVICK BOURGEOIS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mona-de-grenoble-de-la-poudre-aux-yeux-7815",
+        "name": "MONA DE GRENOBLE -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "« J’aurais pu appeler ce show d’humour Étalon en talons ou Entre Bâton Rouge et matante, mais après je me suis rendu compte que vous alliez sûrement vous reconnaître dans mon personnage que certains décrivent comme étant flamboyant, grivois et solvable depuis Big Brother. Parce que dans le fond, on le sait, les paillettes, les robes pis les grosses perruques, c’est juste de la poudre aux yeux ! » - Mona de Grenoble",
+        "startDate": "2025-05-15T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7815",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/mona-de-grenoble",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7813",
+            "url": "https://scenesfrancophones.ca/artistes/mona-de-grenoble-0",
+            "name": "MONA DE GRENOBLE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/lensemble-vocal-les-voix-de-la-baie-chante-la-francophonie-7818",
+        "name": "L'ENSEMBLE VOCAL LES VOIX DE LA BAIE -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L'Ensemble vocal Les Voix de la Baie vous présente son spectacle printanier où les artistes acadiens et de la francophonie seront à l'honneur.\r\n\r\nSous la direction de Pierre McGraw et accompagné au piano par Brigitte Lavoie, les Voix de la Baie est un choeur mixte à 4 voix formé de choristes de la Péninsule acadienne.\r\n\r\nLaissez-vous charmer par leur répertoire varié. Venez chanter avec eux!",
+        "startDate": "2025-05-31T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7818",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/les-voix-de-la-baie",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7816",
+            "url": "https://scenesfrancophones.ca/artistes/lensemble-vocal-les-voix-de-la-baie",
+            "name": "L'ENSEMBLE VOCAL LES VOIX DE LA BAIE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/acadieland-la-tournee-des-bars-2e-partie-7821",
+        "name": "ACADIELAND -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "ACADIELAND LA TOURNÉE DES BARS 2E PARTIE fera hommage au '' Nightlife'' du dernier 30 ans dans la Péninsule.\r\n\r\nLes Dj's présents vous ferons revivre les succès qui vous ont faite danser dans les belles années en passant du Vieux-Sage à la Chaloupe, du Deauville au Maximum, du Bel Air au club Célibat. Du Traffik lounge (Dooly's) au Baccus à L'atribu et j'en passe.\r\n\r\nPour l'occasion, voici les DJ’s qui vous feront revivre l’ambiance de ces bars.\r\nDJ-Fido\r\n DJ-Steff\r\n DJ-Bouboul\r\n DJ-Dan\r\n DJ-Dion\r\n DJ-Chris\r\n DJ-M4TB\r\n DJ MARIO LANTEIGNE\r\n\r\nDe plus Mathieu Friolet qui travaillait à la Chaloupe et Mathieu Sonier qui travaillait au Deauville / Célibat serons nos animateurs pour la soirée.",
+        "startDate": "2025-07-05T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7821",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/acadieland",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7819",
+            "url": "https://scenesfrancophones.ca/artistes/acadieland",
+            "name": "ACADIELAND"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/tina-hommage-tina-turner-7824",
+        "name": "TINA -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Vivez l'expérience de concert électrisante de TINA TURNER, regorgeant de succès emblématiques des années 60, 70, 80 et 90. Avec la voix puissante et rauque, la danse de haute intensité et la présence scénique palpitante de la Sud-Africaine Caroline Borole (South African Idols) en direct sur scène. Avec son groupe international, ses choristes et ses danseurs pour faire de ce spectacle SIMPLEMENT LE MEILLEUR hommage à la reine du rock 'n' roll, Tina Turner. \r\n\r\nÉcoutez tous les succès rock énergiques et RnB émouvants qui ont fait de Tina l'un des plus grands noms de la musique du 20e siècle : (Simply) The Best, What's Love Got To Do With It, River Deep Mountain High, Proud Mary, Nutbush City Limits, We Don’t Need Another Hero, What You Get is What You See, Private Dancer, It Takes Two et bien d'autres. \r\n\r\nÀ ne pas manquer – RÉSERVEZ MAINTENANT !",
+        "startDate": "2025-07-20T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7824",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/tina",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7822",
+            "url": "https://scenesfrancophones.ca/artistes/tina",
+            "name": "TINA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/claude-dubois-dubois-solide-en-liberte-7827",
+        "name": "CLAUDE DUBOIS -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Après nous avoir présenté son spectacle Dubois en liberté et son coffret Dubois Solide, un imposant recueil de 51 chansons, Claude Dubois, auteur-\r\n\r\ncompositeur et interprète, va à la rencontre de son public dans un spectacle intitulé « DUBOIS SOLIDE EN LIBERTÉ » où il nous emmène visiter son univers.\r\n\r\nAvec sa voix puissante et son indéniable charisme, ce géant de la chanson québécoise, amoureux inconditionnel et défenseur de la langue française, nous livre sur scène son répertoire intemporel.\r\n\r\nUn moment unique où Claude Dubois interprète ses chansons les plus demandées, les incontournables, qui sont la signature de ce grand artiste.",
+        "startDate": "2025-08-07T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7827",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/dubois-solide-en-liberte",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7825",
+            "url": "https://scenesfrancophones.ca/artistes/claude-dubois",
+            "name": "CLAUDE DUBOIS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/laurent-paquin-soiree-dhumour-avec-laurent-paquin-7830",
+        "name": "LAURENT PAQUIN -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Laurent Paquin lance son premier one-man-show Première Impression en 2001 et charme le public québécois. Après Tout est relatif, L’Ereure est humaine et Déplaire, Crocodile distrait sort en 2023. Il prête ses talents d’auteur, de script-éditeur et de metteur de scène à Billy Tellier pour son dernier one-man show Hypocrite(s), à Rachid Badouri pour Les Fleurs du tapis et à la série télé Bébéatrice, sur les ondes de Radio-Canada. Avec 18 animations de Galas Juste pour rire derrière la cravate, Laurent détient le record du plus grand nombre d’animations consécutives de Galas. Il lance en 2021 un podcast intitulé Setup, prémisse, punch dans lequel il explore les réalités du métier d’humoriste ainsi qu’une série de capsules web Les caprices de Laurent où il s’éclate dans le rôle d’un chef cuisinier grognon.\r\n\r\nIndépendamment des nombreux projets qui occupent sa carrière d’humoriste, Laurent compte également différentes expériences de jeu au théâtre, à la télévision et au cinéma. Au théâtre, il joue dans la comédie musicale Chicago en 2004 et dans la pièce L’emmerdeur en 2008. Son rôle de La Duchesse de Langeais dans la comédie musicale Demain matin, Montréal m’attend en 2018 vole la vedette. À l’été 2022, il fait partie de la distribution de Dîner de Cons, aux côtés de Normand d’Amour, René Simard et Bernard Fortin.\r\n\r\nÀ la télévision, il joue dans Histoires de filles, Caméra Café et Le bonheur en plus de participer à trois Bye Bye. Au cinéma, il prête sa voix dans la version québécoise de Le livre de la jungle en 2016, et au Yéti dans Le Chaînon manquant, en 2019.\r\n\r\nEn plus de tous ces talents, Laurent se réalise également dans l’univers de la musique. Il lance en 2021 son premier album de chansons « sérieuses » Et faire comme si, en plus de réaliser la mise en scène du spectacle Bientôt ce sera Noël de Damien Robitaille.",
+        "startDate": "2025-08-11T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7830",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/soiree-dhumour-avec-laurent-paquin",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7828",
+            "url": "https://scenesfrancophones.ca/artistes/laurent-paquin",
+            "name": "LAURENT PAQUIN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-gars-du-nord-party-dla-veille-avec-les-gars-du-nord-7833",
+        "name": "LES GARS DU NORD -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-03/Les%20gars%20du%20nord%20Infolettre.png?itok=YKVk_MRo",
+          "width": "480",
+          "height": "480"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Spectacle: Les années tranquilles\r\n\r\nLe groupe acadien Les Gars du Nord est composé de Wilfred Le Bouthillier, Danny Boudreau, Maxime McGraw, Danny Bourgeois, Nicolas Basque, Mike Bourgeois et Jean-Frédéric Lizotte.\r\n\r\nEn 2023 et 2024, leur spectacle \"Les fils du père\" a enflammé le Québec et le Nouveau-Brunswick.\r\n\r\nEn 2025, Les Gars Du Nord repartent sur les routes avec un nouvel album et un tout nouveau spectacle, \"Les années tranquilles\". Un événement à la hauteur de leur renommée, qui vous fera danser et chanter !\r\n\r\nRécompensés deux fois lors du Gala Country 2024 (Album country contemporain et Découverte de l’année), ils ne cessent d'étonner la francophonie avec leur énergie contagieuse",
+        "startDate": "2025-08-14T21:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7833",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/mechant-party-gars-du-nord",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7831",
+            "url": "https://scenesfrancophones.ca/artistes/les-gars-du-nord-0",
+            "name": "LES GARS DU NORD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/queen-its-kinda-magic-hommage-queen-7836",
+        "name": "QUEEN - IT'S KINDA MAGIC -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Queen : It's a Kinda Magic revient au Canada en 2025 pour célébrer le 50e anniversaire de la sortie de Queen's Bohemian Rhapsody ! \r\n\r\nPlongez-vous dans le spectacle, la grandeur et l’énergie du plus grand groupe de rock du monde. Écoutez Dominic Warren jouer le chant, la guitare et le piano TOUS EN DIRECT SUR SCÈNE et dans la tonalité originale de Freddie, et avec tout l'esprit, le charme et la bravade de la légende lui-même.  \r\n\r\nNe manquez pas votre chance d’assister à ce spectacle hommage de renommée internationale ! RÉSERVEZ MAINTENANT.",
+        "startDate": "2025-08-27T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7836",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/queen-its-kinda-magic",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7834",
+            "url": "https://scenesfrancophones.ca/artistes/queen-its-kinda-magic",
+            "name": "QUEEN - IT'S KINDA MAGIC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jeremy-demay-naturel-7839",
+        "name": "JÉRÉMY DEMAY -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Jérémy Demay, le plus québécois des humoristes français, résidant au Québec depuis plus de 17 ans, lance son tout nouveau spectacle intitulé Naturel. Avec ce 3e one-man-show, et entre l’écriture de ses livres plusieurs fois bestseller(150 000 copies vendues), Jérémy s’amuse à aller dans des zones plus personnelles et étonnera assurément par un contenu délicieusement audacieux qu’on ne lui soupçonnait pas… \r\n\r\nAvec une franchise à la fois désarmante mais ô combien hilarante, Jérémy se dévoile comme jamais avec de nombreuses confessions sur lui, sa vie et sa famille en exploitant le côté comique de situations qu’il a vécues. Avec Naturel, on retrouve sur scène un Jérémy toujours aussi énergique, charismatique et vif d’esprit qui tisse dès le départ un lien NATUREL avec le public. Avec son talent unique, Jérémy Demay réussit à la fois à faire rire à gorge déployée et à toucher droit au coeur, tout ça pour le grand plaisir de tous!",
+        "startDate": "2025-10-25T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7839",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/jeremy-demay-naturel",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7837",
+            "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
+            "name": "JÉRÉMY DEMAY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/back-80s-band-back-80s-band-7842",
+        "name": "BACK TO THE 80s BAND -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Avec Back To The 80s Band préparez-vous à être éblouis par la diversité de leur répertoire musical. 4 musiciens et 2 chanteurs d’expérience, qui se spécialisent ici au Rock des années 80’s. De Queen à Bon Jovi, en passant par Tina Turner, Heart et sans tous les nommer Back To The 80s Band revisite les tubes les plus emblématiques du rock de cette époque culte!\r\n\r\nLa liste des chansons interprétées est très variée et saura vous satisfaire. L’élément ultime qui peut sûrement les distinguer est leur duo vocal qui est exceptionnel.\r\n\r\nPuissante et chargée d’émotion, leur prestation nous ramène instantanément à une époque où chaque mélodie nous fige dans le temps. Soyez prêts à écouter les « cassettes » comme dans le temps et à frissonner au son de leurs voix qui fusionnent harmonieusement avec l’ensemble musical.\r\n\r\nEn somme, Back To The 80s Band c’est une expérience immersive de haut niveau. Que vous ayez vécu votre jeunesse lors de ces années et/ou que vous souhaitez revivre cette époque légendaire, ils sont là pour vous offrir une soirée des plus mémorables et électrisantes.\r\n\r\nAccrochez-vous, car le Rock 80’s est de retour et plus que vivant",
+        "startDate": "2025-11-07T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7842",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/back-to-the-80s-band",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7840",
+            "url": "https://scenesfrancophones.ca/artistes/back-80s-band",
+            "name": "BACK TO THE 80s BAND"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-bedard-melissa-bedard-et-ses-musiciens-7845",
+        "name": "MÉLISSA BÉDARD -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis sa participation remarquée à Star Académie en 2012, Mélissa Bédard s’impose comme une figure dominante du milieu artistique québécois. Elle présente son nouveau spectacle dans lequel elle interprète à sa façon les grands succès de la francophonie.\r\n\r\nAccompagnée de ses musiciens, celle qui maitrise l’art de nous éblouir avec sa voix intimiste et puissante devrait donner un souffle extraordinaire à un répertoire qui l’est déjà!",
+        "startDate": "2025-11-23T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7845",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/melissa-bedard-et-ses-musiciens",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7843",
+            "url": "https://scenesfrancophones.ca/artistes/melissa-bedard",
+            "name": "MÉLISSA BÉDARD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/compagnie-comme-une-etincelle-le-cirque-des-etoiles-7848",
+        "name": "Compagnie Comme une étincelle -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Entrez, entrez, mesdames et messieurs, approchez-vous de la toile et prenez \r\nplace! Découvrez le cirque et ses numéros extraordinaires! Magicien, clowns, \r\nfil de fériste, acrobates ou homme canon : en ombre et en lumière, les \r\npersonnages prennent vie sous le chapiteau du cirque des étoiles. En papier \r\ndécoupé et au caractère bien trempé, ils entament un ballet tourbillonnant \r\navec leur créateur et nous embarquent dans un voyage à la limite du réel et \r\nde l’imaginaire, à la fois sur scène et derrière l’écran. “Le cirque des étoiles” \r\nest un ciné spectacle jeune public à partir de 3 ans",
+        "startDate": "2025-03-15T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7848",
+        "location": {
+          "@type": "Place",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/node/1057",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "7, avenue Aurora",
+            "addressLocality": "Kapuskasing",
+            "addressRegion": "ON",
+            "postalCode": "P5N 1J6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.41929",
+            "longitude": "-82.429869"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1057"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/lecirquedesetoiles",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/80",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7846",
+            "url": "https://scenesfrancophones.ca/artistes/compagnie-comme-une-etincelle",
+            "name": "Compagnie Comme une étincelle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/productions-effet-papillon-sortir-la-tempete-7849",
+        "name": "Productions Effet Papillon - Sortir la tempête",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "C'est l'histoire d'une fille qui sera aux premières loges de l'inondaton de son village suite à la construction d'un barrage hydroélectrique. Elle y verra les magouilles politiques, les constructions aléatoires et la réalité des famille qui doivent se refaire dans un ailleurs quelconque. Tout ça, avec humour et lucidité à la fois. SORTIR LA TEMPÊTE DU VERRE raconte l'histoires des gens pour qui l'eau a tout changé dans leur vie. On navigue entre le rire et l’émotion.",
+        "startDate": "2025-03-19T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7849",
+        "location": {
+          "@type": "Place",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/node/1057",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "7, avenue Aurora",
+            "addressLocality": "Kapuskasing",
+            "addressRegion": "ON",
+            "postalCode": "P5N 1J6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.41929",
+            "longitude": "-82.429869"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1057"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/stephaneguertin",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/80",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/4130",
+            "url": "https://scenesfrancophones.ca/artistes/productions-effet-papillon",
+            "name": "Productions Effet Papillon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/lionel-groove-lionel-groove-7852",
+        "name": "Lionel Groove -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Lionel Groove, c’est un couteau suisse aux lames multiples. Fort de leurs \r\nchansons variées et de leurs beats aux “vibes” entraînants, le duo compte \r\naussi sur la présence de scène de ces deux artistes aguerris, Sam Faye & \r\nDJ Horg. Sam Faye conduit un publique comme un chef d’orchestre, et Horg \r\ndéroge du rôle de DJ traditionnel prisonnier derrière sa table tournante en \r\nprenant part à l’action. Lionel Groove, c’est un projet accessible à tous, une \r\nexpérience engageante et une capacité à nous rentrer des “beats” en tête que \r\nnous aurons beaucoup de mal a expurger",
+        "startDate": "2025-04-16T13:15:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7852",
+        "location": {
+          "@type": "Place",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/node/1057",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "7, avenue Aurora",
+            "addressLocality": "Kapuskasing",
+            "addressRegion": "ON",
+            "postalCode": "P5N 1J6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.41929",
+            "longitude": "-82.429869"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1057"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/80",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7850",
+            "url": "https://scenesfrancophones.ca/artistes/lionel-groove",
+            "name": "Lionel Groove"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/alex-tetreault-theatre-du-nouvel-ontario-nickel-city-fifs-une-epopee-queer-sudburoise",
+        "name": "Alex Tétreault / Théâtre du Nouvel-Ontario - Nickel City Fifs : une épopée queer sudburoise sur fond de trous",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Un soir ordinaire au Zigs, le bar gai de Sudbury, un jeune queer assoiffé de liberté et de communauté vit un périple initiatique pas comme les autres. Sous les auspices de la Sainte Poésie, esprit protecteur du cratère, la faune haute en couleurs du bar lui présente leur monde magique en l’invitant dans des univers éclectiques, éclatés et absurdes. Sauront-iels le convaincre d’en faire partie ou le perdront-iels au chant de sirènes de la grande ville?",
+        "startDate": "2025-05-10T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7853",
+        "location": {
+          "@type": "Place",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/node/1057",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "7, avenue Aurora",
+            "addressLocality": "Kapuskasing",
+            "addressRegion": "ON",
+            "postalCode": "P5N 1J6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.41929",
+            "longitude": "-82.429869"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1057"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/80",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/4105",
+            "url": "https://scenesfrancophones.ca/artistes/alex-tetreault-theatre-du-nouvel-ontario",
+            "name": "Alex Tétreault / Théâtre du Nouvel-Ontario"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/productions-effet-papillon-sortir-la-tempete-7854",
+        "name": "Productions Effet Papillon - Sortir la tempête",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "C'est l'histoire d'une fille qui sera aux premières loges de l'inondaton de son village suite à la construction d'un barrage hydroélectrique. Elle y verra les magouilles politiques, les constructions aléatoires et la réalité des famille qui doivent se refaire dans un ailleurs quelconque. Tout ça, avec humour et lucidité à la fois. SORTIR LA TEMPÊTE DU VERRE raconte l'histoires des gens pour qui l'eau a tout changé dans leur vie. On navigue entre le rire et l’émotion.",
+        "startDate": "2025-03-20T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7854",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Trillium",
+          "url": "https://scenesfrancophones.ca/node/4149",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9 Broomhead Rd",
+            "addressLocality": "Chapleau",
+            "addressRegion": "ON",
+            "postalCode": "P0M 1K0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.839585",
+            "longitude": "-83.40972"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4149"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/79",
+          "name": "Centre culturel Louis-Hémon",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/4130",
+            "url": "https://scenesfrancophones.ca/artistes/productions-effet-papillon",
+            "name": "Productions Effet Papillon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/productions-effet-papillon-sortir-la-tempete-7855",
+        "name": "Productions Effet Papillon - Sortir la tempête",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "C'est l'histoire d'une fille qui sera aux premières loges de l'inondaton de son village suite à la construction d'un barrage hydroélectrique. Elle y verra les magouilles politiques, les constructions aléatoires et la réalité des famille qui doivent se refaire dans un ailleurs quelconque. Tout ça, avec humour et lucidité à la fois. SORTIR LA TEMPÊTE DU VERRE raconte l'histoires des gens pour qui l'eau a tout changé dans leur vie. On navigue entre le rire et l’émotion.",
+        "startDate": "2025-03-22T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7855",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Rolland Desroches",
+          "url": "https://scenesfrancophones.ca/node/1065",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 2G3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1065"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://app193.digibotservices.ca/dbo/event.php?org=9749&event=52443648",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/4130",
+            "url": "https://scenesfrancophones.ca/artistes/productions-effet-papillon",
+            "name": "Productions Effet Papillon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/compagnie-comme-une-etincelle-le-cirque-des-etoiles-7858",
+        "name": "Compagnie Comme une étincelle -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Entrez, entrez, mesdames et messieurs, approchez-vous de la toile et prenez \r\nplace! Découvrez le cirque et ses numéros extraordinaires! Magicien, clowns, \r\nfil de fériste, acrobates ou homme canon : en ombre et en lumière, les \r\npersonnages prennent vie sous le chapiteau du cirque des étoiles. En papier \r\ndécoupé et au caractère bien trempé, ils entament un ballet tourbillonnant \r\navec leur créateur et nous embarquent dans un voyage à la limite du réel et \r\nde l’imaginaire, à la fois sur scène et derrière l’écran. “Le cirque des étoiles” \r\nest un ciné spectacle jeune public à partir de 3 ans",
+        "startDate": "2025-04-05T13:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7858",
+        "location": {
+          "@type": "Place",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/node/1050",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2720, chemin Richmond",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K2B 6S2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.358648",
+            "longitude": "-75.792699"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1050"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/73",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/maison-de-la-francophonie-dottawa-cmfo"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7856",
+            "url": "https://scenesfrancophones.ca/artistes/compagnie-comme-une-etincelle-0",
+            "name": "Compagnie Comme une étincelle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/productions-effet-papillon-sortir-la-tempete-7859",
+        "name": "Productions Effet Papillon - Sortir la tempête",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "C'est l'histoire d'une fille qui sera aux premières loges de l'inondaton de son village suite à la construction d'un barrage hydroélectrique. Elle y verra les magouilles politiques, les constructions aléatoires et la réalité des famille qui doivent se refaire dans un ailleurs quelconque. Tout ça, avec humour et lucidité à la fois. SORTIR LA TEMPÊTE DU VERRE raconte l'histoires des gens pour qui l'eau a tout changé dans leur vie. On navigue entre le rire et l’émotion.",
+        "startDate": "2025-04-26T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7859",
+        "location": {
+          "@type": "Place",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/node/1050",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2720, chemin Richmond",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K2B 6S2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.358648",
+            "longitude": "-75.792699"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1050"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/73",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/maison-de-la-francophonie-dottawa-cmfo"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/4130",
+            "url": "https://scenesfrancophones.ca/artistes/productions-effet-papillon",
+            "name": "Productions Effet Papillon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/productions-effet-papillon-sortir-la-tempete-7860",
+        "name": "Productions Effet Papillon - Sortir la tempête",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "C'est l'histoire d'une fille qui sera aux premières loges de l'inondaton de son village suite à la construction d'un barrage hydroélectrique. Elle y verra les magouilles politiques, les constructions aléatoires et la réalité des famille qui doivent se refaire dans un ailleurs quelconque. Tout ça, avec humour et lucidité à la fois. SORTIR LA TEMPÊTE DU VERRE raconte l'histoires des gens pour qui l'eau a tout changé dans leur vie. On navigue entre le rire et l’émotion.",
+        "startDate": "2025-04-27T15:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7860",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465845",
+            "longitude": "-75.523408"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://app193.digibotservices.ca/dbo/event.php?org=5190&event=42668593",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/4130",
+            "url": "https://scenesfrancophones.ca/artistes/productions-effet-papillon",
+            "name": "Productions Effet Papillon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/alex-tetreault-theatre-du-nouvel-ontario-nickel-city-fifs-une-epopee-queer-sudburoise-0",
+        "name": "Alex Tétreault / Théâtre du Nouvel-Ontario - Nickel City Fifs : une épopée queer sudburoise sur fond de trous",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Un soir ordinaire au Zigs, le bar gai de Sudbury, un jeune queer assoiffé de liberté et de communauté vit un périple initiatique pas comme les autres. Sous les auspices de la Sainte Poésie, esprit protecteur du cratère, la faune haute en couleurs du bar lui présente leur monde magique en l’invitant dans des univers éclectiques, éclatés et absurdes. Sauront-iels le convaincre d’en faire partie ou le perdront-iels au chant de sirènes de la grande ville?",
+        "startDate": "2025-05-17T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7861",
+        "location": {
+          "@type": "Place",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/node/1050",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2720, chemin Richmond",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K2B 6S2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.358648",
+            "longitude": "-75.792699"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1050"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/73",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/maison-de-la-francophonie-dottawa-cmfo"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/4105",
+            "url": "https://scenesfrancophones.ca/artistes/alex-tetreault-theatre-du-nouvel-ontario",
+            "name": "Alex Tétreault / Théâtre du Nouvel-Ontario"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/alex-tetreault-theatre-du-nouvel-ontario-nickel-city-fifs-une-epopee-queer-sudburoise-1",
+        "name": "Alex Tétreault / Théâtre du Nouvel-Ontario - Nickel City Fifs : une épopée queer sudburoise sur fond de trous",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Un soir ordinaire au Zigs, le bar gai de Sudbury, un jeune queer assoiffé de liberté et de communauté vit un périple initiatique pas comme les autres. Sous les auspices de la Sainte Poésie, esprit protecteur du cratère, la faune haute en couleurs du bar lui présente leur monde magique en l’invitant dans des univers éclectiques, éclatés et absurdes. Sauront-iels le convaincre d’en faire partie ou le perdront-iels au chant de sirènes de la grande ville?",
+        "startDate": "2025-05-23T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7862",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre l'Octave",
+          "url": "https://scenesfrancophones.ca/node/1045",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "711, avenue Dalton",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7M 8N6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.270854",
+            "longitude": "-76.522726"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1045"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/hfj250523001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/4105",
+            "url": "https://scenesfrancophones.ca/artistes/alex-tetreault-theatre-du-nouvel-ontario",
+            "name": "Alex Tétreault / Théâtre du Nouvel-Ontario"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/andy-giroux-lhermite-7863",
+        "name": "Andy Giroux -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L’hermite vit seul depuis la disparition de sa femme, refusant tout contact avec le monde. Un jour, une petite fée perdue cherche refuge chez lui. Grâce à elle, il réapprend à rire, jouer et aimer. Sa maison morne devient un lieu magique où tout est possible. « L’Hermite » est un spectacle poétique et rêveur, nous transportant dans divers lieux, y compris un champ, une maison et même l’océan avec sirènes et poissons. Ce spectacle célèbre le pouvoir de l’amitié et l’importance d’être entouré par des gens aimés. Quand on est triste, les amis peuvent nous aider.",
+        "startDate": "2025-03-05T19:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7863",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/5998",
+            "url": "https://scenesfrancophones.ca/artistes/andy-giroux",
+            "name": "Andy Giroux"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/compagnie-comme-une-etincelle-le-cirque-des-etoiles-7867",
+        "name": "Compagnie Comme une étincelle -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Entrez, entrez, mesdames et messieurs, approchez-vous de la toile et prenez \r\nplace! Découvrez le cirque et ses numéros extraordinaires! Magicien, clowns, \r\nfil de fériste, acrobates ou homme canon : en ombre et en lumière, les \r\npersonnages prennent vie sous le chapiteau du cirque des étoiles. En papier \r\ndécoupé et au caractère bien trempé, ils entament un ballet tourbillonnant \r\navec leur créateur et nous embarquent dans un voyage à la limite du réel et \r\nde l’imaginaire, à la fois sur scène et derrière l’écran. “Le cirque des étoiles” \r\nest un ciné spectacle jeune public à partir de 3 ans",
+        "startDate": "2025-03-23T15:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7867",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/hrt250316001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7864",
+            "url": "https://scenesfrancophones.ca/artistes/compagnie-comme-une-etincelle-1",
+            "name": "Compagnie Comme une étincelle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/lionel-groove-lionel-groove-7870",
+        "name": "Lionel Groove -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Lionel Groove, c’est un couteau suisse aux lames multiples. Fort de leurs \r\nchansons variées et de leurs beats aux “vibes” entraînants, le duo compte \r\naussi sur la présence de scène de ces deux artistes aguerris, Sam Faye & \r\nDJ Horg. Sam Faye conduit un publique comme un chef d’orchestre, et Horg \r\ndéroge du rôle de DJ traditionnel prisonnier derrière sa table tournante en \r\nprenant part à l’action. Lionel Groove, c’est un projet accessible à tous, une \r\nexpérience engageante et une capacité à nous rentrer des “beats” en tête que \r\nnous aurons beaucoup de mal a expurger.",
+        "startDate": "2025-04-17T13:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7870",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7868",
+            "url": "https://scenesfrancophones.ca/artistes/lionel-groove-0",
+            "name": "Lionel Groove"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/alex-tetreault-theatre-du-nouvel-ontario-nickel-city-fifs-une-epopee-queer-sudburoise-2",
+        "name": "Alex Tétreault / Théâtre du Nouvel-Ontario - Nickel City Fifs : une épopée queer sudburoise sur fond de trous",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Un soir ordinaire au Zigs, le bar gai de Sudbury, un jeune queer assoiffé de liberté et de communauté vit un périple initiatique pas comme les autres. Sous les auspices de la Sainte Poésie, esprit protecteur du cratère, la faune haute en couleurs du bar lui présente leur monde magique en l’invitant dans des univers éclectiques, éclatés et absurdes. Sauront-iels le convaincre d’en faire partie ou le perdront-iels au chant de sirènes de la grande ville?",
+        "startDate": "2025-06-05T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7871",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/hrt250605001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/4105",
+            "url": "https://scenesfrancophones.ca/artistes/alex-tetreault-theatre-du-nouvel-ontario",
+            "name": "Alex Tétreault / Théâtre du Nouvel-Ontario"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/compagnie-comme-une-etincelle-le-cirque-des-etoiles-7874",
+        "name": "Compagnie Comme une étincelle -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Entrez, entrez, mesdames et messieurs, approchez-vous de la toile et prenez \r\nplace! Découvrez le cirque et ses numéros extraordinaires! Magicien, clowns, \r\nfil de fériste, acrobates ou homme canon : en ombre et en lumière, les \r\npersonnages prennent vie sous le chapiteau du cirque des étoiles. En papier \r\ndécoupé et au caractère bien trempé, ils entament un ballet tourbillonnant \r\navec leur créateur et nous embarquent dans un voyage à la limite du réel et \r\nde l’imaginaire, à la fois sur scène et derrière l’écran. “Le cirque des étoiles” \r\nest un ciné spectacle jeune public à partir de 3 ans.",
+        "startDate": "2025-03-17T11:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7874",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre du Nouvel-Ontario",
+          "url": "https://scenesfrancophones.ca/node/1060",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "21, boulevard Lasalle",
+            "addressLocality": "Sudbury",
+            "addressRegion": "ON",
+            "postalCode": "P3A 6B1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.51725",
+            "longitude": "-80.99429"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1060"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/1sb250322001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/83",
+          "name": "Théâtre du Nouvel-Ontario",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-du-nouvel-ontario"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7872",
+            "url": "https://scenesfrancophones.ca/artistes/compagnie-comme-une-etincelle-2",
+            "name": "Compagnie Comme une étincelle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/alex-tetreault-theatre-du-nouvel-ontario-nickel-city-fifs-une-epopee-queer-sudburoise-3",
+        "name": "Alex Tétreault / Théâtre du Nouvel-Ontario - Nickel City Fifs : une épopée queer sudburoise sur fond de trous",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Un soir ordinaire au Zigs, le bar gai de Sudbury, un jeune queer assoiffé de liberté et de communauté vit un périple initiatique pas comme les autres. Sous les auspices de la Sainte Poésie, esprit protecteur du cratère, la faune haute en couleurs du bar lui présente leur monde magique en l’invitant dans des univers éclectiques, éclatés et absurdes. Sauront-iels le convaincre d’en faire partie ou le perdront-iels au chant de sirènes de la grande ville?",
+        "startDate": "2025-05-21T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7875",
+        "location": {
+          "@type": "Place",
+          "name": "Centre francophone Hamilton",
+          "url": "https://scenesfrancophones.ca/node/1063",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "56, rue Mulbery",
+            "addressLocality": "Hamilton",
+            "addressRegion": "ON",
+            "postalCode": "L8R 2C7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.262714",
+            "longitude": "-79.869099"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1063"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/86",
+          "name": "Centre francophone Hamilton",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-francophone-hamilton"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/4105",
+            "url": "https://scenesfrancophones.ca/artistes/alex-tetreault-theatre-du-nouvel-ontario",
+            "name": "Alex Tétreault / Théâtre du Nouvel-Ontario"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/alex-tetreault-theatre-du-nouvel-ontario-nickel-city-fifs-une-epopee-queer-sudburoise-4",
+        "name": "Alex Tétreault / Théâtre du Nouvel-Ontario - Nickel City Fifs : une épopée queer sudburoise sur fond de trous",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Un soir ordinaire au Zigs, le bar gai de Sudbury, un jeune queer assoiffé de liberté et de communauté vit un périple initiatique pas comme les autres. Sous les auspices de la Sainte Poésie, esprit protecteur du cratère, la faune haute en couleurs du bar lui présente leur monde magique en l’invitant dans des univers éclectiques, éclatés et absurdes. Sauront-iels le convaincre d’en faire partie ou le perdront-iels au chant de sirènes de la grande ville?",
+        "startDate": "2025-06-03T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7876",
+        "location": {
+          "@type": "Place",
+          "name": "Centre culturel La Ronde",
+          "url": "https://scenesfrancophones.ca/node/4155",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "32, rue Mountjoy nord",
+            "addressLocality": "Timmins",
+            "addressRegion": "ON",
+            "postalCode": "P4N 4V6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.476702",
+            "longitude": "-81.335287"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4155"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.eventbrite.ca/e/nickel-city-fifs-tickets-991045211907?aff=oddtdtcreator",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/77",
+          "name": "Centre culturel La Ronde",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/4105",
+            "url": "https://scenesfrancophones.ca/artistes/alex-tetreault-theatre-du-nouvel-ontario",
+            "name": "Alex Tétreault / Théâtre du Nouvel-Ontario"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/204",
         "url": "https://scenesfrancophones.ca/artistes/anique-granger",
@@ -21979,6 +23920,259 @@
         "@id": "https://scenesfrancophones.ca/id/7785",
         "url": "https://scenesfrancophones.ca/artistes/natalie-robichaud",
         "name": "Natalie Robichaud"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7795",
+        "url": "https://scenesfrancophones.ca/artistes/neev-0",
+        "name": "Neev"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7798",
+        "url": "https://scenesfrancophones.ca/artistes/ccnb-sur-scene",
+        "name": "CCNB sur scène"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7801",
+        "url": "https://scenesfrancophones.ca/artistes/love-guns",
+        "name": "LOVE GUNS"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7804",
+        "url": "https://scenesfrancophones.ca/artistes/matthieu-pepper-0",
+        "name": "Matthieu Pepper"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7807",
+        "url": "https://scenesfrancophones.ca/artistes/larriere-scene",
+        "name": "L'ARRIÈRE SCÈNE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7810",
+        "url": "https://scenesfrancophones.ca/artistes/les-bb-par-ludovick-bourgeois-4",
+        "name": "LES BB par LUDOVICK BOURGEOIS"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7813",
+        "url": "https://scenesfrancophones.ca/artistes/mona-de-grenoble-0",
+        "name": "MONA DE GRENOBLE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7816",
+        "url": "https://scenesfrancophones.ca/artistes/lensemble-vocal-les-voix-de-la-baie",
+        "name": "L'ENSEMBLE VOCAL LES VOIX DE LA BAIE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7819",
+        "url": "https://scenesfrancophones.ca/artistes/acadieland",
+        "name": "ACADIELAND"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7822",
+        "url": "https://scenesfrancophones.ca/artistes/tina",
+        "name": "TINA"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7825",
+        "url": "https://scenesfrancophones.ca/artistes/claude-dubois",
+        "name": "CLAUDE DUBOIS"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7828",
+        "url": "https://scenesfrancophones.ca/artistes/laurent-paquin",
+        "name": "LAURENT PAQUIN"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7831",
+        "url": "https://scenesfrancophones.ca/artistes/les-gars-du-nord-0",
+        "name": "LES GARS DU NORD"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7834",
+        "url": "https://scenesfrancophones.ca/artistes/queen-its-kinda-magic",
+        "name": "QUEEN - IT'S KINDA MAGIC"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7837",
+        "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
+        "name": "JÉRÉMY DEMAY"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7840",
+        "url": "https://scenesfrancophones.ca/artistes/back-80s-band",
+        "name": "BACK TO THE 80s BAND"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7843",
+        "url": "https://scenesfrancophones.ca/artistes/melissa-bedard",
+        "name": "MÉLISSA BÉDARD"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7846",
+        "url": "https://scenesfrancophones.ca/artistes/compagnie-comme-une-etincelle",
+        "name": "Compagnie Comme une étincelle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7850",
+        "url": "https://scenesfrancophones.ca/artistes/lionel-groove",
+        "name": "Lionel Groove"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7856",
+        "url": "https://scenesfrancophones.ca/artistes/compagnie-comme-une-etincelle-0",
+        "name": "Compagnie Comme une étincelle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7864",
+        "url": "https://scenesfrancophones.ca/artistes/compagnie-comme-une-etincelle-1",
+        "name": "Compagnie Comme une étincelle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7868",
+        "url": "https://scenesfrancophones.ca/artistes/lionel-groove-0",
+        "name": "Lionel Groove"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7872",
+        "url": "https://scenesfrancophones.ca/artistes/compagnie-comme-une-etincelle-2",
+        "name": "Compagnie Comme une étincelle"
       }
     ]
   },
