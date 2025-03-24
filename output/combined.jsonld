@@ -20692,6 +20692,114 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/swamp-hommage-ccr-7879",
+        "name": "SWAMP -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Souvent cité parmi les meilleurs hommages à CCR au Canada, Swamp est plus qu'un groupe : c'est une ambiance. Non pas qu'ils cherchent à ressembler ou à sonner (note pour note) à CCR, mais \r\n\r\nparce qu'ils aiment tellement leur sujet, ils veulent toujours le démontrer du mieux qu'ils peuvent en recréant avec soin l'esprit à la fois précis et décontracté de Creedence. Ils parviennent à recréer une \r\n\r\nexpérience pour ceux qui aiment le groupe original autant qu'eux, ou à donner aux non-initiés l'occasion de découvrir ce qui, selon eux, fait la grandeur du groupe. \r\n\r\nEn résumé, les membres du groupe dégagent quelque chose d'unique et de spécial, une synergie indescriptible.",
+        "startDate": "2025-04-22T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7879",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/swamp-un-hommage-a-ccr",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7877",
+            "url": "https://scenesfrancophones.ca/artistes/swamp",
+            "name": "SWAMP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/beatlemania-beatlemania-revisited-7882",
+        "name": "BEATLEMANIA -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "« Beatlemania Revisited », un spectacle itinérant international, recrée l'ambiance, le son et l'effervescence des performances live des quatre fabuleux. Cet événement musical et théâtral unique met en scène des acteurs européens et nord-américains talentueux dans les rôles de John, Paul, George et Ringo.\r\n\r\n\r\n\r\nBeatlemania Revisited est un spectacle familial et interactif qui fera rire, chanter, danser et applaudir les fans tout au long du spectacle. Côté musique, le spectacle propose des recréations de chansons note à note par une troupe exceptionnelle, agrémentée de costumes complets et d'instruments et équipements vintage. Axé principalement sur les performances live des Beatles, le spectacle débute par leur première apparition électrisante dans l'émission télévisée d'Ed Sullivan en février 1964, puis plonge le public dans cinq années de l'ère des Beatles, pour se conclure par leur célèbre concert « sur le toit » de janvier 1969. Au fil de son parcours, Beatlemania Revisited propose 35 chansons, dont « I Want To Hold Your Hand », « Ticket to Ride », « Yesterday », « Penny Lane », « Hey Jude », « Something », « Let It Be » et bien d'autres titres intemporels.",
+        "startDate": "2025-05-18T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7882",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/beatlemania",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7880",
+            "url": "https://scenesfrancophones.ca/artistes/beatlemania",
+            "name": "BEATLEMANIA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/204",
         "url": "https://scenesfrancophones.ca/artistes/anique-granger",
@@ -24173,6 +24281,28 @@
         "@id": "https://scenesfrancophones.ca/id/7872",
         "url": "https://scenesfrancophones.ca/artistes/compagnie-comme-une-etincelle-2",
         "name": "Compagnie Comme une étincelle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7877",
+        "url": "https://scenesfrancophones.ca/artistes/swamp",
+        "name": "SWAMP"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7880",
+        "url": "https://scenesfrancophones.ca/artistes/beatlemania",
+        "name": "BEATLEMANIA"
       }
     ]
   },
