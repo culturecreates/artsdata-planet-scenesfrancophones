@@ -53,5 +53,5 @@ jobs:
         uses: culturecreates/artsdata-pipeline-action@v1.1.0
         with:
           artifact: scenesfrancophones-ca
-          publisher: "${{ secrets.PUBLISHER_URI_GREGORY }}"
+          publisher: "https://github.com/fjjulien#this"
           downloadUrl: "https://raw.githubusercontent.com/culturecreates/artsdata-planet-scenesfrancophones/main/output/combined.jsonld"
