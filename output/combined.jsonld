@@ -5,7 +5,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/961",
-        "name": "Marcher à l'infini",
+        "name": "Marcher à l'infini - small change to trigger new artifact for Artsdata",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
