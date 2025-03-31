@@ -22631,17 +22631,6 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/4042",
-        "url": "https://scenesfrancophones.ca/artistes/surface-danse",
-        "name": "surFace Danse"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/4043",
         "url": "https://scenesfrancophones.ca/artistes/la-viree",
