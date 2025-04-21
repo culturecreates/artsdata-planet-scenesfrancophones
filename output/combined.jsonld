@@ -20800,6 +20800,59 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/leandra-gold-blue-clay-jazz-au-carbeau-7905",
+        "name": "Léandra Gold/ Blue Clay  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Soirée jazz en double plateau Léandra Gold et Blue Clay",
+        "startDate": "2025-02-07T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/7905",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Gilles-Laplante",
+          "url": "https://scenesfrancophones.ca/node/467",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300, chemin Beaverbrook",
+            "addressLocality": "Miramichi",
+            "addressRegion": "NB",
+            "postalCode": "E1V 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.011306",
+            "longitude": "-65.587368"
+          },
+          "@id": "https://scenesfrancophones.ca/id/467"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/37",
+          "name": "Carrefour communautaire Beausoleil",
+          "url": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/7903",
+            "url": "https://scenesfrancophones.ca/artistes/leandra-gold-blue-clay",
+            "name": "Léandra Gold/ Blue Clay"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/204",
         "url": "https://scenesfrancophones.ca/artistes/anique-granger",
@@ -21056,7 +21109,7 @@
         "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/233",
         "url": "https://scenesfrancophones.ca/artistes/la-legende-de-calamity-jane",
-        "name": "La Légende de Calamity Jane"
+        "name": "La légende de Calamity Jane"
       }
     ]
   },
@@ -21497,14 +21550,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/906",
         "url": "https://scenesfrancophones.ca/artistes/jono",
-        "name": "Jono",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Jono-photo.jpg?itok=4CqUM-C3",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Jono"
       }
     ]
   },
@@ -21724,14 +21770,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/920",
         "url": "https://scenesfrancophones.ca/artistes/reney-ray",
-        "name": "Reney Ray",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Reney%20Ray-photo.jpg?itok=M0ohJoCG",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Reney Ray"
       }
     ]
   },
@@ -22402,7 +22441,7 @@
       {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4014",
-        "url": "https://scenesfrancophones.ca/artistes/adrian-house-0",
+        "url": "https://scenesfrancophones.ca/artistes/adrian-house",
         "name": "Adrian House"
       }
     ]
@@ -23183,7 +23222,7 @@
       {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4406",
-        "url": "https://scenesfrancophones.ca/artistes/mitch-jean-0",
+        "url": "https://scenesfrancophones.ca/artistes/mitch-jean",
         "name": "Mitch Jean"
       }
     ]
@@ -23485,9 +23524,9 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5435",
-        "url": "https://scenesfrancophones.ca/artistes/les-chiclettes-0",
+        "url": "https://scenesfrancophones.ca/artistes/les-chiclettes",
         "name": "Les Chiclettes"
       }
     ]
@@ -23551,7 +23590,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5731",
         "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
         "name": "Caroline Raynaud"
@@ -24292,6 +24331,138 @@
         "@id": "https://scenesfrancophones.ca/id/7880",
         "url": "https://scenesfrancophones.ca/artistes/beatlemania",
         "name": "BEATLEMANIA"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/7889",
+        "url": "https://scenesfrancophones.ca/artistes/ariane-mahryke-lemire",
+        "name": "Ariane Mahrÿke Lemire"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/7890",
+        "url": "https://scenesfrancophones.ca/artistes/aude-ray",
+        "name": "Aude Ray"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/7891",
+        "url": "https://scenesfrancophones.ca/artistes/elodie-orsei",
+        "name": "Élodie Orsei"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/7892",
+        "url": "https://scenesfrancophones.ca/artistes/claire-ness",
+        "name": "Claire Ness"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/7893",
+        "url": "https://scenesfrancophones.ca/artistes/maya-chartier",
+        "name": "Maya Chartier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/7894",
+        "url": "https://scenesfrancophones.ca/artistes/major-funk",
+        "name": "Major Funk"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7895",
+        "url": "https://scenesfrancophones.ca/artistes/port-aux-poutines",
+        "name": "Port-Aux-Poutines"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/7896",
+        "url": "https://scenesfrancophones.ca/artistes/les-pxrtals-portails",
+        "name": "Les Pxrtals (\"portails\")"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/7897",
+        "url": "https://scenesfrancophones.ca/artistes/menoncle-jason",
+        "name": "Menoncle Jason"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/7898",
+        "url": "https://scenesfrancophones.ca/artistes/gilbert-drapeau",
+        "name": "Gilbert Drapeau"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7900",
+        "url": "https://scenesfrancophones.ca/artistes/blue-clay",
+        "name": "Blue Clay"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/7903",
+        "url": "https://scenesfrancophones.ca/artistes/leandra-gold-blue-clay",
+        "name": "Léandra Gold/ Blue Clay"
       }
     ]
   },
