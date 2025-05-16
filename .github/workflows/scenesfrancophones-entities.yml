@@ -21,9 +21,7 @@ jobs:
         curl https://scenesfrancophones.ca/donneesouvertes/lieux.json > output/places.jsonld 
         curl https://scenesfrancophones.ca/donneesouvertes/diffuseurs.json > output/presenters.jsonld
     
-    - name: List downloaded files
-      run: |
-        ls -lah output
+    
 
     # http://schema.org/EntertainmentBusiness is not allowed in Artsdata because it is a subclass of schema:Organization and schema:Place
     # Artsdata automatically transforms schema:EntertainmentBusiness to schema:Place which would be wrong for this data source.
@@ -31,9 +29,10 @@ jobs:
       run: |
         cd output
         sed -i 's/EntertainmentBusiness/Organization/g'  presenters.jsonld  
-
+        
     - name: combine-jsonld
       run : |
+        ls -lah .
         jq -s '[ .[] | .[] ]' artists.jsonld events.jsonld places.jsonld presenters.jsonld > combined.jsonld
 
     - name: Check for file changes
