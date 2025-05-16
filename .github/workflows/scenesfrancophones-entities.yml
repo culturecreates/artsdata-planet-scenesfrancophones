@@ -16,9 +16,9 @@ jobs:
 
     - name: curl-jsonld
       run: |
-        curl https://scenesfrancophones.ca/donneesouvertes/evenements.json > output/events.jsonld \
-        curl https://scenesfrancophones.ca/donneesouvertes/artistes.json > output/artists.jsonld \
-        curl https://scenesfrancophones.ca/donneesouvertes/lieux.json > output/places.jsonld \
+        curl https://scenesfrancophones.ca/donneesouvertes/evenements.json > output/events.jsonld 
+        curl https://scenesfrancophones.ca/donneesouvertes/artistes.json > output/artists.jsonld 
+        curl https://scenesfrancophones.ca/donneesouvertes/lieux.json > output/places.jsonld 
         curl https://scenesfrancophones.ca/donneesouvertes/diffuseurs.json > output/presenters.jsonld 
 
     # http://schema.org/EntertainmentBusiness is not allowed in Artsdata because it is a subclass of schema:Organization and schema:Place
