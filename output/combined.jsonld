@@ -19949,7 +19949,7 @@
         },
         "performer": [
           {
-            "@type": "Organization",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4105",
             "url": "https://scenesfrancophones.ca/artistes/alex-tetreault",
             "name": "Alex Tétreault"
@@ -20269,7 +20269,7 @@
         },
         "performer": [
           {
-            "@type": "Organization",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4105",
             "url": "https://scenesfrancophones.ca/artistes/alex-tetreault",
             "name": "Alex Tétreault"
@@ -20323,7 +20323,7 @@
         },
         "performer": [
           {
-            "@type": "Organization",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4105",
             "url": "https://scenesfrancophones.ca/artistes/alex-tetreault",
             "name": "Alex Tétreault"
@@ -20537,7 +20537,7 @@
         },
         "performer": [
           {
-            "@type": "Organization",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4105",
             "url": "https://scenesfrancophones.ca/artistes/alex-tetreault",
             "name": "Alex Tétreault"
@@ -20644,7 +20644,7 @@
         },
         "performer": [
           {
-            "@type": "Organization",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4105",
             "url": "https://scenesfrancophones.ca/artistes/alex-tetreault",
             "name": "Alex Tétreault"
@@ -20698,7 +20698,7 @@
         },
         "performer": [
           {
-            "@type": "Organization",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4105",
             "url": "https://scenesfrancophones.ca/artistes/alex-tetreault",
             "name": "Alex Tétreault"
@@ -20967,7 +20967,7 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8060",
             "url": "https://scenesfrancophones.ca/artistes/symphonie-nouveau-brunswick",
             "name": "Symphonie Nouveau-Brunswick"
@@ -22819,7 +22819,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Organization",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4105",
         "url": "https://scenesfrancophones.ca/artistes/alex-tetreault",
         "name": "Alex Tétreault"
@@ -24608,7 +24608,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8060",
         "url": "https://scenesfrancophones.ca/artistes/symphonie-nouveau-brunswick",
         "name": "Symphonie Nouveau-Brunswick"
@@ -24619,8 +24619,19 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/8063",
+        "url": "https://scenesfrancophones.ca/artistes/fano-maddix",
+        "name": "Fano Maddix"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/457",
+        "url": "https://scenesfrancophones.ca/node/457",
         "name": "Atrium de l'ACFSJ",
         "address": {
           "@type": "PostalAddress",
@@ -24644,7 +24655,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/458",
+        "url": "https://scenesfrancophones.ca/node/458",
         "name": "Gymnase de l'ACFSJ",
         "address": {
           "@type": "PostalAddress",
@@ -24668,7 +24679,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/459",
+        "url": "https://scenesfrancophones.ca/node/459",
         "name": "Salle Multifonctionnelle du Centre des Grands-Vents",
         "address": {
           "@type": "PostalAddress",
@@ -24692,7 +24703,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/460",
+        "url": "https://scenesfrancophones.ca/node/460",
         "name": "Centre communautaire de Cookville",
         "address": {
           "@type": "PostalAddress",
@@ -24716,7 +24727,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/461",
+        "url": "https://scenesfrancophones.ca/node/461",
         "name": "Centre scolaire communautaire Point-de-Mire",
         "address": {
           "@type": "PostalAddress",
@@ -24740,7 +24751,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/462",
+        "url": "https://scenesfrancophones.ca/node/462",
         "name": "Au Vieux Treuil",
         "address": {
           "@type": "PostalAddress",
@@ -24764,7 +24775,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/463",
+        "url": "https://scenesfrancophones.ca/node/463",
         "name": "Auditorium de la Polyvalente des Ïles",
         "address": {
           "@type": "PostalAddress",
@@ -24788,7 +24799,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/464",
+        "url": "https://scenesfrancophones.ca/node/464",
         "name": "Aux Pas Perdus",
         "address": {
           "@type": "PostalAddress",
@@ -24812,7 +24823,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/465",
+        "url": "https://scenesfrancophones.ca/node/465",
         "name": "Centre récréatif de l'Étang-du-Nord",
         "address": {
           "@type": "PostalAddress",
@@ -24836,7 +24847,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/466",
+        "url": "https://scenesfrancophones.ca/node/466",
         "name": "Cafétéria du Carrefour Beausoleil",
         "address": {
           "@type": "PostalAddress",
@@ -24860,7 +24871,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/467",
+        "url": "https://scenesfrancophones.ca/node/467",
         "name": "Théâtre Gilles-Laplante",
         "address": {
           "@type": "PostalAddress",
@@ -24884,7 +24895,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/468",
+        "url": "https://scenesfrancophones.ca/node/468",
         "name": "Théâtre Bernard Poirier",
         "address": {
           "@type": "PostalAddress",
@@ -24908,7 +24919,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/469",
+        "url": "https://scenesfrancophones.ca/node/469",
         "name": "Chapiteau du Carrefour de la mer",
         "address": {
           "@type": "PostalAddress",
@@ -24932,7 +24943,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/470",
+        "url": "https://scenesfrancophones.ca/node/470",
         "name": "Foyer du Centre culturel de Caraquet",
         "address": {
           "@type": "PostalAddress",
@@ -24956,7 +24967,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/471",
+        "url": "https://scenesfrancophones.ca/node/471",
         "name": "Salle de spectacle du Centre culturel de Caraquet",
         "address": {
           "@type": "PostalAddress",
@@ -24980,7 +24991,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/472",
+        "url": "https://scenesfrancophones.ca/node/472",
         "name": "Salle du Carrefour de la mer",
         "address": {
           "@type": "PostalAddress",
@@ -25004,7 +25015,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/473",
+        "url": "https://scenesfrancophones.ca/node/473",
         "name": "Centre des arts de la Confédération",
         "address": {
           "@type": "PostalAddress",
@@ -25028,7 +25039,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/474",
+        "url": "https://scenesfrancophones.ca/node/474",
         "name": "Grand théâtre",
         "address": {
           "@type": "PostalAddress",
@@ -25052,7 +25063,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/475",
+        "url": "https://scenesfrancophones.ca/node/475",
         "name": "Théâtre The Mack",
         "address": {
           "@type": "PostalAddress",
@@ -25076,7 +25087,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/476",
+        "url": "https://scenesfrancophones.ca/node/476",
         "name": "La Caserne",
         "address": {
           "@type": "PostalAddress",
@@ -25100,7 +25111,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/477",
+        "url": "https://scenesfrancophones.ca/node/477",
         "name": "Salle George-Cottreau",
         "address": {
           "@type": "PostalAddress",
@@ -25124,7 +25135,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/478",
+        "url": "https://scenesfrancophones.ca/node/478",
         "name": "Seahorse Tavern",
         "address": {
           "@type": "PostalAddress",
@@ -25148,7 +25159,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/479",
+        "url": "https://scenesfrancophones.ca/node/479",
         "name": "Bus Stop Theatre",
         "address": {
           "@type": "PostalAddress",
@@ -25172,7 +25183,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/480",
+        "url": "https://scenesfrancophones.ca/node/480",
         "name": "Salle Entre deux mers",
         "address": {
           "@type": "PostalAddress",
@@ -25196,7 +25207,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/481",
+        "url": "https://scenesfrancophones.ca/node/481",
         "name": "Salle paroissiale de Mont-Carmel",
         "address": {
           "@type": "PostalAddress",
@@ -25220,7 +25231,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/482",
+        "url": "https://scenesfrancophones.ca/node/482",
         "name": "Auditorium de l'École Marie-Esther",
         "address": {
           "@type": "PostalAddress",
@@ -25244,7 +25255,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/483",
+        "url": "https://scenesfrancophones.ca/node/483",
         "name": "Centre des Congrès de la Péninsule Acadienne",
         "address": {
           "@type": "PostalAddress",
@@ -25268,7 +25279,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/484",
+        "url": "https://scenesfrancophones.ca/node/484",
         "name": "Centre Rhéal-Cormier",
         "address": {
           "@type": "PostalAddress",
@@ -25292,7 +25303,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/485",
+        "url": "https://scenesfrancophones.ca/node/485",
         "name": "La P'tite Église",
         "address": {
           "@type": "PostalAddress",
@@ -25316,7 +25327,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/486",
+        "url": "https://scenesfrancophones.ca/node/486",
         "name": "Salle Mathieu-Duguay",
         "address": {
           "@type": "PostalAddress",
@@ -25340,7 +25351,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/487",
+        "url": "https://scenesfrancophones.ca/node/487",
         "name": "Le Richelieu (La butte)",
         "address": {
           "@type": "PostalAddress",
@@ -25364,7 +25375,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/488",
+        "url": "https://scenesfrancophones.ca/node/488",
         "name": "Salle Marc Lescarbot",
         "address": {
           "@type": "PostalAddress",
@@ -25388,7 +25399,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/489",
+        "url": "https://scenesfrancophones.ca/node/489",
         "name": "Boulangerie Grains de folie",
         "address": {
           "@type": "PostalAddress",
@@ -25412,7 +25423,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/490",
+        "url": "https://scenesfrancophones.ca/node/490",
         "name": "Quai des artistes",
         "address": {
           "@type": "PostalAddress",
@@ -25436,7 +25447,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/491",
+        "url": "https://scenesfrancophones.ca/node/491",
         "name": "Théâtre Uni - Salle Alma",
         "address": {
           "@type": "PostalAddress",
@@ -25460,7 +25471,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/492",
+        "url": "https://scenesfrancophones.ca/node/492",
         "name": "Théâtre LER",
         "address": {
           "@type": "PostalAddress",
@@ -25484,7 +25495,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/493",
+        "url": "https://scenesfrancophones.ca/node/493",
         "name": "Centre de la Vallée",
         "address": {
           "@type": "PostalAddress",
@@ -25508,7 +25519,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/494",
+        "url": "https://scenesfrancophones.ca/node/494",
         "name": "Centre civique",
         "address": {
           "@type": "PostalAddress",
@@ -25532,7 +25543,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/495",
+        "url": "https://scenesfrancophones.ca/node/495",
         "name": "Auditorium de la polyvalente A.-J.-Savoie",
         "address": {
           "@type": "PostalAddress",
@@ -25556,7 +25567,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/496",
+        "url": "https://scenesfrancophones.ca/node/496",
         "name": "Palais Centre-Ville",
         "address": {
           "@type": "PostalAddress",
@@ -25580,7 +25591,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/497",
+        "url": "https://scenesfrancophones.ca/node/497",
         "name": "Salle du Citoyen",
         "address": {
           "@type": "PostalAddress",
@@ -25604,7 +25615,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/498",
+        "url": "https://scenesfrancophones.ca/node/498",
         "name": "Théâtre Fatima",
         "address": {
           "@type": "PostalAddress",
@@ -25628,7 +25639,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/499",
+        "url": "https://scenesfrancophones.ca/node/499",
         "name": "Salle J.-Armand-Lavoie",
         "address": {
           "@type": "PostalAddress",
@@ -25652,7 +25663,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/500",
+        "url": "https://scenesfrancophones.ca/node/500",
         "name": "Salle Soeur Berthe Fauteux",
         "address": {
           "@type": "PostalAddress",
@@ -25676,7 +25687,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/501",
+        "url": "https://scenesfrancophones.ca/node/501",
         "name": "Pub 981",
         "address": {
           "@type": "PostalAddress",
@@ -25700,7 +25711,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/502",
+        "url": "https://scenesfrancophones.ca/node/502",
         "name": "Théâtre Richard-Denys",
         "address": {
           "@type": "PostalAddress",
@@ -25724,7 +25735,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/503",
+        "url": "https://scenesfrancophones.ca/node/503",
         "name": "Auditorium Richelieu",
         "address": {
           "@type": "PostalAddress",
@@ -25748,7 +25759,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/504",
+        "url": "https://scenesfrancophones.ca/node/504",
         "name": "Auditorium de l'École Bathurst High School",
         "address": {
           "@type": "PostalAddress",
@@ -25772,7 +25783,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/505",
+        "url": "https://scenesfrancophones.ca/node/505",
         "name": "l'Espace culturel La Bibitte",
         "address": {
           "@type": "PostalAddress",
@@ -25796,7 +25807,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/506",
+        "url": "https://scenesfrancophones.ca/node/506",
         "name": "Amphithéâtre Richelieu de l’École Secondaire Népisiguit",
         "address": {
           "@type": "PostalAddress",
@@ -25820,7 +25831,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/507",
+        "url": "https://scenesfrancophones.ca/node/507",
         "name": "École Abbey-Landry",
         "address": {
           "@type": "PostalAddress",
@@ -25844,7 +25855,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/508",
+        "url": "https://scenesfrancophones.ca/node/508",
         "name": "Théâtre du Monument-Lefebvre",
         "address": {
           "@type": "PostalAddress",
@@ -25868,7 +25879,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/509",
+        "url": "https://scenesfrancophones.ca/node/509",
         "name": "Théâtre Capitol",
         "address": {
           "@type": "PostalAddress",
@@ -25892,7 +25903,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/510",
+        "url": "https://scenesfrancophones.ca/node/510",
         "name": "Salle Empress",
         "address": {
           "@type": "PostalAddress",
@@ -25916,7 +25927,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/511",
+        "url": "https://scenesfrancophones.ca/node/511",
         "name": "théâtre l'Escaouette",
         "address": {
           "@type": "PostalAddress",
@@ -25940,7 +25951,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/512",
+        "url": "https://scenesfrancophones.ca/node/512",
         "name": "Centre communautaire de Village Bois-Joli",
         "address": {
           "@type": "PostalAddress",
@@ -25964,7 +25975,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/513",
+        "url": "https://scenesfrancophones.ca/node/513",
         "name": "Resto-bar La Trappe",
         "address": {
           "@type": "PostalAddress",
@@ -25988,7 +25999,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/514",
+        "url": "https://scenesfrancophones.ca/node/514",
         "name": "Salle Angèle Arsenault",
         "address": {
           "@type": "PostalAddress",
@@ -26012,7 +26023,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/515",
+        "url": "https://scenesfrancophones.ca/node/515",
         "name": "Cafétéria du Centre Samuel-de-Champlain",
         "address": {
           "@type": "PostalAddress",
@@ -26036,7 +26047,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/516",
+        "url": "https://scenesfrancophones.ca/node/516",
         "name": "Salon Irène Grant-Guérette",
         "address": {
           "@type": "PostalAddress",
@@ -26060,7 +26071,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/517",
+        "url": "https://scenesfrancophones.ca/node/517",
         "name": "Théâtre de l'ACFSJ",
         "address": {
           "@type": "PostalAddress",
@@ -26084,7 +26095,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/518",
+        "url": "https://scenesfrancophones.ca/node/518",
         "name": "Théâtre Louis Vermeersch",
         "address": {
           "@type": "PostalAddress",
@@ -26108,7 +26119,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/519",
+        "url": "https://scenesfrancophones.ca/node/519",
         "name": "Le Bayou",
         "address": {
           "@type": "PostalAddress",
@@ -26132,7 +26143,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/520",
+        "url": "https://scenesfrancophones.ca/node/520",
         "name": "Théâtre Port-Lajoye",
         "address": {
           "@type": "PostalAddress",
@@ -26156,7 +26167,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/521",
+        "url": "https://scenesfrancophones.ca/node/521",
         "name": "Centre des arts d'Edmundston",
         "address": {
           "@type": "PostalAddress",
@@ -26180,7 +26191,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/522",
+        "url": "https://scenesfrancophones.ca/node/522",
         "name": "Centre Jean-Daigle",
         "address": {
           "@type": "PostalAddress",
@@ -26204,7 +26215,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/523",
+        "url": "https://scenesfrancophones.ca/node/523",
         "name": "Salle Léo-Poulin",
         "address": {
           "@type": "PostalAddress",
@@ -26228,7 +26239,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/524",
+        "url": "https://scenesfrancophones.ca/node/524",
         "name": "Salle Multifonctionnelle Denis-Richard",
         "address": {
           "@type": "PostalAddress",
@@ -26253,7 +26264,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/525",
+        "url": "https://scenesfrancophones.ca/node/525",
         "name": "Bar Le Coude",
         "address": {
           "@type": "PostalAddress",
@@ -26277,7 +26288,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/526",
+        "url": "https://scenesfrancophones.ca/node/526",
         "name": "Salle de Spectacle Jeanne-de-Valois",
         "address": {
           "@type": "PostalAddress",
@@ -26301,7 +26312,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/933",
+        "url": "https://scenesfrancophones.ca/node/933",
         "name": "Firkinstein Brewing",
         "address": {
           "@type": "PostalAddress",
@@ -26325,7 +26336,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1044",
+        "url": "https://scenesfrancophones.ca/node/1044",
         "name": "ACFO-SDG",
         "address": {
           "@type": "PostalAddress",
@@ -26349,7 +26360,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1045",
+        "url": "https://scenesfrancophones.ca/node/1045",
         "name": "Théâtre l'Octave",
         "address": {
           "@type": "PostalAddress",
@@ -26373,7 +26384,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1046",
+        "url": "https://scenesfrancophones.ca/node/1046",
         "name": "Centre culturel Le Chenail",
         "address": {
           "@type": "PostalAddress",
@@ -26397,7 +26408,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1047",
+        "url": "https://scenesfrancophones.ca/node/1047",
         "name": "Auditorium École Le Relais",
         "address": {
           "@type": "PostalAddress",
@@ -26421,7 +26432,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1048",
+        "url": "https://scenesfrancophones.ca/node/1048",
         "name": "Centre national des Arts",
         "address": {
           "@type": "PostalAddress",
@@ -26445,7 +26456,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1049",
+        "url": "https://scenesfrancophones.ca/node/1049",
         "name": "Festival Franco-Ontarien",
         "address": {
           "@type": "PostalAddress",
@@ -26469,7 +26480,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1050",
+        "url": "https://scenesfrancophones.ca/node/1050",
         "name": "Maison de la francophonie d’Ottawa (CMFO)",
         "address": {
           "@type": "PostalAddress",
@@ -26493,7 +26504,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1051",
+        "url": "https://scenesfrancophones.ca/node/1051",
         "name": "La Nouvelle Scène Gilles Desjardins",
         "address": {
           "@type": "PostalAddress",
@@ -26517,7 +26528,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1052",
+        "url": "https://scenesfrancophones.ca/node/1052",
         "name": "MIFO",
         "address": {
           "@type": "PostalAddress",
@@ -26541,7 +26552,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1053",
+        "url": "https://scenesfrancophones.ca/node/1053",
         "name": "Club culturel francophone de Thunder Bay",
         "address": {
           "@type": "PostalAddress",
@@ -26565,7 +26576,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1054",
+        "url": "https://scenesfrancophones.ca/node/1054",
         "name": "École Secondaire Catholique Thériault",
         "address": {
           "@type": "PostalAddress",
@@ -26589,7 +26600,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1055",
+        "url": "https://scenesfrancophones.ca/node/1055",
         "name": "Centre Capitol",
         "address": {
           "@type": "PostalAddress",
@@ -26613,7 +26624,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1056",
+        "url": "https://scenesfrancophones.ca/node/1056",
         "name": "Centre culturel Louis-Hémon",
         "address": {
           "@type": "PostalAddress",
@@ -26637,7 +26648,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1057",
+        "url": "https://scenesfrancophones.ca/node/1057",
         "name": "Centre régional de Loisirs culturels de Kapuskasing",
         "address": {
           "@type": "PostalAddress",
@@ -26661,7 +26672,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1058",
+        "url": "https://scenesfrancophones.ca/node/1058",
         "name": "Conseil des Arts de Hearst",
         "address": {
           "@type": "PostalAddress",
@@ -26685,7 +26696,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1059",
+        "url": "https://scenesfrancophones.ca/node/1059",
         "name": "Place des Arts",
         "address": {
           "@type": "PostalAddress",
@@ -26709,7 +26720,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1060",
+        "url": "https://scenesfrancophones.ca/node/1060",
         "name": "Théâtre du Nouvel-Ontario",
         "address": {
           "@type": "PostalAddress",
@@ -26733,7 +26744,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1061",
+        "url": "https://scenesfrancophones.ca/node/1061",
         "name": "Alliance Française de Toronto",
         "address": {
           "@type": "PostalAddress",
@@ -26757,7 +26768,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1062",
+        "url": "https://scenesfrancophones.ca/node/1062",
         "name": "Carrefour communautaire francophone de London",
         "address": {
           "@type": "PostalAddress",
@@ -26781,7 +26792,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1063",
+        "url": "https://scenesfrancophones.ca/node/1063",
         "name": "Centre francophone Hamilton",
         "address": {
           "@type": "PostalAddress",
@@ -26805,7 +26816,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1064",
+        "url": "https://scenesfrancophones.ca/node/1064",
         "name": "Conseil des organismes francophones de la région de Durham",
         "address": {
           "@type": "PostalAddress",
@@ -26829,7 +26840,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1065",
+        "url": "https://scenesfrancophones.ca/node/1065",
         "name": "Salle Rolland Desroches",
         "address": {
           "@type": "PostalAddress",
@@ -26853,7 +26864,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1066",
+        "url": "https://scenesfrancophones.ca/node/1066",
         "name": "Théâtre français de Toronto (TfT)",
         "address": {
           "@type": "PostalAddress",
@@ -26877,7 +26888,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1067",
+        "url": "https://scenesfrancophones.ca/node/1067",
         "name": "MICRO",
         "address": {
           "@type": "PostalAddress",
@@ -26901,7 +26912,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1068",
+        "url": "https://scenesfrancophones.ca/node/1068",
         "name": "Théâtre Action",
         "address": {
           "@type": "PostalAddress",
@@ -26925,7 +26936,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1069",
+        "url": "https://scenesfrancophones.ca/node/1069",
         "name": "APCM",
         "address": {
           "@type": "PostalAddress",
@@ -26949,7 +26960,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1070",
+        "url": "https://scenesfrancophones.ca/node/1070",
         "name": "Conseil des écoles catholiques du Centre-Est (CECCE)",
         "address": {
           "@type": "PostalAddress",
@@ -26973,7 +26984,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1071",
+        "url": "https://scenesfrancophones.ca/node/1071",
         "name": "Conseil des écoles publiques de l’Est de l’Ontario (CEPEO)",
         "address": {
           "@type": "PostalAddress",
@@ -26997,7 +27008,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1072",
+        "url": "https://scenesfrancophones.ca/node/1072",
         "name": "Conseil scolaire de district catholique de l’Est ontarien (CSDCEO)",
         "address": {
           "@type": "PostalAddress",
@@ -27021,7 +27032,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1073",
+        "url": "https://scenesfrancophones.ca/node/1073",
         "name": "Conseil scolaire catholique de district des Grandes Rivières (CSCDGR)",
         "address": {
           "@type": "PostalAddress",
@@ -27045,7 +27056,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1074",
+        "url": "https://scenesfrancophones.ca/node/1074",
         "name": "Conseil scolaire catholique Franco-Nord (CSCFN)",
         "address": {
           "@type": "PostalAddress",
@@ -27069,7 +27080,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1075",
+        "url": "https://scenesfrancophones.ca/node/1075",
         "name": "Conseil scolaire catholique du Nouvel-Ontario (CSC Nouvelon)",
         "address": {
           "@type": "PostalAddress",
@@ -27093,7 +27104,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1076",
+        "url": "https://scenesfrancophones.ca/node/1076",
         "name": "Conseil scolaire public du Grand Nord de l’Ontario (CSPGNO)",
         "address": {
           "@type": "PostalAddress",
@@ -27117,7 +27128,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1077",
+        "url": "https://scenesfrancophones.ca/node/1077",
         "name": "Conseil scolaire public du Nord-Est de l’Ontario (CSPNE)",
         "address": {
           "@type": "PostalAddress",
@@ -27141,7 +27152,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1078",
+        "url": "https://scenesfrancophones.ca/node/1078",
         "name": "Conseil scolaire de district catholique des Aurores boréales (CSDCAB)",
         "address": {
           "@type": "PostalAddress",
@@ -27165,7 +27176,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1079",
+        "url": "https://scenesfrancophones.ca/node/1079",
         "name": "Conseil scolaire catholique MonAvenir (CSC MonAvenir)",
         "address": {
           "@type": "PostalAddress",
@@ -27189,7 +27200,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1080",
+        "url": "https://scenesfrancophones.ca/node/1080",
         "name": "Conseil scolaire Viamonde (CSV)",
         "address": {
           "@type": "PostalAddress",
@@ -27213,7 +27224,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/1081",
+        "url": "https://scenesfrancophones.ca/node/1081",
         "name": "Conseil scolaire catholique Providence (CSCP)",
         "address": {
           "@type": "PostalAddress",
@@ -27237,7 +27248,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/2537",
+        "url": "https://scenesfrancophones.ca/node/2537",
         "name": "Théâtre Restigouche",
         "address": {
           "@type": "PostalAddress",
@@ -27261,7 +27272,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/2564",
+        "url": "https://scenesfrancophones.ca/node/2564",
         "name": "Salle BMO",
         "address": {
           "@type": "PostalAddress",
@@ -27285,7 +27296,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/2569",
+        "url": "https://scenesfrancophones.ca/node/2569",
         "name": "Alderney Landing",
         "address": {
           "@type": "PostalAddress",
@@ -27309,7 +27320,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/3940",
+        "url": "https://scenesfrancophones.ca/node/3940",
         "name": "Salle Lisa LeBlanc",
         "address": {
           "@type": "PostalAddress",
@@ -27333,7 +27344,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/3949",
+        "url": "https://scenesfrancophones.ca/node/3949",
         "name": "Légion Royale Canadienne de Neguac",
         "address": {
           "@type": "PostalAddress",
@@ -27357,7 +27368,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/3991",
+        "url": "https://scenesfrancophones.ca/node/3991",
         "name": "Arena de Kedgwick (Palais des loisirs)",
         "address": {
           "@type": "PostalAddress",
@@ -27381,7 +27392,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/4045",
+        "url": "https://scenesfrancophones.ca/node/4045",
         "name": "Annapolis Mess",
         "address": {
           "@type": "PostalAddress",
@@ -27405,7 +27416,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/4047",
+        "url": "https://scenesfrancophones.ca/node/4047",
         "name": "Frikinstein Brewing",
         "address": {
           "@type": "PostalAddress",
@@ -27429,7 +27440,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/4101",
+        "url": "https://scenesfrancophones.ca/node/4101",
         "name": "Irving Oil Auditorium - Imperial Theatre",
         "address": {
           "@type": "PostalAddress",
@@ -27453,7 +27464,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/4137",
+        "url": "https://scenesfrancophones.ca/node/4137",
         "name": "École Rose-des-vents",
         "address": {
           "@type": "PostalAddress",
@@ -27477,7 +27488,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/4138",
+        "url": "https://scenesfrancophones.ca/node/4138",
         "name": "St Mary's Boat Club",
         "address": {
           "@type": "PostalAddress",
@@ -27501,7 +27512,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/4139",
+        "url": "https://scenesfrancophones.ca/node/4139",
         "name": "Carrefour de l'Isle Saint-Jean",
         "address": {
           "@type": "PostalAddress",
@@ -27525,7 +27536,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/4149",
+        "url": "https://scenesfrancophones.ca/node/4149",
         "name": "École secondaire Trillium",
         "address": {
           "@type": "PostalAddress",
@@ -27549,7 +27560,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/4155",
+        "url": "https://scenesfrancophones.ca/node/4155",
         "name": "Centre culturel La Ronde",
         "address": {
           "@type": "PostalAddress",
@@ -27573,7 +27584,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/5957",
+        "url": "https://scenesfrancophones.ca/node/5957",
         "name": "Brasseux d'la Côte",
         "address": {
           "@type": "PostalAddress",
@@ -27597,7 +27608,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/6007",
+        "url": "https://scenesfrancophones.ca/node/6007",
         "name": "Place des arts Père-Anselme-Chiasson",
         "address": {
           "@type": "PostalAddress",
@@ -27621,7 +27632,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/6035",
+        "url": "https://scenesfrancophones.ca/node/6035",
         "name": "Mathieu-Martin",
         "address": {
           "@type": "PostalAddress",
@@ -27645,7 +27656,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/6047",
+        "url": "https://scenesfrancophones.ca/node/6047",
         "name": "Auditorium Alcide F. LeBlanc",
         "address": {
           "@type": "PostalAddress",
@@ -27669,7 +27680,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/6070",
+        "url": "https://scenesfrancophones.ca/node/6070",
         "name": "Best Western Bridgewater Hotel",
         "address": {
           "@type": "PostalAddress",
@@ -27693,7 +27704,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7691",
+        "url": "https://scenesfrancophones.ca/node/7691",
         "name": "Mint",
         "address": {
           "@type": "PostalAddress",
@@ -27717,7 +27728,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7693",
+        "url": "https://scenesfrancophones.ca/node/7693",
         "name": "The Royal",
         "address": {
           "@type": "PostalAddress",
@@ -27741,7 +27752,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7694",
+        "url": "https://scenesfrancophones.ca/node/7694",
         "name": "Festival du Bois",
         "address": {
           "@type": "PostalAddress",
@@ -27765,7 +27776,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7695",
+        "url": "https://scenesfrancophones.ca/node/7695",
         "name": "Centre culturel Maillard",
         "address": {
           "@type": "PostalAddress",
@@ -27789,7 +27800,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7696",
+        "url": "https://scenesfrancophones.ca/node/7696",
         "name": "École Ducharme",
         "address": {
           "@type": "PostalAddress",
@@ -27813,7 +27824,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7697",
+        "url": "https://scenesfrancophones.ca/node/7697",
         "name": "Le Bistro",
         "address": {
           "@type": "PostalAddress",
@@ -27837,7 +27848,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7698",
+        "url": "https://scenesfrancophones.ca/node/7698",
         "name": "Old Firehall",
         "address": {
           "@type": "PostalAddress",
@@ -27861,7 +27872,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7699",
+        "url": "https://scenesfrancophones.ca/node/7699",
         "name": "L'aréna de Zenon Park",
         "address": {
           "@type": "PostalAddress",
@@ -27885,7 +27896,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7700",
+        "url": "https://scenesfrancophones.ca/node/7700",
         "name": "Festival du Voyageur",
         "address": {
           "@type": "PostalAddress",
@@ -27909,7 +27920,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7701",
+        "url": "https://scenesfrancophones.ca/node/7701",
         "name": "Amigos Cantina",
         "address": {
           "@type": "PostalAddress",
@@ -27933,7 +27944,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7746",
+        "url": "https://scenesfrancophones.ca/node/7746",
         "name": "Church St. Taphouse",
         "address": {
           "@type": "PostalAddress",
@@ -27957,7 +27968,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7773",
+        "url": "https://scenesfrancophones.ca/node/7773",
         "name": "Amphithéâtre du pavillon Louis-A.-LeBel",
         "address": {
           "@type": "PostalAddress",
@@ -27981,7 +27992,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/7782",
+        "url": "https://scenesfrancophones.ca/node/7782",
         "name": "Trémolo",
         "address": {
           "@type": "PostalAddress",
@@ -28005,7 +28016,7 @@
     "@graph": [
       {
         "@type": "Place",
-        "url": "https://www.scenesfrancophones.ca/node/8005",
+        "url": "https://scenesfrancophones.ca/node/8005",
         "name": "Canton Culturel – Chéticamp",
         "address": {
           "@type": "PostalAddress",
