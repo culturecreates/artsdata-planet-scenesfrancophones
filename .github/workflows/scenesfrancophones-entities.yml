@@ -32,7 +32,7 @@ jobs:
         
     - name: combine-jsonld
       run : |
-        ls -lah .
+        cd output
         jq -s '[ .[] | .[] ]' artists.jsonld events.jsonld places.jsonld presenters.jsonld > combined.jsonld
 
     - name: Check for file changes
