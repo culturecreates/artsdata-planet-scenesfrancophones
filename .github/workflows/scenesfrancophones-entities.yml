@@ -30,7 +30,7 @@ jobs:
     - name: Replace EntertainmentBusiness with Organization 
       run: |
         cd output
-        sed -i '' 's/EntertainmentBusiness/Organization/g'  presenters.jsonld  
+        sed -i 's/EntertainmentBusiness/Organization/g'  presenters.jsonld  
 
     - name: combine-jsonld
       run : |
