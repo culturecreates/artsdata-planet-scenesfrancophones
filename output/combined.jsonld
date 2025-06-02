@@ -1292,14 +1292,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/1011",
         "url": "https://scenesfrancophones.ca/artistes/abel-maxwell",
-        "name": "Abel Maxwell",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Abel%20Maxwell%20-%20Contact%20Ontarois%202023.JPG?itok=GH_bNIwu",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "ABEL MAXWELL"
       }
     ]
   },
@@ -1491,7 +1484,7 @@
       {
         "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/4003",
-        "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc-0",
+        "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
         "name": "La Famille LeBlanc"
       }
     ]
@@ -3961,6 +3954,306 @@
         "@id": "https://scenesfrancophones.ca/id/8063",
         "url": "https://scenesfrancophones.ca/artistes/fano-maddix",
         "name": "Fano Maddix"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/8066",
+        "url": "https://scenesfrancophones.ca/artistes/daniel-leger",
+        "name": "Daniel Léger"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/8067",
+        "url": "https://scenesfrancophones.ca/artistes/tcheu-misere-0",
+        "name": "Tcheu Misère"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/8068",
+        "url": "https://scenesfrancophones.ca/artistes/axis-theatre",
+        "name": "Axis Theatre"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/8069",
+        "url": "https://scenesfrancophones.ca/artistes/fcking-theatre-co",
+        "name": "F*cking Theatre Co."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8071",
+        "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-1",
+        "name": "Mélissa Bédard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8080",
+        "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-2",
+        "name": "Mélissa Bédard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8086",
+        "url": "https://scenesfrancophones.ca/artistes/scott-pien-picard",
+        "name": "Scott-Pien Picard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8090",
+        "url": "https://scenesfrancophones.ca/artistes/david-corriveau",
+        "name": "David Corriveau"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8094",
+        "url": "https://scenesfrancophones.ca/artistes/scott-pien-picard-0",
+        "name": "Scott-Pien Picard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8097",
+        "url": "https://scenesfrancophones.ca/artistes/le-gros-orteil",
+        "name": "Le Gros Orteil"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8100",
+        "url": "https://scenesfrancophones.ca/artistes/empire-pagaille",
+        "name": "Empire Pagaille"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8104",
+        "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-3",
+        "name": "Mélissa Bédard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8110",
+        "url": "https://scenesfrancophones.ca/artistes/scott-pien-picard-1",
+        "name": "Scott-Pien Picard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8113",
+        "url": "https://scenesfrancophones.ca/artistes/le-gros-orteil-0",
+        "name": "Le Gros Orteil"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8118",
+        "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-4",
+        "name": "Mélissa Bédard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8121",
+        "url": "https://scenesfrancophones.ca/artistes/empire-pagaille-0",
+        "name": "Empire Pagaille"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8125",
+        "url": "https://scenesfrancophones.ca/artistes/david-corriveau-0",
+        "name": "David Corriveau"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8130",
+        "url": "https://scenesfrancophones.ca/artistes/david-corriveau-1",
+        "name": "David Corriveau"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8133",
+        "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-5",
+        "name": "Mélissa Bédard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8140",
+        "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-6",
+        "name": "Mélissa Bédard"
       }
     ]
   },
@@ -17494,7 +17787,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/La%20Famille%20LeBlanc%20-%20Sf.png?itok=kfRjQW_j",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade image"
+          "creditText": "Karine Wade"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -17535,7 +17828,7 @@
           {
             "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/4003",
-            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc-0",
+            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
             "name": "La Famille LeBlanc"
           }
         ]
@@ -17556,7 +17849,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/DP%20-%20Famille%20LeBlanc%20et%20Jourdan%20-%20Sf.png?itok=66RjWGzI",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade image"
+          "creditText": "Karine Wade"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -17597,7 +17890,7 @@
           {
             "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/4003",
-            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc-0",
+            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
             "name": "La Famille LeBlanc"
           }
         ]
@@ -17618,7 +17911,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/La%20Famille%20LeBlanc%20-%20Sf.png?itok=kfRjQW_j",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade image"
+          "creditText": "Karine Wade"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -17659,7 +17952,7 @@
           {
             "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/4003",
-            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc-0",
+            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
             "name": "La Famille LeBlanc"
           }
         ]
@@ -17680,7 +17973,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/La%20Famille%20LeBlanc%20-%20Sf.png?itok=kfRjQW_j",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade image"
+          "creditText": "Karine Wade"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -17701,7 +17994,7 @@
           {
             "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/4003",
-            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc-0",
+            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
             "name": "La Famille LeBlanc"
           }
         ]
@@ -17722,7 +18015,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/La%20Famille%20LeBlanc%20-%20Sf.png?itok=kfRjQW_j",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade image"
+          "creditText": "Karine Wade"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -17763,7 +18056,7 @@
           {
             "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/4003",
-            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc-0",
+            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
             "name": "La Famille LeBlanc"
           }
         ]
@@ -17784,7 +18077,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/La%20Famille%20LeBlanc%20-%20Sf.png?itok=kfRjQW_j",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade image"
+          "creditText": "Karine Wade"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -17825,7 +18118,7 @@
           {
             "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/4003",
-            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc-0",
+            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
             "name": "La Famille LeBlanc"
           }
         ]
@@ -17846,7 +18139,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/La%20Famille%20LeBlanc%20-%20Sf.png?itok=kfRjQW_j",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade image"
+          "creditText": "Karine Wade"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -17886,7 +18179,7 @@
           {
             "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/4003",
-            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc-0",
+            "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
             "name": "La Famille LeBlanc"
           }
         ]
@@ -24955,20 +25248,20 @@
         "@id": "https://scenesfrancophones.ca/id/7862",
         "location": {
           "@type": "Place",
-          "name": "Théâtre l'Octave",
+          "name": "Théâtre Le Sésame",
           "url": "https://scenesfrancophones.ca/node/1045",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "711, avenue Dalton",
+            "streetAddress": "1290 rue Wheathill",
             "addressLocality": "Kingston",
             "addressRegion": "ON",
-            "postalCode": "K7M 8N6",
+            "postalCode": "K7M 0A7",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "44.270854",
-            "longitude": "-76.522726"
+            "latitude": "44.24737",
+            "longitude": "-76.56108"
           },
           "@id": "https://scenesfrancophones.ca/id/1045"
         },
@@ -25855,6 +26148,1605 @@
           "@id": "https://scenesfrancophones.ca/id/6108",
           "url": "https://scenesfrancophones.ca/artistes/maten",
           "name": "Maten"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/maten-utenat-8070",
+        "name": "Maten -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/maten_1.jpg?itok=KP_e7aDY",
+          "width": "430",
+          "height": "430",
+          "creditText": "Alexandre Bussière"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le groupe innu Maten est originaire de Mani-Utenam, sur la Côte Nord du Québec, ancré entre la rive du Saint-Laurent et la forêt boréale. Maten, formé de Mathieu Mckenzie, Samuel Pinette et Kim Fontaine a visité des centaines de scènes au Québec depuis la fin des années 1990. Le trio manifeste un réel engagement pour leur communauté, leur langue et leurs racines innues. Et c’est tout le propos de l’album Utenat (La grande ville), dont les textes sont porteurs de leurs valeurs, de leur culture et de la fierté de leur identité.",
+        "startDate": "2024-10-26T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8070",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/6108",
+          "url": "https://scenesfrancophones.ca/artistes/maten",
+          "name": "Maten"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-bedard-piano-voix-nouveau-spectacle-8073",
+        "name": "Mélissa Bédard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/M%C3%A9lissa%20B%C3%A9dard.jpg?itok=E6StHJgE",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis sa participation remarquée à Star Académie en 2012, Mélissa Bédard s’impose comme une figure dominante du milieu artistique québécois. Elle présente son nouveau spectacle dans lequel elle interprète à sa façon les grands succès de la francophonie. Artiste aux multiples talents, la charismatique chanteuse se révèle être aussi une actrice exceptionnelle dans la comédie dramatique M’entends-tu, où elle a interprété l’inoubliable Fabiola. Celle qui maitrise l’art de nous éblouir avec sa voix intimiste et puissante devrait donner un souffle extraordinaire à un répertoire qui l’est déjà !",
+        "startDate": "2025-10-02T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8073",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8071",
+          "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-1",
+          "name": "Mélissa Bédard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-catapulte-nombre-8074",
+        "name": "Théâtre Catapulte - Nombre",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Inattendue et insolite, NOMBRE est une œuvre théâtrale participative conçue pour la salle de classe. Au début de l’expérience, les élèves reçoivent des instructions simples, à première vue anodines. Mais, par le biais d’un ingénieux système de chiffres, les voilà vite plongés au cœur d’un spectacle dont ils sont à la fois l’inspiration et les acteurs principaux. Guidés à distance par d’invisibles maîtres de jeu, une grande histoire palpitante émerge – la leur ! NOMBRE nous rappelle l’exquise singularité de l’échange humain et de l’importance que peut prendre une simple rencontre dans nos vies. Une création axée sur les thèmes de l’inter-connectivité et de la rencontre, qui offrira aux jeunes une expérience humaine et interactive singulière.",
+        "startDate": "2024-05-23T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8074",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/1020",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-catapulte",
+          "name": "Théâtre Catapulte"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-catapulte-nombre-8075",
+        "name": "Théâtre Catapulte - Nombre",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Inattendue et insolite, NOMBRE est une œuvre théâtrale participative conçue pour la salle de classe. Au début de l’expérience, les élèves reçoivent des instructions simples, à première vue anodines. Mais, par le biais d’un ingénieux système de chiffres, les voilà vite plongés au cœur d’un spectacle dont ils sont à la fois l’inspiration et les acteurs principaux. Guidés à distance par d’invisibles maîtres de jeu, une grande histoire palpitante émerge – la leur ! NOMBRE nous rappelle l’exquise singularité de l’échange humain et de l’importance que peut prendre une simple rencontre dans nos vies. Une création axée sur les thèmes de l’inter-connectivité et de la rencontre, qui offrira aux jeunes une expérience humaine et interactive singulière.",
+        "startDate": "2024-05-24T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8075",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/1020",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-catapulte",
+          "name": "Théâtre Catapulte"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mitch-jean-mitch-jean-8076",
+        "name": "Mitch Jean - Mitch Jean",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Présentateur et interprète dynamique, Mitch Jean capte l’attention de son public avec son énergie exubérante, faisant de chaque spectacle une expérience interactive. Ses chansons explorent des thèmes de la vie inspirés par la nostalgie et le nord, tout en apportant positivité et amusement à ses auditeurs. En tant qu’artiste franco-ontarien d’une petite ville de l’Ontario, Mitch fait de la musique avec de fortes racines.",
+        "startDate": "2024-06-29T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8076",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/77",
+          "name": "Centre culturel La Ronde",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4406",
+          "url": "https://scenesfrancophones.ca/artistes/mitch-jean",
+          "name": "Mitch Jean"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/maten-utenat-8077",
+        "name": "Maten -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/maten_2.jpg?itok=pF9jvTxB",
+          "width": "430",
+          "height": "430",
+          "creditText": "Alexandre Bussière"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le groupe innu Maten est originaire de Mani-Utenam, sur la Côte Nord du Québec, ancré entre la rive du Saint-Laurent et la forêt boréale. Maten, formé de Mathieu Mckenzie, Samuel Pinette et Kim Fontaine a visité des centaines de scènes au Québec depuis la fin des années 1990. Le trio manifeste un réel engagement pour leur communauté, leur langue et leurs racines innues. Et c’est tout le propos de l’album Utenat (La grande ville), dont les textes sont porteurs de leurs valeurs, de leur culture et de la fierté de leur identité.",
+        "startDate": "2024-11-07T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8077",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/77",
+          "name": "Centre culturel La Ronde",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/6108",
+          "url": "https://scenesfrancophones.ca/artistes/maten",
+          "name": "Maten"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/michel-lalonde-de-glen-garolou-8078",
+        "name": "Michel Lalonde - de Glen à Garolou",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Michel%20Lalonde.jpg?itok=wHtfVjZI",
+          "width": "430",
+          "height": "430",
+          "creditText": "Trilby Jeeves"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour célébrer les cinquante ans de ces premiers balbutiements, de ce qui fut sa plus grande aventure musicale, Michel Lalonde, prépare une rétrospective musicale où il nous fait vivre ses années Garolou de l’intérieur, le tout sur une toile de fond tiré de son répertoire de chansons engagées et histoires personnelles.",
+        "startDate": "2025-02-07T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8078",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/77",
+          "name": "Centre culturel La Ronde",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4128",
+          "url": "https://scenesfrancophones.ca/artistes/michel-lalonde-0",
+          "name": "Michel Lalonde"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mitch-jean-mitch-jean-8079",
+        "name": "Mitch Jean - Mitch Jean",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Présentateur et interprète dynamique, Mitch Jean capte l’attention de son public avec son énergie exubérante, faisant de chaque spectacle une expérience interactive. Ses chansons explorent des thèmes de la vie inspirés par la nostalgie et le nord, tout en apportant positivité et amusement à ses auditeurs. En tant qu’artiste franco-ontarien d’une petite ville de l’Ontario, Mitch fait de la musique avec de fortes racines.",
+        "startDate": "2024-06-21T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8079",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4406",
+          "url": "https://scenesfrancophones.ca/artistes/mitch-jean",
+          "name": "Mitch Jean"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-bedard-piano-voix-nouveau-spectacle-8082",
+        "name": "Mélissa Bédard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/M%C3%A9lissa%20B%C3%A9dard_0.jpg?itok=c1OilGF5",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis sa participation remarquée à Star Académie en 2012, Mélissa Bédard s’impose comme une figure dominante du milieu artistique québécois. Elle présente son nouveau spectacle dans lequel elle interprète à sa façon les grands succès de la francophonie. Artiste aux multiples talents, la charismatique chanteuse se révèle être aussi une actrice exceptionnelle dans la comédie dramatique M’entends-tu, où elle a interprété l’inoubliable Fabiola. Celle qui maitrise l’art de nous éblouir avec sa voix intimiste et puissante devrait donner un souffle extraordinaire à un répertoire qui l’est déjà !",
+        "startDate": "2025-10-03T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8082",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8080",
+          "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-2",
+          "name": "Mélissa Bédard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/productions-effet-papillon-sortir-la-tempete-8083",
+        "name": "Productions Effet Papillon - Sortir la tempête",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Effet%20Papillon.jpg?itok=PS4DDnwM",
+          "width": "430",
+          "height": "430",
+          "creditText": "Aurore Alessandra"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "C'est l'histoire d'une fille qui sera aux premières loges de l'inondaton de son village suite à la construction d'un barrage hydroélectrique. Elle y verra les magouilles politiques, les constructions aléatoires et la réalité des famille qui doivent se refaire dans un ailleurs quelconque. Tout ça, avec humour et lucidité à la fois. SORTIR LA TEMPÊTE DU VERRE raconte l'histoires des gens pour qui l'eau a tout changé dans leur vie. On navigue entre le rire et l’émotion.",
+        "startDate": "2024-10-05T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8083",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/4130",
+          "url": "https://scenesfrancophones.ca/artistes/productions-effet-papillon",
+          "name": "Productions Effet Papillon"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ferline-regis-ferline-regis-8085",
+        "name": "Ferline Regis  - Hier est parti",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-06T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8085",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/1001",
+          "url": "https://scenesfrancophones.ca/artistes/ferline-regis",
+          "name": "Ferline Regis"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/scott-pien-picard-pekuaiapu-8088",
+        "name": "Scott-Pien Picard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-14T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8088",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Trillium",
+          "url": "https://scenesfrancophones.ca/node/4149",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9 Broomhead Rd",
+            "addressLocality": "Chapleau",
+            "addressRegion": "ON",
+            "postalCode": "P0M 1K0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.839585",
+            "longitude": "-83.40972"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4149"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/79",
+          "name": "Centre culturel Louis-Hémon",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8086",
+          "url": "https://scenesfrancophones.ca/artistes/scott-pien-picard",
+          "name": "Scott-Pien Picard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mitch-jean-mitch-jean-8089",
+        "name": "Mitch Jean - Mitch Jean",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Présentateur et interprète dynamique, Mitch Jean capte l’attention de son public avec son énergie exubérante, faisant de chaque spectacle une expérience interactive. Ses chansons explorent des thèmes de la vie inspirés par la nostalgie et le nord, tout en apportant positivité et amusement à ses auditeurs. En tant qu’artiste franco-ontarien d’une petite ville de l’Ontario, Mitch fait de la musique avec de fortes racines.",
+        "startDate": "2024-06-19T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8089",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Trillium",
+          "url": "https://scenesfrancophones.ca/node/4149",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9 Broomhead Rd",
+            "addressLocality": "Chapleau",
+            "addressRegion": "ON",
+            "postalCode": "P0M 1K0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.839585",
+            "longitude": "-83.40972"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4149"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/79",
+          "name": "Centre culturel Louis-Hémon",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4406",
+          "url": "https://scenesfrancophones.ca/artistes/mitch-jean",
+          "name": "Mitch Jean"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/david-corriveau-david-corriveau-8092",
+        "name": "David Corriveau -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/David%20Corriveau.jpeg?itok=dhlNrKpk",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Si vous fermez les yeux, vous croyez entendre Céline Dion, Lara Fabian et Ginette Reno. Si vous les ouvrez, vous continuez d’entendre ces voix mais c’est un homme qui est devant vous. Cet homme s’appelle David Corriveau et non ce n’est pas une dérive de l’intelligence artificielle, il est bien là en chair et en os mais sa voix, oh sa voix! L’inimitable David Corriveau en met plein les oreilles dans un spectacle aussi impressionnant que fascinant.",
+        "startDate": "2024-11-20T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8092",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Trillium",
+          "url": "https://scenesfrancophones.ca/node/4149",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9 Broomhead Rd",
+            "addressLocality": "Chapleau",
+            "addressRegion": "ON",
+            "postalCode": "P0M 1K0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.839585",
+            "longitude": "-83.40972"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4149"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/79",
+          "name": "Centre culturel Louis-Hémon",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8090",
+          "url": "https://scenesfrancophones.ca/artistes/david-corriveau",
+          "name": "David Corriveau",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/michel-lalonde-de-glen-garolou-8093",
+        "name": "Michel Lalonde - de Glen à Garolou",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Michel%20Lalonde_0.jpg?itok=NoWZF_oy",
+          "width": "430",
+          "height": "430",
+          "creditText": "Trilby Jeeves"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour célébrer les cinquante ans de ces premiers balbutiements, de ce qui fut sa plus grande aventure musicale, Michel Lalonde, prépare une rétrospective musicale où il nous fait vivre ses années Garolou de l’intérieur, le tout sur une toile de fond tiré de son répertoire de chansons engagées et histoires personnelles.",
+        "startDate": "2025-02-08T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8093",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Trillium",
+          "url": "https://scenesfrancophones.ca/node/4149",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9 Broomhead Rd",
+            "addressLocality": "Chapleau",
+            "addressRegion": "ON",
+            "postalCode": "P0M 1K0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.839585",
+            "longitude": "-83.40972"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4149"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/79",
+          "name": "Centre culturel Louis-Hémon",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4128",
+          "url": "https://scenesfrancophones.ca/artistes/michel-lalonde-0",
+          "name": "Michel Lalonde"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/scott-pien-picard-pekuaiapu-8096",
+        "name": "Scott-Pien Picard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-13T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8096",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/80",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8094",
+          "url": "https://scenesfrancophones.ca/artistes/scott-pien-picard-0",
+          "name": "Scott-Pien Picard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/le-gros-orteil-les-voisines-8099",
+        "name": "Le Gros Orteil -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-23T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8099",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/80",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8097",
+          "url": "https://scenesfrancophones.ca/artistes/le-gros-orteil",
+          "name": "Le Gros Orteil",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/empire-pagaille-mme-brulee-8102",
+        "name": "Empire Pagaille -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-05-06T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8102",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/80",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8100",
+          "url": "https://scenesfrancophones.ca/artistes/empire-pagaille",
+          "name": "Empire Pagaille",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/empire-pagaille-mme-brulee-8103",
+        "name": "Empire Pagaille -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-05-07T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8103",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/80",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8100",
+          "url": "https://scenesfrancophones.ca/artistes/empire-pagaille",
+          "name": "Empire Pagaille",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-bedard-piano-voix-nouveau-spectacle-8106",
+        "name": "Mélissa Bédard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/M%C3%A9lissa%20B%C3%A9dard_1.jpg?itok=lS2DGtuk",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis sa participation remarquée à Star Académie en 2012, Mélissa Bédard s’impose comme une figure dominante du milieu artistique québécois. Elle présente son nouveau spectacle dans lequel elle interprète à sa façon les grands succès de la francophonie. Artiste aux multiples talents, la charismatique chanteuse se révèle être aussi une actrice exceptionnelle dans la comédie dramatique M’entends-tu, où elle a interprété l’inoubliable Fabiola. Celle qui maitrise l’art de nous éblouir avec sa voix intimiste et puissante devrait donner un souffle extraordinaire à un répertoire qui l’est déjà !",
+        "startDate": "2024-10-05T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8106",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/80",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8104",
+          "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-3",
+          "name": "Mélissa Bédard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/scott-pien-picard-pekuaiapu-8112",
+        "name": "Scott-Pien Picard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-06T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8112",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8110",
+          "url": "https://scenesfrancophones.ca/artistes/scott-pien-picard-1",
+          "name": "Scott-Pien Picard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/le-gros-orteil-les-voisines-8115",
+        "name": "Le Gros Orteil -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-22T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8115",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8113",
+          "url": "https://scenesfrancophones.ca/artistes/le-gros-orteil-0",
+          "name": "Le Gros Orteil",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/corpus-interventions-divines-8116",
+        "name": "CORPUS - La bulle",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Il y a dans chaque histoire un moment de désespoir où tout semble perdu : il n’y a plus d’autre recours possible qu’une intervention divine. Mettant en scène 4 interprètes talentueuses venues de tous horizons, ce spectacle déambulatoire imaginé en confinement se veut être un remède ludique aux défis de l’après COVID. Le public rencontrera par hasard ces déesses ambulantes, ou sera témoin d’un rite transcendantal lors d’une intervention a cappella au coin d’une rue ou d’un parc. Notre intention est d’offrir un moment de poésie, de beauté et d’espoir d’un soutien bienveillant venu de l’au-delà.",
+        "startDate": "2024-05-16T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8116",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/1018",
+          "url": "https://scenesfrancophones.ca/artistes/corpus",
+          "name": "CORPUS"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/corpus-interventions-divines-8117",
+        "name": "CORPUS - La bulle",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Il y a dans chaque histoire un moment de désespoir où tout semble perdu : il n’y a plus d’autre recours possible qu’une intervention divine. Mettant en scène 4 interprètes talentueuses venues de tous horizons, ce spectacle déambulatoire imaginé en confinement se veut être un remède ludique aux défis de l’après COVID. Le public rencontrera par hasard ces déesses ambulantes, ou sera témoin d’un rite transcendantal lors d’une intervention a cappella au coin d’une rue ou d’un parc. Notre intention est d’offrir un moment de poésie, de beauté et d’espoir d’un soutien bienveillant venu de l’au-delà.",
+        "startDate": "2024-05-18T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8117",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/1018",
+          "url": "https://scenesfrancophones.ca/artistes/corpus",
+          "name": "CORPUS"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-bedard-piano-voix-nouveau-spectacle-8120",
+        "name": "Mélissa Bédard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/M%C3%A9lissa%20B%C3%A9dard_2.jpg?itok=9bizhFtW",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis sa participation remarquée à Star Académie en 2012, Mélissa Bédard s’impose comme une figure dominante du milieu artistique québécois. Elle présente son nouveau spectacle dans lequel elle interprète à sa façon les grands succès de la francophonie. Artiste aux multiples talents, la charismatique chanteuse se révèle être aussi une actrice exceptionnelle dans la comédie dramatique M’entends-tu, où elle a interprété l’inoubliable Fabiola. Celle qui maitrise l’art de nous éblouir avec sa voix intimiste et puissante devrait donner un souffle extraordinaire à un répertoire qui l’est déjà !",
+        "startDate": "2024-10-04T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8120",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8118",
+          "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-4",
+          "name": "Mélissa Bédard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/empire-pagaille-mme-brulee-8123",
+        "name": "Empire Pagaille -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-05-10T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8123",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Rolland Desroches",
+          "url": "https://scenesfrancophones.ca/node/1065",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 2G3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1065"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8121",
+          "url": "https://scenesfrancophones.ca/artistes/empire-pagaille-0",
+          "name": "Empire Pagaille",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mitch-jean-mitch-jean-8124",
+        "name": "Mitch Jean - Mitch Jean",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Présentateur et interprète dynamique, Mitch Jean capte l’attention de son public avec son énergie exubérante, faisant de chaque spectacle une expérience interactive. Ses chansons explorent des thèmes de la vie inspirés par la nostalgie et le nord, tout en apportant positivité et amusement à ses auditeurs. En tant qu’artiste franco-ontarien d’une petite ville de l’Ontario, Mitch fait de la musique avec de fortes racines.",
+        "startDate": "2024-06-22T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8124",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Rolland Desroches",
+          "url": "https://scenesfrancophones.ca/node/1065",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 2G3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1065"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4406",
+          "url": "https://scenesfrancophones.ca/artistes/mitch-jean",
+          "name": "Mitch Jean"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/david-corriveau-david-corriveau-8127",
+        "name": "David Corriveau -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/David%20Corriveau_0.jpeg?itok=NHMFIkSf",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Si vous fermez les yeux, vous croyez entendre Céline Dion, Lara Fabian et Ginette Reno. Si vous les ouvrez, vous continuez d’entendre ces voix mais c’est un homme qui est devant vous. Cet homme s’appelle David Corriveau et non ce n’est pas une dérive de l’intelligence artificielle, il est bien là en chair et en os mais sa voix, oh sa voix! L’inimitable David Corriveau en met plein les oreilles dans un spectacle aussi impressionnant que fascinant.",
+        "startDate": "2024-11-22T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8127",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Rolland Desroches",
+          "url": "https://scenesfrancophones.ca/node/1065",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 2G3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1065"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8125",
+          "url": "https://scenesfrancophones.ca/artistes/david-corriveau-0",
+          "name": "David Corriveau",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/michel-lalonde-de-glen-garolou-8128",
+        "name": "Michel Lalonde - de Glen à Garolou",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Michel%20Lalonde_1.jpg?itok=bcb5js87",
+          "width": "430",
+          "height": "430",
+          "creditText": "Trilby Jeeves"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour célébrer les cinquante ans de ces premiers balbutiements, de ce qui fut sa plus grande aventure musicale, Michel Lalonde, prépare une rétrospective musicale où il nous fait vivre ses années Garolou de l’intérieur, le tout sur une toile de fond tiré de son répertoire de chansons engagées et histoires personnelles.",
+        "startDate": "2025-02-13T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8128",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4128",
+          "url": "https://scenesfrancophones.ca/artistes/michel-lalonde-0",
+          "name": "Michel Lalonde"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/celeste-levis-si-tu-veux-tout-savoir-8129",
+        "name": "Céleste Lévis - Si tu veux tout savoir",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "C’est avec transparence que Céleste Lévis vous invite à découvrir son nouveau spectacle “Si tu veux tout savoir”; un spectacle qui entame les réflexions et les combats des dernières années. L’auteure-compositrice-interprète propose sur scène des pièces Indie/pop accompagnées de son band passionné et dévoué à la recherche sonore de son nouvel album. Tomber sous le charme de sa voix à la fois douce et puissante et laissez-vous transporter par ses histoires de rêves et d’espoir.",
+        "startDate": "2024-04-20T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8129",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/node/1064",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "57, rue Simcoe Sud, bureau 2D",
+            "addressLocality": "Oshawa",
+            "addressRegion": "ON",
+            "postalCode": "L1H 4G4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.895957",
+            "longitude": "-78.862604"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1064"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/87",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-organismes-francophones-de-la-region-de-durham"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/206",
+          "url": "https://scenesfrancophones.ca/artistes/celeste-levis",
+          "name": "Céleste Lévis"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/david-corriveau-8132",
+        "name": "David Corriveau -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/David%20Corriveau_1.jpeg?itok=H6SyqDRu",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Si vous fermez les yeux, vous croyez entendre Céline Dion, Lara Fabian et Ginette Reno. Si vous les ouvrez, vous continuez d’entendre ces voix mais c’est un homme qui est devant vous. Cet homme s’appelle David Corriveau et non ce n’est pas une dérive de l’intelligence artificielle, il est bien là en chair et en os mais sa voix, oh sa voix! L’inimitable David Corriveau en met plein les oreilles dans un spectacle aussi impressionnant que fascinant.",
+        "startDate": "2024-11-23T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8132",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/node/1064",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "57, rue Simcoe Sud, bureau 2D",
+            "addressLocality": "Oshawa",
+            "addressRegion": "ON",
+            "postalCode": "L1H 4G4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.895957",
+            "longitude": "-78.862604"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1064"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/87",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-organismes-francophones-de-la-region-de-durham"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8130",
+          "url": "https://scenesfrancophones.ca/artistes/david-corriveau-1",
+          "name": "David Corriveau",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-bedard-piano-voix-nouveau-spectacle-8135",
+        "name": "Mélissa Bédard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/M%C3%A9lissa%20B%C3%A9dard_3.jpg?itok=AmAiTiFh",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis sa participation remarquée à Star Académie en 2012, Mélissa Bédard s’impose comme une figure dominante du milieu artistique québécois. Elle présente son nouveau spectacle dans lequel elle interprète à sa façon les grands succès de la francophonie. Artiste aux multiples talents, la charismatique chanteuse se révèle être aussi une actrice exceptionnelle dans la comédie dramatique M’entends-tu, où elle a interprété l’inoubliable Fabiola. Celle qui maitrise l’art de nous éblouir avec sa voix intimiste et puissante devrait donner un souffle extraordinaire à un répertoire qui l’est déjà !",
+        "startDate": "2025-10-04T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8135",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/node/1064",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "57, rue Simcoe Sud, bureau 2D",
+            "addressLocality": "Oshawa",
+            "addressRegion": "ON",
+            "postalCode": "L1H 4G4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.895957",
+            "longitude": "-78.862604"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1064"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/87",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-organismes-francophones-de-la-region-de-durham"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8133",
+          "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-5",
+          "name": "Mélissa Bédard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/michel-lalonde-de-glen-garolou-8136",
+        "name": "Michel Lalonde - de Glen à Garolou",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Michel%20Lalonde_2.jpg?itok=nIFhtmYf",
+          "width": "430",
+          "height": "430",
+          "creditText": "Trilby Jeeves"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour célébrer les cinquante ans de ces premiers balbutiements, de ce qui fut sa plus grande aventure musicale, Michel Lalonde, prépare une rétrospective musicale où il nous fait vivre ses années Garolou de l’intérieur, le tout sur une toile de fond tiré de son répertoire de chansons engagées et histoires personnelles.",
+        "startDate": "2025-02-15T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8136",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/node/1064",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "57, rue Simcoe Sud, bureau 2D",
+            "addressLocality": "Oshawa",
+            "addressRegion": "ON",
+            "postalCode": "L1H 4G4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.895957",
+            "longitude": "-78.862604"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1064"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/87",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-organismes-francophones-de-la-region-de-durham"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4128",
+          "url": "https://scenesfrancophones.ca/artistes/michel-lalonde-0",
+          "name": "Michel Lalonde"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-bedard-piano-voix-nouveau-spectacle-8142",
+        "name": "Mélissa Bédard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/M%C3%A9lissa%20B%C3%A9dard_4.jpg?itok=vUIwKnoZ",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis sa participation remarquée à Star Académie en 2012, Mélissa Bédard s’impose comme une figure dominante du milieu artistique québécois. Elle présente son nouveau spectacle dans lequel elle interprète à sa façon les grands succès de la francophonie. Artiste aux multiples talents, la charismatique chanteuse se révèle être aussi une actrice exceptionnelle dans la comédie dramatique M’entends-tu, où elle a interprété l’inoubliable Fabiola. Celle qui maitrise l’art de nous éblouir avec sa voix intimiste et puissante devrait donner un souffle extraordinaire à un répertoire qui l’est déjà !",
+        "startDate": "2024-10-06T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8142",
+        "location": {
+          "@type": "Place",
+          "name": "Place des Arts",
+          "url": "https://scenesfrancophones.ca/node/1059",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "27 Larch St",
+            "addressLocality": "Sudbury",
+            "addressRegion": "ON",
+            "postalCode": "P3E 1B7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.491193",
+            "longitude": "-80.995528"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1059"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/82",
+          "name": "La Slague du Carrefour francophone de Sudbury",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8140",
+          "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-6",
+          "name": "Mélissa Bédard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
         }
       }
     ]
@@ -27594,19 +29486,19 @@
       {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/1045",
-        "name": "Théâtre l'Octave",
+        "name": "Théâtre Le Sésame",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "711, avenue Dalton",
+          "streetAddress": "1290 rue Wheathill",
           "addressLocality": "Kingston",
           "addressRegion": "ON",
-          "postalCode": "K7M 8N6",
+          "postalCode": "K7M 0A7",
           "addressCountry": "CA"
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": "44.270854",
-          "longitude": "-76.522726"
+          "latitude": "44.24737",
+          "longitude": "-76.56108"
         },
         "@id": "https://scenesfrancophones.ca/id/1045"
       }
@@ -29265,6 +31157,78 @@
           "longitude": "-61.015779"
         },
         "@id": "https://scenesfrancophones.ca/id/8005"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/8107",
+        "name": "Le Théâtre de la Cité des Rocheuses",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "4800 Richard Road SW",
+          "addressLocality": "Calgary",
+          "addressRegion": "AB",
+          "postalCode": "T3E 6L1",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.011173",
+          "longitude": "-114.123093"
+        },
+        "@id": "https://scenesfrancophones.ca/id/8107"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/8108",
+        "name": "La Scène du Café Théâtre",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "4800, Richard road SW",
+          "addressLocality": "Calgary",
+          "addressRegion": "AB",
+          "postalCode": "T3E 6L1",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.011173",
+          "longitude": "-114.123093"
+        },
+        "@id": "https://scenesfrancophones.ca/id/8108"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/8109",
+        "name": "La Scène du patio de la Cité des Rocheuses",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "4800, Richard road SW",
+          "addressLocality": "Calgary",
+          "addressRegion": "AB",
+          "postalCode": "T3E 6L1",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.011173",
+          "longitude": "-114.123093"
+        },
+        "@id": "https://scenesfrancophones.ca/id/8109"
       }
     ]
   },
@@ -31395,7 +33359,7 @@
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/83",
         "url": "https://letno.ca/",
-        "description": "Ancrée dans le Nord de l’Ontario, le Théâtre du Nouvel-Ontario (TNO) est une compagnie de théâtre professionnelle qui développe, crée, diffuse, accueille et fait rayonner des œuvres théâtrales contemporaines, en privilégiant la dramaturgie franco-ontarienne. À titre de diffuseur spécialisé en théâtre, le TNO accueille des pièces pour adultes et pour la jeunesse.",
+        "description": "Ancré au cœur de la communauté du Grand Sudbury, le Théâtre du Nouvel-Ontario (TNO) produit et diffuse des initiatives théâtrales principalement en français qui rejoignent un public diversifié. Animées d’une vision artistique affirmée qui porte un regard franc sur le monde actuel d’ici ou d’ailleurs, les activités du TNO démontrent que le théâtre est partie prenante d’une société en effervescence.",
         "name": "Théâtre du Nouvel-Ontario",
         "contactPoint": {
           "@type": "ContactPoint",
@@ -31412,16 +33376,16 @@
         "mainEntityOfPage": "https://scenesfrancophones.ca/diffuseurs/theatre-du-nouvel-ontario",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "21, boulevard Lasalle",
+          "streetAddress": "27 rue Larch",
           "addressLocality": "Sudbury",
           "addressRegion": "ON",
-          "postalCode": "P3A 6B1",
+          "postalCode": "P3E 1B7",
           "addressCountry": "CA"
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": "46.51725",
-          "longitude": "-80.99429"
+          "latitude": "46.491093",
+          "longitude": "-80.9957"
         }
       }
     ]
