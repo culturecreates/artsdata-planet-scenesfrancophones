@@ -4699,7 +4699,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Organization",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8307",
         "url": "https://scenesfrancophones.ca/artistes/ari-cui-cui",
         "name": "Ari Cui Cui"
@@ -6964,6 +6964,493 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8889",
+        "url": "https://scenesfrancophones.ca/artistes/pako",
+        "name": "Pako"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8911",
+        "url": "https://scenesfrancophones.ca/artistes/joyce-nsana-0",
+        "name": "Joyce N'Sana"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8924",
+        "url": "https://scenesfrancophones.ca/artistes/kaleidoscope-musical",
+        "name": "Kaléidoscope musical"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8929",
+        "url": "https://scenesfrancophones.ca/artistes/jonathan-dion",
+        "name": "Jonathan Dion"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/8936",
+        "url": "https://scenesfrancophones.ca/artistes/yan-beauregard",
+        "name": "Yan Beauregard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/8938",
+        "url": "https://scenesfrancophones.ca/artistes/tresor-otshudi-et-juste-chanter-gospel-choir",
+        "name": "Tresor Otshudi et Juste Chanter Gospel Choir"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8940",
+        "url": "https://scenesfrancophones.ca/artistes/louis-racine-et-les-pourquoi-pas",
+        "name": "Louis Racine et les Pourquoi Pas"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8946",
+        "url": "https://scenesfrancophones.ca/artistes/noe-lira",
+        "name": "Noé Lira"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8952",
+        "url": "https://scenesfrancophones.ca/artistes/matthieu-pepper-1",
+        "name": "Matthieu Pepper"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8956",
+        "url": "https://scenesfrancophones.ca/artistes/philippe-laprise",
+        "name": "Philippe Laprise"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/8959",
+        "url": "https://scenesfrancophones.ca/artistes/marie-denise-pelletier",
+        "name": "Marie-Denise Pelletier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9072",
+        "url": "https://scenesfrancophones.ca/artistes/ultra-violette",
+        "name": "Ultra Violette"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/9076",
+        "url": "https://scenesfrancophones.ca/artistes/production-cirque-volonte",
+        "name": "Production Cirque à Volonté"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9085",
+        "url": "https://scenesfrancophones.ca/artistes/luc-langevin-lillusionniste",
+        "name": "Luc Langevin - L'illusionniste"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9089",
+        "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-7",
+        "name": "Mélissa Bédard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9092",
+        "url": "https://scenesfrancophones.ca/artistes/edith-butler-0",
+        "name": "Edith Butler"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9095",
+        "url": "https://scenesfrancophones.ca/artistes/kaleidoscope-musical-0",
+        "name": "Kaléidoscope musical"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9099",
+        "url": "https://scenesfrancophones.ca/artistes/francois-massicotte",
+        "name": "François Massicotte"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9106",
+        "url": "https://scenesfrancophones.ca/artistes/mariana-mazza",
+        "name": "Mariana Mazza"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9109",
+        "url": "https://scenesfrancophones.ca/artistes/sam-breton",
+        "name": "Sam Breton"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9114",
+        "url": "https://scenesfrancophones.ca/artistes/garou",
+        "name": "Garou"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9118",
+        "url": "https://scenesfrancophones.ca/artistes/la-bottine-souriante",
+        "name": "La Bottine Souriante"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9136",
+        "url": "https://scenesfrancophones.ca/artistes/kim-richardson",
+        "name": "Kim Richardson"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9141",
+        "url": "https://scenesfrancophones.ca/artistes/simon-gouache",
+        "name": "Simon Gouache"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9147",
+        "url": "https://scenesfrancophones.ca/artistes/louis-morissette",
+        "name": "Louis Morissette"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9152",
+        "url": "https://scenesfrancophones.ca/artistes/djely-tapa",
+        "name": "Djely Tapa"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9157",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-de-loeil",
+        "name": "Théâtre de l'Œil"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9160",
+        "url": "https://scenesfrancophones.ca/artistes/evelyne-roy-molgat-0",
+        "name": "Evelyne Roy-Molgat"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9164",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-duceppe",
+        "name": "Théâtre Duceppe"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9169",
+        "url": "https://scenesfrancophones.ca/artistes/patrick-groulx",
+        "name": "Patrick Groulx"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9175",
+        "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-0",
+        "name": "Francois Massicotte"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9207",
+        "url": "https://scenesfrancophones.ca/artistes/le-moulin-musique",
+        "name": "Le Moulin à musique"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/961",
         "name": "Marcher à l'infini",
@@ -7053,7 +7540,7 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/30",
-          "name": "Association du centre communautaire de la Rive-Sud",
+          "name": "Association du Centre Communautaire de la Rive-Sud",
           "url": "https://scenesfrancophones.ca/diffuseurs/association-du-centre-communautaire-de-la-rive-sud"
         },
         "performer": {
@@ -12534,7 +13021,7 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/30",
-          "name": "Association du centre communautaire de la Rive-Sud",
+          "name": "Association du Centre Communautaire de la Rive-Sud",
           "url": "https://scenesfrancophones.ca/diffuseurs/association-du-centre-communautaire-de-la-rive-sud"
         },
         "performer": {
@@ -15751,7 +16238,7 @@
         "@id": "https://scenesfrancophones.ca/id/4154",
         "location": {
           "@type": "Place",
-          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "name": "L. J. Fortin",
           "url": "https://scenesfrancophones.ca/node/1057",
           "address": {
             "@type": "PostalAddress",
@@ -15763,8 +16250,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.41929",
-            "longitude": "-82.429869"
+            "latitude": "49.41927",
+            "longitude": "-82.429853"
           },
           "@id": "https://scenesfrancophones.ca/id/1057"
         },
@@ -19922,7 +20409,7 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/30",
-          "name": "Association du centre communautaire de la Rive-Sud",
+          "name": "Association du Centre Communautaire de la Rive-Sud",
           "url": "https://scenesfrancophones.ca/diffuseurs/association-du-centre-communautaire-de-la-rive-sud"
         },
         "performer": [
@@ -23433,7 +23920,7 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/30",
-          "name": "Association du centre communautaire de la Rive-Sud",
+          "name": "Association du Centre Communautaire de la Rive-Sud",
           "url": "https://scenesfrancophones.ca/diffuseurs/association-du-centre-communautaire-de-la-rive-sud"
         },
         "performer": [
@@ -23956,7 +24443,7 @@
         "@id": "https://scenesfrancophones.ca/id/7575",
         "location": {
           "@type": "Place",
-          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "name": "L. J. Fortin",
           "url": "https://scenesfrancophones.ca/node/1057",
           "address": {
             "@type": "PostalAddress",
@@ -23968,8 +24455,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.41929",
-            "longitude": "-82.429869"
+            "latitude": "49.41927",
+            "longitude": "-82.429853"
           },
           "@id": "https://scenesfrancophones.ca/id/1057"
         },
@@ -27348,7 +27835,7 @@
         "@id": "https://scenesfrancophones.ca/id/7848",
         "location": {
           "@type": "Place",
-          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "name": "L. J. Fortin",
           "url": "https://scenesfrancophones.ca/node/1057",
           "address": {
             "@type": "PostalAddress",
@@ -27360,8 +27847,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.41929",
-            "longitude": "-82.429869"
+            "latitude": "49.41927",
+            "longitude": "-82.429853"
           },
           "@id": "https://scenesfrancophones.ca/id/1057"
         },
@@ -27413,7 +27900,7 @@
         "@id": "https://scenesfrancophones.ca/id/7849",
         "location": {
           "@type": "Place",
-          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "name": "L. J. Fortin",
           "url": "https://scenesfrancophones.ca/node/1057",
           "address": {
             "@type": "PostalAddress",
@@ -27425,8 +27912,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.41929",
-            "longitude": "-82.429869"
+            "latitude": "49.41927",
+            "longitude": "-82.429853"
           },
           "@id": "https://scenesfrancophones.ca/id/1057"
         },
@@ -27472,7 +27959,7 @@
         "@id": "https://scenesfrancophones.ca/id/7852",
         "location": {
           "@type": "Place",
-          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "name": "L. J. Fortin",
           "url": "https://scenesfrancophones.ca/node/1057",
           "address": {
             "@type": "PostalAddress",
@@ -27484,8 +27971,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.41929",
-            "longitude": "-82.429869"
+            "latitude": "49.41927",
+            "longitude": "-82.429853"
           },
           "@id": "https://scenesfrancophones.ca/id/1057"
         },
@@ -27536,7 +28023,7 @@
         "@id": "https://scenesfrancophones.ca/id/7853",
         "location": {
           "@type": "Place",
-          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "name": "L. J. Fortin",
           "url": "https://scenesfrancophones.ca/node/1057",
           "address": {
             "@type": "PostalAddress",
@@ -27548,8 +28035,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.41929",
-            "longitude": "-82.429869"
+            "latitude": "49.41927",
+            "longitude": "-82.429853"
           },
           "@id": "https://scenesfrancophones.ca/id/1057"
         },
@@ -27848,8 +28335,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -28834,8 +29321,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -29733,46 +30220,6 @@
           "@id": "https://scenesfrancophones.ca/id/8104",
           "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-3",
           "name": "Mélissa Bédard",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/scott-pien-picard-pekuaiapu-8112",
-        "name": "Scott-Pien Picard -",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "startDate": "2024-04-06T09:00:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/8112",
-        "location": {
-          "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
-        },
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/81",
-          "name": "Conseil des Arts de Hearst",
-          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
-        },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/8110",
-          "url": "https://scenesfrancophones.ca/artistes/scott-pien-picard-1",
-          "name": "Scott-Pien Picard",
           "schema_organization_additional_type": [
             "http://dbpedia.org/ontology/Agent",
             "http://xmlns.com/foaf/0.1/Agent",
@@ -31170,7 +31617,7 @@
         "@id": "https://scenesfrancophones.ca/id/8229",
         "location": {
           "@type": "Place",
-          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "name": "L. J. Fortin",
           "url": "https://scenesfrancophones.ca/node/1057",
           "address": {
             "@type": "PostalAddress",
@@ -31182,8 +31629,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.41929",
-            "longitude": "-82.429869"
+            "latitude": "49.41927",
+            "longitude": "-82.429853"
           },
           "@id": "https://scenesfrancophones.ca/id/1057"
         },
@@ -31232,7 +31679,7 @@
         "@id": "https://scenesfrancophones.ca/id/8232",
         "location": {
           "@type": "Place",
-          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "name": "L. J. Fortin",
           "url": "https://scenesfrancophones.ca/node/1057",
           "address": {
             "@type": "PostalAddress",
@@ -31244,8 +31691,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.41929",
-            "longitude": "-82.429869"
+            "latitude": "49.41927",
+            "longitude": "-82.429853"
           },
           "@id": "https://scenesfrancophones.ca/id/1057"
         },
@@ -31473,12 +31920,27 @@
         "name": "Yoya Jamal -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "startDate": "2024-08-10T19:00:00-03:00",
+        "startDate": "2024-08-10T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8247",
         "location": {
           "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/node/1050",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2720, chemin Richmond",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K2B 6S2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.358648",
+            "longitude": "-75.792699"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1050"
         },
         "offers": {
           "@type": "Offer",
@@ -31694,12 +32156,12 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/le-diable-cinq-winterama-de-penetanguishene-8259",
+        "url": "https://scenesfrancophones.ca/spectacles/les-rats-dswompe-elixir-8259",
         "name": "Le Diable à Cinq -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le Diable à Cinq, c’est un puissant groupe de musique traditionnelle composé de cinq multiinstrumentistes et chanteurs natifs de Ripon, en Outaouais, dont la mission est de faire revivre\r\nles soirées festives dans lesquelles ses membres ont grandi. C’est aussi une histoire de famille\r\nmettant en vedette trois frères, un cousin et un ami qui se partagent la scène avec une\r\ncomplicité remarquable. Avec leur présence de scène explosive, les cinq diables embrasent la\r\nsoirée au son d’une musique énergique, chaleureuse et résolument rassembleuse.",
-        "startDate": "2025-02-15T08:00:00-04:00",
+        "description": "Les Rats d’Swompe nous arrivent de la contrée de l’Ontario français. De par leur trad-rock festif encore plus assumé, on dit d'eux qu'ils sont de sympathiques gaillards, capables de mettre le feu aux pieds des festivaliers, par leur savant mélange de chansons traditionnelles canadiennes-françaises, de compositions originales et de reels de violoneux. Un spectacle avec une énergie à la fois sauvage et si attachante que la foule se lève à tout coup pour festoyer sans relâche.",
+        "startDate": "2025-02-15T13:00:00-05:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8259",
         "location": {
@@ -31878,33 +32340,14 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/moonfruits-spectacle-maison-8268",
+        "url": "https://scenesfrancophones.ca/spectacles/moonfruits-reveil-8268",
         "name": "Moonfruits - Réveil",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Moonfruits est créateur d’un folk contemporain qui adresse notre humanité avec cœur, esprit et\r\némerveillement. Mené par conjoints-complices Alex Millaire et Kaitlin Milroy, Moonfruits\r\ns’exprime tant en français qu’en anglais, une réflexion de leur jour le jour à Ottawa. Le groupe\r\nprône des harmonies parfois envoûtantes, parfois retentissantes sur des arrangements délibérés\r\net propres à chacune de ses univers-chansons, dotés de guitare, banjo, orgue, glockenspiel.",
-        "startDate": "2025-07-13T14:00:00-04:00",
+        "description": "Ça bourdonne à Ste-Quequepart. Le groupe folk contemporain Moonfruits d’Ottawa replonge dans son village imaginaire avec esprit et espoir au moment où les abeilles de Ste-Quequepart commencent à dévorer tout ce qu’il y a de métal. Petit à petit, on voit une infrastructure en chute libre et une société en pleine refonte. \r\n«Réveil» tisse des rêves tout en prônant de se tisser plus serré dans les temps de crise. Attendez-vous à un format trio, avec guitare, banjo, harmonium, séquenceur et contrebasse, et les chaleureuses harmonies de Moonfruits, récent lauréat du Prix Changez d’Air (FR-CH).",
+        "startDate": "2025-07-13T14:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8268",
-        "location": {
-          "@type": "Place",
-          "name": "Salle Rolland Desroches",
-          "url": "https://scenesfrancophones.ca/node/1065",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "63 rue Main",
-            "addressLocality": "Penetanguishene",
-            "addressRegion": "ON",
-            "postalCode": "L9M 2G3",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "44.769711",
-            "longitude": "-79.934351"
-          },
-          "@id": "https://scenesfrancophones.ca/id/1065"
-        },
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock"
@@ -32410,8 +32853,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -32473,8 +32916,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -32536,8 +32979,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -32591,8 +33034,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -32642,8 +33085,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -32705,8 +33148,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -32767,8 +33210,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -32829,8 +33272,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -32892,8 +33335,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -32955,8 +33398,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -33018,8 +33461,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -33110,8 +33553,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -33216,8 +33659,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -33279,8 +33722,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -33342,8 +33785,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -33452,8 +33895,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -33507,8 +33950,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -33570,8 +34013,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -33729,8 +34172,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -33970,8 +34413,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.465845",
-            "longitude": "-75.523408"
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
           },
           "@id": "https://scenesfrancophones.ca/id/1052"
         },
@@ -34069,7 +34512,7 @@
         "@id": "https://scenesfrancophones.ca/id/8524",
         "location": {
           "@type": "Place",
-          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "name": "L. J. Fortin",
           "url": "https://scenesfrancophones.ca/node/1057",
           "address": {
             "@type": "PostalAddress",
@@ -34081,8 +34524,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.41929",
-            "longitude": "-82.429869"
+            "latitude": "49.41927",
+            "longitude": "-82.429853"
           },
           "@id": "https://scenesfrancophones.ca/id/1057"
         },
@@ -34132,7 +34575,7 @@
         "@id": "https://scenesfrancophones.ca/id/8525",
         "location": {
           "@type": "Place",
-          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "name": "L. J. Fortin",
           "url": "https://scenesfrancophones.ca/node/1057",
           "address": {
             "@type": "PostalAddress",
@@ -34144,8 +34587,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.41929",
-            "longitude": "-82.429869"
+            "latitude": "49.41927",
+            "longitude": "-82.429853"
           },
           "@id": "https://scenesfrancophones.ca/id/1057"
         },
@@ -34194,7 +34637,7 @@
         "@id": "https://scenesfrancophones.ca/id/8528",
         "location": {
           "@type": "Place",
-          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "name": "L. J. Fortin",
           "url": "https://scenesfrancophones.ca/node/1057",
           "address": {
             "@type": "PostalAddress",
@@ -34206,8 +34649,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.41929",
-            "longitude": "-82.429869"
+            "latitude": "49.41927",
+            "longitude": "-82.429853"
           },
           "@id": "https://scenesfrancophones.ca/id/1057"
         },
@@ -39571,6 +40014,2545 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/pako-pako-8891",
+        "name": "Pako -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-06-04T11:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8891",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8889",
+          "url": "https://scenesfrancophones.ca/artistes/pako",
+          "name": "Pako",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/joyce-nsana-joyce-nsana-8913",
+        "name": "Joyce N'Sana -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-08-24T11:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8913",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8911",
+          "url": "https://scenesfrancophones.ca/artistes/joyce-nsana-0",
+          "name": "Joyce N'Sana",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/kaleidoscope-musical-avec-kimya-mimi-obonsawin-yves-doyon-genevieve-rb-et-joly-8926",
+        "name": "Kaléidoscope musical -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Cercle d'auteurs avec Kimya, Mimi O'Bonsawin, Yves Doyon, Geneviève RB et JOLY",
+        "startDate": "2024-09-20T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8926",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8924",
+          "url": "https://scenesfrancophones.ca/artistes/kaleidoscope-musical",
+          "name": "Kaléidoscope musical",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/yao-kintsugi-la-beaute-dans-le-chaos-8928",
+        "name": "Yao - Kintsugi : La beauté dans le chaos",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Entre slam, soul, funk et sonorités afro, YAO explore les thèmes de la peine, de la résilience et de l’espoir, dans ce spectacle personnel et thérapeutique. Inspiré de son nouvel album du même nom, il utilise ses talents de parolier et d’interprète pour transformer ses blessures de vie en immersion sensorielle, poétique et musicale. Le Kintsugi, c’est l'art japonais de réparer la poterie cassée avec de l'or – transformant ainsi les fissures, et l’objet par le fait même, en œuvre d'art plus belle et plus forte.",
+        "startDate": "2024-11-01T09:45:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8928",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/269",
+          "url": "https://scenesfrancophones.ca/artistes/yao",
+          "name": "Yao"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jonathan-dion-spectacle-dhumour-8931",
+        "name": "Jonathan Dion -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-01-10T11:30:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8931",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8929",
+          "url": "https://scenesfrancophones.ca/artistes/jonathan-dion",
+          "name": "Jonathan Dion",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/sympa-cesar-fluide-20-8932",
+        "name": "Sympa César - FLUID•e",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "FLUID•e est un spectacle où chaos et mélodie s’unissent pour créer une expérience unique. Sympa César, scientifique fou explorateur des multivers, manipule des potions magiques remplies de bonheur, même dans l’obscurité du quotidien. Il entraîne le public dans un voyage sonore groovy, mêlant rock 90s, Motown 70s, R&B 2000s, synthés modernes et voix soul puissante. Plongez dans cet univers musical en perpétuelle évolution et laissez-vous emporter par la magie de Sympa César.",
+        "startDate": "2024-11-22T09:45:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8932",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4009",
+          "url": "https://scenesfrancophones.ca/artistes/sympa-cesar",
+          "name": "Sympa César"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/louis-racine-et-les-pourquoi-pas-fete-la-st-jean-8942",
+        "name": "Louis Racine et les Pourquoi Pas -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Affiche%202025.png?itok=f9iVv_Ck",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Spectacle de la St-Jean, musique et contes",
+        "startDate": "2025-06-18T15:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8942",
+        "location": {
+          "@type": "Place",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/node/1050",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2720, chemin Richmond",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K2B 6S2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.358648",
+            "longitude": "-75.792699"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1050"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/73",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/maison-de-la-francophonie-dottawa-cmfo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8940",
+          "url": "https://scenesfrancophones.ca/artistes/louis-racine-et-les-pourquoi-pas",
+          "name": "Louis Racine et les Pourquoi Pas",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/nathalie-nadon-la-bonne-franquette-8944",
+        "name": "Nathalie Nadon - Amandine et Rosalie: J'aime ma francophonie!",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-12-14T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8944",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/node/1064",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "57, rue Simcoe Sud, bureau 2D",
+            "addressLocality": "Oshawa",
+            "addressRegion": "ON",
+            "postalCode": "L1H 4G4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.895957",
+            "longitude": "-78.862604"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1064"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/87",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-organismes-francophones-de-la-region-de-durham"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/250",
+          "url": "https://scenesfrancophones.ca/artistes/nathalie-nadon",
+          "name": "Nathalie Nadon"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/noe-lira-latiendo-la-tierra-8948",
+        "name": "Noé Lira -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/noe-lira-_-photocamilletellier-1681927335.jpg?itok=eQx2hVaM",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-03T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8948",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8946",
+          "url": "https://scenesfrancophones.ca/artistes/noe-lira",
+          "name": "Noé Lira",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/machine-de-cirque-robot-infidele-8950",
+        "name": "Machine de Cirque  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/655e548260b87ba4acad34d2_Sans%20titre-1.png?itok=Oj-zQl1r",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Mariage prodigieux entre douceur des mouvements et mécanique acrobatique réglée au quart de tour, Robot infidèle questionne notre rapport parfois machinal au travail et ses conséquences sur nos corps et nos esprits.\r\n\r\nUn spectacle drôlement surréaliste, qui voyage de façon novatrice entre musique live, manipulation virtuose d’objets et cascades hilarantes. Le tout pour raconter l’histoire d’un artisan qui, par ses idées de grandeur, voit sa vie bousculée par de nouvelles contraintes de production.\r\n\r\nNous retrouvons ici l’identité de Machine de Cirque, dans une formule plus intimiste, où l’ingéniosité n’a d’égal que le souci de provoquer un humour salvateur et des émotions rassembleuses.",
+        "startDate": "2024-04-12T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8950",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8407",
+          "url": "https://scenesfrancophones.ca/artistes/machine-de-cirque",
+          "name": "Machine de Cirque",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/etienne-fletcher-entre-deux-8951",
+        "name": "Étienne Fletcher - Entre-deux",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Il se dégage de l’univers d’Étienne Fletcher quelque chose de résolument touchant. \r\nDe douces égratignures dans la voix, l’auteur-compositeur-interprète trouve les mots, les bons, pour traduire en chansons la vie, la mort, et ce qui respire entre les deux. Étienne Fletcher propose un spectacle intime allant du rock au blues, du folk au pop, et portant en son cœur la fierté francophone de l'Ouest canadien.",
+        "startDate": "2024-04-18T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8951",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/898",
+          "url": "https://scenesfrancophones.ca/artistes/etienne-fletcher",
+          "name": "Étienne Fletcher"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/matthieu-pepper-en-attendant-la-fete-au-village-8954",
+        "name": "Matthieu Pepper -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "1er One Man Show\r\n\r\nCadet d’une famille de cinq enfants, Matthieu a vite appris à se démarquer par son humour pour faire sa place dans la fratrie. Dès son jeune âge, il développe une grande passion pour la télévision, le cinéma et l’humour Québécois.\r\n\r\nC’est en étant un régulier sur la scène du mythique Bordel Comédie Club que Matthieu Pepper s’établit en tant qu’humoriste. Il se démarque par ses textes, sa présence, et sa rigueur. Il y fait plusieurs rencontres marquantes qui deviendront déterminantes pour la suite de sa carrière.\r\n\r\nÉtant un fantastique sur l’émission du retour  » Véronique et les fantastiques »; Ayant reçu le prix « Découverte de l’année » au Gala des Oliviers en 2023; vendu plus de 70 000 billets de son premier one man show  » En attendant la fête au Village »; Idéateur, auteur principal et comédien d’ « Entre 2 draps » cumulant plusieurs prix et nominations Matthieu a réussis à faire sa place comme humoriste; scénariste et interprète.",
+        "startDate": "2024-04-24T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8954",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8952",
+          "url": "https://scenesfrancophones.ca/artistes/matthieu-pepper-1",
+          "name": "Matthieu Pepper",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/richardson-zephir-zephir-8955",
+        "name": "Richardson Zéphir -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Richardson Zéphir, grand gagnant du prix du public de l’émission Big Brother Célébrités, présente son premier one-man-show ZÉPHIR. Richardson se démarque en stand-up par son énergie explosive, ses interprétations aux mimiques bien typées et ses blagues livrées à un rythme effréné. Véritable showman, l’humoriste nous entraine dans un feu roulant avec ses personnages aux multiples voix à la fois excentriques et recherchés. Nul ne peut résister à ce charismatique comique qui offre une performance scénique tout simplement hilarante!",
+        "startDate": "2024-05-10T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8955",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/5984",
+          "url": "https://scenesfrancophones.ca/artistes/richardson-zephir",
+          "name": "Richardson Zéphir",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/philippe-laprise-pourquoi-pas-8958",
+        "name": "Philippe Laprise -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/maxresdefault.jpg?itok=KAVp3tB4",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Allumé comme jamais, l’humoriste Philippe Laprise lance un tout nouveau spectacle, son 4e en carrière.\r\n\r\nAyant vécu de multiples embuches, Phil a évolué dans sa façon de voir la vie et il en est venu à la conclusion que, souvent, il faut juste avoir le courage de mettre sa vie sur pause, respirer et prendre le temps d’en rire, pour mieux repartir. Avec son aisance physique unique sur scène, Philippe nous surprend encore une fois avec son sens du punch, ses mimiques colorées et son énergie incroyable. Voyez cet incomparable raconteur déballer ses anecdotes du quotidien à un rythme qui vous fera assurément crouler de rire!\r\n\r\nhttps://philippelaprise.com/",
+        "startDate": "2024-05-15T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8958",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8956",
+          "url": "https://scenesfrancophones.ca/artistes/philippe-laprise",
+          "name": "Philippe Laprise",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/marie-denise-pelletier-sous-ma-peau-de-femme-8961",
+        "name": "Marie-Denise Pelletier -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/ab67616d00001e02865b84a17aba96eff1ca14bd.jpg?itok=PFdcE4Mv",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-05-23T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/8961",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8959",
+          "url": "https://scenesfrancophones.ca/artistes/marie-denise-pelletier",
+          "name": "Marie-Denise Pelletier",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/lgs-lgs-9080",
+        "name": "LGS - LGS",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/LGSMeridianPOSTERcopy.jpg?itok=zMeoJ31v",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "LGS revient présenter son tout nouvel album, simplement intitulé LGS. À travers ce nouveau spectacle c'est 3 ans de nouvelles chansons qui seront présentées. Sur scène, Michel Bénac au chant, Jean Philippe en multi-instrumentiste et Arnaldo aux platines et à la danse, proposent un spectacle au groove imparable, qui donne l'envie de danser dès les premières notes. Des rythmes funk alliés au son des années 80 vont séduire les jeunes comme les moins jeunes, qui seront pris dans cette folie.",
+        "startDate": "2025-03-27T10:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9080",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtres Meridian",
+          "url": "https://scenesfrancophones.ca/node/9074",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "101 Centrepointe Dr",
+            "addressLocality": "Nepean",
+            "addressRegion": "ON",
+            "postalCode": "K2G 5K7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.34438",
+            "longitude": "-75.762732"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9074"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/73",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/maison-de-la-francophonie-dottawa-cmfo"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/239",
+          "url": "https://scenesfrancophones.ca/artistes/lgs",
+          "name": "LGS"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/luc-langevin-lillusionniste-la-ou-limpossible-prend-vie-9087",
+        "name": "Luc Langevin - L'illusionniste -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Affiche-officielle-Luc-Langevin-neutre-sans-logo-scaled.jpg?itok=iAhw174Y",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Luc Langevin est enfin de retour avec un tout nouveau spectacle à grand déploiement. Au sommet de son art et en parfaite maîtrise de son talent unique, il exécute avec finesse et précision des numéros de grandes illusions, créés sur mesure avec son complice de toujours, le magicien Stéphane Bourgoin. Dans un écrin de lumière où la magie opère, les effets sont époustouflants et touchants à la fois; la musique nous envoûte et nous transporte.\r\n\r\nLe quatrième spectacle de l’illusionniste frappe l’imaginaire. Il explore la dualité entre la tête et le cœur, nous invitant dans un monde fabriqué de toutes pièces pour fuir le réel.\r\n\r\nUn spectacle étonnant qu’il présentera dans toute la francophonie et un peu partout à travers le monde au cours des prochaines années.",
+        "startDate": "2025-09-18T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9087",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS0918N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS0918N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9085",
+          "url": "https://scenesfrancophones.ca/artistes/luc-langevin-lillusionniste",
+          "name": "Luc Langevin - L'illusionniste",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/damien-robitaille-ultraviolet-9088",
+        "name": "Damien Robitaille -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Damien Robitaille éblouit son public avec sa polyvalence, jonglant avec virtuosité entre les instruments et les styles musicaux.  Des refrains entraînants aux balades poignantes, il sait comment captiver son auditoire et créer une atmosphère où règnent la complicité et la bonne humeur.  Une expérience musicale à la fois intime et énergique.  Accompagné de ses talentueux musiciens, Damien vous transporte dans un tourbillon de joie et de bonne humeur, créant ainsi une ambiance festive où la musique et la convivialité se mêlent pour créer des instants de pur bonheur.\r\nMise en scène Laurent Paquin",
+        "startDate": "2025-09-26T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9088",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS0926N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS0926N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/8322",
+          "url": "https://scenesfrancophones.ca/artistes/damien-robitaille",
+          "name": "Damien Robitaille"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-bedard-ma-verite-9091",
+        "name": "Mélissa Bédard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-06/M%C3%A9lissa%20B%C3%A9dard.jpg?itok=usR0W3aM",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis sa participation remarquée à Star Académie en 2012, Mélissa Bédard s’impose comme une figure dominante du milieu artistique québécois. Elle présente son nouveau spectacle Ma vérité dans lequel elle interprète des chansons de son nouvel album et quelques grands succès francophones tant aimés. Accompagnée de ses musiciens, celle qui maitrise l’art de nous éblouir avec sa voix intimiste et puissante devrait donner un souffle extraordinaire à un répertoire qui l’est déjà!",
+        "startDate": "2025-10-01T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9091",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – Théâtre Richcraft",
+          "url": "https://scenesfrancophones.ca/node/9078",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9078"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9089",
+          "url": "https://scenesfrancophones.ca/artistes/melissa-bedard-7",
+          "name": "Mélissa Bédard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/edith-butler-le-tour-du-grand-bois-9094",
+        "name": "Edith Butler -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/edith-butler-1920x1080-1_0.jpg?itok=2sTGT8I0",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Chanteuse, conteuse, auteure-compositeure et musicienne d’exception, Edith Butler reprend la route avec la tournée Le Tour du Grand Bois, un tout nouveau spectacle coloré et dynamique!\r\n\r\nAprès la sortie de l’album du même nom réalisé par Lisa Leblanc, la grande acadienne nous offre les perles de ce nouvel opus telles que « Jerrycan », « Ti-Gars », « Dans l’bois », et plusieurs autres, sans oublier les grands succès qui ont marqué son impressionnante carrière! À plus de 80 ans, c’est une Édith Butler surprenante, plus en forme que jamais, accompagnée de 5 talentueux jeunes musiciens, qui vous convie à ce rendez-vous unique! Un spectacle mémorable de cette grande artiste de la francophonie!",
+        "startDate": "2025-10-05T15:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9094",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS1005N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS1005N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9092",
+          "url": "https://scenesfrancophones.ca/artistes/edith-butler-0",
+          "name": "Edith Butler",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/kaleidoscope-musical-kaleidoscope-musical-9097",
+        "name": "Kaléidoscope musical -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Capture%20d%27%C3%A9cran%202025-06-19%20120415.png?itok=OrfxQhGu",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "La 7e édition du Kaléidoscope musical au MIFO sera orchestrée cette année par Ponteix!\r\n\r\nComme chaque année, les artistes fusionneront leurs univers créatifs en se faisant à la fois interprètes de leurs propres chansons et musiciens des autres. Une soirée intime qui garde son objectif de faire découvrir ou redécouvrir au public des artistes aux styles opposés.\r\n\r\nDécouvrez les artistes suivants:\r\n\r\nPonteix (directeur artistique et artiste)\r\nPlongez dans l'univers de Ponteix, un projet psyché-pop aux sonorités envoûtantes du Fransaskois Mario Lepage qui présente son nouvel opus sur scène, Le Canadien errant. Une mosaïque sonore séduisante qui marque les esprits, ici et en Europe, avec une énergie contagieuse dont chaque note est imprégnée de son identité francophone en milieu minoritaire. Un souffle rafraichissant venu des prairies canadiennes !\r\n\r\nJessy Lindsay\r\nJessy Lindsay (elle) est une auteure-compositrice-interprète franco-ontarienne qui explore son vécu de jeune femme queer avec ses paroles authentiques et ses mélodies accrocheuses. Elle établit déjà sa place comme artiste incontournable de la francophonie avec deux nominations (révélation & EP) aux 13e prix Trille or et des performances au Festival franco-ontarien, au Centre National des Arts et au festival Fierté dans la capitale en 2024. Ses multiples singles et EPs marquent le début d’une époque libératrice pour l’artiste remplie de découverte de soi, de confiance et de joie. La présence scénique rafraîchissante et le groove entraînant de Jessy Lindsay inspire tout public à danser librement au battement de leur propre cœur.\r\n\r\nWaahli\r\nWaahli est un artiste montréalais d’origine haïtienne qui puise son inspiration dans une enfance bercée par les mélodies traditionnelles. C’est à travers la culture hip-hop qu’il trouve sa voix et développe un style unique et captivant. En 2004, il cofonde Nomadic Massive, groupe emblématique de la scène hip-hop montréalaise. Sa trajectoire est marquée par de nombreuses reconnaissances. En mai 2023, il est désigné Révélation Radio-Canada 2023-2024. Avec ses rythmes ancestraux, ses performances captivantes et ses textes incisifs, Waahli propose un hip-hop alternatif qui nous fait voyager aux quatre coins du globe. Sur scène, il séduit par son interaction généreuse avec le public, célébrant la diversité culturelle avec une énergie communicative. En 2025, Waahli repousse une fois de plus les frontières artistiques avec SE7EN BUBBLES, un opus audacieux qui explore de nouveaux horizons esthétiques et sonores.\r\n\r\nÉtienne Fletcher\r\nOriginaire de Regina en Saskatchewan, il se distingue à ce jour comme l’un des artistes influents de la scène musicale franco-canadienne de sa génération. À preuve, en 2022, Étienne Fletcher a été sacré “Artiste francophone de l’année” aux West Coast Music Awards, et a remporté le prix Tournée européenne au Festival international de la chanson de Granby.\r\n\r\nMettant depuis ses débuts ses racines bilingues de l’avant, l’artiste n’a jamais craint d’avaler les kilomètres. Il s’est aussi produit sur les planches d’un nombre impressionnant de festivals, notamment Les Francos de Montréal, Le Festif!, le Festival en Chansons de Petite-Vallée, Francofaune (Belgique), le Printival (France), le Festival d’été de Vancouver, le Regina Folk Festival, la Francofête en Acadie et Coup de cœur francophone.",
+        "startDate": "2025-10-23T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9097",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – Théâtre Richcraft",
+          "url": "https://scenesfrancophones.ca/node/9078",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9078"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3ART1023N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=RT1023N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9095",
+          "url": "https://scenesfrancophones.ca/artistes/kaleidoscope-musical-0",
+          "name": "Kaléidoscope musical",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/francois-massicotte-80-9101",
+        "name": "François Massicotte -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Francois-Massicotte-affiche-carr%C3%A9e.jpg?itok=Gbu-F7sS",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "François Massicotte, l’humoriste établi apprécié de tous qui cumule plus de 35 ans d’expérience en humour, est de retour sur scène avec son 8e one-man-show : 8.0! \r\nAvec son sens du timing unique, François aborde des thèmes unificateurs, à travers lesquels tous se reconnaissent, telle la famille, le couple, la parentalité, la vieillesse et plus encore, avec humour et dérision. À travers ses aventures et histoires savoureuses, ce père de cinq enfants nous entraîne dans le tourbillon de la famille moderne avec son énergie scénique contagieuse! Doté d’un talent naturel, François s’assume, s’anime et nous transporte dans le tourbillonnement fou de la vie contemporaine. 8.0!, pour se reconnaître et en rire!",
+        "startDate": "2025-09-12T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9101",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9099",
+          "url": "https://scenesfrancophones.ca/artistes/francois-massicotte",
+          "name": "François Massicotte",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/reney-ray-louest-du-reel-9102",
+        "name": "Reney Ray - À l’ouest du réel",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Reney%20Ray%20-%20Cr%C3%A9dit%20Shawn%20Bonneville.jpg?itok=QaUysdBZ",
+          "width": "430",
+          "height": "430",
+          "creditText": "Shawn Bonneville"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Reney Ray nous arrive, sans balises ni lois, tel le baume brut que l’on n’attendait plus. Multi instrumentiste et auteure-compositrice-interprète à la plume aussi décomplexée que sensible, l’artiste franco-ontarienne livre sa pop-folk infusée de country avec une sincérité qui tantôt berce, tantôt cogne durement, mais qui à tout coup désarme. L’artiste a fait paraître un deuxième opus de 13 titres pour le 26 mars 2021 dont la pièce-titre, « À l’ouest du réel », le disque aux saveurs pop, folk et country compte des collaborations avec Andy Bastarache, Day Vee et le rappeur Squerl Noir. Y coexistent, juxtaposées, l’humaine, la femme, la mère et l’artiste, quatre entités aussi complètes qu’intimement reliées, vivant en elle",
+        "startDate": "2025-09-26T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9102",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/920",
+          "url": "https://scenesfrancophones.ca/artistes/reney-ray",
+          "name": "Reney Ray"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mitch-jean-mitch-jean-9103",
+        "name": "Mitch Jean - Mitch Jean",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/20220531_170519_MitchWillowSound_Wakefield_0363.jpg?itok=k_jdh90i",
+          "width": "430",
+          "height": "430",
+          "creditText": "Mel Price"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Spectacle énergique de country rock livré par Mitch Jean et son groupe de 5 musiciens. Un mélange d’originaux entraînants qui célèbrent la nostalgie, les routes de campagne, la pêche, l’amour, la bière et la liberté. Le tout est complété par des reprises de grands classiques revisités à la sauce Mitch Jean. Un spectacle interactif, parfait pour les festivals ou les scènes intérieures, qui fait chanter, danser et vibrer le public.",
+        "startDate": "2025-09-26T21:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9103",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4406",
+          "url": "https://scenesfrancophones.ca/artistes/mitch-jean",
+          "name": "Mitch Jean"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mariana-mazza-foie-gras-9108",
+        "name": "Mariana Mazza -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/2410_MMaz_MEV-E_820x360_DOUBLE%20%281%29.png?itok=tHI3dn0N",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour son troisième spectacle, Foie Gras, Mariana Mazza décide de s’exprimer avec sa tête et son coeur… pour faire un changement.\r\n\r\nDans ce one-woman-show bien personnel, la jeune fille qui a grandi à Montréal-Nord, maintenant rendue une femme embourgeoisée qui vit à Saint-Lambert avec ses caniches et ses toiles invendues, se montre aussi brillante qu’hilarante.\r\n\r\nÉtant habituée à dire des choses uniquement pour provoquer un rire, elle souhaite aller plus loin cette fois et faire un coming out au public : elle est émotive et vulnérable. Le chihuahua sur le Red Bull est officiellement remplacé par le tank au coeur de porcelaine.\r\n\r\nComme elle le dit si bien: «C’est moi la meilleure tabarnak!»\r\n\r\nOui, Mariana a changé. Mais à quel point?",
+        "startDate": "2025-11-01T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9108",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS1101N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS1101N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9106",
+          "url": "https://scenesfrancophones.ca/artistes/mariana-mazza",
+          "name": "Mariana Mazza",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/sam-breton-nouveau-spectacle-9111",
+        "name": "Sam Breton -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/unnamed.jpg?itok=1grJJoli",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Voici mon deuxième spectacle! C'est certain que tu vas rire parce que c'est mon métier, faire rire les gens. D'un autre côté, ça se peut que tu ries pas, parce que c'est pas tout le monde qui nous fait rire dans vie. Peut-être aussi que tu vas pas rire de mes blagues, mais que tu vas rire de ma face. Mais pour avoir vécu 556 représentations de ma première tournée, j'te promets qu'en général le public rit de mes blagues et de ma face. Si jamais tu viens pas m'voir, aucun stress; y'a 2 347 autres humoristes pour te satisfaire ! ;)",
+        "startDate": "2025-11-14T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9111",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS1114N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS1114N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9109",
+          "url": "https://scenesfrancophones.ca/artistes/sam-breton",
+          "name": "Sam Breton",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-du-village-dorleans-fausses-rumeurs-9113",
+        "name": "Théâtre du Village d'Orléans -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Theatre%20fausses%20rumeurs.png?itok=FDN3VUQj",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Théâtre communautaire\r\nLe maire d’un arrondissement municipal baigne dans son sang. Est-ce une tentative de suicide ou est-ce la vengeance de son épouse? C’est ce que tenteront d’élucider les invités conviés à l’anniversaire de mariage du couple soit disant exemplaire. Les rumeurs iront bon train et se répandront comme une traînée de poudre dans cette comédie loufoque!\r\n\r\nUne production du Théâtre du Village\r\n\r\nCe spectacle est présenté du 20 au 23 novembre 2025.\r\n\r\nHoraire du 20 au 22 novembre: 19h30",
+        "startDate": "2025-11-23T13:30:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9113",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – Théâtre Richcraft",
+          "url": "https://scenesfrancophones.ca/node/9078",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9078"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=RT1120N&linkID=centrepointe-fr&shopperContext=&caller=&appCode=",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8429",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-du-village-dorleans",
+          "name": "Théâtre du Village d'Orléans",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/garou-garou-solo-9116",
+        "name": "Garou -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/garou.jpg?itok=WJFmJRFC",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Garou a fait paraître Un meilleur lendemain en avril 2025, son tout premier album à titre d’auteur-compositeur. L’artiste a pris la plume parce qu’il avait des choses à dire! Le résultat: dix chansons très intimes qui ont été travaillées avant tout pour la scène et qui marquent un nouveau départ, dévoilant une nouvelle vision musicale. Après des années de recherche sonore en résidence dans son studio, son nouveau spectacle Garou solo est une invitation en chansons dans un univers cinématique et théâtral.\r\n\r\nSeul en scène, Garou prend la route avec son piano et sa guitare, tout en s’accompagnant au moyen de diverses technologies. Dans une rétrospective autant autobiographique qu’éclectique, il raconte en paroles et en musique cette vie complètement folle, ces expériences extraordinaires, ces moments de solitude en pleine nature, les grandes amitiés et la richesse de l’amour qui l’entourent. Revisitant ainsi plus de 30 ans de carrière, il interprète ses chansons classiques et ses nouvelles pièces dans une mise en scène élégante, soutenue par une scénographie tout en images.",
+        "startDate": "2025-11-27T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9116",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://shenkmanarts.ca/fr/garou",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9114",
+          "url": "https://scenesfrancophones.ca/artistes/garou",
+          "name": "Garou",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/la-bottine-souriante-domino-9120",
+        "name": "La Bottine Souriante -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/la%20bottine%20souriante.jpg?itok=Z8KvMjgX",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "La Bottine Souriante revient sur scène avec un nouveau spectacle pour célébrer ses 47 ans en carrière. Depuis le temps qu’on les attendait, préparez-vous à danser, gigoter et taper du pied sur l’air de Jos Brûlé et des succès de leur dernier album festif et entraînant. Avec une dizaine de musiciens sur scène, attendez-vous à une soirée dont vous vous souviendrez longtemps!",
+        "startDate": "2025-12-03T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9120",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS1203N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS1203N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9118",
+          "url": "https://scenesfrancophones.ca/artistes/la-bottine-souriante",
+          "name": "La Bottine Souriante",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/improteine-hommage-improteine-9133",
+        "name": "Improtéine - Improtéine",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "À la demande générale, le groupe d’humour Improtéine est de retour … mais en plus bon! Voyez la version intégrale de leur spectacle qu’ils ont eux-même titré: «Hommage à Improtéine». Grâce aux suggestions du public, la troupe improvise une fausse rétrospective de la carrière riche et ridicule d'un band mythique créé sous vos yeux. Découvrez leurs plus grands succès musicaux et des anecdotes aussi croustillantes qu'invraisemblables!",
+        "startDate": "2025-12-13T19:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9133",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS1213N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS1213NA&cgc=&dataAc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/4122",
+          "url": "https://scenesfrancophones.ca/artistes/improteine",
+          "name": "Improtéine"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/kim-richardson-mon-noel-9138",
+        "name": "Kim Richardson -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/richardson_kim_principale-2024.jpg?itok=GslIc36x",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Il y a des interprètes dont le talent fait l’unanimité; Kim Richardson est de celle-là. Alors quand on apprend qu’elle prépare un concert de Noël, on ne peut que se réjouir. Winter Wonderland, Merry Christmas Baby, C’est l’hiver, Amazing Grace… Kim pose sa voix chaleureuse sur les plus beaux classiques du temps des fêtes dès le mois de décembre prochain. Dans Mon Noël, Kim Richardson est accompagnée sur scène par sept merveilleux musiciens: John Sadowy au piano, Karl Surprenant à la contrebasse, Joanna Peters aux percussions et du quatuor à cordes ESCA. Un concert exceptionnel et magique. Récipiendaire de trois prix Juno, Kim Richardson a une feuille de route impressionnante. Celle qui a chanté devant Nelson Mandela et la reine Elizabeth II a prêté sa voix à plus de 550 albums. Mon Noël est l’occasion unique de partager des moments fort avec Kim Richardson qui vous offre SA magie de Noël. Une soirée scintillante et inoubliable vous attend.",
+        "startDate": "2025-12-16T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9138",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS1216N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS1216N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9136",
+          "url": "https://scenesfrancophones.ca/artistes/kim-richardson",
+          "name": "Kim Richardson",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/simon-gouache-simon-gouache-commence-quelque-part-9143",
+        "name": "Simon Gouache -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/946744e1d3b8b5b5758d4ff319cb97cb0ad0294a.jpg?itok=Sutvzt1z",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "On le sait : Simon Gouache ne se donne aucun répit entre ses tournées. Le voici déjà au rodage de son 4e spectacle dans lequel il explore des idées et des thèmes qui habitent sa pensée.",
+        "startDate": "2026-01-10T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9143",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS0110N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS0110N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9141",
+          "url": "https://scenesfrancophones.ca/artistes/simon-gouache",
+          "name": "Simon Gouache",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mimi-obonsawin-mimi-obonsawin-9144",
+        "name": "Mimi O'bonsawin - Mimi O'Bonsawin- Trio",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Mimi O'Bonsawin Trio Concert est destiné aux festivals ou à la programmation grand public.\r\nAprès une tournée des festivals à travers le Canada à l'été 2023, une seconde tournée en France (printemps 2024) soutenue par l'APCM, Rue Haute Production (FR), Le Grand Bain Production (FR) et Le Labo du Convervatoir/Festival Changez D'Air (FR) et une autre tournée d'été au Canada d'un océan à l'autre, Mimi et son groupe sont rompus aux diverses programmations incluant les festivals et les centres d'arts de la scène. Mimi a entamé les démarches pour exporter son projet en France et en Europe.",
+        "startDate": "2026-01-21T19:30:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9144",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – Théâtre Richcraft",
+          "url": "https://scenesfrancophones.ca/node/9078",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9078"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3ART0121N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=RT0121N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4408",
+          "url": "https://scenesfrancophones.ca/artistes/mimi-obonsawin",
+          "name": "Mimi O'bonsawin"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/louis-morissette-sous-pression-9149",
+        "name": "Louis Morissette -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Louis%20Morissette.jpg?itok=f_nOdTb6",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Maintenant dans la cinquantaine, il porte un regard humoristique et caustique sur son parcours, le pouvoir des échecs professionnels, et la société de performance. Avec une authenticité déroutante, il se met à nu et pose la question: après quoi on court?",
+        "startDate": "2026-02-03T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9149",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS0203N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS0203N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9147",
+          "url": "https://scenesfrancophones.ca/artistes/louis-morissette",
+          "name": "Louis Morissette",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/djely-tapa-dankoroba-9154",
+        "name": "Djely Tapa -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/djely%20tapa.jpg?itok=GohKvoIt",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Avec Dankoroba, Djely Tapa poursuit sa vision artistique à la croisée des cultures malienne et occidentale, passées, présentes et futures. Originaire de la région de Kayes, dans l’Ouest du Mali, Djely Tapa partage le verbe empreint de sagesse et l’art vocal des griots, figures emblématiques de la société malienne ancienne et contemporaine, dont les origines remontent à l’Empire Mandingue du 13ème siècle. Son répertoire mêle traditions mandingues, blues du désert et sonorités électroniques.\r\n\r\nDjely Tapa fait ses débuts en solo en 2019 avec son album Barokan (prix JUNO 2020 - Album musiques du monde de l'année); son album Dankoroba a reçu le prix JUNO Album musique globale.",
+        "startDate": "2026-02-06T19:30:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9154",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – Théâtre Richcraft",
+          "url": "https://scenesfrancophones.ca/node/9078",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9078"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3ART0206N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=RT0206N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9152",
+          "url": "https://scenesfrancophones.ca/artistes/djely-tapa",
+          "name": "Djely Tapa",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-ouimet-sos-9156",
+        "name": "Melissa Ouimet - Tourner",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Avec un amalgame de pop, rock et néo-soul, le spectacle \"SOS\" de Mélissa Ouimet transporte le public dans un voyage musical vibrant, captivant et rassembleur. Récipiendaire d’un Trille Or pour son spectacle ainsi que pour sa chanson « Amours jetables », l’artiste franco-ontarienne nous promet une soirée riche en émotions. Melissa a captivé les foules à travers le Canada, que ce soit lors de festivals tels que les Francos de Montréal, le FestiVoix de Trois-Rivières ou même aux Jeux olympiques de Vancouver. Reconnue pour son énergie contagieuse et sa fougue sur scène, Mélissa aborde, sous des mélodies accrocheuses, des thématiques universelles comme les ruptures, la persévérance, les dépendances… et bien plus encore. Entourée de ses musiciens, elle propose les pièces à succès de son répertoire, Sans tomber, In Love Again et son plus récent extrait Un peu moins que nous, en plus de revisiter celles de ses plus grandes inspirations musicales.",
+        "startDate": "2026-02-19T19:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9156",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS0219N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS0219N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5406",
+          "url": "https://scenesfrancophones.ca/artistes/melissa-ouimet-0",
+          "name": "Melissa Ouimet"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-de-loeil-176-pas-9159",
+        "name": "Théâtre de l'Œil -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/theatre%20de%20loeil.jpg?itok=RNE_A-Ic",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Octave adore la musique et joue merveilleusement bien du piano, mais sa peur de l’inconnu le paralyse au point qu’il ne quitte presque jamais le somptueux domaine où il vit avec sa mère et sa tante Simone.\r\n\r\nPour Delphine, c’est tout l’inverse: elle nage, pêche, explore et travaille aux côtés de ses parents poissonniers, quand elle ne se chamaille pas joyeusement avec ses quatre frères. Pour elle, la vie est une aventure perpétuelle… sauf à l’école!\r\n\r\nUn jour, son chemin croise celui d’Octave, et une improbable amitié naît entre eux. Mais Delphine est-elle aussi téméraire qu’elle le laisse paraître? Quelle fracture dans l’histoire d’Octave lui fait craindre à ce point le monde extérieur? Sauront-ils s’aider l’un l’autre à vivre enfin librement? Fable tendre sur les multiples visages de l’anxiété, 176 pas célèbre avant tout le pouvoir transformateur de l’amitié.\r\n\r\nPrésenté en collaboration avec le Centre des arts Shenkman.",
+        "startDate": "2026-03-19T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9159",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS0319N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS0319N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9157",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-de-loeil",
+          "name": "Théâtre de l'Œil",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/evelyne-roy-molgat-un-peu-de-jokes-beaucoup-de-crowdwork-9162",
+        "name": "Evelyne Roy-Molgat -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/evelyne%20roy%20molgat.jpg?itok=GIFQrk8g",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Evelyne Roy-Molgat monte sur la scène pour présenter son tout nouveau spectacle: Un peu de jokes, beaucoup de crowdwork (ou l'inverse, on verra)!\r\n\r\nPour ceux qui ne la connaissent pas encore, elle se démarque par son sens de la répartie, son énergie contagieuse et surtout parce qu’elle est incapable de ne pas parler au public.\r\n\r\nOui, vous aurez compris, c’est une maître du crowdwork (l’art d’échanger avec le public pour les faire rire). Dans ce spectacle, Evelyne se donne le défi de faire une heure 100% improvisée, ce qui veut dire qu’il y aura du crowdwork, des blagues, des anecdotes, mais surtout rien de préparé à l’avance. C’est votre chance de voir un spectacle unique qui se construit devant vos yeux selon ce que le public lui donne comme informations. C’est pour cela qu’elle ne sait pas si ce sera un peu de blagues ou beaucoup de crowdwork (ou l’inverse). Mais dans tous les cas, ce sera drôle!",
+        "startDate": "2026-04-11T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9162",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://app193.digibotservices.ca/dbo/event.php?org=5190&event=21217314",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9160",
+          "url": "https://scenesfrancophones.ca/artistes/evelyne-roy-molgat-0",
+          "name": "Evelyne Roy-Molgat",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-duceppe-rue-duplessis-ma-petite-noirceur-9166",
+        "name": "Théâtre Duceppe -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/rue_duplessis.jpg?itok=AeMSTVQa",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Qui aurait cru qu’un petit gars de la rue Duplessis à Drummondville, qui a grandi dans la pauvreté, la peur et les préjugés, deviendrait un sociologue estimé et un animateur réputé à Radio-Canada?\r\n\r\nJean-Philippe Pleau vient d’une famille bienveillante dans laquelle l’ambition intellectuelle suscitait la méfiance: «L’école, c’est pour ceux qui pètent plus haut que leur trou» y disait-on. Nourri au «macarouni» gratiné au fromage Singles de Kraft, celui qu’on connaît surtout pour ses réflexions savoureuses à C’est fou… (avec Serge Bouchard) et à Réfléchir à voix haute est aujourd’hui étranger au monde d’où il vient, sans vraiment appartenir à celui dans lequel il a abouti. Rue Duplessis, c’est son histoire, celle de sa «migration intérieure» de transfuge de classe; mais c’est aussi un regard critique sur les inégalités socioéconomiques qui dictent encore trop souvent le destin et les aspirations de celles et ceux qui sont «né·es pour un p’tit pain». Un parcours drôle et émouvant, empreint de courage, de nostalgie… et de sociologie.\r\n\r\n• Texte: Jean-Philippe Pleau\r\n\r\n• Adaptation théâtrale: David Laurin\r\n\r\n• Mise en scène: Marie-Ève Milot\r\n\r\n• Interprétation: Steve Laplante, Michel-Maxime Legault et Jean-Philippe Pleau\r\n\r\n• Assistance à la mise en scène: Josianne Dulong-Savignac\r\n\r\n• Scénographie: Geneviève Lizotte\r\n\r\n• Costumes: Cynthia St-Gelais\r\n\r\n• Éclairages: Paul Chambers\r\n\r\n• Musique: Antoine Berthiaume\r\n\r\n• Production Duceppe",
+        "startDate": "2026-04-14T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9166",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS0414N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS0414N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9164",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-duceppe",
+          "name": "Théâtre Duceppe",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-9168",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le téton tardif est bien plus qu’une simple performance solo. C’est un voyage intime et révélateur à travers les complexités de l’identité féminine. Caroline nous entraîne dans son monde intérieur, où les seins deviennent le point focal d’une histoire riche en émotion, en humour et en réflexion. À travers une combinaison innovante de comédie stand-up, de drame théâtral et d’expression corporelle, elle nous invite à remettre en question nos propres perceptions de la beauté, de la sexualité et de l’estime de soi, dans un monde façonné par les médias et la culture populaire.",
+        "startDate": "2026-05-01T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9168",
+        "location": {
+          "@type": "Place",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/node/1052",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6600, rue Carrière",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1C 1J4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.465878",
+            "longitude": "-75.523333"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1052"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://app193.digibotservices.ca/dbo/event.php?org=5190&event=24876965",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5731",
+          "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+          "name": "Caroline Raynaud"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/patrick-groulx-nouveau-spectacle-9171",
+        "name": "Patrick Groulx -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/patrick%20groulx.jpg?itok=GRZldQYa",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Patrick Groulx présente son nouveau spectacle en primeur au public d'Orléans!",
+        "startDate": "2026-05-07T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9171",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS0507N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS0507N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9169",
+          "url": "https://scenesfrancophones.ca/artistes/patrick-groulx",
+          "name": "Patrick Groulx",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/francois-massicotte-massicotte-80-9177",
+        "name": "Francois Massicotte -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/francois%20massicotte.jpg?itok=baX9sM71",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "François Massicotte, l’humoriste établi apprécié de tous qui cumule plus de 35 ans d’expérience en humour, est de retour sur scène avec son 8e one-man-show : 8.0!\r\n\r\nAvec son sens du timing unique, François aborde des thèmes unificateurs à travers lesquels tous se reconnaissent, tels que la famille, le couple, la parentalité, la vieillesse et plus encore, avec humour et dérision. À travers ses aventures et histoires savoureuses, ce père de cinq enfants nous entraîne dans le tourbillon de la famille moderne avec son énergie scénique contagieuse! Doté d’un talent naturel, François s’assume, s’anime et nous transporte dans le tourbillonnement fou de la vie contemporaine. 8.0!, pour se reconnaître et en rire!",
+        "startDate": "2026-05-13T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9177",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3ACP%3AS2526%3AHS0513N%3A&linkID=centrepointe-fr&shopperContext=&pc=&caller=&appCode=&groupCode=HS0513N&cgc=&dataAcc&dataAccId=670&locale=fr_CA&siteId=ev_centrepointe",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9175",
+          "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-0",
+          "name": "Francois Massicotte",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/scott-pien-picard-pekuaiapu-9203",
+        "name": "Scott-Pien Picard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-06T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9203",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8110",
+          "url": "https://scenesfrancophones.ca/artistes/scott-pien-picard-1",
+          "name": "Scott-Pien Picard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/457",
         "name": "Atrium de l'ACFSJ",
@@ -41481,8 +44463,8 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": "45.465845",
-          "longitude": "-75.523408"
+          "latitude": "45.465878",
+          "longitude": "-75.523333"
         },
         "@id": "https://scenesfrancophones.ca/id/1052"
       }
@@ -41590,7 +44572,7 @@
       {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/1057",
-        "name": "Centre régional de Loisirs culturels de Kapuskasing",
+        "name": "L. J. Fortin",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "7, avenue Aurora",
@@ -41599,10 +44581,11 @@
           "postalCode": "P5N 1J6",
           "addressCountry": "CA"
         },
+        "description": "Salle L.J. Fortin et Amphithéâtre Mariette M. Dallaire (espaces attenants)Capacité totale variable selon l’aménagement :Jusqu’à 400 personnes avec un permis de boissonJusqu’à 550 personnes en configuration chaises seulement218 places assises supplémentaires dans l’amphithéâtreDimensions de la salle L.J. Fortin : 50' x 100' (5000 pi²)",
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": "49.41929",
-          "longitude": "-82.429869"
+          "latitude": "49.41927",
+          "longitude": "-82.429853"
         },
         "@id": "https://scenesfrancophones.ca/id/1057"
       }
@@ -43052,6 +46035,102 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9074",
+        "name": "Théâtres Meridian",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "101 Centrepointe Dr",
+          "addressLocality": "Nepean",
+          "addressRegion": "ON",
+          "postalCode": "K2G 5K7",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.34438",
+          "longitude": "-75.762732"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9074"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9075",
+        "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "245 Centrum Blvd",
+          "addressLocality": "Orléans",
+          "addressRegion": "ON",
+          "postalCode": "K1E 0A1",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.480642",
+          "longitude": "-75.511391"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9075"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9078",
+        "name": "Centre des arts Shenkman – Théâtre Richcraft",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "245 Centrum Blvd",
+          "addressLocality": "Orléans",
+          "addressRegion": "ON",
+          "postalCode": "K1E 0A1",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.480642",
+          "longitude": "-75.511391"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9078"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9079",
+        "name": "École secondaire catholique Béatrice-Desloges",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1999 Provence Ave.",
+          "addressLocality": "Orléans",
+          "addressRegion": "ON",
+          "postalCode": "K4A 3Y6",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.468533",
+          "longitude": "-75.458342"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9079"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/24",
         "url": "https://www.carrefourisj.org/",
@@ -43282,8 +46361,9 @@
       {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/30",
+        "url": "https://accrs.ca",
         "description": "Le mandat de l’Association du Centre communautaire de la Rive-Sud est de faire la promotion de la culture française dans la région et d’organiser des activités pour l’épanouissement culturel de notre communauté francophone et des francophiles.",
-        "name": "Association du centre communautaire de la Rive-Sud",
+        "name": "Association du Centre Communautaire de la Rive-Sud",
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "1 (902) 527-9115",
@@ -43672,7 +46752,7 @@
         "logo": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2022-06/Centre-des-arts-culture-Dieppe.png?itok=ICthfY0q",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-06/CACD_Logo2022__V_color.jpg?itok=N8yYfNVL",
           "width": "480",
           "height": "480"
         },
