@@ -4933,7 +4933,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Organization",
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/8355",
         "url": "https://scenesfrancophones.ca/artistes/les-peres-petu",
         "name": "Les pères Pétu"
@@ -5578,10 +5578,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Organization",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8496",
         "url": "https://scenesfrancophones.ca/artistes/fredo",
-        "name": "FREDO"
+        "name": "Fredo"
       }
     ]
   },
@@ -7444,6 +7444,443 @@
         "@id": "https://scenesfrancophones.ca/id/9207",
         "url": "https://scenesfrancophones.ca/artistes/le-moulin-musique",
         "name": "Le Moulin à musique"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9217",
+        "url": "https://scenesfrancophones.ca/artistes/quen-dit-raton-0",
+        "name": "Qu'en dit raton?"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9219",
+        "url": "https://scenesfrancophones.ca/artistes/les-minimalices",
+        "name": "Les MiniMalices"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9222",
+        "url": "https://scenesfrancophones.ca/artistes/phil-g-smith-0",
+        "name": "Phil G Smith"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9224",
+        "url": "https://scenesfrancophones.ca/artistes/benny-jones",
+        "name": "Benny Jones"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9232",
+        "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-1",
+        "name": "Francois Massicotte"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9241",
+        "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
+        "name": "Les Bilinguish Boys"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9245",
+        "url": "https://scenesfrancophones.ca/artistes/buscadero",
+        "name": "Buscadero"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9248",
+        "url": "https://scenesfrancophones.ca/artistes/rainbow",
+        "name": "Rainbow"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9253",
+        "url": "https://scenesfrancophones.ca/artistes/creations-vivo",
+        "name": "créations in vivo"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9258",
+        "url": "https://scenesfrancophones.ca/artistes/lendemain-de-veille",
+        "name": "Lendemain de veille"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9262",
+        "url": "https://scenesfrancophones.ca/artistes/sugar-crush-0",
+        "name": "Sugar Crush"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9265",
+        "url": "https://scenesfrancophones.ca/artistes/dominic-paquet-1",
+        "name": "Dominic Paquet"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9496",
+        "url": "https://scenesfrancophones.ca/artistes/bruno-pelletier",
+        "name": "Bruno Pelletier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9499",
+        "url": "https://scenesfrancophones.ca/artistes/matt-thousand",
+        "name": "Matt Thousand"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9503",
+        "url": "https://scenesfrancophones.ca/artistes/laura-niquay",
+        "name": "Laura Niquay"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9505",
+        "url": "https://scenesfrancophones.ca/artistes/michael-faulkner",
+        "name": "Michael Faulkner"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9509",
+        "url": "https://scenesfrancophones.ca/artistes/artistes-locaux",
+        "name": "Artistes locaux"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9513",
+        "url": "https://scenesfrancophones.ca/artistes/orchestre-dharmonie-de-esch",
+        "name": "Orchestre d'harmonie de ESCH"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9516",
+        "url": "https://scenesfrancophones.ca/artistes/bea-bestiole",
+        "name": "Béa Bestiole"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9520",
+        "url": "https://scenesfrancophones.ca/artistes/ariko",
+        "name": "Ariko"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9524",
+        "url": "https://scenesfrancophones.ca/artistes/amy-sylla",
+        "name": "Amy Sylla"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9534",
+        "url": "https://scenesfrancophones.ca/artistes/tenon-mortaise",
+        "name": "Tenon Mortaise"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9536",
+        "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui",
+        "name": "Jocelyn Sioui"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9542",
+        "url": "https://scenesfrancophones.ca/artistes/les-impairs",
+        "name": "Les Impairs"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9544",
+        "url": "https://scenesfrancophones.ca/artistes/eadse",
+        "name": "Eadsé"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9547",
+        "url": "https://scenesfrancophones.ca/artistes/cie-comme-une-etincelle",
+        "name": "CIE COMME UNE ETINCELLE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9549",
+        "url": "https://scenesfrancophones.ca/artistes/roselle",
+        "name": "Roselle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/9569",
+        "url": "https://scenesfrancophones.ca/artistes/ensemble-mistral",
+        "name": "Ensemble Mistral"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9574",
+        "url": "https://scenesfrancophones.ca/artistes/les-colocs-ensemble",
+        "name": "LES COLOCS-ENSEMBLE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/9583",
+        "url": "https://scenesfrancophones.ca/artistes/le-livre-magique",
+        "name": "LE LIVRE MAGIQUE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9609",
+        "url": "https://scenesfrancophones.ca/artistes/tara-luz-danse-0",
+        "name": "Tara Luz Danse"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9613",
+        "url": "https://scenesfrancophones.ca/artistes/naomi-steinberg",
+        "name": "Naomi Steinberg"
       }
     ]
   },
@@ -30629,8 +31066,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "43.895957",
-            "longitude": "-78.862604"
+            "latitude": "43.895895",
+            "longitude": "-78.862579"
           },
           "@id": "https://scenesfrancophones.ca/id/1064"
         },
@@ -30687,8 +31124,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "43.895957",
-            "longitude": "-78.862604"
+            "latitude": "43.895895",
+            "longitude": "-78.862579"
           },
           "@id": "https://scenesfrancophones.ca/id/1064"
         },
@@ -30750,8 +31187,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "43.895957",
-            "longitude": "-78.862604"
+            "latitude": "43.895895",
+            "longitude": "-78.862579"
           },
           "@id": "https://scenesfrancophones.ca/id/1064"
         },
@@ -30814,8 +31251,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "43.895957",
-            "longitude": "-78.862604"
+            "latitude": "43.895895",
+            "longitude": "-78.862579"
           },
           "@id": "https://scenesfrancophones.ca/id/1064"
         },
@@ -30906,150 +31343,6 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/corpus-interventions-divines-8196",
-        "name": "CORPUS - La bulle",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Il y a dans chaque histoire un moment de désespoir où tout semble perdu : il n’y a plus d’autre recours possible qu’une intervention divine. Mettant en scène 4 interprètes talentueuses venues de tous horizons, ce spectacle déambulatoire imaginé en confinement se veut être un remède ludique aux défis de l’après COVID. Le public rencontrera par hasard ces déesses ambulantes, ou sera témoin d’un rite transcendantal lors d’une intervention a cappella au coin d’une rue ou d’un parc. Notre intention est d’offrir un moment de poésie, de beauté et d’espoir d’un soutien bienveillant venu de l’au-delà.",
-        "startDate": "2024-07-25T15:00:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/8196",
-        "location": {
-          "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
-        },
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/68",
-          "name": "Centre culturel Frontenac",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
-        },
-        "performer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/1018",
-          "url": "https://scenesfrancophones.ca/artistes/corpus",
-          "name": "CORPUS"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/corpus-interventions-divines-8197",
-        "name": "CORPUS - La bulle",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Il y a dans chaque histoire un moment de désespoir où tout semble perdu : il n’y a plus d’autre recours possible qu’une intervention divine. Mettant en scène 4 interprètes talentueuses venues de tous horizons, ce spectacle déambulatoire imaginé en confinement se veut être un remède ludique aux défis de l’après COVID. Le public rencontrera par hasard ces déesses ambulantes, ou sera témoin d’un rite transcendantal lors d’une intervention a cappella au coin d’une rue ou d’un parc. Notre intention est d’offrir un moment de poésie, de beauté et d’espoir d’un soutien bienveillant venu de l’au-delà.",
-        "startDate": "2024-07-25T19:30:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/8197",
-        "location": {
-          "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
-        },
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/68",
-          "name": "Centre culturel Frontenac",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
-        },
-        "performer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/1018",
-          "url": "https://scenesfrancophones.ca/artistes/corpus",
-          "name": "CORPUS"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/corpus-interventions-divines-8198",
-        "name": "CORPUS - La bulle",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Il y a dans chaque histoire un moment de désespoir où tout semble perdu : il n’y a plus d’autre recours possible qu’une intervention divine. Mettant en scène 4 interprètes talentueuses venues de tous horizons, ce spectacle déambulatoire imaginé en confinement se veut être un remède ludique aux défis de l’après COVID. Le public rencontrera par hasard ces déesses ambulantes, ou sera témoin d’un rite transcendantal lors d’une intervention a cappella au coin d’une rue ou d’un parc. Notre intention est d’offrir un moment de poésie, de beauté et d’espoir d’un soutien bienveillant venu de l’au-delà.",
-        "startDate": "2024-07-26T15:00:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/8198",
-        "location": {
-          "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
-        },
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/68",
-          "name": "Centre culturel Frontenac",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
-        },
-        "performer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/1018",
-          "url": "https://scenesfrancophones.ca/artistes/corpus",
-          "name": "CORPUS"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/corpus-interventions-divines-8199",
-        "name": "CORPUS - La bulle",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Il y a dans chaque histoire un moment de désespoir où tout semble perdu : il n’y a plus d’autre recours possible qu’une intervention divine. Mettant en scène 4 interprètes talentueuses venues de tous horizons, ce spectacle déambulatoire imaginé en confinement se veut être un remède ludique aux défis de l’après COVID. Le public rencontrera par hasard ces déesses ambulantes, ou sera témoin d’un rite transcendantal lors d’une intervention a cappella au coin d’une rue ou d’un parc. Notre intention est d’offrir un moment de poésie, de beauté et d’espoir d’un soutien bienveillant venu de l’au-delà.",
-        "startDate": "2024-07-26T19:30:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/8199",
-        "location": {
-          "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
-        },
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/68",
-          "name": "Centre culturel Frontenac",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
-        },
-        "performer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/1018",
-          "url": "https://scenesfrancophones.ca/artistes/corpus",
-          "name": "CORPUS"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/corpus-interventions-divines-8200",
         "name": "CORPUS - La bulle",
         "eventStatus": "https://schema.org/EventScheduled",
@@ -31058,46 +31351,6 @@
         "startDate": "2024-07-27T15:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8200",
-        "location": {
-          "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
-        },
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/68",
-          "name": "Centre culturel Frontenac",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
-        },
-        "performer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/1018",
-          "url": "https://scenesfrancophones.ca/artistes/corpus",
-          "name": "CORPUS"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/corpus-interventions-divines-8201",
-        "name": "CORPUS - La bulle",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Il y a dans chaque histoire un moment de désespoir où tout semble perdu : il n’y a plus d’autre recours possible qu’une intervention divine. Mettant en scène 4 interprètes talentueuses venues de tous horizons, ce spectacle déambulatoire imaginé en confinement se veut être un remède ludique aux défis de l’après COVID. Le public rencontrera par hasard ces déesses ambulantes, ou sera témoin d’un rite transcendantal lors d’une intervention a cappella au coin d’une rue ou d’un parc. Notre intention est d’offrir un moment de poésie, de beauté et d’espoir d’un soutien bienveillant venu de l’au-delà.",
-        "startDate": "2024-07-27T19:30:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/8201",
-        "location": {
-          "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
-        },
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock"
@@ -31149,61 +31402,6 @@
           "@id": "https://scenesfrancophones.ca/id/5976",
           "url": "https://scenesfrancophones.ca/artistes/leflofranco-1",
           "name": "LeFLOFRANCO"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/toqaq-mecimi-puwiht-delphine-reve-toujours-8206",
-        "name": "TOQAQ MECIMI PUWIHT  -",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "startDate": "2024-09-28T11:00:00-04:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/8206",
-        "location": {
-          "@type": "Place",
-          "name": "Théâtre Le Sésame",
-          "url": "https://scenesfrancophones.ca/node/1045",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "1290 rue Wheathill",
-            "addressLocality": "Kingston",
-            "addressRegion": "ON",
-            "postalCode": "K7M 0A7",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "44.24737",
-            "longitude": "-76.56108"
-          },
-          "@id": "https://scenesfrancophones.ca/id/1045"
-        },
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/68",
-          "name": "Centre culturel Frontenac",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
-        },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/8204",
-          "url": "https://scenesfrancophones.ca/artistes/toqaq-mecimi-puwiht",
-          "name": "TOQAQ MECIMI PUWIHT",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
         }
       }
     ]
@@ -34746,10 +34944,6 @@
         "startDate": "2025-08-15T17:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8534",
-        "location": {
-          "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
-        },
         "offers": {
           "@type": "Offer",
           "url": "https://leschutes.tuxedobillet.com/",
@@ -40407,8 +40601,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "43.895957",
-            "longitude": "-78.862604"
+            "latitude": "43.895895",
+            "longitude": "-78.862579"
           },
           "@id": "https://scenesfrancophones.ca/id/1064"
         },
@@ -42540,6 +42734,1550 @@
           "@id": "https://scenesfrancophones.ca/id/8110",
           "url": "https://scenesfrancophones.ca/artistes/scott-pien-picard-1",
           "name": "Scott-Pien Picard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ferline-regis-ferline-regis-9221",
+        "name": "Ferline Regis  - Hier est parti",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-06T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9221",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/1001",
+          "url": "https://scenesfrancophones.ca/artistes/ferline-regis",
+          "name": "Ferline Regis"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/francois-massicotte-80-9234",
+        "name": "Francois Massicotte -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Francois-Massicotte-affiche-carr%C3%A9e_0.jpg?itok=jODALSHs",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-09-14T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9234",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Trillium",
+          "url": "https://scenesfrancophones.ca/node/4149",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9 Broomhead Rd",
+            "addressLocality": "Chapleau",
+            "addressRegion": "ON",
+            "postalCode": "P0M 1K0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.839585",
+            "longitude": "-83.40972"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4149"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/79",
+          "name": "Centre culturel Louis-Hémon",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9232",
+          "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-1",
+          "name": "Francois Massicotte",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-rats-dswompe-elixir-9235",
+        "name": "Les Rats d'Swompe - Élixir",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Rats d’Swompe nous arrivent de la contrée de l’Ontario français. De par leur trad-rock festif encore plus assumé, on dit d'eux qu'ils sont de sympathiques gaillards, capables de mettre le feu aux pieds des festivaliers, par leur savant mélange de chansons traditionnelles canadiennes-françaises, de compositions originales et de reels de violoneux. Un spectacle avec une énergie à la fois sauvage et si attachante que la foule se lève à tout coup pour festoyer sans relâche.",
+        "startDate": "2025-09-26T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9235",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Trillium",
+          "url": "https://scenesfrancophones.ca/node/4149",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9 Broomhead Rd",
+            "addressLocality": "Chapleau",
+            "addressRegion": "ON",
+            "postalCode": "P0M 1K0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.839585",
+            "longitude": "-83.40972"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4149"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/79",
+          "name": "Centre culturel Louis-Hémon",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/4001",
+          "url": "https://scenesfrancophones.ca/artistes/les-rats-dswompe",
+          "name": "Les Rats d'Swompe"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-chiclettes-en-attendant-noel-9237",
+        "name": "Les Chiclettes - En attendant Noël",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Les%20Chiclettes%20Noel.jpeg?itok=vy53p7jj",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jen Squires"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-12-07T15:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9237",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Trillium",
+          "url": "https://scenesfrancophones.ca/node/4149",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9 Broomhead Rd",
+            "addressLocality": "Chapleau",
+            "addressRegion": "ON",
+            "postalCode": "P0M 1K0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.839585",
+            "longitude": "-83.40972"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4149"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/79",
+          "name": "Centre culturel Louis-Hémon",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5435",
+          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes",
+          "name": "Les Chiclettes"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-ouimet-sos-9238",
+        "name": "Melissa Ouimet - Tourner",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Melissa%20Ouimet%20_%20Bruno%20Labrie.jpg?itok=b42nqYIa",
+          "width": "430",
+          "height": "430",
+          "creditText": "Gaëlle Leroyer"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Avec un amalgame de pop, rock et néo-soul, le spectacle \"SOS\" de Mélissa Ouimet transporte le public dans un voyage musical vibrant, captivant et rassembleur. Récipiendaire d’un Trille Or pour son spectacle ainsi que pour sa chanson « Amours jetables », l’artiste franco-ontarienne nous promet une soirée riche en émotions. Melissa a captivé les foules à travers le Canada, que ce soit lors de festivals tels que les Francos de Montréal, le FestiVoix de Trois-Rivières ou même aux Jeux olympiques de Vancouver. Reconnue pour son énergie contagieuse et sa fougue sur scène, Mélissa aborde, sous des mélodies accrocheuses, des thématiques universelles comme les ruptures, la persévérance, les dépendances… et bien plus encore. Entourée de ses musiciens, elle propose les pièces à succès de son répertoire, Sans tomber, In Love Again et son plus récent extrait Un peu moins que nous, en plus de revisiter celles de ses plus grandes inspirations musicales.",
+        "startDate": "2026-02-28T19:30:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9238",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Trillium",
+          "url": "https://scenesfrancophones.ca/node/4149",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9 Broomhead Rd",
+            "addressLocality": "Chapleau",
+            "addressRegion": "ON",
+            "postalCode": "P0M 1K0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.839585",
+            "longitude": "-83.40972"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4149"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/79",
+          "name": "Centre culturel Louis-Hémon",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5406",
+          "url": "https://scenesfrancophones.ca/artistes/melissa-ouimet-0",
+          "name": "Melissa Ouimet"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-9239",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le téton tardif est bien plus qu’une simple performance solo. C’est un voyage intime et révélateur à travers les complexités de l’identité féminine. Caroline nous entraîne dans son monde intérieur, où les seins deviennent le point focal d’une histoire riche en émotion, en humour et en réflexion. À travers une combinaison innovante de comédie stand-up, de drame théâtral et d’expression corporelle, elle nous invite à remettre en question nos propres perceptions de la beauté, de la sexualité et de l’estime de soi, dans un monde façonné par les médias et la culture populaire.",
+        "startDate": "2026-03-04T19:30:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9239",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Trillium",
+          "url": "https://scenesfrancophones.ca/node/4149",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9 Broomhead Rd",
+            "addressLocality": "Chapleau",
+            "addressRegion": "ON",
+            "postalCode": "P0M 1K0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.839585",
+            "longitude": "-83.40972"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4149"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/79",
+          "name": "Centre culturel Louis-Hémon",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5731",
+          "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+          "name": "Caroline Raynaud"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-brian-st-pierre-9240",
+        "name": "BRIAN ST-PIERRE - SIMPLEMENT BRIAN",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Récipiendaire du prix Hommage Trille Or 2023, Brian St-Pierre nous présente son nouveau spectacle rempli d’énergie et d’émotions avec son nouvel album ainsi que ses plus grands succès. Ce spectacle est présenté en formule intime (duo).",
+        "startDate": "2026-04-09T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9240",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Trillium",
+          "url": "https://scenesfrancophones.ca/node/4149",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9 Broomhead Rd",
+            "addressLocality": "Chapleau",
+            "addressRegion": "ON",
+            "postalCode": "P0M 1K0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.839585",
+            "longitude": "-83.40972"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4149"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/79",
+          "name": "Centre culturel Louis-Hémon",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4109",
+          "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre",
+          "name": "BRIAN ST-PIERRE"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-bilinguish-boys-les-bilinguish-boys-9243",
+        "name": "Les Bilinguish Boys -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-05-10T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9243",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Trillium",
+          "url": "https://scenesfrancophones.ca/node/4149",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9 Broomhead Rd",
+            "addressLocality": "Chapleau",
+            "addressRegion": "ON",
+            "postalCode": "P0M 1K0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.839585",
+            "longitude": "-83.40972"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4149"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/79",
+          "name": "Centre culturel Louis-Hémon",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9241",
+          "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
+          "name": "Les Bilinguish Boys",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-rats-dswompe-elixir-9244",
+        "name": "Les Rats d'Swompe - Élixir",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Rats d’Swompe nous arrivent de la contrée de l’Ontario français. De par leur trad-rock festif encore plus assumé, on dit d'eux qu'ils sont de sympathiques gaillards, capables de mettre le feu aux pieds des festivaliers, par leur savant mélange de chansons traditionnelles canadiennes-françaises, de compositions originales et de reels de violoneux. Un spectacle avec une énergie à la fois sauvage et si attachante que la foule se lève à tout coup pour festoyer sans relâche.",
+        "startDate": "2024-06-01T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9244",
+        "location": {
+          "@type": "Place",
+          "name": "Centre d’Action",
+          "url": "https://scenesfrancophones.ca/node/9229",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "7888 Arthur Lavigne St",
+            "addressLocality": "Ste-Anne-de-Prescott",
+            "addressRegion": "ON",
+            "postalCode": "K0B 1M0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.443622",
+            "longitude": "-74.470964"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9229"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/4001",
+          "url": "https://scenesfrancophones.ca/artistes/les-rats-dswompe",
+          "name": "Les Rats d'Swompe"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/buscadero-buscadero-9247",
+        "name": "Buscadero -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Un nouveau groupe de musique BUSCADERO, émerge de la scène artistique offrant une prise moderniste sur la musique country. Fondé par quatre musiciens talentueux, Brandon Girouard, Maxime Renaud, Noah Rivard et Martin Rocheleau ce quatuor dégage une énergie exceptionnelle sur la scène. Leurs rythmes entraînants, sons distinctifs et paroles évocatrices vous réservent une soirée inoubliable, avec l'avenir prometteur devant eux, BUSCADERO continue de repousser les frontières de la musique country.",
+        "startDate": "2024-09-13T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9247",
+        "location": {
+          "@type": "Place",
+          "name": "Wood Brothers Brewing Co.",
+          "url": "https://scenesfrancophones.ca/node/9228",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2980 Wylie Rd",
+            "addressLocality": "Glen Robertson",
+            "addressRegion": "ON",
+            "postalCode": "K0B 1H0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.36999",
+            "longitude": "-74.548285"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9228"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9245",
+          "url": "https://scenesfrancophones.ca/artistes/buscadero",
+          "name": "Buscadero",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/rainbow-bingo-disco-de-noel-9250",
+        "name": "Rainbow -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-11-23T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9250",
+        "location": {
+          "@type": "Place",
+          "name": "Pavillon Bonnie Glen",
+          "url": "https://scenesfrancophones.ca/node/9226",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "19596 County Rd 43",
+            "addressLocality": "Alexandria",
+            "addressRegion": "ON",
+            "postalCode": "K0C 1A0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.280224",
+            "longitude": "-74.695843"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9226"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9248",
+          "url": "https://scenesfrancophones.ca/artistes/rainbow",
+          "name": "Rainbow",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/creations-vivo-mourir-de-trop-gueuler-9255",
+        "name": "créations in vivo -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "MOURIR DE TROP GUEULER est une parade époustouflante de bouffons franco-ontariens pour célébrer le 50e anniversaire du drapeau franco-ontarien. Cette procession théâtrale unique célèbre les funérailles d’une grenouille géante– morte d’avoir trop gueulé. Avec une ambiance de solidarité moqueuse, le spectacle s’embrase grâce à ses musiques entraînantes, ses personnages hauts en couleur et ses scènes comiques irrésistibles. Le public, invité à participer, pourra aider à ressusciter la grenouille avec rires, danses et chants. Une aventure théâtrale électrisante qui unit toutes les générations.",
+        "startDate": "2025-09-17T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9255",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium École Le Relais",
+          "url": "https://scenesfrancophones.ca/node/1047",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "100, rue McNab",
+            "addressLocality": "Alexandria",
+            "addressRegion": "ON",
+            "postalCode": "K0C 1A0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.316669",
+            "longitude": "-74.631662"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1047"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/xda250905001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9253",
+          "url": "https://scenesfrancophones.ca/artistes/creations-vivo",
+          "name": "créations in vivo",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-9256",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le téton tardif est bien plus qu’une simple performance solo. C’est un voyage intime et révélateur à travers les complexités de l’identité féminine. Caroline nous entraîne dans son monde intérieur, où les seins deviennent le point focal d’une histoire riche en émotion, en humour et en réflexion. À travers une combinaison innovante de comédie stand-up, de drame théâtral et d’expression corporelle, elle nous invite à remettre en question nos propres perceptions de la beauté, de la sexualité et de l’estime de soi, dans un monde façonné par les médias et la culture populaire.",
+        "startDate": "2025-10-24T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9256",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium École Le Relais",
+          "url": "https://scenesfrancophones.ca/node/1047",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "100, rue McNab",
+            "addressLocality": "Alexandria",
+            "addressRegion": "ON",
+            "postalCode": "K0C 1A0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.316669",
+            "longitude": "-74.631662"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1047"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/xda251024001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5731",
+          "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+          "name": "Caroline Raynaud"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/lendemain-de-veille-sen-vient-9260",
+        "name": "Lendemain de veille -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Originaire d’un petit village de la Rive-Sud de Montréal, Lendemain de veille est une formation de 5 musiciens d’exception qui brûle les planches depuis plus de 15 ans en ravivant la flamme de ceux et celles qui ont le sang bien bleu. Lendemain de veille s’affaire à faire danser et chanter ses foules comme s’il n’y avait pas de lendemain grâce à leurs compositions rassembleuses qui créent un sentiment d’appartenance bien fort pour le Québec. Que ce soit au festival country de Saint-Tite, la Foire Brayonne au Nouveau-Brunswick, au Festival du Crabe de Paspébiac ou à ASSO Montréal, Lendemain de veille vous fera swingner la bacaisse dans le fond d’la boîte à bois!  À consommer sans modération!",
+        "startDate": "2025-11-08T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9260",
+        "location": {
+          "@type": "Place",
+          "name": "Pavillon Bonnie Glen",
+          "url": "https://scenesfrancophones.ca/node/9226",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "19596 County Rd 43",
+            "addressLocality": "Alexandria",
+            "addressRegion": "ON",
+            "postalCode": "K0C 1A0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.280224",
+            "longitude": "-74.695843"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9226"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/xda251108001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9258",
+          "url": "https://scenesfrancophones.ca/artistes/lendemain-de-veille",
+          "name": "Lendemain de veille",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-chiclettes-en-attendant-noel-9261",
+        "name": "Les Chiclettes - En attendant Noël",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-12-13T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9261",
+        "location": {
+          "@type": "Place",
+          "name": "Palais des Sports",
+          "url": "https://scenesfrancophones.ca/node/9227",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170 MacDonald Blvd",
+            "addressLocality": "Alexandria",
+            "addressRegion": "ON",
+            "postalCode": "K0C 1A0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.312624",
+            "longitude": "-74.64557"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9227"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/xda251213001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5435",
+          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes",
+          "name": "Les Chiclettes"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/sugar-crush-sugar-crush-9264",
+        "name": "Sugar Crush -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Sugar Crush est un duo composé de deux filles à la personnalité vibrante et colorée, Joanie Charron et Marie-Soleil Provost. Ce groupe franco-ontarien propose un tout nouveau spectacle déjà et propose un tout nouveau spectacle festif garni de compositions originales et de reprises populaires du grand répertoire country. De par son orchestration simple, mais assumée, le duo met de l’avant ses voix féminines en misant sur de belles harmonies vocales, le tout soutenu par une douce rythmique de ukulélé. Sugar Crush est le parfait mélange de la jeunesse et d’enracinement populaire.",
+        "startDate": "2025-09-12T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9264",
+        "location": {
+          "@type": "Place",
+          "name": "Wood Brothers Brewing Co.",
+          "url": "https://scenesfrancophones.ca/node/9228",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2980 Wylie Rd",
+            "addressLocality": "Glen Robertson",
+            "addressRegion": "ON",
+            "postalCode": "K0B 1H0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.36999",
+            "longitude": "-74.548285"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9228"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/xda250912001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9262",
+          "url": "https://scenesfrancophones.ca/artistes/sugar-crush-0",
+          "name": "Sugar Crush",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/bilinguish-boys-bilinguish-boys-9269",
+        "name": "Bilinguish Boys - Bilinguish Boys",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "startDate": "2025-05-31T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9269",
+        "location": {
+          "@type": "Place",
+          "name": "Centre d’Action",
+          "url": "https://scenesfrancophones.ca/node/9229",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "7888 Arthur Lavigne St",
+            "addressLocality": "Ste-Anne-de-Prescott",
+            "addressRegion": "ON",
+            "postalCode": "K0B 1M0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.443622",
+            "longitude": "-74.470964"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9229"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/998",
+          "url": "https://scenesfrancophones.ca/artistes/bilinguish-boys",
+          "name": "Bilinguish Boys"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/dominic-paquet-laisse-moi-partir-9270",
+        "name": "Dominic Paquet -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Humoriste québécois, Dominic Paquet est un showman des plus hilarants. Ses prestations physiques, mimiques délirantes et ses prouesses vocales impressionnantes font de lui un individu si démarqué dans son domaine. Son don naturel et son sens de l’humour si hautement aiguisé lui valent une place aux plus grands événements du milieu de l’humour québécois dès son début. Sa conformabilité sur la scène ainsi que son imagination si fascinante vous assure une soirée à rire aux éclats. Dominic passera le jeudi 10 avril 2025 à 20h, au Pavillon Bonnie Glen à Alexandria. Si vous ne voulez pas manquer une soirée mordante, assurez-vous de vous procurer des billets pour ce show!",
+        "startDate": "2025-04-10T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9270",
+        "location": {
+          "@type": "Place",
+          "name": "Pavillon Bonnie Glen",
+          "url": "https://scenesfrancophones.ca/node/9226",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "19596 County Rd 43",
+            "addressLocality": "Alexandria",
+            "addressRegion": "ON",
+            "postalCode": "K0C 1A0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.280224",
+            "longitude": "-74.695843"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9226"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9265",
+          "url": "https://scenesfrancophones.ca/artistes/dominic-paquet-1",
+          "name": "Dominic Paquet",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/bruno-pelletier-miserere-25-ans-9498",
+        "name": "Bruno Pelletier -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-12T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9498",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9496",
+          "url": "https://scenesfrancophones.ca/artistes/bruno-pelletier",
+          "name": "Bruno Pelletier",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/michael-faulkner-recital-horem-9507",
+        "name": "Michael Faulkner -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-05-04T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9507",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9505",
+          "url": "https://scenesfrancophones.ca/artistes/michael-faulkner",
+          "name": "Michael Faulkner",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/artistes-locaux-soirees-cabaret-9511",
+        "name": "Artistes locaux -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Spectacles de variétés mettant en vedette des artistes locaux, les 17 et 18 mai 2024",
+        "startDate": "2024-05-17T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9511",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9509",
+          "url": "https://scenesfrancophones.ca/artistes/artistes-locaux",
+          "name": "Artistes locaux",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/orchestre-dharmonie-de-esch-concert-annuel-2024-9515",
+        "name": "Orchestre d'harmonie de ESCH -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-06-05T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9515",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9513",
+          "url": "https://scenesfrancophones.ca/artistes/orchestre-dharmonie-de-esch",
+          "name": "Orchestre d'harmonie de ESCH",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ariko-ariko-9522",
+        "name": "Ariko -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-09-21T13:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9522",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Rolland Desroches",
+          "url": "https://scenesfrancophones.ca/node/1065",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 2G3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1065"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9520",
+          "url": "https://scenesfrancophones.ca/artistes/ariko",
+          "name": "Ariko",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/amy-sylla-amy-sylla-9526",
+        "name": "Amy Sylla -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Amy-Sylla-danse-afrobeat-2-fe%CC%81vrier-2025%201.jpg?itok=nFnovTsn",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Atelier de danse dans le cadre des célébrations pour le mois de l'histoire des noirs",
+        "startDate": "2025-02-02T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9526",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9524",
+          "url": "https://scenesfrancophones.ca/artistes/amy-sylla",
+          "name": "Amy Sylla",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/improteine-improteine-9527",
+        "name": "Improtéine - Improtéine",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis près de 20 ans, les membres du groupe Improtéine se promènent partout avec leur spectacle interactif d’improvisation théâtrale, musicale et humoristique. Avec plus de 1000 représentations devant plus de 350 000 spectateurs, Improtéine connaît un succès monstre partout. 100% improvisé, le spectacle prend vie grâce à un maître de jeu qui interagit avec la foule afin de guider des improvisateurs et un musicien vers des histoires hilarantes tout à fait uniques et spontanées. Sketchs, chansons, situations ridicules, le tout inventé sur le champ, devant vos yeux! Rire et délire garantis!",
+        "startDate": "2025-06-22T15:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9527",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/4122",
+          "url": "https://scenesfrancophones.ca/artistes/improteine",
+          "name": "Improtéine"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-brian-st-pierre-9573",
+        "name": "BRIAN ST-PIERRE - SIMPLEMENT BRIAN",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Récipiendaire du prix Hommage Trille Or 2023, Brian St-Pierre nous présente son nouveau spectacle rempli d’énergie et d’émotions avec son nouvel album ainsi que ses plus grands succès. Ce spectacle est présenté en formule intime (duo).",
+        "startDate": "2024-10-19T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9573",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/node/1064",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "57, rue Simcoe Sud, bureau 2D",
+            "addressLocality": "Oshawa",
+            "addressRegion": "ON",
+            "postalCode": "L1H 4G4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.895895",
+            "longitude": "-78.862579"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1064"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/87",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-organismes-francophones-de-la-region-de-durham"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4109",
+          "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre",
+          "name": "BRIAN ST-PIERRE"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-colocs-ensemble-les-colocs-ensemble-9576",
+        "name": "LES COLOCS-ENSEMBLE -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "La même musique que l’on aime, revisité et bonifié par des échanges de souvenirs ou d’anecdotes.\r\n\r\nConcert proposé par le Conseil des Organismes Francophones de la Région de Durham (COFRD) le 22 mars 2025 de 20h à 22h. \r\n\r\nÀ l’école secondaire catholique Saint-Charles-Garnier : 4101 Baldwin Street South Whitby, ON L1R 2W6\r\n\r\nSouvent qualifié de groupe « party », il faut dire d’emblée que les musiciens des colocs sont généralement nombreux sur une scène et que l’union des talents crée en soit une atmosphère festive. Même si les soirées de grandes retrouvailles sont toujours agréables, Mike Sawatzky, propose aussi une nouvelle expérience avec le spectacle les Colocs en trio acoustique!",
+        "startDate": "2025-03-22T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9576",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/87",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-organismes-francophones-de-la-region-de-durham"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9574",
+          "url": "https://scenesfrancophones.ca/artistes/les-colocs-ensemble",
+          "name": "LES COLOCS-ENSEMBLE",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/tara-luz-danse-les-batons-9611",
+        "name": "Tara Luz Danse -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-06/Lesbatons_Instagram%20%281%29.png?itok=cryoVJxP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Tara Luz Danse"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Inspirée par un instrument de musique amusant connu sous le nom de « Boomwhackers », Les bâtons est une œuvre de danse ludique, créative et dynamique qui explore le pouvoir de l'imagination. Par le biais du mouvement et de la musique jouée en direct, les artistes unissent leur ingéniosité pour transformer ces objets colorés de façon surprenante et inattendue, encourageant les spectateurs à réfléchir autrement et ouvrir leur imaginaire. Que ce soit par sa poésie, son côté mystérieux ou ces moments humoristiques, cette œuvre saura charmer les petits comme les grands!\r\n\r\nLorsque la chorégraphe Anik Bouvrette a découvert les « Boomwhackers », elle a su tout\r\nde suite qu'elle voulait les intégrer dans une œuvre de danse. Lors du processus de création, elle a été surprise et inspirée par les nombreuses façons dont ces objets pouvaient être utilisés, non seulement comme instruments de percussion mais aussi dans le travail en mouvement et comme accessoires visuels. Pour Anik Bouvrette, les « Boomwhackers » créent un pont avec le public : « Lorsque nous présentons Les bâtons, je remarque que les gens ont un lien immédiat avec les « Boomwhackers ». À la base oui, ce sont des instruments de musique, mais l’œuvre nous amène à voir et découvrir ces objets différemment! ».\r\n\r\nAprès des représentations à guichets fermés en 2016, 2018 et 2024 à Ottawa, Les bâtons de Tara Luz Danse est maintenant de passage à Thunder Bay. Ne manquez pas ce spectacle captivant!\r\n\r\nÉtablie en résidence au Centre des arts Shenkman à Orléans, Tara Luz Danse est une compagnie francophone de danse contemporaine qui propose des spectacles inspirants pour le jeune public et le public multigénérationnel. Ses œuvres ont été présentées à Ottawa et en tournée dans des séries jeunesses et familiales, ainsi que des représentations en milieu scolaire. La compagnie partage sa passion pour la danse par l’entremise d'ateliers et de projets de nature participative qui amènent le public à découvrir la danse contemporaine et le mouvement de façon originale et inusitée. Tara Luz Danse célèbre plus de 15 ans de créativité et d'engagement!",
+        "startDate": "2024-11-16T13:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9611",
+        "location": {
+          "@type": "Place",
+          "name": "Magnus Theatre",
+          "url": "https://scenesfrancophones.ca/node/9538",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "10 rue Algoma Sud",
+            "addressLocality": "Thunder Bay",
+            "addressRegion": "ON",
+            "postalCode": "P7B 3A7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.436954",
+            "longitude": "-89.22494"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9538"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/76",
+          "name": "Club culturel francophone de Thunder Bay",
+          "url": "https://scenesfrancophones.ca/diffuseurs/club-culturel-francophone-de-thunder-bay"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9609",
+          "url": "https://scenesfrancophones.ca/artistes/tara-luz-danse-0",
+          "name": "Tara Luz Danse",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/naomi-steinberg-le-kamishibai-de-plume-doie-lhistoire-de-son-voyage-autour-de-notre",
+        "name": "Naomi Steinberg -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Kamishibai%20Thunderbay.jpg?itok=G_uZ6Emz",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L'artiste et conteuse Naomi Steinberg a 25 ans d'expérience dans l'interprétation de contes folkloriques et de contes de fées traditionnels avec diverses communautés dans des contextes tels que les écoles, les théâtres, les forêts, les festivals et les conférences. www.naomisteinberg.ca\r\n\r\nElle a été directrice artistique de la Vancouver Society of Storytelling de 2009 à 2014 et donne des ateliers sur le conte dans diverses écoles primaires et secondaires, universités et organismes.\r\n\r\nElle prépare actuellement une tournée canadienne pour promouvoir son livre auto-publié (2020), Goosefeather - Once Upon a Cartographic Adventure (www.goosefeather.ca).\r\n\r\nPour compléter la lecture de Goosefeather, Naomi propose un spectacle pour enfants inspiré du livre, en français ou en anglais. Développée et traduite lors d'une micro-résidence proposée par Le Conseil Culturel et Artistique de la CB, le spectactle utilise l'art du kamishibai. Le Kamishibai est une forme japonaise de narration qui utilise un simple cadre en bois avec des images à l'intérieur, animées par la voix de l'interprète. L'utilisation habile de l'imagerie graphique, de la voix et du mouvement fait du kamishibai une forme populaire de divertissement de rue ainsi qu'un spectacle réussi en classe. La performance peut être suivie d’un show ‘n’ tell interactif + période de questions/réponses.",
+        "startDate": "2025-06-28T10:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9615",
+        "location": {
+          "@type": "Place",
+          "name": "Thunder Bay Country Market",
+          "url": "https://scenesfrancophones.ca/node/9539",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "425, avenue Northern",
+            "addressLocality": "Thunder Bay",
+            "addressRegion": "ON",
+            "postalCode": "P7C 2V7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.397391",
+            "longitude": "-89.243449"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9539"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/76",
+          "name": "Club culturel francophone de Thunder Bay",
+          "url": "https://scenesfrancophones.ca/diffuseurs/club-culturel-francophone-de-thunder-bay"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9613",
+          "url": "https://scenesfrancophones.ca/artistes/naomi-steinberg",
+          "name": "Naomi Steinberg",
           "schema_organization_additional_type": [
             "http://dbpedia.org/ontology/Agent",
             "http://xmlns.com/foaf/0.1/Agent",
@@ -44752,8 +46490,8 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": "43.895957",
-          "longitude": "-78.862604"
+          "latitude": "43.895895",
+          "longitude": "-78.862579"
         },
         "@id": "https://scenesfrancophones.ca/id/1064"
       }
@@ -46124,6 +47862,246 @@
           "longitude": "-75.458342"
         },
         "@id": "https://scenesfrancophones.ca/id/9079"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9226",
+        "name": "Pavillon Bonnie Glen",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "19596 County Rd 43",
+          "addressLocality": "Alexandria",
+          "addressRegion": "ON",
+          "postalCode": "K0C 1A0",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.280224",
+          "longitude": "-74.695843"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9226"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9227",
+        "name": "Palais des Sports",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "170 MacDonald Blvd",
+          "addressLocality": "Alexandria",
+          "addressRegion": "ON",
+          "postalCode": "K0C 1A0",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.312624",
+          "longitude": "-74.64557"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9227"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9228",
+        "name": "Wood Brothers Brewing Co.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2980 Wylie Rd",
+          "addressLocality": "Glen Robertson",
+          "addressRegion": "ON",
+          "postalCode": "K0B 1H0",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.36999",
+          "longitude": "-74.548285"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9228"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9229",
+        "name": "Centre d’Action",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "7888 Arthur Lavigne St",
+          "addressLocality": "Ste-Anne-de-Prescott",
+          "addressRegion": "ON",
+          "postalCode": "K0B 1M0",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.443622",
+          "longitude": "-74.470964"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9229"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9230",
+        "name": "Centre culturel Les trois p’tits points",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "213 Main St. N",
+          "addressLocality": "Alexandria",
+          "addressRegion": "ON",
+          "postalCode": "K0C 1A0",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.31541",
+          "longitude": "-74.639856"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9230"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9231",
+        "name": "Centre Charles Émile Claude",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "146b Chevrier Ave",
+          "addressLocality": "Cornwall",
+          "addressRegion": "ON",
+          "postalCode": "K6H 1S1",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.01986",
+          "longitude": "-74.713348"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9231"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9538",
+        "name": "Magnus Theatre",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "10 rue Algoma Sud",
+          "addressLocality": "Thunder Bay",
+          "addressRegion": "ON",
+          "postalCode": "P7B 3A7",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "48.436954",
+          "longitude": "-89.22494"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9538"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9539",
+        "name": "Thunder Bay Country Market",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "425, avenue Northern",
+          "addressLocality": "Thunder Bay",
+          "addressRegion": "ON",
+          "postalCode": "P7C 2V7",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "48.397391",
+          "longitude": "-89.243449"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9539"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9540",
+        "name": "Norteños Cantina",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "235, chemin Red River",
+          "addressLocality": "Thunder Bay",
+          "addressRegion": "ON",
+          "postalCode": "P7B 1A7",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "48.435227",
+          "longitude": "-89.22136"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9540"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/9541",
+        "name": "Superior Inn Hotel & Conference Centre",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "555, rue Arthur Ouest",
+          "addressLocality": "Thunder Bay",
+          "addressRegion": "ON",
+          "postalCode": "P7E 5R5",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "48.381529",
+          "longitude": "-89.292778"
+        },
+        "@id": "https://scenesfrancophones.ca/id/9541"
       }
     ]
   },
