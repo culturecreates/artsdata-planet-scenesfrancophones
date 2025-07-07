@@ -862,14 +862,7 @@
         "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/917",
         "url": "https://scenesfrancophones.ca/artistes/prairie-comeau",
-        "name": "Prairie Comeau",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Prairie%20Comeau-photo.jpg?itok=ITYFhWq4",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Prairie Comeau"
       }
     ]
   },
@@ -1947,8 +1940,8 @@
       {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4120",
-        "url": "https://scenesfrancophones.ca/artistes/sophie-dorleans-0",
-        "name": "Sophie D'Orléans"
+        "url": "https://scenesfrancophones.ca/artistes/sophie-dorleans",
+        "name": "Sophie d'Orléans"
       }
     ]
   },
@@ -2123,7 +2116,7 @@
       {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4186",
-        "url": "https://scenesfrancophones.ca/artistes/vincent-bishop-1",
+        "url": "https://scenesfrancophones.ca/artistes/vincent-bishop",
         "name": "Vincent Bishop"
       }
     ]
@@ -4116,12 +4109,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/8113",
         "url": "https://scenesfrancophones.ca/artistes/le-gros-orteil-0",
         "name": "Le Gros Orteil"
@@ -4148,12 +4136,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/8121",
         "url": "https://scenesfrancophones.ca/artistes/empire-pagaille-0",
         "name": "Empire Pagaille"
@@ -4275,7 +4258,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8179",
         "url": "https://scenesfrancophones.ca/artistes/micah-0",
-        "name": "Micah!"
+        "name": "MIcah!"
       }
     ]
   },
@@ -4822,7 +4805,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8331",
         "url": "https://scenesfrancophones.ca/artistes/yves-marchand",
-        "name": "Yves Marchand"
+        "name": "YVES MARCHAND"
       }
     ]
   },
@@ -5382,12 +5365,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/8454",
         "url": "https://scenesfrancophones.ca/artistes/bouge-de-la",
         "name": "Bouge de là"
@@ -6868,12 +6846,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8858",
         "url": "https://scenesfrancophones.ca/artistes/yves-doucet-0",
         "name": "Yves Doucet"
@@ -6964,12 +6937,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8889",
         "url": "https://scenesfrancophones.ca/artistes/pako",
         "name": "Pako"
@@ -7881,6 +7849,891 @@
         "@id": "https://scenesfrancophones.ca/id/9613",
         "url": "https://scenesfrancophones.ca/artistes/naomi-steinberg",
         "name": "Naomi Steinberg"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9631",
+        "url": "https://scenesfrancophones.ca/artistes/moulin-musique",
+        "name": "Moulin à Musique"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9633",
+        "url": "https://scenesfrancophones.ca/artistes/lorene-charmetant",
+        "name": "Lorène Charmetant"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9641",
+        "url": "https://scenesfrancophones.ca/artistes/alexandre-desilets",
+        "name": "Alexandre Désilets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9644",
+        "url": "https://scenesfrancophones.ca/artistes/amay-laoni",
+        "name": "Amay Laoni"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/9648",
+        "url": "https://scenesfrancophones.ca/artistes/dans-lshed",
+        "name": "Dans l'Shed"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9650",
+        "url": "https://scenesfrancophones.ca/artistes/fred-dionne",
+        "name": "Fred Dionne"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9652",
+        "url": "https://scenesfrancophones.ca/artistes/heron",
+        "name": "Héron"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/9655",
+        "url": "https://scenesfrancophones.ca/artistes/lwazo-sirois-le-dernier-rodeo",
+        "name": "Lwazo Sirois & le dernier rodéo"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9660",
+        "url": "https://scenesfrancophones.ca/artistes/reine-des-fleurs-dit-poeme",
+        "name": "Reine Des Fleurs Dit Poème"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9662",
+        "url": "https://scenesfrancophones.ca/artistes/sandra-contour",
+        "name": "Sandra Contour"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9664",
+        "url": "https://scenesfrancophones.ca/artistes/simon-kearney",
+        "name": "Simon Kearney"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/9667",
+        "url": "https://scenesfrancophones.ca/artistes/swamp-hommage-ccr",
+        "name": "Swamp - Hommage à CCR"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/9669",
+        "url": "https://scenesfrancophones.ca/artistes/veranda",
+        "name": "Veranda"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9677",
+        "url": "https://scenesfrancophones.ca/artistes/stephane-tetreault",
+        "name": "Stephane Tetreault"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9679",
+        "url": "https://scenesfrancophones.ca/artistes/stephane-tetreault-0",
+        "name": "Stéphane Tétreault"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9682",
+        "url": "https://scenesfrancophones.ca/artistes/la-fille-du-laitier",
+        "name": "La Fille Du Laitier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9684",
+        "url": "https://scenesfrancophones.ca/artistes/toxique-trottoir",
+        "name": "Toxique trottoir"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/9798",
+        "url": "https://scenesfrancophones.ca/artistes/francbatards",
+        "name": "Francbâtards"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/9800",
+        "url": "https://scenesfrancophones.ca/artistes/kamakazi",
+        "name": "Kamakazi"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9802",
+        "url": "https://scenesfrancophones.ca/artistes/joelle-roy",
+        "name": "Joëlle Roy"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9807",
+        "url": "https://scenesfrancophones.ca/artistes/genevieve-cholette",
+        "name": "Geneviève Cholette"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9952",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-tortue-berlue",
+        "name": "Théâtre Tortue Berlue",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%281%29.png?itok=f4Rp0Lc0",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9953",
+        "url": "https://scenesfrancophones.ca/artistes/fritz-larriviere-jean-marc-lalonde",
+        "name": "Fritz Larrivière, Jean-Marc Lalonde"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9957",
+        "url": "https://scenesfrancophones.ca/artistes/nicolas-pellerin-et-les-grands-hurleurs",
+        "name": "Nicolas Pellerin et les grands hurleurs",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/CBM_1224_0.JPG?itok=1H711hu6",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9958",
+        "url": "https://scenesfrancophones.ca/artistes/trevor-copp",
+        "name": "Trevor Copp"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9962",
+        "url": "https://scenesfrancophones.ca/artistes/martial-tremblay",
+        "name": "Martial Tremblay"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9971",
+        "url": "https://scenesfrancophones.ca/artistes/evelyne-roy-molgat-thomas-lapointe-lucas-boucher",
+        "name": "Evelyne Roy-Molgat, Thomas Lapointe, Lucas Boucher"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9975",
+        "url": "https://scenesfrancophones.ca/artistes/dulcimer",
+        "name": "Dulcimer"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/9978",
+        "url": "https://scenesfrancophones.ca/artistes/chanelle-albert-easy-company",
+        "name": "Chanelle Albert & the Easy Company"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9980",
+        "url": "https://scenesfrancophones.ca/artistes/king-h-509",
+        "name": "King H 509"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/9982",
+        "url": "https://scenesfrancophones.ca/artistes/monette",
+        "name": "Monette"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/9984",
+        "url": "https://scenesfrancophones.ca/artistes/vanille-pimentee",
+        "name": "Vanille Pimentée"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/9988",
+        "url": "https://scenesfrancophones.ca/artistes/jay-trepanier",
+        "name": "Jay Trepanier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9992",
+        "url": "https://scenesfrancophones.ca/artistes/alex-roy-0",
+        "name": "Alex Roy",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%283%29.png?itok=-I0bpfrZ",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/9996",
+        "url": "https://scenesfrancophones.ca/artistes/david-corriveau-3",
+        "name": "David Corriveau",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%284%29.png?itok=fEBsjx0S",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9997",
+        "url": "https://scenesfrancophones.ca/artistes/compagnie-de-la-citadelle",
+        "name": "Compagnie de la Citadelle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/9999",
+        "url": "https://scenesfrancophones.ca/artistes/bo-montreal-ballet-ouest-de-montreal",
+        "name": "BO Montréal - Ballet Ouest de Montréal"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10003",
+        "url": "https://scenesfrancophones.ca/artistes/bam",
+        "name": "BAM"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/10007",
+        "url": "https://scenesfrancophones.ca/artistes/le-cirque-collini",
+        "name": "Le Cirque Collini"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/10011",
+        "url": "https://scenesfrancophones.ca/artistes/zale-seck-pasa-musik",
+        "name": "Zale Seck - PASA Musik"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/10018",
+        "url": "https://scenesfrancophones.ca/artistes/larriere-scene-0",
+        "name": "L'Arrière Scène"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10020",
+        "url": "https://scenesfrancophones.ca/artistes/grand-poney-0",
+        "name": "Grand Poney",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%285%29.png?itok=f1mNLhh5",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10024",
+        "url": "https://scenesfrancophones.ca/artistes/les-illusionnistes",
+        "name": "Les Illusionnistes",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%286%29.png?itok=RracOSOP",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10025",
+        "url": "https://scenesfrancophones.ca/artistes/cayenne-0",
+        "name": "Cayenne",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%287%29.png?itok=cQUkbwS6",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10026",
+        "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-0",
+        "name": "Les Hay Babies",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/Les%20Hay%20Babies%209_WEB_cre%CC%81dit%20photo%20Elizabeth%20Landry.jpg?itok=pRn0m37H",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10027",
+        "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon-0",
+        "name": "Alphonse Bisaillon",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%289%29.png?itok=ixf-3q7L",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10028",
+        "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-2",
+        "name": "François Massicotte"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10031",
+        "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-2",
+        "name": "Jérémy Demay",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/jdem_naturel_1080x1920_sansnouvspec.jpg?itok=hw1RBgrB",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10035",
+        "url": "https://scenesfrancophones.ca/artistes/stephane-fallu",
+        "name": "Stéphane Fallu",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%2811%29.png?itok=GGNLnIEX",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10036",
+        "url": "https://scenesfrancophones.ca/artistes/benny-jones-0",
+        "name": "Benny Jones",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%2812%29.png?itok=uVKGFpUg",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10037",
+        "url": "https://scenesfrancophones.ca/artistes/passe-partout-0",
+        "name": "Passe Partout",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/Affiche_18x24_Comediens%20%282%29.jpg?itok=RpCmReNb",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10041",
+        "url": "https://scenesfrancophones.ca/artistes/maxime-landry-et-annie-blanchard-1",
+        "name": "Maxime Landry et Annie Blanchard",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%2814%29.png?itok=W3I1C-GH",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10042",
+        "url": "https://scenesfrancophones.ca/artistes/mike-ward-0",
+        "name": "Mike Ward",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%2815%29.png?itok=1btc_6LX",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10043",
+        "url": "https://scenesfrancophones.ca/artistes/coco-belliveau-1",
+        "name": "Coco Belliveau",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%2816%29.png?itok=Xtgd7zz4",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10044",
+        "url": "https://scenesfrancophones.ca/artistes/daniel-lemire-0",
+        "name": "Daniel Lemire",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%2817%29_0.png?itok=jc20VAFZ",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10045",
+        "url": "https://scenesfrancophones.ca/artistes/samantha-0",
+        "name": "Samantha",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%2818%29.png?itok=EIw6nNM1",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10046",
+        "url": "https://scenesfrancophones.ca/artistes/mononcle-jason",
+        "name": "Mononcle Jason",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%2819%29.png?itok=dJjtDov7",
+          "width": "480",
+          "height": "480"
+        }
       }
     ]
   },
@@ -23706,7 +24559,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-02-20T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6165",
@@ -23768,7 +24621,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-02-21T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6166",
@@ -23830,7 +24683,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-02-22T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6167",
@@ -23892,7 +24745,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-02-27T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6168",
@@ -23954,7 +24807,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-02-28T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6169",
@@ -24016,7 +24869,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-03-01T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6170",
@@ -24078,7 +24931,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-03-06T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6171",
@@ -24140,7 +24993,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-03-07T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6172",
@@ -24202,7 +25055,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-03-08T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6173",
@@ -24264,7 +25117,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-03-14T19:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6174",
@@ -24326,7 +25179,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-03-15T18:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6175",
@@ -24388,7 +25241,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-03-20T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6176",
@@ -24450,7 +25303,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-03-21T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6177",
@@ -24512,7 +25365,7 @@
           "creditText": "Jérome Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\nDepuis son retour sur scène, ABOiTEAU a participé à plusieurs festivals et célébrations et a eu le plaisir de partager la scène avec plusieurs artistes.  \r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de... ». \r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle.",
+        "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
         "startDate": "2025-03-22T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6178",
@@ -29952,7 +30805,7 @@
         "name": "Mitch Jean - Mitch Jean",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Spectacle énergique de country rock livré par Mitch Jean et son groupe de 5 musiciens. Un mélange d’originaux entraînants qui célèbrent la nostalgie, les routes de campagne, la pêche, l’amour, la bière et la liberté. Le tout est complété par des reprises de grands classiques revisités à la sauce Mitch Jean. Un spectacle interactif, parfait pour les festivals ou les scènes intérieures, qui fait chanter, danser et vibrer le public.",
+        "description": "Présentateur et interprète dynamique, Mitch Jean capte l’attention de son public avec son énergie exubérante, faisant de chaque spectacle une expérience interactive. Ses chansons, inspirées par la nostalgie et le nord, explorent des thèmes de la vie avec positivité et amusement. Issu d’une petite ville de l’Ontario, il crée une musique enracinée et authentique. Influencé par les légendes de la guitare des années 80 comme Def Leppard et le style d’écriture country d’Eric Church, Mitch Jean a su forger une signature musicale unique.",
         "startDate": "2024-06-29T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8076",
@@ -30076,7 +30929,7 @@
         "name": "Mitch Jean - Mitch Jean",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Spectacle énergique de country rock livré par Mitch Jean et son groupe de 5 musiciens. Un mélange d’originaux entraînants qui célèbrent la nostalgie, les routes de campagne, la pêche, l’amour, la bière et la liberté. Le tout est complété par des reprises de grands classiques revisités à la sauce Mitch Jean. Un spectacle interactif, parfait pour les festivals ou les scènes intérieures, qui fait chanter, danser et vibrer le public.",
+        "description": "Présentateur et interprète dynamique, Mitch Jean capte l’attention de son public avec son énergie exubérante, faisant de chaque spectacle une expérience interactive. Ses chansons, inspirées par la nostalgie et le nord, explorent des thèmes de la vie avec positivité et amusement. Issu d’une petite ville de l’Ontario, il crée une musique enracinée et authentique. Influencé par les légendes de la guitare des années 80 comme Def Leppard et le style d’écriture country d’Eric Church, Mitch Jean a su forger une signature musicale unique.",
         "startDate": "2024-06-21T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8079",
@@ -30125,7 +30978,22 @@
         "@id": "https://scenesfrancophones.ca/id/8082",
         "location": {
           "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
+          "name": "Pavillon Bonnie Glen",
+          "url": "https://scenesfrancophones.ca/node/9226",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "19596 County Rd 43",
+            "addressLocality": "Alexandria",
+            "addressRegion": "ON",
+            "postalCode": "K0C 1A0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.280224",
+            "longitude": "-74.695843"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9226"
         },
         "offers": {
           "@type": "Offer",
@@ -30294,7 +31162,7 @@
         "name": "Mitch Jean - Mitch Jean",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Spectacle énergique de country rock livré par Mitch Jean et son groupe de 5 musiciens. Un mélange d’originaux entraînants qui célèbrent la nostalgie, les routes de campagne, la pêche, l’amour, la bière et la liberté. Le tout est complété par des reprises de grands classiques revisités à la sauce Mitch Jean. Un spectacle interactif, parfait pour les festivals ou les scènes intérieures, qui fait chanter, danser et vibrer le public.",
+        "description": "Présentateur et interprète dynamique, Mitch Jean capte l’attention de son public avec son énergie exubérante, faisant de chaque spectacle une expérience interactive. Ses chansons, inspirées par la nostalgie et le nord, explorent des thèmes de la vie avec positivité et amusement. Issu d’une petite ville de l’Ontario, il crée une musique enracinée et authentique. Influencé par les légendes de la guitare des années 80 comme Def Leppard et le style d’écriture country d’Eric Church, Mitch Jean a su forger une signature musicale unique.",
         "startDate": "2024-06-19T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8089",
@@ -30675,6 +31543,7 @@
         "name": "Le Gros Orteil -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Deux voisines partagent une cour commune, mais sont très différentes : l'une est ordonnée, l'autre exubérante. Huguette, la seconde, met la musique à fond, installe une tente pour camper et pratique le vélo acrobatique, dérangeant sa voisine Vana, gênée par ses poubelles débordantes. Malgré leurs conflits, elles apprendront à mieux se comprendre, et une amitié naîtra entre elles. Un duo féminin clownesque qui vous fera rire aux éclats !",
         "startDate": "2024-04-22T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8115",
@@ -30693,15 +31562,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/8113",
           "url": "https://scenesfrancophones.ca/artistes/le-gros-orteil-0",
-          "name": "Le Gros Orteil",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Le Gros Orteil"
         }
       }
     ]
@@ -30868,15 +31732,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/8121",
           "url": "https://scenesfrancophones.ca/artistes/empire-pagaille-0",
-          "name": "Empire Pagaille",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Empire Pagaille"
         }
       }
     ]
@@ -30890,7 +31749,7 @@
         "name": "Mitch Jean - Mitch Jean",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Spectacle énergique de country rock livré par Mitch Jean et son groupe de 5 musiciens. Un mélange d’originaux entraînants qui célèbrent la nostalgie, les routes de campagne, la pêche, l’amour, la bière et la liberté. Le tout est complété par des reprises de grands classiques revisités à la sauce Mitch Jean. Un spectacle interactif, parfait pour les festivals ou les scènes intérieures, qui fait chanter, danser et vibrer le public.",
+        "description": "Présentateur et interprète dynamique, Mitch Jean capte l’attention de son public avec son énergie exubérante, faisant de chaque spectacle une expérience interactive. Ses chansons, inspirées par la nostalgie et le nord, explorent des thèmes de la vie avec positivité et amusement. Issu d’une petite ville de l’Ontario, il crée une musique enracinée et authentique. Influencé par les légendes de la guitare des années 80 comme Def Leppard et le style d’écriture country d’Eric Church, Mitch Jean a su forger une signature musicale unique.",
         "startDate": "2024-06-22T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8124",
@@ -31767,7 +32626,7 @@
         "name": "Mitch Jean - Mitch Jean",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Spectacle énergique de country rock livré par Mitch Jean et son groupe de 5 musiciens. Un mélange d’originaux entraînants qui célèbrent la nostalgie, les routes de campagne, la pêche, l’amour, la bière et la liberté. Le tout est complété par des reprises de grands classiques revisités à la sauce Mitch Jean. Un spectacle interactif, parfait pour les festivals ou les scènes intérieures, qui fait chanter, danser et vibrer le public.",
+        "description": "Présentateur et interprète dynamique, Mitch Jean capte l’attention de son public avec son énergie exubérante, faisant de chaque spectacle une expérience interactive. Ses chansons, inspirées par la nostalgie et le nord, explorent des thèmes de la vie avec positivité et amusement. Issu d’une petite ville de l’Ontario, il crée une musique enracinée et authentique. Influencé par les légendes de la guitare des années 80 comme Def Leppard et le style d’écriture country d’Eric Church, Mitch Jean a su forger une signature musicale unique.",
         "startDate": "2024-05-25T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8226",
@@ -32542,7 +33401,7 @@
         "name": "Moonfruits - Réveil",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Ça bourdonne à Ste-Quequepart. Le groupe folk contemporain Moonfruits d’Ottawa replonge dans son village imaginaire avec esprit et espoir au moment où les abeilles de Ste-Quequepart commencent à dévorer tout ce qu’il y a de métal. Petit à petit, on voit une infrastructure en chute libre et une société en pleine refonte. \r\n«Réveil» tisse des rêves tout en prônant de se tisser plus serré dans les temps de crise. Attendez-vous à un format trio, avec guitare, banjo, harmonium, séquenceur et contrebasse, et les chaleureuses harmonies de Moonfruits, récent lauréat du Prix Changez d’Air (FR-CH).",
+        "description": "Ça bourdonne à Ste-Quequepart. Le groupe folk contemporain Moonfruits d’Ottawa replonge dans son village imaginaire avec humour et espoir au moment où les abeilles du coin commencent à dévorer tout ce qu’il y a de métal. Petit à petit, on voit une infrastructure en chute libre et une société en pleine refonte. \r\n\r\nChansons et contes se chevauchent dans «Réveil», un spectacle qui prône se tisser serré dans les temps de crise. Attendez-vous à un format trio, avec guitare, banjo, harmonium, contrebasse et les chaleureuses harmonies de Moonfruits, récent lauréat du Prix Changez d’Air (FR-CH).",
         "startDate": "2025-07-13T14:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8268",
@@ -32924,7 +33783,7 @@
         "name": "Mitch Jean - Mitch Jean",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Spectacle énergique de country rock livré par Mitch Jean et son groupe de 5 musiciens. Un mélange d’originaux entraînants qui célèbrent la nostalgie, les routes de campagne, la pêche, l’amour, la bière et la liberté. Le tout est complété par des reprises de grands classiques revisités à la sauce Mitch Jean. Un spectacle interactif, parfait pour les festivals ou les scènes intérieures, qui fait chanter, danser et vibrer le public.",
+        "description": "Présentateur et interprète dynamique, Mitch Jean capte l’attention de son public avec son énergie exubérante, faisant de chaque spectacle une expérience interactive. Ses chansons, inspirées par la nostalgie et le nord, explorent des thèmes de la vie avec positivité et amusement. Issu d’une petite ville de l’Ontario, il crée une musique enracinée et authentique. Influencé par les légendes de la guitare des années 80 comme Def Leppard et le style d’écriture country d’Eric Church, Mitch Jean a su forger une signature musicale unique.",
         "startDate": "2025-06-19T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8319",
@@ -34487,14 +35346,15 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/bouge-de-la-glitch-8456",
-        "name": "Bouge de là -",
+        "name": "Bouge de là  -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Artist%20webSite%20images_1500and600_Glitch_1500x600.jpg?itok=6q42EXrc",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Pablo Javier"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "GLITCH est un spectacle fantaisiste surréaliste qui transporte le public dans le sous-sol mystérieux d’un théâtre déserté. C’est en tout cas ce que croient les quatre intrépides explorateurs qui plongent dans un nouvel univers sur le point de les transformer à jamais. \r\n\r\nQue trouveront-ils dans cette étrange dimension où les lois de la réalité défient les nôtres? Éclairage, scénographie et costumes se conjuguent au gré du rayon laser qui devient un cinquième personnage. C’est le glitch qui apparaît, disparaît et guide le jeune public à la découverte de ce lieu interdit, où le fossé entre deux mondes devient presque illusoire. \r\n\r\nSur ce terrain de jeu sans limite où les protagonistes et les éléments sont étroitement imbriqués, GLITCH éveille l’imagination, en invitant le spectateur à s’interroger sur l’imprévisible et à l’accepter.\r\n\r\nDurant la semaine de relâche\r\nontarienne. En collaboration\r\navec le Centre des arts Shenkman.\r\nPrésenté par le CEPEO.",
@@ -34516,15 +35376,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/8454",
           "url": "https://scenesfrancophones.ca/artistes/bouge-de-la",
-          "name": "Bouge de là",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Bouge de là"
         }
       }
     ]
@@ -39653,7 +40508,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/VouloirPouvoir-banniereMediasSociaux.jpg?itok=8qktjNUK",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Mathieu Lewis (https://www.facebook.com/mathieu.lewis1)"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Depuis ses débuts en standup en 2014, Yves est devenu un des humoristes de renom de l’Acadie. Il a remporté le concours l’Acadie Juste pour rire, a participé aux galas D’un rire à l’autre à UnisTV et a partagé la scène avec de nombreux humoristes établis, dont Mike Ward et Pierre-Bruno Rivard.\r\n\r\nLors du Festival Hubcap, il a assuré avec brio la première partie du spectacle de Luc LeBlanc, et aussi de Mariana Mazza au Théâtre Capitol. Grâce à ces expériences – et à ses nombreuses chicanes sur les réseaux sociaux - Yves a présenté en 2024 son tout premier one man show, Vouloir c’est pouvoir à guichets fermés.\r\n\r\nPremière partie: Line woods",
@@ -39691,15 +40547,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/8858",
           "url": "https://scenesfrancophones.ca/artistes/yves-doucet-0",
-          "name": "Yves Doucet",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Yves Doucet"
         }
       }
     ]
@@ -40231,15 +41082,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/8889",
           "url": "https://scenesfrancophones.ca/artistes/pako",
-          "name": "Pako",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Pako"
         }
       }
     ]
@@ -41542,7 +42388,7 @@
           "creditText": "Mel Price"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Spectacle énergique de country rock livré par Mitch Jean et son groupe de 5 musiciens. Un mélange d’originaux entraînants qui célèbrent la nostalgie, les routes de campagne, la pêche, l’amour, la bière et la liberté. Le tout est complété par des reprises de grands classiques revisités à la sauce Mitch Jean. Un spectacle interactif, parfait pour les festivals ou les scènes intérieures, qui fait chanter, danser et vibrer le public.",
+        "description": "Présentateur et interprète dynamique, Mitch Jean capte l’attention de son public avec son énergie exubérante, faisant de chaque spectacle une expérience interactive. Ses chansons, inspirées par la nostalgie et le nord, explorent des thèmes de la vie avec positivité et amusement. Issu d’une petite ville de l’Ontario, il crée une musique enracinée et authentique. Influencé par les légendes de la guitare des années 80 comme Def Leppard et le style d’écriture country d’Eric Church, Mitch Jean a su forger une signature musicale unique.",
         "startDate": "2025-09-26T21:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9103",
@@ -42517,7 +43363,7 @@
         "name": "Caroline Raynaud - Le Téton Tardif",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le téton tardif est bien plus qu’une simple performance solo. C’est un voyage intime et révélateur à travers les complexités de l’identité féminine. Caroline nous entraîne dans son monde intérieur, où les seins deviennent le point focal d’une histoire riche en émotion, en humour et en réflexion. À travers une combinaison innovante de comédie stand-up, de drame théâtral et d’expression corporelle, elle nous invite à remettre en question nos propres perceptions de la beauté, de la sexualité et de l’estime de soi, dans un monde façonné par les médias et la culture populaire.",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
         "startDate": "2026-05-01T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9168",
@@ -42908,6 +43754,7 @@
           "creditText": "Jen Squires"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour Noël, Les Chiclettes vous reçoivent chez elles. Puisqu’elles ont davantage l’habitude de se mettre les pieds dans les plats que de les préparer, arriveront-elles à être prêtes avant l’arrivée des invités ? Entre les recettes d’Huguette qui comportent quelques « fausses notes », Vivie, qui n’est toujours pas vite-vite et la fameuse liste de tâches de Simone, peut-être qu’un miracle de Noël sera la seule chose qui pourra les sauver ! À travers les nouvelles chansons de leur album « En attendant Noël », vous êtes assurés de lancer votre saison des fêtes en grande pompe !",
         "startDate": "2025-12-07T15:00:00-05:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9237",
@@ -43017,7 +43864,7 @@
         "name": "Caroline Raynaud - Le Téton Tardif",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le téton tardif est bien plus qu’une simple performance solo. C’est un voyage intime et révélateur à travers les complexités de l’identité féminine. Caroline nous entraîne dans son monde intérieur, où les seins deviennent le point focal d’une histoire riche en émotion, en humour et en réflexion. À travers une combinaison innovante de comédie stand-up, de drame théâtral et d’expression corporelle, elle nous invite à remettre en question nos propres perceptions de la beauté, de la sexualité et de l’estime de soi, dans un monde façonné par les médias et la culture populaire.",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
         "startDate": "2026-03-04T19:30:00-05:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9239",
@@ -43224,6 +44071,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/buscadero-buscadero-9247",
         "name": "Buscadero -",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Image%209.jpeg?itok=PflZBhcZ",
+          "width": "430",
+          "height": "430"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Un nouveau groupe de musique BUSCADERO, émerge de la scène artistique offrant une prise moderniste sur la musique country. Fondé par quatre musiciens talentueux, Brandon Girouard, Maxime Renaud, Noah Rivard et Martin Rocheleau ce quatuor dégage une énergie exceptionnelle sur la scène. Leurs rythmes entraînants, sons distinctifs et paroles évocatrices vous réservent une soirée inoubliable, avec l'avenir prometteur devant eux, BUSCADERO continue de repousser les frontières de la musique country.",
         "startDate": "2024-09-13T20:00:00-04:00",
@@ -43280,6 +44134,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/rainbow-bingo-disco-de-noel-9250",
         "name": "Rainbow -",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/434424293_1028525018628874_8758390875878890440_n.jpeg?itok=ncLgEE5T",
+          "width": "430",
+          "height": "430"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "startDate": "2024-11-23T20:00:00-05:00",
         "isAccessibleForFree": "True",
@@ -43335,6 +44196,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/creations-vivo-mourir-de-trop-gueuler-9255",
         "name": "créations in vivo -",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Image%2011.jpeg?itok=vTCAj2HQ",
+          "width": "430",
+          "height": "430"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "MOURIR DE TROP GUEULER est une parade époustouflante de bouffons franco-ontariens pour célébrer le 50e anniversaire du drapeau franco-ontarien. Cette procession théâtrale unique célèbre les funérailles d’une grenouille géante– morte d’avoir trop gueulé. Avec une ambiance de solidarité moqueuse, le spectacle s’embrase grâce à ses musiques entraînantes, ses personnages hauts en couleur et ses scènes comiques irrésistibles. Le public, invité à participer, pourra aider à ressusciter la grenouille avec rires, danses et chants. Une aventure théâtrale électrisante qui unit toutes les générations.",
         "startDate": "2025-09-17T20:00:00-04:00",
@@ -43393,7 +44261,7 @@
         "name": "Caroline Raynaud - Le Téton Tardif",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le téton tardif est bien plus qu’une simple performance solo. C’est un voyage intime et révélateur à travers les complexités de l’identité féminine. Caroline nous entraîne dans son monde intérieur, où les seins deviennent le point focal d’une histoire riche en émotion, en humour et en réflexion. À travers une combinaison innovante de comédie stand-up, de drame théâtral et d’expression corporelle, elle nous invite à remettre en question nos propres perceptions de la beauté, de la sexualité et de l’estime de soi, dans un monde façonné par les médias et la culture populaire.",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
         "startDate": "2025-10-24T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9256",
@@ -43502,6 +44370,7 @@
         "name": "Les Chiclettes - En attendant Noël",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour Noël, Les Chiclettes vous reçoivent chez elles. Puisqu’elles ont davantage l’habitude de se mettre les pieds dans les plats que de les préparer, arriveront-elles à être prêtes avant l’arrivée des invités ? Entre les recettes d’Huguette qui comportent quelques « fausses notes », Vivie, qui n’est toujours pas vite-vite et la fameuse liste de tâches de Simone, peut-être qu’un miracle de Noël sera la seule chose qui pourra les sauver ! À travers les nouvelles chansons de leur album « En attendant Noël », vous êtes assurés de lancer votre saison des fêtes en grande pompe !",
         "startDate": "2025-12-13T20:00:00-05:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9261",
@@ -43552,6 +44421,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/sugar-crush-sugar-crush-9264",
         "name": "Sugar Crush -",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Image%2010.jpeg?itok=hl6uKJn-",
+          "width": "430",
+          "height": "430"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Sugar Crush est un duo composé de deux filles à la personnalité vibrante et colorée, Joanie Charron et Marie-Soleil Provost. Ce groupe franco-ontarien propose un tout nouveau spectacle déjà et propose un tout nouveau spectacle festif garni de compositions originales et de reprises populaires du grand répertoire country. De par son orchestration simple, mais assumée, le duo met de l’avant ses voix féminines en misant sur de belles harmonies vocales, le tout soutenu par une douce rythmique de ukulélé. Sugar Crush est le parfait mélange de la jeunesse et d’enracinement populaire.",
         "startDate": "2025-09-12T19:30:00-04:00",
@@ -43609,6 +44485,14 @@
         "url": "https://scenesfrancophones.ca/spectacles/bilinguish-boys-bilinguish-boys-9269",
         "name": "Bilinguish Boys - Bilinguish Boys",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Copie-de-MODEL-A-UTILISER-JOURNAL-copie-23-885x742.png?itok=9ZEhyBw9",
+          "width": "430",
+          "height": "430",
+          "creditText": "Lynne Dupuis"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-05-31T19:00:00-04:00",
@@ -43660,6 +44544,13 @@
         "url": "https://scenesfrancophones.ca/spectacles/dominic-paquet-laisse-moi-partir-9270",
         "name": "Dominic Paquet -",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Image%2017.jpeg?itok=W53Trqtr",
+          "width": "430",
+          "height": "430"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Humoriste québécois, Dominic Paquet est un showman des plus hilarants. Ses prestations physiques, mimiques délirantes et ses prouesses vocales impressionnantes font de lui un individu si démarqué dans son domaine. Son don naturel et son sens de l’humour si hautement aiguisé lui valent une place aux plus grands événements du milieu de l’humour québécois dès son début. Sa conformabilité sur la scène ainsi que son imagination si fascinante vous assure une soirée à rire aux éclats. Dominic passera le jeudi 10 avril 2025 à 20h, au Pavillon Bonnie Glen à Alexandria. Si vous ne voulez pas manquer une soirée mordante, assurez-vous de vous procurer des billets pour ce show!",
         "startDate": "2025-04-10T20:00:00-04:00",
@@ -44278,6 +45169,522 @@
           "@id": "https://scenesfrancophones.ca/id/9613",
           "url": "https://scenesfrancophones.ca/artistes/naomi-steinberg",
           "name": "Naomi Steinberg",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/genevieve-cholette-le-secret-de-letincelle-9809",
+        "name": "Geneviève Cholette -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-12-14T10:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9809",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Rolland Desroches",
+          "url": "https://scenesfrancophones.ca/node/1065",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 2G3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1065"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9807",
+          "url": "https://scenesfrancophones.ca/artistes/genevieve-cholette",
+          "name": "Geneviève Cholette",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/genevieve-cholette-mystere-de-la-citrouille-9815",
+        "name": "Geneviève Cholette -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "spectacle d'halloween",
+        "startDate": "2024-10-27T10:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9815",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Rolland Desroches",
+          "url": "https://scenesfrancophones.ca/node/1065",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 2G3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1065"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9807",
+          "url": "https://scenesfrancophones.ca/artistes/genevieve-cholette",
+          "name": "Geneviève Cholette",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/fritz-larriviere-jean-marc-lalonde-fritz-larriviere-jean-marc-lalonde-9955",
+        "name": "Fritz Larrivière, Jean-Marc Lalonde -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-07-18T17:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9955",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9953",
+          "url": "https://scenesfrancophones.ca/artistes/fritz-larriviere-jean-marc-lalonde",
+          "name": "Fritz Larrivière, Jean-Marc Lalonde",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/trevor-copp-trevor-copp-9960",
+        "name": "Trevor Copp -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/trevor%20copp%20mime.png?itok=uWe06_y1",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Mime",
+        "startDate": "2024-06-22T15:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9960",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9958",
+          "url": "https://scenesfrancophones.ca/artistes/trevor-copp",
+          "name": "Trevor Copp",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/martial-tremblay-spectacle-de-magie-9964",
+        "name": "Martial Tremblay -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/martial%20tremblay%20magicien.jpg?itok=kde1j9US",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis plus de 30 ans, Martial Tremblay oeuvre dans le domaine des arts. Au fil des années, il mettra sa créativité à profit dans différentes sphères artistiques : Musique, dessin, théâtre, animation, conception graphique et sonore. Mais c'est la magie qui changera sa vie à tout jamais. Lorsqu'on lui parle de magie, ses yeux s'illuminent comme s’il avait 9 ans à nouveau.\r\n\r\nLa magie n'est pas que pour les enfants, grâce à de grands magiciens comme : Luc Langevin, David Copperfield et plusieurs autres, la magie a évolué et n'est plus qu'un jeux d'enfant. Il offre autant des spectacles pour adulte que pour enfant. D'ailleurs les spectacles à la maison sont familiales, ainsi tout le monde apprécieront leur spectacle.  \r\n\r\nUn sens de la répartie à toute épreuve mélangé avec un humour qui lui est bien propre font de lui un expert en la matière d'animation et de divertissement.",
+        "startDate": "2024-06-22T15:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9964",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9962",
+          "url": "https://scenesfrancophones.ca/artistes/martial-tremblay",
+          "name": "Martial Tremblay",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mimi-obonsawin-mimi-obonsawin-9967",
+        "name": "Mimi O'bonsawin - Mimi O'Bonsawin- Trio",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Mimi O'Bonsawin Trio Concert est destiné aux festivals ou à la programmation grand public.\r\nAprès une tournée des festivals à travers le Canada à l'été 2023, une seconde tournée en France (printemps 2024) soutenue par l'APCM, Rue Haute Production (FR), Le Grand Bain Production (FR) et Le Labo du Convervatoir/Festival Changez D'Air (FR) et une autre tournée d'été au Canada d'un océan à l'autre, Mimi et son groupe sont rompus aux diverses programmations incluant les festivals et les centres d'arts de la scène. Mimi a entamé les démarches pour exporter son projet en France et en Europe.",
+        "startDate": "2024-06-07T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9967",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Rolland Desroches",
+          "url": "https://scenesfrancophones.ca/node/1065",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 2G3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1065"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4408",
+          "url": "https://scenesfrancophones.ca/artistes/mimi-obonsawin",
+          "name": "Mimi O'bonsawin"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/evelyne-roy-molgat-thomas-lapointe-lucas-boucher-gala-humour-9973",
+        "name": "Evelyne Roy-Molgat, Thomas Lapointe, Lucas Boucher -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-05T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/9973",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9971",
+          "url": "https://scenesfrancophones.ca/artistes/evelyne-roy-molgat-thomas-lapointe-lucas-boucher",
+          "name": "Evelyne Roy-Molgat, Thomas Lapointe, Lucas Boucher",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/francois-massicotte-80-10030",
+        "name": "François Massicotte -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Image%2016.jpeg?itok=UIorHAu0",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2026-05-08T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10030",
+        "location": {
+          "@type": "Place",
+          "name": "Pavillon Bonnie Glen",
+          "url": "https://scenesfrancophones.ca/node/9226",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "19596 County Rd 43",
+            "addressLocality": "Alexandria",
+            "addressRegion": "ON",
+            "postalCode": "K0C 1A0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.280224",
+            "longitude": "-74.695843"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9226"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/xda260508001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10028",
+          "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-2",
+          "name": "François Massicotte",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/gabrielle-goulet-gabrielle-goulet-10033",
+        "name": "Gabrielle Goulet - Gabrielle Goulet",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2026-05-30T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10033",
+        "location": {
+          "@type": "Place",
+          "name": "Centre d’Action",
+          "url": "https://scenesfrancophones.ca/node/9229",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "7888 Arthur Lavigne St",
+            "addressLocality": "Ste-Anne-de-Prescott",
+            "addressRegion": "ON",
+            "postalCode": "K0B 1M0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.443622",
+            "longitude": "-74.470964"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9229"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/xda260530001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5401",
+          "url": "https://scenesfrancophones.ca/artistes/gabrielle-goulet-0",
+          "name": "Gabrielle Goulet"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/buscadero-buscadero-10034",
+        "name": "Buscadero -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Image%209_0.jpeg?itok=tG392Bca",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Un nouveau groupe de musique BUSCADERO, émerge de la scène artistique offrant une prise moderniste sur la musique country. Fondé par quatre musiciens talentueux, Brandon Girouard, Maxime Renaud, Noah Rivard et Martin Rocheleau ce quatuor dégage une énergie exceptionnelle sur la scène. Leurs rythmes entraînants, sons distinctifs et paroles évocatrices vous réservent une soirée inoubliable, avec l'avenir prometteur devant eux, BUSCADERO continue de repousser les frontières de la musique country.",
+        "startDate": "2026-05-30T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10034",
+        "location": {
+          "@type": "Place",
+          "name": "Centre d’Action",
+          "url": "https://scenesfrancophones.ca/node/9229",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "7888 Arthur Lavigne St",
+            "addressLocality": "Ste-Anne-de-Prescott",
+            "addressRegion": "ON",
+            "postalCode": "K0B 1M0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.443622",
+            "longitude": "-74.470964"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9229"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/xda260530001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/9245",
+          "url": "https://scenesfrancophones.ca/artistes/buscadero",
+          "name": "Buscadero",
           "schema_organization_additional_type": [
             "http://dbpedia.org/ontology/Agent",
             "http://xmlns.com/foaf/0.1/Agent",
@@ -49365,8 +50772,8 @@
         "name": "Village de Bois-Joli",
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "(506) 826-6060",
-          "email": "maire@bois-joli.ca"
+          "telephone": "(506) 753-6494",
+          "email": "societeculturellebdc@gmail.com"
         },
         "logo": {
           "@type": "ImageObject",
