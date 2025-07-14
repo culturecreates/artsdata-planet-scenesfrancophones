@@ -703,7 +703,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/906",
         "url": "https://scenesfrancophones.ca/artistes/jono",
-        "name": "Jono"
+        "name": "JONO"
       }
     ]
   },
@@ -826,14 +826,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/915",
         "url": "https://scenesfrancophones.ca/artistes/monsieur-andre",
-        "name": "Monsieur André",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Monsieur%20Andr%C3%A9%202022.jpg?itok=pCvKo7Ay",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Monsieur André"
       }
     ]
   },
@@ -4954,7 +4947,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8363",
         "url": "https://scenesfrancophones.ca/artistes/major-moran",
         "name": "Major-Moran"
@@ -5800,7 +5793,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Organization",
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/8546",
         "url": "https://scenesfrancophones.ca/artistes/aurore-liang-artiste-et-ses-collaborateurs",
         "name": "Aurore Liang artiste et ses collaborateurs"
@@ -8734,6 +8727,419 @@
           "width": "480",
           "height": "480"
         }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10049",
+        "url": "https://scenesfrancophones.ca/artistes/serge-yvan-bourque",
+        "name": "Serge Yvan Bourque"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/10051",
+        "url": "https://scenesfrancophones.ca/artistes/cirque-toto",
+        "name": "Cirque In Toto"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10053",
+        "url": "https://scenesfrancophones.ca/artistes/nick-cooper",
+        "name": "Nick Cooper"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10056",
+        "url": "https://scenesfrancophones.ca/artistes/kristine-st-pierre",
+        "name": "Kristine St-Pierre"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10059",
+        "url": "https://scenesfrancophones.ca/artistes/fovelle",
+        "name": "Fovelle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10061",
+        "url": "https://scenesfrancophones.ca/artistes/nick-patterson",
+        "name": "Nick Patterson"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10063",
+        "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-1",
+        "name": "Les Hay Babies"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10067",
+        "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-3",
+        "name": "Jeremy Demay"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10080",
+        "url": "https://scenesfrancophones.ca/artistes/steve-riley-et-les-mamou-playboys",
+        "name": "Steve Riley et les Mamou Playboys"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10085",
+        "url": "https://scenesfrancophones.ca/artistes/genman",
+        "name": "GENMAN"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10107",
+        "url": "https://scenesfrancophones.ca/artistes/alan-cote",
+        "name": "Alan Côté"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10111",
+        "url": "https://scenesfrancophones.ca/artistes/alexandra-moreno",
+        "name": "Alexandra Moreno"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/10115",
+        "url": "https://scenesfrancophones.ca/artistes/audrey-michele",
+        "name": "Audrey Michèle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10118",
+        "url": "https://scenesfrancophones.ca/artistes/david-emme",
+        "name": "David Emme"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10124",
+        "url": "https://scenesfrancophones.ca/artistes/jeanne-cote",
+        "name": "Jeanne Côté"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10127",
+        "url": "https://scenesfrancophones.ca/artistes/marianne-gavin",
+        "name": "Marianne Gavin"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/10133",
+        "url": "https://scenesfrancophones.ca/artistes/sandrine-masse",
+        "name": "Sandrine Masse"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/10140",
+        "url": "https://scenesfrancophones.ca/artistes/tom-leger",
+        "name": "Tom Leger"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10143",
+        "url": "https://scenesfrancophones.ca/artistes/maria-cannelloni",
+        "name": "Maria Cannelloni"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/10145",
+        "url": "https://scenesfrancophones.ca/artistes/chimera-danse-theatre-0",
+        "name": "Chimera Danse Theatre"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10150",
+        "url": "https://scenesfrancophones.ca/artistes/donald-dogbo",
+        "name": "Donald Dogbo"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/10152",
+        "url": "https://scenesfrancophones.ca/artistes/ensemble-passamano",
+        "name": "Ensemble Passamano"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/10154",
+        "url": "https://scenesfrancophones.ca/artistes/vox-theatre-0",
+        "name": "VOX THÉÂTRE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10156",
+        "url": "https://scenesfrancophones.ca/artistes/mary-beth-carty",
+        "name": "Mary Beth Carty"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10159",
+        "url": "https://scenesfrancophones.ca/artistes/serena-wu",
+        "name": "Serena Wu"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10174",
+        "url": "https://scenesfrancophones.ca/artistes/mona-degrenoble",
+        "name": "Mona DeGrenoble"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10180",
+        "url": "https://scenesfrancophones.ca/artistes/jay-du-temple",
+        "name": "Jay du Temple"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10184",
+        "url": "https://scenesfrancophones.ca/artistes/travis-cormier",
+        "name": "Travis Cormier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10198",
+        "url": "https://scenesfrancophones.ca/artistes/maxim-martin-0",
+        "name": "Maxim Martin"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/10205",
+        "url": "https://scenesfrancophones.ca/artistes/cafe-korige",
+        "name": "Café Korigé"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10209",
+        "url": "https://scenesfrancophones.ca/artistes/marie-claude-daoust",
+        "name": "Marie-Claude D'Aoust"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10211",
+        "url": "https://scenesfrancophones.ca/artistes/felixe",
+        "name": "Félixe"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10219",
+        "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-3",
+        "name": "François Massicotte"
       }
     ]
   },
@@ -25724,7 +26130,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/artistes/Celeste-Levis.jpg?itok=9uhRGsax",
           "width": "430",
           "height": "430",
-          "creditText": "Philippe Larivière"
+          "creditText": "Créaphil - Phil Larivière"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "C’est avec transparence que Céleste Lévis vous invite à découvrir son nouveau spectacle “Si tu veux tout savoir”; un spectacle qui entame les réflexions et les combats des dernières années. L’auteure-compositrice-interprète propose sur scène des pièces Indie/pop accompagnées de son band passionné et dévoué à la recherche sonore de son nouvel album. Tomber sous le charme de sa voix à la fois douce et puissante et laissez-vous transporter par ses histoires de rêves et d’espoir.",
@@ -31583,42 +31989,6 @@
         "startDate": "2024-05-16T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8116",
-        "location": {
-          "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
-        },
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/81",
-          "name": "Conseil des Arts de Hearst",
-          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
-        },
-        "performer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/1018",
-          "url": "https://scenesfrancophones.ca/artistes/corpus",
-          "name": "CORPUS"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/corpus-interventions-divines-8117",
-        "name": "CORPUS - La bulle",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Il y a dans chaque histoire un moment de désespoir où tout semble perdu : il n’y a plus d’autre recours possible qu’une intervention divine. Mettant en scène 4 interprètes talentueuses venues de tous horizons, ce spectacle déambulatoire imaginé en confinement se veut être un remède ludique aux défis de l’après COVID. Le public rencontrera par hasard ces déesses ambulantes, ou sera témoin d’un rite transcendantal lors d’une intervention a cappella au coin d’une rue ou d’un parc. Notre intention est d’offrir un moment de poésie, de beauté et d’espoir d’un soutien bienveillant venu de l’au-delà.",
-        "startDate": "2024-05-18T09:00:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/8117",
         "location": {
           "@type": "Place",
           "@id": "https://scenesfrancophones.ca/id/"
@@ -39440,7 +39810,7 @@
           "creditText": "Camille Gladu-Drouin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Inspirée par les classiques de la comédie romantique qui ont façonné son adolescence et sa vingtaine, elle dévoile sur scène les chansons de son 4e album, Rom-Com, issu d’une première expérience à titre de réalisatrice. À la fois grande romantique et indiscutablement comique, Caroline Savoie nous guide dans ses récits d'amour triomphant, mais aussi en explorant les intrications des relations plus douloureuses. Être soi-même, assumer qui nous sommes et faire ses propres choix, c’est le chemin de toute une vie et la jeune acadienne sait autant naviguer les eaux calmes que les pires tempêtes.",
+        "description": "Caroline Savoie, autrice-compositrice-interprète au parcours tissé sur une décennie, captive avec une sincérité émotive les facettes de l'amour authentique. Inspirée par les classiques de la comédie romantique qui ont façonné son adolescence et sa vingtaine, elle dévoile sur scène les chansons de son 4e album, Rom-Com, issu d’une première expérience à titre de réalisatrice. À la fois grande romantique et indiscutablement comique, Caroline Savoie nous guide dans ses récits d'amour triomphant, mais aussi en explorant les intrications des relations plus douloureuses.",
         "startDate": "2026-05-07T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8810",
@@ -42759,7 +43129,7 @@
         "name": "Improtéine - Improtéine",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "À la demande générale, le groupe d’humour Improtéine est de retour … mais en plus bon! Voyez la version intégrale de leur spectacle qu’ils ont eux-même titré: «Hommage à Improtéine». Grâce aux suggestions du public, la troupe improvise une fausse rétrospective de la carrière riche et ridicule d'un band mythique créé sous vos yeux. Découvrez leurs plus grands succès musicaux et des anecdotes aussi croustillantes qu'invraisemblables!",
+        "description": "À la demande générale, le groupe d’humour Improtéine est de retour… mais en plus bon!  Voyez leur tout nouveau spectacle humoristique et musical 100% improvisé qu’ils ont eux-même titré : « Hommage à Improtéine ». Grâce aux suggestions du public, la troupe invente devant vos yeux une fausse rétrospective de la carrière riche et ridicule d'un band mythique qui n’a jamais existé. Découvrez leurs plus grands succès musicaux et des anecdotes aussi croustillantes que invraisemblables!",
         "startDate": "2025-12-13T19:00:00-05:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9133",
@@ -45691,6 +46061,1928 @@
             "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
           ]
         }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-hay-babies-tintamarre-10065",
+        "name": "Les Hay Babies -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Design%20sans%20titre-4.png?itok=xivnOm5l",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Tintamarre! Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l'âme folklorique de l'Acadie. Ce show c’est la fête, c'est country rock et c'est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entrainent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit \" Acadie \" dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
+        "startDate": "2025-10-25T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10065",
+        "location": {
+          "@type": "Place",
+          "name": "Seahorse Tavern",
+          "url": "https://scenesfrancophones.ca/node/478",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2037, rue Gottingen",
+            "addressLocality": "Halifax",
+            "addressRegion": "NS",
+            "postalCode": "B3K 3B1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.6512",
+            "longitude": "-63.581995"
+          },
+          "@id": "https://scenesfrancophones.ca/id/478"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://my.weezevent.com/acadian-embassy-et-le-francofest-presentent-les-hay-babies-19?_gl=1*7x0h0e*_gcl_au*NDg1MTExNjk2LjE3NDgyNjQzODkuNzU3OTg0MjAuMTc1MTQ1OTIxMC4xNzUxNDU5MjM4*_ga*MTkwMjk1MzA3Ny4xNzM5OTA1MzQw*_ga_39H9VBFX7G*czE3NTE5MTI0OTYkbzE5OCRnMSR0MT",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/31",
+          "name": "Conseil communautaire du Grand-Havre",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-communautaire-du-grand-havre"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10063",
+          "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-1",
+          "name": "Les Hay Babies",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jeremy-demay-naturel-10069",
+        "name": "Jeremy Demay -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Design%20sans%20titre-5.png?itok=2jprXSbK",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour la première soirée du Francofest, venir (re)découvrir l'humouriste Jeremy Demay!\r\n\r\nLe jeudi 23 octobre 2025 au Sanctuary Arts Centre, 100 rue Ochtoloney au centre ville de Dartmouth\r\n\r\n\r\nJérémy Demay, le plus québécois des humoristes français, résidant au Québec depuis plus de 17 ans, est en tournée avec son spectacle intitulé Naturel. Avec ce 3e one-man-show, et entre l’écriture de ses livres plusieurs fois bestseller (150 000 copies vendues), Jérémy s’amuse à aller dans des zones plus personnelles et étonnera assurément par un contenu délicieusement audacieux qu’on ne lui soupçonnait pas… Avec une franchise à la fois désarmante mais ô combien hilarante, Jérémy se dévoile comme jamais avec de nombreuses confessions sur lui, sa vie et sa famille en exploitant le côté comique de situations qu’il a vécues. Avec Naturel, on retrouve sur scène un Jérémy toujours aussi énergique, charismatique et vif d’esprit qui tisse dès le départ un lien NATUREL avec le public. Avec son talent unique, Jérémy Demay réussit à la fois à faire rire à gorge déployée et à toucher droit au coeur, tout ça pour le grand plaisir de tous! \r\n\r\nCe spectacle d'humour est recommandé aux 16 ans et plus mais est ouvert à tous les âges. Veuillez noter que certains segments pourraient aborder des thématiques sensibles ou adultes\r\n\r\nPour la programmation compléte du Francofest, rendez vous sur francofest.ca ou @francofesthalifax \r\n\r\nCet évènement est rendu possible grâce aux financements du gouvernement du Canada, de la province de la Nouvelle-Écosse, Radarts, et de nombreux commandites",
+        "startDate": "2025-10-23T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10069",
+        "location": {
+          "@type": "Place",
+          "name": "Sanctuary Arts Centre",
+          "url": "https://scenesfrancophones.ca/node/10070",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "100 Ochtoloney street",
+            "addressLocality": "Dartmouth",
+            "addressRegion": "NS",
+            "postalCode": "B2Y 0G2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.668244",
+            "longitude": "-63.566053"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10070"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://my.weezevent.com/le-francofest-presente-jeremy-demay",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/31",
+          "name": "Conseil communautaire du Grand-Havre",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-communautaire-du-grand-havre"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10067",
+          "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-3",
+          "name": "Jeremy Demay",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ptit-belliveau-ptit-belliveau-10071",
+        "name": "P'tit Belliveau  - P'tit Belliveau",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Design%20sans%20titre-6.png?itok=jzz247zD",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Originaire de Baie-Ste-Marie en Nouvelle-Écosse, P’tit Belliveau accède en 2019 à la finale des Francouvertes aux côtés de O.G.B. et Alex Burger. S'en suit en 2020 la sortie de son 1er album \"Greatest Hits Vol.1\" qui connaît un franc succès et en 2021 un EP hommage à Baptiste Comeau (\"...chante BAptiste\"), une de ses premières influences. Sachant raconter le quotidien comme pas un, P’tit Belliveau décline une musique folk-country aux accents électros inspirés du feel des lecteurs cassettes.",
+        "startDate": "2025-08-14T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10071",
+        "location": {
+          "@type": "Place",
+          "name": "Foundation Wharf, front de mer de Halifax",
+          "url": "https://scenesfrancophones.ca/node/10066",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1549 Lower Water St",
+            "addressLocality": "Halifax",
+            "addressRegion": "NS",
+            "postalCode": "B3J 1S2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.645804",
+            "longitude": "-63.570228"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10066"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.heho-halifax.ca/marinaturbide/grou_tyme_2025",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/31",
+          "name": "Conseil communautaire du Grand-Havre",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-communautaire-du-grand-havre"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/252",
+          "url": "https://scenesfrancophones.ca/artistes/ptit-belliveau",
+          "name": "P'tit Belliveau",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/steve-riley-et-les-mamou-playboys-festival-grou-tyme-10082",
+        "name": "Steve Riley et les Mamou Playboys -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Design%20sans%20titre-6.png?itok=yh3OyqDH",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Réservez vos dates : les 14 et 15 août, on fête l'Acadie !\r\n\r\nLe 14 août, soirée spectaculaire au front de mer avec :\r\n🙌 P’tit Belliveau\r\n🎸 Steve Riley and the Mamou Playboys\r\n✨ Mary Beth Carty\r\n🎉 Animée par la MC Anika Lirette\r\n\r\nLe 15 août, rejoignez-nous pour la cérémonie officielle à Grand Parade en matinée, suivie d’un magnifique spectacle de Serena Wu. ⭐️\r\n\r\nLa programmation complète arrive bientôt, restez à l’affût !\r\n\r\nVivez la culture acadienne avec nous, ça promet d’être inoubliable. 🤩",
+        "startDate": "2025-08-14T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10082",
+        "location": {
+          "@type": "Place",
+          "name": "Foundation Wharf, front de mer de Halifax",
+          "url": "https://scenesfrancophones.ca/node/10066",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1549 Lower Water St",
+            "addressLocality": "Halifax",
+            "addressRegion": "NS",
+            "postalCode": "B3J 1S2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.645804",
+            "longitude": "-63.570228"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10066"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.heho-halifax.ca/marinaturbide/grou_tyme_2025",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/31",
+          "name": "Conseil communautaire du Grand-Havre",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-communautaire-du-grand-havre"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10080",
+          "url": "https://scenesfrancophones.ca/artistes/steve-riley-et-les-mamou-playboys",
+          "name": "Steve Riley et les Mamou Playboys",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-de-la-vieille-17-mappelle-mohamed-ali-10088",
+        "name": "Théâtre de la Vieille 17 -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-05T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10088",
+        "location": {
+          "@type": "Place",
+          "name": "Studio A",
+          "url": "https://scenesfrancophones.ca/node/10083",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 King Edward Ave",
+            "addressLocality": "Ontario",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430399",
+            "longitude": "-75.686365"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10083"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/74",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-nouvelle-scene-gilles-desjardins"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8653",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-de-la-vieille-17",
+          "name": "Théâtre de la Vieille 17",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-de-la-vieille-17-mappelle-mohamed-ali-10089",
+        "name": "Théâtre de la Vieille 17 -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-06T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10089",
+        "location": {
+          "@type": "Place",
+          "name": "Studio A",
+          "url": "https://scenesfrancophones.ca/node/10083",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 King Edward Ave",
+            "addressLocality": "Ontario",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430399",
+            "longitude": "-75.686365"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10083"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/74",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-nouvelle-scene-gilles-desjardins"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8653",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-de-la-vieille-17",
+          "name": "Théâtre de la Vieille 17",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-de-la-vieille-17-mappelle-mohamed-ali-10090",
+        "name": "Théâtre de la Vieille 17 -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-06T15:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10090",
+        "location": {
+          "@type": "Place",
+          "name": "Studio A",
+          "url": "https://scenesfrancophones.ca/node/10083",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 King Edward Ave",
+            "addressLocality": "Ontario",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430399",
+            "longitude": "-75.686365"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10083"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/74",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-nouvelle-scene-gilles-desjardins"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8653",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-de-la-vieille-17",
+          "name": "Théâtre de la Vieille 17",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/vox-theatre-le-roi-poubelle-10095",
+        "name": "Vox Théâtre -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-19T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10095",
+        "location": {
+          "@type": "Place",
+          "name": "Studio A",
+          "url": "https://scenesfrancophones.ca/node/10083",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 King Edward Ave",
+            "addressLocality": "Ontario",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430399",
+            "longitude": "-75.686365"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10083"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/74",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-nouvelle-scene-gilles-desjardins"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8659",
+          "url": "https://scenesfrancophones.ca/artistes/vox-theatre",
+          "name": "Vox Théâtre",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/vox-theatre-le-roi-poubelle-10096",
+        "name": "Vox Théâtre -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-20T13:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10096",
+        "location": {
+          "@type": "Place",
+          "name": "Studio A",
+          "url": "https://scenesfrancophones.ca/node/10083",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 King Edward Ave",
+            "addressLocality": "Ontario",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430399",
+            "longitude": "-75.686365"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10083"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/74",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-nouvelle-scene-gilles-desjardins"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8659",
+          "url": "https://scenesfrancophones.ca/artistes/vox-theatre",
+          "name": "Vox Théâtre",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-catapulte-tsunami-10100",
+        "name": "Théâtre Catapulte - Nombre",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-04-27T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10100",
+        "location": {
+          "@type": "Place",
+          "name": "Studio A",
+          "url": "https://scenesfrancophones.ca/node/10083",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 King Edward Ave",
+            "addressLocality": "Ontario",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430399",
+            "longitude": "-75.686365"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10083"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/74",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-nouvelle-scene-gilles-desjardins"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/1020",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-catapulte",
+          "name": "Théâtre Catapulte"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-du-trillium-blue-light-10103",
+        "name": "Théâtre du Trillium -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-05-09T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10103",
+        "location": {
+          "@type": "Place",
+          "name": "Studio A",
+          "url": "https://scenesfrancophones.ca/node/10083",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 King Edward Ave",
+            "addressLocality": "Ontario",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430399",
+            "longitude": "-75.686365"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10083"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/74",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-nouvelle-scene-gilles-desjardins"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8667",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-du-trillium",
+          "name": "Théâtre du Trillium",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-du-trillium-blue-light-10104",
+        "name": "Théâtre du Trillium -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-05-10T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10104",
+        "location": {
+          "@type": "Place",
+          "name": "Studio A",
+          "url": "https://scenesfrancophones.ca/node/10083",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 King Edward Ave",
+            "addressLocality": "Ontario",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430399",
+            "longitude": "-75.686365"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10083"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/74",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-nouvelle-scene-gilles-desjardins"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8667",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-du-trillium",
+          "name": "Théâtre du Trillium",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-du-trillium-blue-light-10105",
+        "name": "Théâtre du Trillium -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-05-11T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10105",
+        "location": {
+          "@type": "Place",
+          "name": "Studio A",
+          "url": "https://scenesfrancophones.ca/node/10083",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 King Edward Ave",
+            "addressLocality": "Ontario",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430399",
+            "longitude": "-75.686365"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10083"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/74",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-nouvelle-scene-gilles-desjardins"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8667",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-du-trillium",
+          "name": "Théâtre du Trillium",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/vox-theatre-la-fuite-de-lhippocampe-10114",
+        "name": "Vox Théâtre -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-05-25T09:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10114",
+        "location": {
+          "@type": "Place",
+          "name": "Studio B",
+          "url": "https://scenesfrancophones.ca/node/10084",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 King Edward Ave",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430399",
+            "longitude": "-75.686365"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10084"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/74",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-nouvelle-scene-gilles-desjardins"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8659",
+          "url": "https://scenesfrancophones.ca/artistes/vox-theatre",
+          "name": "Vox Théâtre",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/vox-theatre-la-fuite-de-lhippocampe-10117",
+        "name": "Vox Théâtre -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-05-25T11:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10117",
+        "location": {
+          "@type": "Place",
+          "name": "Studio A",
+          "url": "https://scenesfrancophones.ca/node/10083",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 King Edward Ave",
+            "addressLocality": "Ontario",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430399",
+            "longitude": "-75.686365"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10083"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/74",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-nouvelle-scene-gilles-desjardins"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8659",
+          "url": "https://scenesfrancophones.ca/artistes/vox-theatre",
+          "name": "Vox Théâtre",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/vox-theatre-tweet-tweet-10123",
+        "name": "Vox Théâtre -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-06-01T09:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10123",
+        "location": {
+          "@type": "Place",
+          "name": "Studio A",
+          "url": "https://scenesfrancophones.ca/node/10083",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 King Edward Ave",
+            "addressLocality": "Ontario",
+            "addressRegion": "ON",
+            "postalCode": "K1N 7M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.430399",
+            "longitude": "-75.686365"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10083"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/74",
+          "name": "La Nouvelle Scène Gilles Desjardins",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-nouvelle-scene-gilles-desjardins"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/8659",
+          "url": "https://scenesfrancophones.ca/artistes/vox-theatre",
+          "name": "Vox Théâtre",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mary-beth-carty-festival-grou-tyme-10158",
+        "name": "Mary Beth Carty -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Design%20sans%20titre-6_0.png?itok=HvFxr-KJ",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Réservez vos dates : les 14 et 15 août, on fête l'Acadie !\r\n\r\nLe 14 août, soirée spectaculaire au front de mer avec :\r\n🙌 P’tit Belliveau\r\n🎸 Steve Riley and the Mamou Playboys\r\n✨ Mary Beth Carty\r\n🎉 Animée par la MC Anika Lirette\r\n\r\nLe 15 août, rejoignez-nous pour la cérémonie officielle à Grand Parade en matinée, suivie d’un magnifique spectacle de Serena Wu. ⭐️\r\n\r\nLa programmation complète arrive bientôt, restez à l’affût !\r\n\r\nVivez la culture acadienne avec nous, ça promet d’être inoubliable. 🤩",
+        "startDate": "2025-08-14T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10158",
+        "location": {
+          "@type": "Place",
+          "name": "Foundation Wharf, front de mer de Halifax",
+          "url": "https://scenesfrancophones.ca/node/10066",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1549 Lower Water St",
+            "addressLocality": "Halifax",
+            "addressRegion": "NS",
+            "postalCode": "B3J 1S2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.645804",
+            "longitude": "-63.570228"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10066"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.heho-halifax.ca/marinaturbide/grou_tyme_2025",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/31",
+          "name": "Conseil communautaire du Grand-Havre",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-communautaire-du-grand-havre"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10156",
+          "url": "https://scenesfrancophones.ca/artistes/mary-beth-carty",
+          "name": "Mary Beth Carty",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/serena-wu-festival-grou-tyme-10161",
+        "name": "Serena Wu -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Design%20sans%20titre-6_1.png?itok=82R4tHJo",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Réservez vos dates : les 14 et 15 août, on fête l'Acadie !\r\n\r\nLe 14 août, soirée spectaculaire au front de mer avec :\r\n🙌 P’tit Belliveau\r\n🎸 Steve Riley and the Mamou Playboys\r\n✨ Mary Beth Carty\r\n🎉 Animée par la MC Anika Lirette\r\n\r\nLe 15 août, rejoignez-nous pour la cérémonie officielle à Grand Parade en matinée, suivie d’un magnifique spectacle de Serena Wu. ⭐️\r\n\r\nLa programmation complète arrive bientôt, restez à l’affût !\r\n\r\nVivez la culture acadienne avec nous, ça promet d’être inoubliable. 🤩",
+        "startDate": "2025-08-15T12:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10161",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.heho-halifax.ca/marinaturbide/grou_tyme_2025",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/31",
+          "name": "Conseil communautaire du Grand-Havre",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-communautaire-du-grand-havre"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10159",
+          "url": "https://scenesfrancophones.ca/artistes/serena-wu",
+          "name": "Serena Wu",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mona-degrenoble-mona-degrenoble-10176",
+        "name": "Mona DeGrenoble -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Spectacle d'humour en rodage",
+        "startDate": "2024-06-07T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10176",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10174",
+          "url": "https://scenesfrancophones.ca/artistes/mona-degrenoble",
+          "name": "Mona DeGrenoble",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jay-du-temple-fin-10182",
+        "name": "Jay du Temple -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-07-01T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10182",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10180",
+          "url": "https://scenesfrancophones.ca/artistes/jay-du-temple",
+          "name": "Jay du Temple",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/travis-cormier-travis-cormier-10186",
+        "name": "Travis Cormier -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-09-07T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10186",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10184",
+          "url": "https://scenesfrancophones.ca/artistes/travis-cormier",
+          "name": "Travis Cormier",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/maxim-martin-chien-en-rodage-10200",
+        "name": "Maxim Martin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "En rodage",
+        "startDate": "2024-09-19T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10200",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10198",
+          "url": "https://scenesfrancophones.ca/artistes/maxim-martin-0",
+          "name": "Maxim Martin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mehdi-cayenne-animal-chic-10202",
+        "name": "Mehdi Cayenne - Mehdi Cayenne",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Électron libre de la francophonie internationale, Mehdi Cayenne nous entraîne dans un maelström irrésistible de nouvelles chansons qui font du bien, et qui ont du chien.\r\nSa plume plus acérée que jamais est portée par des sonorités électro-pop aux couleurs d’ici et d’ailleurs d’une efficacité indéniable, et sans équivalent dans le paysage culturel québécois. \r\nBienvenue dans le Cayenne Club: ça varge, ça décoiffe, ça brasse et ça embrasse: tout un programme!",
+        "startDate": "2024-11-09T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10202",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4026",
+          "url": "https://scenesfrancophones.ca/artistes/mehdi-cayenne",
+          "name": "Mehdi Cayenne"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/leflofranco-trajectoire-divine-10214",
+        "name": "LeFLOFRANCO -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Tout en inspirant la confiance en soi, « TRAJECTOIRE DIVINE » sourit à la vie et le parcours divin qu'elle offre tout en faisant preuve de reconnaissance envers les forces divines qui marquent le cheminement d'un individu. Les thématiques de l’album demeurent à la fois revendicatrices de bonheur, d’échos de laisser prise, parsemé de moments de célébration d’identité. Tout comme son premier album « FORCE INHÉRENTE », ce 2e album est également signé « pop.urbaine multicolore ». 3 mots qui définissent le genre de musique que LeFLOFRANCO propose.",
+        "startDate": "2025-09-25T10:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10214",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5976",
+          "url": "https://scenesfrancophones.ca/artistes/leflofranco-1",
+          "name": "LeFLOFRANCO"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/leflofranco-trajectoire-divine-10215",
+        "name": "LeFLOFRANCO -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Tout en inspirant la confiance en soi, « TRAJECTOIRE DIVINE » sourit à la vie et le parcours divin qu'elle offre tout en faisant preuve de reconnaissance envers les forces divines qui marquent le cheminement d'un individu. Les thématiques de l’album demeurent à la fois revendicatrices de bonheur, d’échos de laisser prise, parsemé de moments de célébration d’identité. Tout comme son premier album « FORCE INHÉRENTE », ce 2e album est également signé « pop.urbaine multicolore ». 3 mots qui définissent le genre de musique que LeFLOFRANCO propose.",
+        "startDate": "2025-09-25T13:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10215",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5976",
+          "url": "https://scenesfrancophones.ca/artistes/leflofranco-1",
+          "name": "LeFLOFRANCO"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-chiclettes-en-attendant-noel-10216",
+        "name": "Les Chiclettes - En attendant Noël",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour Noël, Les Chiclettes vous reçoivent chez elles. Puisqu’elles ont davantage l’habitude de se mettre les pieds dans les plats que de les préparer, arriveront-elles à être prêtes avant l’arrivée des invités ? Entre les recettes d’Huguette qui comportent quelques « fausses notes », Vivie, qui n’est toujours pas vite-vite et la fameuse liste de tâches de Simone, peut-être qu’un miracle de Noël sera la seule chose qui pourra les sauver ! À travers les nouvelles chansons de leur album « En attendant Noël », vous êtes assurés de lancer votre saison des fêtes en grande pompe !",
+        "startDate": "2025-11-22T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10216",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5435",
+          "url": "https://scenesfrancophones.ca/artistes/les-chiclettes",
+          "name": "Les Chiclettes"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/katia-cafe-febrissy-ca-rime-avec-vinaigre-10218",
+        "name": "Katia Café-Fébrissy -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2026-02-20T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10218",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/6379",
+          "url": "https://scenesfrancophones.ca/artistes/katia-cafe-febrissy",
+          "name": "Katia Café-Fébrissy"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/francois-massicotte-80-10221",
+        "name": "François Massicotte -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Francois-Massicotte-affiche-carre%CC%81e.jpg?itok=CnAOozpF",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "François Massicotte, l’humoriste établi apprécié de tous qui cumule plus de 35 ans d’expérience en humour, est de retour sur scène avec son 8e one-man-show : 8.0!\r\n\r\nAvec son sens du timing unique, François aborde des thèmes unificateurs, à travers lesquels tous se reconnaissent, telle la famille, le couple, la parentalité, la vieillesse et plus encore, avec humour et dérision. À travers ses aventures et histoires savoureuses, ce père de cinq enfants nous entraîne dans le tourbillon de la famille moderne avec son énergie scénique contagieuse! Doté d’un talent naturel, François s’assume, s’anime et nous transporte dans le tourbillonnement fou de la vie contemporaine. 8.0!, pour se reconnaître et en rire!",
+        "startDate": "2026-05-01T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10221",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10219",
+          "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-3",
+          "name": "François Massicotte",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-fou-de-toi-10222",
+        "name": "BRIAN ST-PIERRE - SIMPLEMENT BRIAN",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle “Fou de toi”. Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade. L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore. On y découvre ses compositions originales de son nouvel album qui sortira au printemps 2024 et on revit ses plus grands succès.",
+        "startDate": "2026-03-27T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10222",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Rolland Desroches",
+          "url": "https://scenesfrancophones.ca/node/1065",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 2G3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1065"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4109",
+          "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre",
+          "name": "BRIAN ST-PIERRE"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ecarlate-ecarlate-10223",
+        "name": "Écarlate - Écarlate",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf_.png?itok=k-P8U5JP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Éléonore Delveaux-Beaudoin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Clémence Langlois, Daphnée McIntyre et Samuel LeBlanc sont trois adolescent.es originaires de Moncton qui sortent récemment de leur coquille pour trouver réconfort dans la musique. Ils ont fait leur début en pleine pandémie et montrent leurs créations pour la première fois en remportant Accros 17 et la 52e édition du Gala de la Chanson de Caraquet. C’est dans le but de partager leur passion pour la musique avec le public qu’ils présentent leurs balades riches en émotions purement venues du cœur.",
+        "startDate": "2025-07-13T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10223",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Richard-Denys",
+          "url": "https://scenesfrancophones.ca/node/502",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "600, rue Principale",
+            "addressLocality": "Neguac",
+            "addressRegion": "NB",
+            "postalCode": "E9G 1N3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.242221",
+            "longitude": "-65.087504"
+          },
+          "@id": "https://scenesfrancophones.ca/id/502"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://scn.ticketacces.net/fr/organisation/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/215",
+            "url": "https://scenesfrancophones.ca/artistes/ecarlate",
+            "name": "Écarlate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/nicolas-pellerin-et-les-grands-hurleurs-nicolas-pellerin-et-les-grands-hurleurs-10225",
+        "name": "Nicolas Pellerin et les grands hurleurs - Nicolas Pellerin et les grands hurleurs",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/CBM_0996.JPG?itok=zNj22hHR",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le nouvel album Layon de la formation Nicolas Pellerin et Les Grands Hurleurs a été lancé le 15 mars dernier toujours dans un esprit créatif, dansant et organique. Le public est appelé à la fête, aux moments plus touchants, le tout enrobé par des histoires qui viennent unifier la soirée. Layon s’écoute comme une randonnée musicale en sentier sur fond de musique trad, avec des parfums mélodiques, des dénivelés rythmiques et des paysages atmosphériques inspirants d’air pur. Un album bien ancré dans la groove, un son acoustique et pourtant, une énergie plus rock se dégage grâce aux excellents Grands Hurleurs qui sont désormais Simon Lepage, Louis Thibault et Phil Girard. La formation Nicolas Pellerin et Les Grands Hurleurs a gagné le cœur du public québécois et international grâce à sa musique traditionnelle modernisée et accessible. Avec l’intégration d’influences folk, bluegrass classique, le groupe saura surprendre et toucher les gens encore une fois avec ce trad enrichi! Les violons, la mandoline, la guitare, la contrebasse, les pieds et les riches harmonies vocales se marient afin d’explorer une multitude d’émotions.",
+        "startDate": "2025-07-13T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10225",
+        "location": {
+          "@type": "Place",
+          "name": "Salle paroissiale de Mont-Carmel",
+          "url": "https://scenesfrancophones.ca/node/481",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5786, route 11",
+            "addressLocality": "Mont-Carmel",
+            "addressRegion": "PE",
+            "postalCode": "C0B 2E0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.391928",
+            "longitude": "-64.032605"
+          },
+          "@id": "https://scenesfrancophones.ca/id/481"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.cooperativeculturelledemontcarmel.com/billets-tickets/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/27",
+          "name": "La Coopérative de développement culturel et patrimonial de Mont-Carmel",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cooperative-de-developpement-culturel-et-patrimonial-de-mont-carmel"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/9957",
+            "url": "https://scenesfrancophones.ca/artistes/nicolas-pellerin-et-les-grands-hurleurs",
+            "name": "Nicolas Pellerin et les grands hurleurs",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ecarlate-ecarlate-10226",
+        "name": "Écarlate - Écarlate",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf_.png?itok=k-P8U5JP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Éléonore Delveaux-Beaudoin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Clémence Langlois, Daphnée McIntyre et Samuel LeBlanc sont trois adolescent.es originaires de Moncton qui sortent récemment de leur coquille pour trouver réconfort dans la musique. Ils ont fait leur début en pleine pandémie et montrent leurs créations pour la première fois en remportant Accros 17 et la 52e édition du Gala de la Chanson de Caraquet. C’est dans le but de partager leur passion pour la musique avec le public qu’ils présentent leurs balades riches en émotions purement venues du cœur.",
+        "startDate": "2025-07-20T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10226",
+        "location": {
+          "@type": "Place",
+          "name": "Salle paroissiale de Mont-Carmel",
+          "url": "https://scenesfrancophones.ca/node/481",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5786, route 11",
+            "addressLocality": "Mont-Carmel",
+            "addressRegion": "PE",
+            "postalCode": "C0B 2E0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.391928",
+            "longitude": "-64.032605"
+          },
+          "@id": "https://scenesfrancophones.ca/id/481"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.cooperativeculturelledemontcarmel.com/billets-tickets/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/27",
+          "name": "La Coopérative de développement culturel et patrimonial de Mont-Carmel",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cooperative-de-developpement-culturel-et-patrimonial-de-mont-carmel"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/215",
+            "url": "https://scenesfrancophones.ca/artistes/ecarlate",
+            "name": "Écarlate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/nicolas-pellerin-et-les-grands-hurleurs-nicolas-pellerin-et-les-grands-hurleurs-10227",
+        "name": "Nicolas Pellerin et les grands hurleurs - Nicolas Pellerin et les grands hurleurs",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/CBM_0996.JPG?itok=zNj22hHR",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le nouvel album Layon de la formation Nicolas Pellerin et Les Grands Hurleurs a été lancé le 15 mars dernier toujours dans un esprit créatif, dansant et organique. Le public est appelé à la fête, aux moments plus touchants, le tout enrobé par des histoires qui viennent unifier la soirée. Layon s’écoute comme une randonnée musicale en sentier sur fond de musique trad, avec des parfums mélodiques, des dénivelés rythmiques et des paysages atmosphériques inspirants d’air pur. Un album bien ancré dans la groove, un son acoustique et pourtant, une énergie plus rock se dégage grâce aux excellents Grands Hurleurs qui sont désormais Simon Lepage, Louis Thibault et Phil Girard. La formation Nicolas Pellerin et Les Grands Hurleurs a gagné le cœur du public québécois et international grâce à sa musique traditionnelle modernisée et accessible. Avec l’intégration d’influences folk, bluegrass classique, le groupe saura surprendre et toucher les gens encore une fois avec ce trad enrichi! Les violons, la mandoline, la guitare, la contrebasse, les pieds et les riches harmonies vocales se marient afin d’explorer une multitude d’émotions.",
+        "startDate": "2025-08-15T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10227",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium Richelieu",
+          "url": "https://scenesfrancophones.ca/node/503",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "215, rue Guimont",
+            "addressLocality": "Grand-Sault",
+            "addressRegion": "NB",
+            "postalCode": "E3Y 3W3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.056374",
+            "longitude": "-67.73096"
+          },
+          "@id": "https://scenesfrancophones.ca/id/503"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://leschutes.tuxedobillet.com/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/53",
+          "name": "Société culturelle régionale Les Chutes",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/9957",
+            "url": "https://scenesfrancophones.ca/artistes/nicolas-pellerin-et-les-grands-hurleurs",
+            "name": "Nicolas Pellerin et les grands hurleurs",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/nicolas-pellerin-et-les-grands-hurleurs-nicolas-pellerin-et-les-grands-hurleurs-10228",
+        "name": "Nicolas Pellerin et les grands hurleurs - Nicolas Pellerin et les grands hurleurs",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/CBM_0996.JPG?itok=zNj22hHR",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le nouvel album Layon de la formation Nicolas Pellerin et Les Grands Hurleurs a été lancé le 15 mars dernier toujours dans un esprit créatif, dansant et organique. Le public est appelé à la fête, aux moments plus touchants, le tout enrobé par des histoires qui viennent unifier la soirée. Layon s’écoute comme une randonnée musicale en sentier sur fond de musique trad, avec des parfums mélodiques, des dénivelés rythmiques et des paysages atmosphériques inspirants d’air pur. Un album bien ancré dans la groove, un son acoustique et pourtant, une énergie plus rock se dégage grâce aux excellents Grands Hurleurs qui sont désormais Simon Lepage, Louis Thibault et Phil Girard. La formation Nicolas Pellerin et Les Grands Hurleurs a gagné le cœur du public québécois et international grâce à sa musique traditionnelle modernisée et accessible. Avec l’intégration d’influences folk, bluegrass classique, le groupe saura surprendre et toucher les gens encore une fois avec ce trad enrichi! Les violons, la mandoline, la guitare, la contrebasse, les pieds et les riches harmonies vocales se marient afin d’explorer une multitude d’émotions.",
+        "startDate": "2025-08-16T14:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10228",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Louis Vermeersch",
+          "url": "https://scenesfrancophones.ca/node/518",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "67, chemin Ragged Point",
+            "addressLocality": "Saint-Jean",
+            "addressRegion": "NB",
+            "postalCode": "E2K 5C3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.294095",
+            "longitude": "-66.116083"
+          },
+          "@id": "https://scenesfrancophones.ca/id/518"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://culture-arcf.my.canva.site/?_gl=1*lhgdlj*_ga*MTQ5MzAxNTc3MC4xNzUyMjY2OTM2*_ga_C3RGSMXNC8*czE3NTIyNjY5MzYkbzEkZzEkdDE3NTIyNjY5NDAkajU2JGwwJGgw*_ga_D47EP209T4*czE3NTIyNjY5MzYkbzEkZzEkdDE3NTIyNjY5NDAkajU2JGwwJGgw",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/36",
+          "name": "Association régionale de la Communauté Francophone de Saint-Jean (ARCf)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/9957",
+            "url": "https://scenesfrancophones.ca/artistes/nicolas-pellerin-et-les-grands-hurleurs",
+            "name": "Nicolas Pellerin et les grands hurleurs",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-tortue-berlue-alix-et-le-loup-10231",
+        "name": "Théâtre Tortue Berlue - Alix et le loup",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%281%29.png?itok=F9NzTHoB",
+          "width": "430",
+          "height": "430",
+          "creditText": "Marc-Antoine Zouéki"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Connaissez-vous la fable L’enfant qui criait au loup ? Bien sûr que vous la connaissez. Un enfantberger qui a menti en criant « Au loup ! » est puni en étant lui-même dévoré par un loup. C’est un classique ! C’est la même histoire depuis 3000 ans… Mais si c’était la fable elle-même qui nous avait menti ? Si le loup n’était pas le monstre sanguinaire des légendes ? S’il devenait l’ami de l’enfant-menteur ? Si ensemble, ils partaient en quête de vérité et d’émancipation ? S’ils tournaient même un doigt accusateur vers l’artiste-marionnettiste qui est en train de faire le spectacle que vous regardez !? Ne vous laissez pas berner par le décor idyllique, le village de montagne coquet, les prés fleuris, INFORMATIONS GÉNÉRALES INFORMATIONS SUR LE SPECTACLE les chansons entraînantes et les marionnettes rigolotes ! Nous ne sommes pas ici dans un conte normal. Alix et le loup, c’est un spectacle immersif abracadabrant, où l’enfant-spectateur est amené à se poser des questions sur la nature du mensonge, sur notre rapport aux histoires inventées, et sur la valeur de l’amitié et de l’empathie.",
+        "startDate": "2025-08-12T10:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10231",
+        "location": {
+          "@type": "Place",
+          "name": "Stationnement du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/10230",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220 Boulevard Saint-Pierre O, Caraquet, N.-B.",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788816",
+            "longitude": "-64.964982"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10230"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://evencia.ca/evencia-billetterie/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/43",
+          "name": "Festival acadien de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/festival-acadien-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/9952",
+            "url": "https://scenesfrancophones.ca/artistes/theatre-tortue-berlue",
+            "name": "Théâtre Tortue Berlue",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -49509,6 +51801,126 @@
           "longitude": "-89.292778"
         },
         "@id": "https://scenesfrancophones.ca/id/9541"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10066",
+        "name": "Foundation Wharf, front de mer de Halifax",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1549 Lower Water St",
+          "addressLocality": "Halifax",
+          "addressRegion": "NS",
+          "postalCode": "B3J 1S2",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "44.645804",
+          "longitude": "-63.570228"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10066"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10070",
+        "name": "Sanctuary Arts Centre",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "100 Ochtoloney street",
+          "addressLocality": "Dartmouth",
+          "addressRegion": "NS",
+          "postalCode": "B2Y 0G2",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "44.668244",
+          "longitude": "-63.566053"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10070"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10083",
+        "name": "Studio A",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "333 King Edward Ave",
+          "addressLocality": "Ontario",
+          "addressRegion": "ON",
+          "postalCode": "K1N 7M5",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.430399",
+          "longitude": "-75.686365"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10083"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10084",
+        "name": "Studio B",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "333 King Edward Ave",
+          "addressLocality": "Ottawa",
+          "addressRegion": "ON",
+          "postalCode": "K1N 7M5",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.430399",
+          "longitude": "-75.686365"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10084"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10230",
+        "name": "Stationnement du Centre culturel de Caraquet",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "220 Boulevard Saint-Pierre O, Caraquet, N.-B.",
+          "addressLocality": "Caraquet",
+          "addressRegion": "NB",
+          "postalCode": "E1W 1A5",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "47.788816",
+          "longitude": "-64.964982"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10230"
       }
     ]
   },
