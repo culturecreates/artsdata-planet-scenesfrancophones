@@ -496,7 +496,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/269",
         "url": "https://scenesfrancophones.ca/artistes/yao",
-        "name": "Yao"
+        "name": "YAO"
       }
     ]
   },
@@ -1054,14 +1054,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/992",
         "url": "https://scenesfrancophones.ca/artistes/le-r-premier",
-        "name": "Le R Premier",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/lerpremier-des-tours-photo-promo.jpg?itok=-mBqo8Wl",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Le R Premier"
       }
     ]
   },
@@ -1116,7 +1109,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/998",
         "url": "https://scenesfrancophones.ca/artistes/bilinguish-boys",
         "name": "Bilinguish Boys"
@@ -1669,8 +1662,15 @@
       {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4028",
-        "url": "https://scenesfrancophones.ca/artistes/jacques-surette-0",
-        "name": "Jacques Surette"
+        "url": "https://scenesfrancophones.ca/artistes/jacques-surette",
+        "name": "Jacques Surette",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/aff_MW_Modeste_18x24.pdf%20%282%29.png?itok=xvRvkpDj",
+          "width": "480",
+          "height": "480"
+        }
       }
     ]
   },
@@ -5206,7 +5206,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8420",
         "url": "https://scenesfrancophones.ca/artistes/rouge-pompier",
         "name": "Rouge Pompier"
@@ -6973,12 +6973,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8929",
         "url": "https://scenesfrancophones.ca/artistes/jonathan-dion",
         "name": "Jonathan Dion"
@@ -7520,15 +7515,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/9253",
         "url": "https://scenesfrancophones.ca/artistes/creations-vivo",
-        "name": "créations in vivo"
+        "name": "Créations In Vivo"
       }
     ]
   },
@@ -9140,6 +9130,580 @@
         "@id": "https://scenesfrancophones.ca/id/10219",
         "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-3",
         "name": "François Massicotte"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10240",
+        "url": "https://scenesfrancophones.ca/artistes/xannie-dj",
+        "name": "XANNIE ( DJ )"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10243",
+        "url": "https://scenesfrancophones.ca/artistes/kora-flamenca-ii",
+        "name": "Kora Flamenca II"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10246",
+        "url": "https://scenesfrancophones.ca/artistes/jonathan-kravtchenko",
+        "name": "Jonathan Kravtchenko"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10249",
+        "url": "https://scenesfrancophones.ca/artistes/compagnie-ombres-folles",
+        "name": "Compagnie Ombres Folles"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10252",
+        "url": "https://scenesfrancophones.ca/artistes/la-fanfare-couche-tard",
+        "name": "La Fanfare couche-tard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10255",
+        "url": "https://scenesfrancophones.ca/artistes/les-chorus-duo",
+        "name": "Les Chorus Duo"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10258",
+        "url": "https://scenesfrancophones.ca/artistes/masmoudi-quartet",
+        "name": "Masmoudi Quartet"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10263",
+        "url": "https://scenesfrancophones.ca/artistes/la-compagnie-leternel-ete-et-lucernaire-diffusion",
+        "name": "La Compagnie l’éternel été et Lucernaire Diffusion"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10266",
+        "url": "https://scenesfrancophones.ca/artistes/la-compagnie-leternel-ete-et-lucernaire-diffusion-0",
+        "name": "La Compagnie l’éternel été et Lucernaire Diffusion"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10269",
+        "url": "https://scenesfrancophones.ca/artistes/marco-ema-et-mon-doux-saigneur",
+        "name": "Marco Ema et Mon Doux Saigneur"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/10272",
+        "url": "https://scenesfrancophones.ca/artistes/vague-de-cirque",
+        "name": "Vague de Cirque"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10275",
+        "url": "https://scenesfrancophones.ca/artistes/ostara-project",
+        "name": "The Ostara Project"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10278",
+        "url": "https://scenesfrancophones.ca/artistes/amir-amiri-ensemble",
+        "name": "Amir Amiri Ensemble"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10281",
+        "url": "https://scenesfrancophones.ca/artistes/ensemble-faenza",
+        "name": "Ensemble Faenza"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10284",
+        "url": "https://scenesfrancophones.ca/artistes/so-long-seven",
+        "name": "So Long Seven"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10287",
+        "url": "https://scenesfrancophones.ca/artistes/lea-jarry",
+        "name": "Léa Jarry"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10290",
+        "url": "https://scenesfrancophones.ca/artistes/ensemble-mistral-0",
+        "name": "Ensemble Mistral"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10293",
+        "url": "https://scenesfrancophones.ca/artistes/maxime-zecchini",
+        "name": "Maxime Zecchini"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10296",
+        "url": "https://scenesfrancophones.ca/artistes/coup-de-coeur",
+        "name": "Coup de Cœur"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10299",
+        "url": "https://scenesfrancophones.ca/artistes/la-otra-orilla",
+        "name": "La Otra Orilla"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10302",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-le-clou",
+        "name": "Théâtre Le Clou"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10305",
+        "url": "https://scenesfrancophones.ca/artistes/cordame",
+        "name": "Cordâme"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10308",
+        "url": "https://scenesfrancophones.ca/artistes/maia-barouh",
+        "name": "Maïa Barouh"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10311",
+        "url": "https://scenesfrancophones.ca/artistes/compagnie-le-complexe",
+        "name": "Compagnie Le Complexe"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10315",
+        "url": "https://scenesfrancophones.ca/artistes/quatuor-elysee",
+        "name": "Quatuor Elysée"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10318",
+        "url": "https://scenesfrancophones.ca/artistes/leonie-langa",
+        "name": "Léonie Langa"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10321",
+        "url": "https://scenesfrancophones.ca/artistes/debi-botos-quintet",
+        "name": "Debi Botos Quintet"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10324",
+        "url": "https://scenesfrancophones.ca/artistes/compagnie-les-foutoukours",
+        "name": "Compagnie Les Foutoukours"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10327",
+        "url": "https://scenesfrancophones.ca/artistes/nil-bosca",
+        "name": "Nil Bosca"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10330",
+        "url": "https://scenesfrancophones.ca/artistes/stanislas-roquette",
+        "name": "Stanislas Roquette"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10333",
+        "url": "https://scenesfrancophones.ca/artistes/simon-boisseau",
+        "name": "Simon Boisseau"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10339",
+        "url": "https://scenesfrancophones.ca/artistes/raph-delae",
+        "name": "Raph Delaé"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10347",
+        "url": "https://scenesfrancophones.ca/artistes/willy-aristide",
+        "name": "Willy Aristide"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10355",
+        "url": "https://scenesfrancophones.ca/artistes/joanie-charron",
+        "name": "Joanie Charron"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10360",
+        "url": "https://scenesfrancophones.ca/artistes/sabaya",
+        "name": "SABAYA"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10362",
+        "url": "https://scenesfrancophones.ca/artistes/woodney-pierre",
+        "name": "Woodney Pierre"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10365",
+        "url": "https://scenesfrancophones.ca/artistes/sensei-h",
+        "name": "Sensei H"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10368",
+        "url": "https://scenesfrancophones.ca/artistes/carine-au-micro",
+        "name": "Carine Au Micro"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/10370",
+        "url": "https://scenesfrancophones.ca/artistes/dubunker",
+        "name": "DuBunker"
       }
     ]
   },
@@ -27136,7 +27700,7 @@
         "performer": {
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4028",
-          "url": "https://scenesfrancophones.ca/artistes/jacques-surette-0",
+          "url": "https://scenesfrancophones.ca/artistes/jacques-surette",
           "name": "Jacques Surette"
         }
       }
@@ -40503,7 +41067,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Adrian%20House-ritcheperezmay.jpeg?itok=se-Wp5sn",
           "width": "430",
           "height": "430",
-          "creditText": "Ritche Perez"
+          "creditText": "Ritche Perez 2023"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Adrian House chante des histoires à la fois drôles et émouvantes avec passion et sincérité. En 2020, ce francophile de Terre-Neuve fait une tournée musicale à vélo des provinces maritimes. En 2021, il accède aux demi-finales du Festival international de la chanson de Granby et devient ainsi le premier Terre-Neuvien à y participer. En 2022, il est finaliste au Gala de la chanson de Caraquet. Il produit un album, Pêcheur de rêves, en 2024, qui lui vaut le prix de l'Artiste jazz de l'année de Terre-Neuve-et-Labrador.\r\n\r\nSur Pêcheur de rêves, Adrian plonge dans des influences classiques allant du folk au jazz, en passant par le rock & roll. L’œuvre explore des thèmes essentiels dont l’importance de suivre son propre chemin, de conserver une certaine légèreté et de rester ouvert aux connexions qui se présentent dans la vie. La voix chaleureuse d’Adrian est un fil de joie de vivre qui fait voyager à travers l’album et invite à entrer dans son univers merveilleux.",
@@ -40601,7 +41165,7 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
         "performer": {
-          "@type": "PerformingGroup",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/998",
           "url": "https://scenesfrancophones.ca/artistes/bilinguish-boys",
           "name": "Bilinguish Boys"
@@ -41577,7 +42141,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/yao-kintsugi-la-beaute-dans-le-chaos-8928",
-        "name": "Yao - Kintsugi : La beauté dans le chaos",
+        "name": "YAO - Kintsugi : La beauté dans le chaos",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Entre slam, soul, funk et sonorités afro, YAO explore les thèmes de la peine, de la résilience et de l’espoir, dans ce spectacle personnel et thérapeutique. Inspiré de son nouvel album du même nom, il utilise ses talents de parolier et d’interprète pour transformer ses blessures de vie en immersion sensorielle, poétique et musicale. Le Kintsugi, c’est l'art japonais de réparer la poterie cassée avec de l'or – transformant ainsi les fissures, et l’objet par le fait même, en œuvre d'art plus belle et plus forte.",
@@ -41617,7 +42181,7 @@
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/269",
           "url": "https://scenesfrancophones.ca/artistes/yao",
-          "name": "Yao"
+          "name": "YAO"
         }
       }
     ]
@@ -41664,15 +42228,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/8929",
           "url": "https://scenesfrancophones.ca/artistes/jonathan-dion",
-          "name": "Jonathan Dion",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Jonathan Dion"
         }
       }
     ]
@@ -44564,14 +45123,15 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/creations-vivo-mourir-de-trop-gueuler-9255",
-        "name": "créations in vivo -",
+        "name": "Créations In Vivo -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Image%2011.jpeg?itok=vTCAj2HQ",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Jasmine Morin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "MOURIR DE TROP GUEULER est une parade époustouflante de bouffons franco-ontariens pour célébrer le 50e anniversaire du drapeau franco-ontarien. Cette procession théâtrale unique célèbre les funérailles d’une grenouille géante– morte d’avoir trop gueulé. Avec une ambiance de solidarité moqueuse, le spectacle s’embrase grâce à ses musiques entraînantes, ses personnages hauts en couleur et ses scènes comiques irrésistibles. Le public, invité à participer, pourra aider à ressusciter la grenouille avec rires, danses et chants. Une aventure théâtrale électrisante qui unit toutes les générations.",
@@ -44609,15 +45169,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/9253",
           "url": "https://scenesfrancophones.ca/artistes/creations-vivo",
-          "name": "créations in vivo",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Créations In Vivo"
         }
       }
     ]
@@ -44898,7 +45453,7 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
         },
         "performer": {
-          "@type": "PerformingGroup",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/998",
           "url": "https://scenesfrancophones.ca/artistes/bilinguish-boys",
           "name": "Bilinguish Boys"
@@ -47981,6 +48536,1914 @@
               "http://xmlns.com/foaf/0.1/Agent",
               "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
             ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-tortue-berlue-alix-et-le-loup-10232",
+        "name": "Théâtre Tortue Berlue - Alix et le loup",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%281%29.png?itok=F9NzTHoB",
+          "width": "430",
+          "height": "430",
+          "creditText": "Marc-Antoine Zouéki"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Connaissez-vous la fable L’enfant qui criait au loup ? Bien sûr que vous la connaissez. Un enfantberger qui a menti en criant « Au loup ! » est puni en étant lui-même dévoré par un loup. C’est un classique ! C’est la même histoire depuis 3000 ans… Mais si c’était la fable elle-même qui nous avait menti ? Si le loup n’était pas le monstre sanguinaire des légendes ? S’il devenait l’ami de l’enfant-menteur ? Si ensemble, ils partaient en quête de vérité et d’émancipation ? S’ils tournaient même un doigt accusateur vers l’artiste-marionnettiste qui est en train de faire le spectacle que vous regardez !? Ne vous laissez pas berner par le décor idyllique, le village de montagne coquet, les prés fleuris, INFORMATIONS GÉNÉRALES INFORMATIONS SUR LE SPECTACLE les chansons entraînantes et les marionnettes rigolotes ! Nous ne sommes pas ici dans un conte normal. Alix et le loup, c’est un spectacle immersif abracadabrant, où l’enfant-spectateur est amené à se poser des questions sur la nature du mensonge, sur notre rapport aux histoires inventées, et sur la valeur de l’amitié et de l’empathie.",
+        "startDate": "2025-08-14T16:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10232",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium Alcide F. LeBlanc",
+          "url": "https://scenesfrancophones.ca/node/6047",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "49 Rue Collège",
+            "addressLocality": "Saint-Louis-de-Kent",
+            "addressRegion": "NB",
+            "postalCode": "E4X 1C2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.739052",
+            "longitude": "-64.974648"
+          },
+          "@id": "https://scenesfrancophones.ca/id/6047"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.eventbrite.ca/e/theatre-tortue-berlue-alix-et-le-loup-tickets-1412643577969?fbclid=IwY2xjawLiCyJleHRuA2FlbQIxMABicmlkETF6b3p5QnUxR1p5Sjg2UEp4AR4lMXNgnBNU5o32_8UDcyIYIORYDLWYqJkHtHkCsqkLqKTQGyXtyPkGovqEng_aem_h9DrxPBUDHFxtFKILfw8QA",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/4143",
+          "name": "Société culturelle Kent Nord",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-kent-nord"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/9952",
+            "url": "https://scenesfrancophones.ca/artistes/theatre-tortue-berlue",
+            "name": "Théâtre Tortue Berlue",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-tortue-berlue-alix-et-le-loup-10233",
+        "name": "Théâtre Tortue Berlue - Alix et le loup",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%281%29.png?itok=F9NzTHoB",
+          "width": "430",
+          "height": "430",
+          "creditText": "Marc-Antoine Zouéki"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Connaissez-vous la fable L’enfant qui criait au loup ? Bien sûr que vous la connaissez. Un enfantberger qui a menti en criant « Au loup ! » est puni en étant lui-même dévoré par un loup. C’est un classique ! C’est la même histoire depuis 3000 ans… Mais si c’était la fable elle-même qui nous avait menti ? Si le loup n’était pas le monstre sanguinaire des légendes ? S’il devenait l’ami de l’enfant-menteur ? Si ensemble, ils partaient en quête de vérité et d’émancipation ? S’ils tournaient même un doigt accusateur vers l’artiste-marionnettiste qui est en train de faire le spectacle que vous regardez !? Ne vous laissez pas berner par le décor idyllique, le village de montagne coquet, les prés fleuris, INFORMATIONS GÉNÉRALES INFORMATIONS SUR LE SPECTACLE les chansons entraînantes et les marionnettes rigolotes ! Nous ne sommes pas ici dans un conte normal. Alix et le loup, c’est un spectacle immersif abracadabrant, où l’enfant-spectateur est amené à se poser des questions sur la nature du mensonge, sur notre rapport aux histoires inventées, et sur la valeur de l’amitié et de l’empathie.",
+        "startDate": "2025-08-15T15:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10233",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Louis Vermeersch",
+          "url": "https://scenesfrancophones.ca/node/518",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "67, chemin Ragged Point",
+            "addressLocality": "Saint-Jean",
+            "addressRegion": "NB",
+            "postalCode": "E2K 5C3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.294095",
+            "longitude": "-66.116083"
+          },
+          "@id": "https://scenesfrancophones.ca/id/518"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/36",
+          "name": "Association régionale de la Communauté Francophone de Saint-Jean (ARCf)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/9952",
+            "url": "https://scenesfrancophones.ca/artistes/theatre-tortue-berlue",
+            "name": "Théâtre Tortue Berlue",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-tortue-berlue-alix-et-le-loup-10234",
+        "name": "Théâtre Tortue Berlue - Alix et le loup",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%281%29.png?itok=F9NzTHoB",
+          "width": "430",
+          "height": "430",
+          "creditText": "Marc-Antoine Zouéki"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Connaissez-vous la fable L’enfant qui criait au loup ? Bien sûr que vous la connaissez. Un enfantberger qui a menti en criant « Au loup ! » est puni en étant lui-même dévoré par un loup. C’est un classique ! C’est la même histoire depuis 3000 ans… Mais si c’était la fable elle-même qui nous avait menti ? Si le loup n’était pas le monstre sanguinaire des légendes ? S’il devenait l’ami de l’enfant-menteur ? Si ensemble, ils partaient en quête de vérité et d’émancipation ? S’ils tournaient même un doigt accusateur vers l’artiste-marionnettiste qui est en train de faire le spectacle que vous regardez !? Ne vous laissez pas berner par le décor idyllique, le village de montagne coquet, les prés fleuris, INFORMATIONS GÉNÉRALES INFORMATIONS SUR LE SPECTACLE les chansons entraînantes et les marionnettes rigolotes ! Nous ne sommes pas ici dans un conte normal. Alix et le loup, c’est un spectacle immersif abracadabrant, où l’enfant-spectateur est amené à se poser des questions sur la nature du mensonge, sur notre rapport aux histoires inventées, et sur la valeur de l’amitié et de l’empathie.",
+        "startDate": "2025-08-13T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10234",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Gilles-Laplante",
+          "url": "https://scenesfrancophones.ca/node/467",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300, chemin Beaverbrook",
+            "addressLocality": "Miramichi",
+            "addressRegion": "NB",
+            "postalCode": "E1V 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.011306",
+            "longitude": "-65.587368"
+          },
+          "@id": "https://scenesfrancophones.ca/id/467"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/37",
+          "name": "Carrefour communautaire Beausoleil",
+          "url": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/9952",
+            "url": "https://scenesfrancophones.ca/artistes/theatre-tortue-berlue",
+            "name": "Théâtre Tortue Berlue",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/kora-flamenca-ii-concert-10245",
+        "name": "Kora Flamenca II -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Suite au succès de Kora flamenca (prix Félix d’album  de l’année - musiques du monde à l’ADISQ et du Prix  de musique folk canadienne dans la catégorie Album Traditions du monde de l’année), Zal Sissokho et Caroline Planté allient à nouveau leurs 2 cultures musicales :  la musique afro-mandingue et le flamenco. Kora flamenca II, ce sont 10 nouvelles chansons,  partagées également entre les deux compositeurs et artistes. À travers leur musique, Zal (kora et voix) et  Caroline Planté (guitare flamenca et voix) proposent un voyage coloré, au son de leur rencontre, accompagnés de Miguel Medina aux percussions et Jean-Félix Mailloux à la contrebasse.",
+        "startDate": "2023-09-16T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10245",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10243",
+          "url": "https://scenesfrancophones.ca/artistes/kora-flamenca-ii",
+          "name": "Kora Flamenca II",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jonathan-kravtchenko-chefs-doeuvres-dopera-10248",
+        "name": "Jonathan Kravtchenko -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Quatre musiciens se réunissent pour offrir à Toronto une soirée de musique d’opéra avec les airs des opéras les plus célèbres ! Écoutez l’aria  de Don Giovanni, le « Largo al factotum » du Barbier de Séville et Papageno de la « Flûte Enchantée » de Mozart ! Un programme riche en émotions vous attend ! Plongez dans la musique classique avec le violoniste Sergei Stilmachenko, la soprano Antonina Laskarzhevska, le violoniste Anton Yeretsky et le pianiste Jonathan Kravtchenko, qui nous feront voyager dans le temps !  \r\n\r\n\r\nJonathan Kravtchenko : piano, Antonina Laskarzhevska : soprano,  Sergei Stilmachenko : bariton, Anton Yeretsky : violon",
+        "startDate": "2024-04-05T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10248",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10246",
+          "url": "https://scenesfrancophones.ca/artistes/jonathan-kravtchenko",
+          "name": "Jonathan Kravtchenko",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/compagnie-ombres-folles-quichotte-10251",
+        "name": "Compagnie Ombres Folles -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Dans un monde aussi brut que fragile, fait de papier, Quichotte et Sancho sont en quête d’aventures. L’imaginaire du frêle chevalier s’interpose : coloré, épique et en théâtre d’ombre ! Mais les croyances de Quichotte sont trop fortes … Partout, on le traite de fou. Suivez un duo clownesque, en quête de gloire, qui pousse à la réflexion : faut-il s’accrocher à une réalité loufoque, ou se laisser porter par des rêves insensés ? Ombres folles, la compagnie de théâtre d’objet et d’ombre contemporain, présente, avec ingéniosité, un spectacle librement inspiré du roman L’ingénieux Hidalgo Don Quichotte de la Manche de Miguel de Cervantes. Co-présenté avec le Théâtre français de Toronto",
+        "startDate": "2024-04-13T14:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10251",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10249",
+          "url": "https://scenesfrancophones.ca/artistes/compagnie-ombres-folles",
+          "name": "Compagnie Ombres Folles",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/la-fanfare-couche-tard-animal-totem-10254",
+        "name": "La Fanfare couche-tard  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Multi-instrumentistes passionnés par les musiques de la Bretagne à la Turquie et profondément influencés par les mouvements électroniques, les cinq musiciens de la Fanfare couche-tard nous entraînent dans un songe éveillé peuplé de rires, de danses et d‘humour. Nourri par les multiples influences qui le composent, le groupe a développé un style personnel et pourtant fédérateur : des rythmiques solides et dansantes côtoient ainsi des thèmes musicaux variés et évocateurs. Un florilège d’émotions puisant sa source tant sur le Vieux Continent qu’à l’orée de contrées lointaines, réelles ou imaginaires …",
+        "startDate": "2024-04-20T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10254",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10252",
+          "url": "https://scenesfrancophones.ca/artistes/la-fanfare-couche-tard",
+          "name": "La Fanfare couche-tard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-chorus-duo-les-chorus-duo-10257",
+        "name": "Les Chorus Duo -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Chorus duos, ce sont de longs courriers échangés entre des poètes et des artistes audio de différents points au Canada, disséminés de la côte Est à la côte Ouest. Les uns écrivent et créent en français, les autres en anglais. Ils sont de Sudbury, de Montréal, de Vancouver, de Halifax, mais aussi de l’Anse-St-Jean et de l’Abitibi. Chloé LaDuchesse et Emilio Portal se sont rencontrés à Sudbury et un nouvel échange a été créé entre la poésie francophone ontarienne de Chloé LaDuchesse et l’univers audio d’Emilio Portal. C’est un principe de rencontre qui fut le moteur de ce projet. Rencontre interdisciplinaire entre la poésie et les arts sonores, une rencontre prenant le temps de s’écouter, de se lire, de se connaître. Et c’est ainsi qu’une relation épistolaire s’est établie entre des artistes qui ne se connaissaient pas auparavant, une création s’échafaude au fil des échanges, toujours à distance, jusqu’à ce qu’ils rencontrent enfin ... sur scène. Partenaire : Bureau du Québec, Conseil des arts de l’Ontario",
+        "startDate": "2024-05-07T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10257",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10255",
+          "url": "https://scenesfrancophones.ca/artistes/les-chorus-duo",
+          "name": "Les Chorus Duo",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/masmoudi-quartet-villes-eternelles-10260",
+        "name": "Masmoudi Quartet -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "« Villes éternelles » est pour Mohamed Masmoudi la cristallisation de plusieurs décennies de créativité, de travail, d’apprentissage et d’échanges musicaux. C’est l’aboutissement de rigoureux perfectionnements ainsi que d’explorations de champs riches autant que diversifiés, qu’un fil d’Ariane relie immanquablement aux profondes racines du oud. La démonstration de ses différents usages contribue à faire voir dans cet instrument plus que le reflet d’une culture lointaine, mais bien le véhicule d’une sensibilité commune. Oudiste, contrebassiste, guitariste classique et compositeur, Mohamed Masmoudi s’entoure ici de trois musiciens d’exception afin d’offrir « un tour d’horizon, un rêve [à l’image] de ses expériences et de ses études formelles et informelles confondues ». \r\nPartenaire : Bureau du Québec",
+        "startDate": "2024-05-11T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10260",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10258",
+          "url": "https://scenesfrancophones.ca/artistes/masmoudi-quartet",
+          "name": "Masmoudi Quartet",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/zale-seck-concert-10262",
+        "name": "Zale Seck -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Zale Seck est un chanteur, auteur-compositeur, musicien et danseur, qui a notamment joué avec l’Étoile 2000 de Dakar et le légendaire Orchestra Baobab. Percussionniste et guitariste émérite, Zale Seck joue une authentique musique de griots, relatant les histoires et les souvenirs de son peuple lébou du Sénégal.  Sur scène, Zale Seck a choisi de se faire accompagner par des musiciens québécois et africains. Un mélange qui lui tient à cœur, désireux qu’il est de partager ses goûts et ses traditions. Sur scène, cette envie est palpable. Le Québécois-Sénégalais déploie une énergie débordante pour son public, l’emmenant en voyage sur les rives de l’Atlantique, sur les plages où les pêcheurs sénégalais reviennent après leur journée en mer.",
+        "startDate": "2024-05-25T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10262",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/5977",
+          "url": "https://scenesfrancophones.ca/artistes/zale-seck",
+          "name": "Zale Seck",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/la-compagnie-leternel-ete-et-lucernaire-diffusion-les-fourberies-de-scapin-10265",
+        "name": "La Compagnie l’éternel été et Lucernaire Diffusion -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les deux amis Octave et Léandre ont chacun épousé une jeune femme de naissance inconnue dont ils étaient tombés follement amoureux. Et cela sans le consentement de leurs pères ! Scapin, valet rusé et généreux, reprend du service pour faire triompher la jeunesse et l’amour véritable. Dans un rythme endiablé, une troupe de cinq comédiens, musiciens et chanteurs s’empare d’une des comédies les plus drôles de Molière. Un classique de la comédie revisité en musique dans l’esprit du théâtre de tréteaux et de la comédie italienne. Lieu : Berkeley Street Theatre (Marilyn and Charles Baillie Theatre) \r\n\r\nSpectacle co-présenté avec le Théâtre français  de Toronto\r\n\r\nTexte : Molière Mise en scène : Emmanuel Besnault Avec : Emmanuel Besnault ou Manuel Le Velly, Matthieu Brugot, Victor Duez, Benoit Gruel et Chloé Zufferey",
+        "startDate": "2024-05-30T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10265",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10263",
+          "url": "https://scenesfrancophones.ca/artistes/la-compagnie-leternel-ete-et-lucernaire-diffusion",
+          "name": "La Compagnie l’éternel été et Lucernaire Diffusion",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/la-compagnie-leternel-ete-et-lucernaire-diffusion-les-fourberies-de-scapin-10268",
+        "name": "La Compagnie l’éternel été et Lucernaire Diffusion  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les deux amis Octave et Léandre ont chacun épousé une jeune femme de naissance inconnue dont ils étaient tombés follement amoureux. Et cela sans le consentement de leurs pères ! Scapin, valet rusé et généreux, reprend du service pour faire triompher la jeunesse et l’amour véritable. Dans un rythme endiablé, une troupe de cinq comédiens, musiciens et chanteurs s’empare d’une des comédies les plus drôles de Molière. Un classique de la comédie revisité en musique dans l’esprit du théâtre de tréteaux et de la comédie italienne. Lieu : Berkeley Street Theatre (Marilyn and Charles Baillie Theatre) \r\n\r\nSpectacle co-présenté avec le Théâtre français  de Toronto\r\nTexte : Molière Mise en scène : Emmanuel Besnault Avec : Emmanuel Besnault ou Manuel Le Velly, Matthieu Brugot, Victor Duez, Benoit Gruel et Chloé Zufferey",
+        "startDate": "2024-06-01T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10268",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10266",
+          "url": "https://scenesfrancophones.ca/artistes/la-compagnie-leternel-ete-et-lucernaire-diffusion-0",
+          "name": "La Compagnie l’éternel été et Lucernaire Diffusion",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/marco-ema-et-mon-doux-saigneur-fete-de-la-musique-2024-10271",
+        "name": "Marco Ema et Mon Doux Saigneur  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour célébrer la 42e édition de la Fête de la Musique, l’Alliance Française invite deux groupes de musique qui vous feront voyager à travers le rock, le folk et la country ! Avec les chansons de son premier album Où nos corps s’en vont mourir paru l’automne 2021, Marco Ema nous embarque dans son univers aux allures de films sur le passage à l’âge adulte, abordant habilement le passage à la vie adulte avec toutes les émotions et les débordements qui en découlent, dans une esthétique indie, rock et pop. Émerik St-Cyr Labbé bricole depuis 2014 sous le nom de Mon Doux Saigneur un contagieux mélange de folk hanté, de desert blues et de country qui groove jusqu’à remuer les plus endurcis. Le groupe conquiert des scènes toujours plus grandes partout au Québec et y distille son affection pour les foisonnantes sonorités des années 70’s / 80’s, les rythmes hypnotiques et les refrains accrocheurs.",
+        "startDate": "2024-06-21T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10271",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10269",
+          "url": "https://scenesfrancophones.ca/artistes/marco-ema-et-mon-doux-saigneur",
+          "name": "Marco Ema et Mon Doux Saigneur",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ostara-project-10277",
+        "name": "The Ostara Project -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-09-14T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10277",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10275",
+          "url": "https://scenesfrancophones.ca/artistes/ostara-project",
+          "name": "The Ostara Project",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/amir-amiri-ensemble-amir-amiri-ensemble-10280",
+        "name": "Amir Amiri Ensemble -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-09-27T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10280",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10278",
+          "url": "https://scenesfrancophones.ca/artistes/amir-amiri-ensemble",
+          "name": "Amir Amiri Ensemble",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ensemble-faenza-un-bestiaire-fabuleux-hommage-jean-de-la-fontaine-10283",
+        "name": "Ensemble Faenza  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-10-17T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10283",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10281",
+          "url": "https://scenesfrancophones.ca/artistes/ensemble-faenza",
+          "name": "Ensemble Faenza",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/so-long-seven-so-long-seven-10286",
+        "name": "So Long Seven -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-10-25T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10286",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10284",
+          "url": "https://scenesfrancophones.ca/artistes/so-long-seven",
+          "name": "So Long Seven",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/lea-jarry-comme-avant-10289",
+        "name": "Léa Jarry -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L'artiste québecoise Léa Jarry réinterprète avec force son deuxième album, Comme Avant, entourée de ses musiciens. Entre retour aux sources et nouvelles aspirations, l'artiste révèle une nouvelle fois son talent unique pour raconter des histoires sur scène, et offre à son public une performance pleine d'émotion et d'énergie.",
+        "startDate": "2024-11-08T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10289",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10287",
+          "url": "https://scenesfrancophones.ca/artistes/lea-jarry",
+          "name": "Léa Jarry",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ensemble-mistral-dans-lunivers-dastor-10292",
+        "name": "Ensemble Mistral  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-12-07T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10292",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10290",
+          "url": "https://scenesfrancophones.ca/artistes/ensemble-mistral-0",
+          "name": "Ensemble Mistral",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/maxime-zecchini-maxime-zecchini-10295",
+        "name": "Maxime Zecchini -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Musique Classique",
+        "startDate": "2025-01-16T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10295",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10293",
+          "url": "https://scenesfrancophones.ca/artistes/maxime-zecchini",
+          "name": "Maxime Zecchini",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/coup-de-coeur-coup-de-coeur-10298",
+        "name": "Coup de Cœur  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-02-08T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10298",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10296",
+          "url": "https://scenesfrancophones.ca/artistes/coup-de-coeur",
+          "name": "Coup de Cœur",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/la-otra-orilla-rite-10301",
+        "name": "La Otra Orilla -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Rite est la symbiose du corps, de la voix, de la guitare, des percussions, de quatre artistes à leur apogée : Myriam Allard, Hedi Graja, Caroline Planté et Miguel Medina. Une conversation intime à l’intérieur de laquelle chacun se dit en même temps qu’il porte la parole de l’autre. Rite, c’est l’âpreté, la force et la subjuguante beauté d’un rituel où public et artistes entrent en communion: Accord des coeurs, des souffles, des âmes, le flamenco quand il touche au sacré.\r\n\r\n\r\nUne création de Myriam Allard et Hedi Graja\r\nSur scène Myriam Allard, Caroline Planté, Hedi Graja, Miguel Medina\r\nChorégraphie Myriam Allard\r\nScénographie Hedi Graja\r\nMusique Caroline Planté\r\nÉclairages Joëlle LeBlanc",
+        "startDate": "2025-02-22T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10301",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10299",
+          "url": "https://scenesfrancophones.ca/artistes/la-otra-orilla",
+          "name": "La Otra Orilla",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-le-clou-survie-du-vivant-10304",
+        "name": "Théâtre Le Clou -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Survie du vivant met en scène la biologiste de formation Julie Drouin, accompagnée du comédien Jonathan Morier, dans une installation scénique minimaliste. Dans un entretien intime avec le public, le duo nous transmet sa passion pour la richesse et la beauté de l’interdépendance des êtres vivants, avec une touche de philosophie et d’humour.\r\n\r\nLa compagnie sort des sentiers battus avec cette proposition. Le metteur en scène Benoît Vermeulen allie conférence scientifique, entretien et poésie pour aborder la préservation de la biodiversité de manière sensible et lumineuse. Ce spectacle s’adresse à tous ceux qui ont le désir de se laisser émouvoir par la résilience du vivant.",
+        "startDate": "2025-03-01T14:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10304",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10302",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-le-clou",
+          "name": "Théâtre Le Clou",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/cordame-fabula-femina-10307",
+        "name": "Cordâme -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Dans un concert aux frontières entre la musique de chambre, le chant lyrique et le jazz, l’ensemble Cordâme rend un vibrant hommage aux poétesses de la Renaissance à nos jours. Leurs textes oniriques et touchants sont enveloppés avec justesse et sensibilité par les musiques du contrebassiste et compositeur Jean Félix Mailloux. Fabula Femina a remporté le Prix Opus 2025 du Concert de l'année dans la catégorie Impulsions anciennes, classiques, romantiques, modernes, et postmodernes.",
+        "startDate": "2025-03-05T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10307",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10305",
+          "url": "https://scenesfrancophones.ca/artistes/cordame",
+          "name": "Cordâme",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/maia-barouh-maia-barouh-10310",
+        "name": "Maïa Barouh -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-03-26T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10310",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10308",
+          "url": "https://scenesfrancophones.ca/artistes/maia-barouh",
+          "name": "Maïa Barouh",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/compagnie-le-complexe-merci-detre-venus-10313",
+        "name": "Compagnie Le Complexe -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/MDV_Affiche%2Bofficielle_qualit%C3%A9%2BWEB.jpg?itok=OJj4SWAQ",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-04-05T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10313",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10311",
+          "url": "https://scenesfrancophones.ca/artistes/compagnie-le-complexe",
+          "name": "Compagnie Le Complexe",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/andy-giroux-lhermite-10314",
+        "name": "Andy Giroux -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L’hermite vit seul depuis la disparition de sa femme, refusant tout contact avec le monde. Un jour, une petite fée perdue cherche refuge chez lui. Grâce à elle, il réapprend à rire, jouer et aimer. Sa maison morne devient un lieu magique où tout est possible. « L’Hermite » est un spectacle poétique et rêveur, nous transportant dans divers lieux, y compris un champ, une maison et même l’océan avec sirènes et poissons. Ce spectacle célèbre le pouvoir de l’amitié et l’importance d’être entouré par des gens aimés. Quand on est triste, les amis peuvent nous aider.",
+        "startDate": "2025-04-12T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10314",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/5998",
+          "url": "https://scenesfrancophones.ca/artistes/andy-giroux",
+          "name": "Andy Giroux",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/quatuor-elysee-quatuor-elysee-10317",
+        "name": "Quatuor Elysée -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Musique Classique",
+        "startDate": "2025-04-24T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10317",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10315",
+          "url": "https://scenesfrancophones.ca/artistes/quatuor-elysee",
+          "name": "Quatuor Elysée",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/leonie-langa-leonie-langa-10320",
+        "name": "Léonie Langa -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Concert - Musique africaine \r\n\r\nOriginaire de l'Est du Cameroun, Léonie Langa est une jeune chanteuse, auteure, compositrice, interprète et chorégraphe. Artiste engagée, elle célèbre avec fierté ses racines africaines, en mêlant sonorités traditionnelles et accents modernes de la musique de son pays natal. Préoccupée par la situation d'une jeunesse africaine en mal de repères et acculturé, elle use de son immense talent pour encourager les jeunes à s'unir en faveur des valeurs chères au continent africain.",
+        "startDate": "2025-04-26T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10320",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10318",
+          "url": "https://scenesfrancophones.ca/artistes/leonie-langa",
+          "name": "Léonie Langa",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/debi-botos-quintet-10323",
+        "name": "Debi Botos Quintet  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le jazz manouche rencontre la folk tzigane Hongroise",
+        "startDate": "2025-05-03T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10323",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10321",
+          "url": "https://scenesfrancophones.ca/artistes/debi-botos-quintet",
+          "name": "Debi Botos Quintet",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/compagnie-les-foutoukours-nova-10326",
+        "name": "Compagnie Les Foutoukours -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Dans un lieu mystérieux rempli de bougies vacillantes et de livres, deux clowns acrobates nous emmènent dans un voyage à travers une allégorie de la vie dans laquelle on peut se retrouver à un moment dans notre vie.\r\nSi l’univers qui nous entoure devenait plus froid et plus sombre… que ferions-nous ?\r\n\r\n                Comment allumer la flamme de la vie pour réchauffer nos cœurs et nos vies ?\r\n\r\nEt si travailler seul à la recherche de la vérité et de la lumière n’était pas la solution ?\r\nUne histoire simple d’entraide, de magie et d’espoir.\r\nAvec un mélange innovant de clowns acrobatiques, le spectacle célèbre le rire humain, l’espoir et la persévérance.\r\nLes spectateurs sont émerveillés et se rappellent que même dans les moments les plus sombres, il y a toujours de la lumière à trouver lorsque l’on est deux.",
+        "startDate": "2025-05-10T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10326",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10324",
+          "url": "https://scenesfrancophones.ca/artistes/compagnie-les-foutoukours",
+          "name": "Compagnie Les Foutoukours",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/nil-bosca-euphrate-10329",
+        "name": "Nil Bosca -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Fille d’un père turc et d’une mère normande, Euphrate est une lycéenne en classe de terminale qui rencontre des difficultés avec le système scolaire. Outre ses résultats assez médiocres, elle doit prochainement exprimer son choix d’orientation professionnelle : un vrai casse-tête. Elle en vient alors à se demander quelle incidence sa double culture a pu avoir sur la construction de son identité. Dans un dialogue savoureux et plein d’humour avec son père, elle part à la rencontre de ses racines turques et de ses souvenirs d’enfance. Entremêlant la danse et les mots, le spectacle raconte avec la liberté d’un corps joyeux le chemin vers l’affirmation de sa propre parole de femme.",
+        "startDate": "2025-05-21T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10329",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10327",
+          "url": "https://scenesfrancophones.ca/artistes/nil-bosca",
+          "name": "Nil Bosca",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/stanislas-roquette-insuline-et-magnolia-10332",
+        "name": "Stanislas Roquette  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L’insouciance de Stanislas, 15 ans, prend fin brutalement quand il découvre qu’il est atteint d’un diabète insulino-dépendant. Garçon joyeux devenu triste et sombre, il fait un jour la rencontre d’une jeune femme qui va bouleverser sa vie. Fleur, libre et solaire, lui fait découvrir la puissance de la poésie par sa capacité à réenchanter le réel, et à redonner un sens à l’existence face à la mort.\r\n\r\nDans un récit autobiographique plein d’humour et de tendresse, Stanislas Roquette raconte le choc, la rencontre, l’amitié et la vie en retour. Insuline & Magnolia est aussi une histoire d’initiation adolescente à la littérature, à la poésie et au théâtre classique français.",
+        "startDate": "2025-05-22T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10332",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10330",
+          "url": "https://scenesfrancophones.ca/artistes/stanislas-roquette",
+          "name": "Stanislas Roquette",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/simon-boisseau-simon-boisseau-10335",
+        "name": "Simon Boisseau -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le jeune talent Simon Boisseau, originaire de Montréal, se produit en solo au piano.",
+        "startDate": "2025-06-07T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10335",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10333",
+          "url": "https://scenesfrancophones.ca/artistes/simon-boisseau",
+          "name": "Simon Boisseau",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jacques-surette-consequences-10376",
+        "name": "Jacques Surette - Conséquences",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%282%29.png?itok=CLs2JPdr",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jocelyne Vautour"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Comme un grand chansonnier, entouré de sa guitare, son banjo et ses harmonicas Jacques Surette est un raconteur d'histoire qui charme son public par son naturel et sa simplicité. Il offre un spectacle simple, mais efficace, où chansons en français, et parfois en anglais, se mélangent pour mieux comprendre la dualité linguistique de son quotidien. En juin 2019, il sortait son premier disque plutôt folk intitulé « Marche, marche, marche », co-réalisé par Lisa LeBlanc et Benoit Morier. Son deuxième album, « Jacques Surette II » sorti en 2020, a été réalisé par Mike Trask et Christien Belliveau. Son troisième album, « Conséquences », est sorti en novembre 2023 et a été réalisé par Éric Dion et André Lavergne du duo Dans l’Shed. En octobre 2025, il lancera un 4e album réalisé avec une équipe 100 % néo-écossaise dirigée par le réalisateur Charles Robicheau ! Tous ses albums sont du label acadien Le Grenier musique, de Moncton.",
+        "startDate": "2025-10-24T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10376",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium - école régionale de Baie-Sainte-Anne",
+          "url": "https://scenesfrancophones.ca/node/10375",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5362 Route, Baie-Sainte-Anne, NB",
+            "addressLocality": "Baie-Sainte-Anne",
+            "addressRegion": "NB",
+            "postalCode": "E9A 1V9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.049797",
+            "longitude": "-64.965782"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10375"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/7643",
+          "name": "Société culturelle Baie-Sainte-Anne",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-baie-sainte-anne"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4028",
+            "url": "https://scenesfrancophones.ca/artistes/jacques-surette",
+            "name": "Jacques Surette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jacques-surette-consequences-10377",
+        "name": "Jacques Surette - Conséquences",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%282%29.png?itok=CLs2JPdr",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jocelyne Vautour"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Comme un grand chansonnier, entouré de sa guitare, son banjo et ses harmonicas Jacques Surette est un raconteur d'histoire qui charme son public par son naturel et sa simplicité. Il offre un spectacle simple, mais efficace, où chansons en français, et parfois en anglais, se mélangent pour mieux comprendre la dualité linguistique de son quotidien. En juin 2019, il sortait son premier disque plutôt folk intitulé « Marche, marche, marche », co-réalisé par Lisa LeBlanc et Benoit Morier. Son deuxième album, « Jacques Surette II » sorti en 2020, a été réalisé par Mike Trask et Christien Belliveau. Son troisième album, « Conséquences », est sorti en novembre 2023 et a été réalisé par Éric Dion et André Lavergne du duo Dans l’Shed. En octobre 2025, il lancera un 4e album réalisé avec une équipe 100 % néo-écossaise dirigée par le réalisateur Charles Robicheau ! Tous ses albums sont du label acadien Le Grenier musique, de Moncton.",
+        "startDate": "2025-10-25T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10377",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Lisa LeBlanc",
+          "url": "https://scenesfrancophones.ca/node/3940",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "46 rue de l'école",
+            "addressLocality": "Rogersville",
+            "addressRegion": "NB",
+            "postalCode": "E4Y 1V7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.732371",
+            "longitude": "-65.423498"
+          },
+          "@id": "https://scenesfrancophones.ca/id/3940"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/3939",
+          "name": "La Société culturelle de la grande région de Rogersville",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-societe-culturelle-de-la-grande-region-de-rogersville"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4028",
+            "url": "https://scenesfrancophones.ca/artistes/jacques-surette",
+            "name": "Jacques Surette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jacques-surette-consequences-10378",
+        "name": "Jacques Surette - Conséquences",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%282%29.png?itok=CLs2JPdr",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jocelyne Vautour"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Comme un grand chansonnier, entouré de sa guitare, son banjo et ses harmonicas Jacques Surette est un raconteur d'histoire qui charme son public par son naturel et sa simplicité. Il offre un spectacle simple, mais efficace, où chansons en français, et parfois en anglais, se mélangent pour mieux comprendre la dualité linguistique de son quotidien. En juin 2019, il sortait son premier disque plutôt folk intitulé « Marche, marche, marche », co-réalisé par Lisa LeBlanc et Benoit Morier. Son deuxième album, « Jacques Surette II » sorti en 2020, a été réalisé par Mike Trask et Christien Belliveau. Son troisième album, « Conséquences », est sorti en novembre 2023 et a été réalisé par Éric Dion et André Lavergne du duo Dans l’Shed. En octobre 2025, il lancera un 4e album réalisé avec une équipe 100 % néo-écossaise dirigée par le réalisateur Charles Robicheau ! Tous ses albums sont du label acadien Le Grenier musique, de Moncton.",
+        "startDate": "2025-10-23T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10378",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Fatima",
+          "url": "https://scenesfrancophones.ca/node/498",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Rue St Jean Baptiste",
+            "addressLocality": "Kedgwick",
+            "addressRegion": "NB",
+            "postalCode": "E8B 1M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.646354",
+            "longitude": "-67.354525"
+          },
+          "@id": "https://scenesfrancophones.ca/id/498"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://societeculturelledeshautsplateaux.ticketacces.net/fr/organisation/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/49",
+          "name": "Société culturelle des Hauts-Plateaux",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4028",
+            "url": "https://scenesfrancophones.ca/artistes/jacques-surette",
+            "name": "Jacques Surette"
           }
         ]
       }
@@ -51921,6 +54384,31 @@
           "longitude": "-64.964982"
         },
         "@id": "https://scenesfrancophones.ca/id/10230"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10375",
+        "name": "Auditorium - école régionale de Baie-Sainte-Anne",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "5362 Route, Baie-Sainte-Anne, NB",
+          "addressLocality": "Baie-Sainte-Anne",
+          "addressRegion": "NB",
+          "postalCode": "E9A 1V9",
+          "addressCountry": "CA"
+        },
+        "description": "Auditorium - école régionale de Baie-Sainte-Anne",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "47.049797",
+          "longitude": "-64.965782"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10375"
       }
     ]
   },
