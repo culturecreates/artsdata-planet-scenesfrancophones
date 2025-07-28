@@ -8701,15 +8701,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/10046",
-        "url": "https://scenesfrancophones.ca/artistes/mononcle-jason",
-        "name": "Mononcle Jason",
+        "url": "https://scenesfrancophones.ca/artistes/menoncle-jason-0",
+        "name": "Menoncle Jason",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
@@ -9704,6 +9699,22 @@
         "@id": "https://scenesfrancophones.ca/id/10370",
         "url": "https://scenesfrancophones.ca/artistes/dubunker",
         "name": "DuBunker"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10450",
+        "url": "https://scenesfrancophones.ca/artistes/jeanne-cote-0",
+        "name": "Jeanne Côté"
       }
     ]
   },
@@ -28153,7 +28164,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/les-hay-babies-tintamarre-7765",
+        "url": "https://scenesfrancophones.ca/spectacles/tintamarre-7765",
         "name": "Les Hay Babies -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
@@ -28164,7 +28175,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l’âme folklorique de l’Acadie.\r\n\r\nCe show c’est la fête, c'est country rock et c’est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entraînent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur.\r\n\r\nEt qui dit Acadie dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
+        "description": "Tintamarre! Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l'âme folklorique de l'Acadie. Ce show c’est la fête, c'est country rock et c'est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entrainent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit \" Acadie \" dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
         "startDate": "2025-05-29T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/7765",
@@ -37087,7 +37098,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "En 1692 à Salem, des procès ont été mis en place afin de mettre fin à la sorcellerie. Des centaines d’années plus tard, Coco Belliveau fait le rodage de son prochain spectacle. Coïncidence ? Nous ne croyons pas…. \r\nJoignez-vous à cette charmante acadienne neurodivergente (et totalement brûlée) pour une soirée de paroles envoûtantes. Vite, avant qu’elle ne soit clouée au pilori pour ses calembredaines et sa Cocologie aiguisée!",
+        "description": "En 1692 à Salem, des procès ont été mis en place afin de mettre fin à la sorcellerie. Des centaines d’années plus tard, Coco Belliveau fait le rodage de son prochain spectacle. Coïncidence ? Nous ne croyons pas….  Joignez-vous à cette charmante acadienne neurodivergente (et totalement brûlée) pour une soirée de paroles envoûtantes. Vite, avant qu’elle ne soit clouée au pilori pour ses calembredaines et sa Cocologie aiguisée!",
         "startDate": "2026-05-02T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8575",
@@ -46624,7 +46635,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/les-hay-babies-tintamarre-10065",
+        "url": "https://scenesfrancophones.ca/spectacles/tintamarre-10065",
         "name": "Les Hay Babies -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
@@ -48359,27 +48370,27 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Le nouvel album Layon de la formation Nicolas Pellerin et Les Grands Hurleurs a été lancé le 15 mars dernier toujours dans un esprit créatif, dansant et organique. Le public est appelé à la fête, aux moments plus touchants, le tout enrobé par des histoires qui viennent unifier la soirée. Layon s’écoute comme une randonnée musicale en sentier sur fond de musique trad, avec des parfums mélodiques, des dénivelés rythmiques et des paysages atmosphériques inspirants d’air pur. Un album bien ancré dans la groove, un son acoustique et pourtant, une énergie plus rock se dégage grâce aux excellents Grands Hurleurs qui sont désormais Simon Lepage, Louis Thibault et Phil Girard. La formation Nicolas Pellerin et Les Grands Hurleurs a gagné le cœur du public québécois et international grâce à sa musique traditionnelle modernisée et accessible. Avec l’intégration d’influences folk, bluegrass classique, le groupe saura surprendre et toucher les gens encore une fois avec ce trad enrichi! Les violons, la mandoline, la guitare, la contrebasse, les pieds et les riches harmonies vocales se marient afin d’explorer une multitude d’émotions.",
-        "startDate": "2025-08-15T09:00:00-03:00",
+        "startDate": "2025-08-15T20:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10227",
         "location": {
           "@type": "Place",
-          "name": "Auditorium Richelieu",
-          "url": "https://scenesfrancophones.ca/node/503",
+          "name": "Stationnement édifice Dollard Bélanger",
+          "url": "https://scenesfrancophones.ca/node/10379",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "215, rue Guimont",
+            "streetAddress": "430 Boulevard Broadway, Grand-Sault, NB",
             "addressLocality": "Grand-Sault",
             "addressRegion": "NB",
-            "postalCode": "E3Y 3W3",
+            "postalCode": "E3Z 2K6",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "47.056374",
-            "longitude": "-67.73096"
+            "latitude": "47.04601",
+            "longitude": "-67.74462"
           },
-          "@id": "https://scenesfrancophones.ca/id/503"
+          "@id": "https://scenesfrancophones.ca/id/10379"
         },
         "offers": {
           "@type": "Offer",
@@ -49720,61 +49731,6 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/maia-barouh-maia-barouh-10310",
-        "name": "Maïa Barouh -",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "startDate": "2025-03-26T20:00:00-04:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/10310",
-        "location": {
-          "@type": "Place",
-          "name": "Alliance Française de Toronto",
-          "url": "https://scenesfrancophones.ca/node/1061",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "24, rue Spadina",
-            "addressLocality": "Toronto",
-            "addressRegion": "ON",
-            "postalCode": "M5R 2S7",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "43.643474",
-            "longitude": "-79.394464"
-          },
-          "@id": "https://scenesfrancophones.ca/id/1061"
-        },
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/84",
-          "name": "Alliance Française de Toronto",
-          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
-        },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/10308",
-          "url": "https://scenesfrancophones.ca/artistes/maia-barouh",
-          "name": "Maïa Barouh",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/compagnie-le-complexe-merci-detre-venus-10313",
         "name": "Compagnie Le Complexe -",
         "eventStatus": "https://schema.org/EventScheduled",
@@ -50446,6 +50402,632 @@
             "name": "Jacques Surette"
           }
         ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/tintamarre-10380",
+        "name": "- Tintamarre!",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29.png?itok=RhP_ZblJ",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Tintamarre! Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l'âme folklorique de l'Acadie. Ce show c’est la fête, c'est country rock et c'est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entrainent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit \" Acadie \" dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
+        "startDate": "2025-10-22T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10380",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre LER",
+          "url": "https://scenesfrancophones.ca/node/492",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "390, rue Adelaide",
+            "addressLocality": "Dalhousie",
+            "addressRegion": "NB",
+            "postalCode": "E8C 3C4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.064917",
+            "longitude": "-66.374601"
+          },
+          "@id": "https://scenesfrancophones.ca/id/492"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://societeculturellebdc.tuxedobillet.com/main/les-hay-babies/20251022193000",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/48",
+          "name": "Société culturelle de la Baie des Chaleurs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/10063",
+            "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-1",
+            "name": "Les Hay Babies",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/tintamarre-10381",
+        "name": "- Tintamarre!",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29.png?itok=RhP_ZblJ",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Tintamarre! Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l'âme folklorique de l'Acadie. Ce show c’est la fête, c'est country rock et c'est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entrainent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit \" Acadie \" dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
+        "startDate": "2025-10-23T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10381",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/hay-babies-tintamarre/20251023200000",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/10063",
+            "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-1",
+            "name": "Les Hay Babies",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/tintamarre-10383",
+        "name": "- Tintamarre!",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29.png?itok=RhP_ZblJ",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Tintamarre! Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l'âme folklorique de l'Acadie. Ce show c’est la fête, c'est country rock et c'est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entrainent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit \" Acadie \" dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
+        "startDate": "2025-10-24T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10383",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Gilles Laplante",
+          "url": "https://scenesfrancophones.ca/node/10382",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300 Beaverbrook Rd,",
+            "addressLocality": "Miramichi",
+            "addressRegion": "NB",
+            "postalCode": "E1V 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.008958",
+            "longitude": "-65.587482"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10382"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://carbeau.tuxedobillet.com/main/hay-babies/20251024200000",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/37",
+          "name": "Carrefour communautaire Beausoleil",
+          "url": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/10063",
+            "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-1",
+            "name": "Les Hay Babies",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/menoncle-jason-menoncle-jason-10385",
+        "name": "Menoncle Jason - Menoncle Jason",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%281%29.png?itok=E_OkM5cA",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jim Dupuis"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Menoncle Jason est un multi-instrumentiste. Il trouve son inspiration dans la réalité de la vie en campagne. Il recherche les sonorités du «Golden Age» qui colore son style country classique rétro chiac. Avec sa voix profonde et grave, il arrive à créer une ambiance sonore singulière où le son est un peu plus pop rock des années 1960-1970, toujours avec la signature country chantée en chiac qui le définit si bien. Avec une touche d’humour et sa voix barytone, il propose des chansons qui traitent de sujets quelque peu hors-la-loi, mais jamais criminels, et toujours inspirées des couleurs régionales du Sud-Est du Nouveau-Brunswick, son chez lui. Les histoires qu’il écrit sont assurées de toucher les gens !",
+        "startDate": "2025-10-16T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10385",
+        "location": {
+          "@type": "Place",
+          "name": "Bar Le Coude",
+          "url": "https://scenesfrancophones.ca/node/525",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "19, Av Antonine-Maillet",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1A 3E9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.105729",
+            "longitude": "-64.783756"
+          },
+          "@id": "https://scenesfrancophones.ca/id/525"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/45",
+          "name": "Université de Moncton - Campus de Moncton",
+          "url": "https://scenesfrancophones.ca/diffuseurs/universite-de-moncton-campus-de-moncton"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/7897",
+            "url": "https://scenesfrancophones.ca/artistes/menoncle-jason",
+            "name": "Menoncle Jason"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/menoncle-jason-menoncle-jason-10387",
+        "name": "Menoncle Jason - Menoncle Jason",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%281%29.png?itok=E_OkM5cA",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jim Dupuis"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Menoncle Jason est un multi-instrumentiste. Il trouve son inspiration dans la réalité de la vie en campagne. Il recherche les sonorités du «Golden Age» qui colore son style country classique rétro chiac. Avec sa voix profonde et grave, il arrive à créer une ambiance sonore singulière où le son est un peu plus pop rock des années 1960-1970, toujours avec la signature country chantée en chiac qui le définit si bien. Avec une touche d’humour et sa voix barytone, il propose des chansons qui traitent de sujets quelque peu hors-la-loi, mais jamais criminels, et toujours inspirées des couleurs régionales du Sud-Est du Nouveau-Brunswick, son chez lui. Les histoires qu’il écrit sont assurées de toucher les gens !",
+        "startDate": "2025-10-17T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10387",
+        "location": {
+          "@type": "Place",
+          "name": "Centre Communautaire de l'Aldouane",
+          "url": "https://scenesfrancophones.ca/node/10386",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "9839 NB-134, Aldouane",
+            "addressLocality": "Aldouane",
+            "addressRegion": "NB",
+            "postalCode": "E4W 5G2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.709851",
+            "longitude": "-64.899953"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10386"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/4143",
+          "name": "Société culturelle Kent Nord",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-kent-nord"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/7897",
+            "url": "https://scenesfrancophones.ca/artistes/menoncle-jason",
+            "name": "Menoncle Jason"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/menoncle-jason-menoncle-jason-10395",
+        "name": "Menoncle Jason - Menoncle Jason",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%281%29.png?itok=E_OkM5cA",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jim Dupuis"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Menoncle Jason est un multi-instrumentiste. Il trouve son inspiration dans la réalité de la vie en campagne. Il recherche les sonorités du «Golden Age» qui colore son style country classique rétro chiac. Avec sa voix profonde et grave, il arrive à créer une ambiance sonore singulière où le son est un peu plus pop rock des années 1960-1970, toujours avec la signature country chantée en chiac qui le définit si bien. Avec une touche d’humour et sa voix barytone, il propose des chansons qui traitent de sujets quelque peu hors-la-loi, mais jamais criminels, et toujours inspirées des couleurs régionales du Sud-Est du Nouveau-Brunswick, son chez lui. Les histoires qu’il écrit sont assurées de toucher les gens !",
+        "startDate": "2025-10-18T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10395",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Entre deux mers",
+          "url": "https://scenesfrancophones.ca/node/480",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5, ave. Maris Stella",
+            "addressLocality": "Summerside",
+            "addressRegion": "PE",
+            "postalCode": "C1N 6M9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.418743",
+            "longitude": "-63.810939"
+          },
+          "@id": "https://scenesfrancophones.ca/id/480"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/26",
+          "name": "La Belle-Alliance",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-belle-alliance"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/7897",
+            "url": "https://scenesfrancophones.ca/artistes/menoncle-jason",
+            "name": "Menoncle Jason"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/sam-mallais-tu-mdirais-quoi-sam-mallais-10396",
+        "name": "Sam Mallais - Tu m'dirais quoi? - Sam Mallais",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%282%29.png?itok=DxZlmgdE",
+          "width": "430",
+          "height": "430",
+          "creditText": "Fred Guitare"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le spectacle de Sam Mallais est une expérience musicale immersive qui s'adresse à un large public, incluant familles et festivaliers de tous âges. Avec son dernier album, \"Tu m'dirais quoi?\", Sam propose un retour vibrant aux sonorités blues et rock psychédéliques des années 70, le tout interprété avec une énergie contagieuse et une authenticité rare. Mallais et son groupe créent un pont entre les générations. Les plus jeunes découvrent des sonorités nouvelles et entraînantes, tandis que les plus âgés retrouvent des mélodies familières. Sur scène, Sam Mallais est un véritable show-man: assis derrière son clavier Rhodes ou debout avec sa guitare, il distille une énergie et un style vintage moderne. Son spectacle tout comme son album Tu m'dirais quoi? vibre le blues rock psychédélique analogue. Il offre un spectacle puissant, la fois électrisant et authentique.",
+        "startDate": "2025-10-18T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10396",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des Congrès de la Péninsule Acadienne",
+          "url": "https://scenesfrancophones.ca/node/483",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "106A, rue de l'Aquarium",
+            "addressLocality": "Shippagan",
+            "addressRegion": "NB",
+            "postalCode": "E8S 1H9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.747233",
+            "longitude": "-64.708324"
+          },
+          "@id": "https://scenesfrancophones.ca/id/483"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://maisonculture.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=62&DetectionCookies=TestComplet",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/44",
+          "name": "La Maison de la culture Inc.",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-maison-de-la-culture-inc"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4436",
+            "url": "https://scenesfrancophones.ca/artistes/sam-mallais",
+            "name": "Sam Mallais"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/sam-mallais-tu-mdirais-quoi-10397",
+        "name": "Sam Mallais - Tu m'dirais quoi ?",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%282%29.png?itok=DxZlmgdE",
+          "width": "430",
+          "height": "430",
+          "creditText": "Fred Guitare"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le spectacle de Sam Mallais est une expérience musicale immersive qui s'adresse à un large public, incluant familles et festivaliers de tous âges. Avec son dernier album, \"Tu m'dirais quoi?\", Sam propose un retour vibrant aux sonorités blues et rock psychédéliques des années 70, le tout interprété avec une énergie contagieuse et une authenticité rare. Mallais et son groupe créent un pont entre les générations. Les plus jeunes découvrent des sonorités nouvelles et entraînantes, tandis que les plus âgés retrouvent des mélodies familières. Sur scène, Sam Mallais est un véritable show-man: assis derrière son clavier Rhodes ou debout avec sa guitare, il distille une énergie et un style vintage moderne. Son spectacle tout comme son album Tu m'dirais quoi? vibre le blues rock psychédélique analogue. Il offre un spectacle puissant, la fois électrisant et authentique.",
+        "startDate": "2025-10-17T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10397",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Richard-Denys",
+          "url": "https://scenesfrancophones.ca/node/502",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "600, rue Principale",
+            "addressLocality": "Neguac",
+            "addressRegion": "NB",
+            "postalCode": "E9G 1N3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.242221",
+            "longitude": "-65.087504"
+          },
+          "@id": "https://scenesfrancophones.ca/id/502"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://scn.ticketacces.net/fr/organisation/index.cfm#programmation-",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/52",
+          "name": "Société culturelle Nigawouek",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-nigawouek"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4436",
+            "url": "https://scenesfrancophones.ca/artistes/sam-mallais",
+            "name": "Sam Mallais"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/cocologie-10398",
+        "name": "- Cocologie",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%283%29.png?itok=2E0AEG7_",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "En 1692 à Salem, des procès ont été mis en place afin de mettre fin à la sorcellerie. Des centaines d'années plus tard, Coco Belliveau fait le rodage de son prochain spectacle. Coïncidence? Nous ne croyons pas….\r\n\r\nJoignez-vous à cette charmante acadienne neurodivergente (et totalement brûlée) pour une soirée de paroles envoûtantes. Vite, avant qu'elle ne soit clouée au pilori pour ses calembredaines et sa Cocologie aiguisée.",
+        "startDate": "2025-11-26T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10398",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts d'Edmundston",
+          "url": "https://scenesfrancophones.ca/node/521",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "82, rue Canada",
+            "addressLocality": "Edmundston",
+            "addressRegion": "NB",
+            "postalCode": "E3V 1V5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.363907",
+            "longitude": "-68.330138"
+          },
+          "@id": "https://scenesfrancophones.ca/id/521"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://artsedmundston.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30281&DetectionCookies=TestComplet",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/41",
+          "name": "Le Centre des arts d’Edmundston",
+          "url": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8804",
+            "url": "https://scenesfrancophones.ca/artistes/coco-belliveau-0",
+            "name": "Coco Belliveau",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jeanne-cote-nos-routes-pleines-de-branches-10452",
+        "name": "Jeanne Côté -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-03-26T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10452",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10450",
+          "url": "https://scenesfrancophones.ca/artistes/jeanne-cote-0",
+          "name": "Jeanne Côté",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
       }
     ]
   },
@@ -54409,6 +54991,126 @@
           "longitude": "-64.965782"
         },
         "@id": "https://scenesfrancophones.ca/id/10375"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10379",
+        "name": "Stationnement édifice Dollard Bélanger",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "430 Boulevard Broadway, Grand-Sault, NB",
+          "addressLocality": "Grand-Sault",
+          "addressRegion": "NB",
+          "postalCode": "E3Z 2K6",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "47.04601",
+          "longitude": "-67.74462"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10379"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10382",
+        "name": "Théâtre Gilles Laplante",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "300 Beaverbrook Rd,",
+          "addressLocality": "Miramichi",
+          "addressRegion": "NB",
+          "postalCode": "E1V 1A1",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "47.008958",
+          "longitude": "-65.587482"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10382"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10386",
+        "name": "Centre Communautaire de l'Aldouane",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "9839 NB-134, Aldouane",
+          "addressLocality": "Aldouane",
+          "addressRegion": "NB",
+          "postalCode": "E4W 5G2",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "46.709851",
+          "longitude": "-64.899953"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10386"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10464",
+        "name": "Centre communautaire East Ferris",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1267 Village Road",
+          "addressLocality": "Astorville",
+          "addressRegion": "ON",
+          "postalCode": "P0H 0A7",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "46.186032",
+          "longitude": "-79.286031"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10464"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10465",
+        "name": "Northgate Shopping Centre",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1500 Fisher Street",
+          "addressLocality": "North Bay",
+          "addressRegion": "ON",
+          "postalCode": "P1B 2H3",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "46.314633",
+          "longitude": "-79.440663"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10465"
       }
     ]
   },
