@@ -6216,8 +6216,8 @@
       {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8643",
-        "url": "https://scenesfrancophones.ca/artistes/john-boulay-jbmusic",
-        "name": "John Boulay (Jbmusic)"
+        "url": "https://scenesfrancophones.ca/artistes/john-boulay",
+        "name": "John Boulay"
       }
     ]
   },
@@ -8274,12 +8274,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/9996",
         "url": "https://scenesfrancophones.ca/artistes/david-corriveau-3",
         "name": "David Corriveau",
@@ -9715,6 +9710,444 @@
         "@id": "https://scenesfrancophones.ca/id/10450",
         "url": "https://scenesfrancophones.ca/artistes/jeanne-cote-0",
         "name": "Jeanne Côté"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10468",
+        "url": "https://scenesfrancophones.ca/artistes/empire-pagaille-1",
+        "name": "Empire Pagaille"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10476",
+        "url": "https://scenesfrancophones.ca/artistes/singing-spirit",
+        "name": "Singing Spirit"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10481",
+        "url": "https://scenesfrancophones.ca/artistes/katryne-foisy-et-alex-fisher",
+        "name": "Katryne Foisy et Alex Fisher"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10485",
+        "url": "https://scenesfrancophones.ca/artistes/andy-et-gab",
+        "name": "Andy et Gab"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10489",
+        "url": "https://scenesfrancophones.ca/artistes/isabelle-lebel-et-chloe-gravelle",
+        "name": "Isabelle Lebel et Chloe Gravelle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10493",
+        "url": "https://scenesfrancophones.ca/artistes/xavier-boucher",
+        "name": "Xavier Boucher"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10498",
+        "url": "https://scenesfrancophones.ca/artistes/eric-romanica",
+        "name": "Éric Romanica"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10502",
+        "url": "https://scenesfrancophones.ca/artistes/ps2",
+        "name": "PS2"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10508",
+        "url": "https://scenesfrancophones.ca/artistes/bam-percussion",
+        "name": "BAM percussion"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10542",
+        "url": "https://scenesfrancophones.ca/artistes/sara-dufour",
+        "name": "Sara Dufour"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10545",
+        "url": "https://scenesfrancophones.ca/artistes/louis-berube",
+        "name": "Louis Bérubé"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10548",
+        "url": "https://scenesfrancophones.ca/artistes/radio-radio-lgs-dj-unpier",
+        "name": "Radio Radio - LGS - DJ Unpier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10552",
+        "url": "https://scenesfrancophones.ca/artistes/maude-cyr-deschenes-et-viviane-audet",
+        "name": "Maude Cyr-Deschênes et Viviane Audet"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10555",
+        "url": "https://scenesfrancophones.ca/artistes/artistes-varies-0",
+        "name": "Artistes variés"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10558",
+        "url": "https://scenesfrancophones.ca/artistes/luce-dufault-lulu-hugues-et-kim-richardson",
+        "name": "Luce Dufault, Lulu Hugues et Kim Richardson"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10561",
+        "url": "https://scenesfrancophones.ca/artistes/guillaume-pineault-1",
+        "name": "Guillaume Pineault"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10564",
+        "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-2",
+        "name": "Les hay babies"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10567",
+        "url": "https://scenesfrancophones.ca/artistes/souldia",
+        "name": "Souldia"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10570",
+        "url": "https://scenesfrancophones.ca/artistes/louis-t-0",
+        "name": "Louis T"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10573",
+        "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon-1",
+        "name": "Alphonse Bisaillon"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10576",
+        "url": "https://scenesfrancophones.ca/artistes/gregory-charles-2",
+        "name": "Grégory Charles"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10579",
+        "url": "https://scenesfrancophones.ca/artistes/mohamed-bouya-ely-vall-0",
+        "name": "Mohamed Bouya Ely Vall"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10582",
+        "url": "https://scenesfrancophones.ca/artistes/mike-ward-1",
+        "name": "Mike Ward"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10585",
+        "url": "https://scenesfrancophones.ca/artistes/france-damour-0",
+        "name": "France D'Amour"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10588",
+        "url": "https://scenesfrancophones.ca/artistes/coco-belliveau-2",
+        "name": "Coco Belliveau"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10591",
+        "url": "https://scenesfrancophones.ca/artistes/cirque-kalabante-0",
+        "name": "Cirque Kalabanté"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10594",
+        "url": "https://scenesfrancophones.ca/artistes/megan-brouillard-1",
+        "name": "Mégan Brouillard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/10613",
+        "url": "https://scenesfrancophones.ca/artistes/jay-scott",
+        "name": "Jay Scøtt"
       }
     ]
   },
@@ -30035,7 +30468,7 @@
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/photo-Melissa-Bedard.jpeg?itok=MNtHDy1v",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/WEB_melissa_bedard_2024-162.jpg?itok=rj5rfBCZ",
           "width": "430",
           "height": "430",
           "creditText": "Audet Photo"
@@ -36838,7 +37271,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/jeremy-demay-naturel-8540",
+        "url": "https://scenesfrancophones.ca/spectacles/naturel-8540",
         "name": "Jérémy Demay -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
@@ -48436,27 +48869,27 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Le nouvel album Layon de la formation Nicolas Pellerin et Les Grands Hurleurs a été lancé le 15 mars dernier toujours dans un esprit créatif, dansant et organique. Le public est appelé à la fête, aux moments plus touchants, le tout enrobé par des histoires qui viennent unifier la soirée. Layon s’écoute comme une randonnée musicale en sentier sur fond de musique trad, avec des parfums mélodiques, des dénivelés rythmiques et des paysages atmosphériques inspirants d’air pur. Un album bien ancré dans la groove, un son acoustique et pourtant, une énergie plus rock se dégage grâce aux excellents Grands Hurleurs qui sont désormais Simon Lepage, Louis Thibault et Phil Girard. La formation Nicolas Pellerin et Les Grands Hurleurs a gagné le cœur du public québécois et international grâce à sa musique traditionnelle modernisée et accessible. Avec l’intégration d’influences folk, bluegrass classique, le groupe saura surprendre et toucher les gens encore une fois avec ce trad enrichi! Les violons, la mandoline, la guitare, la contrebasse, les pieds et les riches harmonies vocales se marient afin d’explorer une multitude d’émotions.",
-        "startDate": "2025-08-16T14:30:00-03:00",
+        "startDate": "2025-08-16T20:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10228",
         "location": {
           "@type": "Place",
-          "name": "Théâtre Louis Vermeersch",
-          "url": "https://scenesfrancophones.ca/node/518",
+          "name": "Fort Latour",
+          "url": "https://scenesfrancophones.ca/node/10601",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "67, chemin Ragged Point",
-            "addressLocality": "Saint-Jean",
+            "streetAddress": "10 promenade",
+            "addressLocality": "Saint-John",
             "addressRegion": "NB",
-            "postalCode": "E2K 5C3",
+            "postalCode": "E2K 5L6",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.294095",
-            "longitude": "-66.116083"
+            "latitude": "45.264862",
+            "longitude": "-66.077266"
           },
-          "@id": "https://scenesfrancophones.ca/id/518"
+          "@id": "https://scenesfrancophones.ca/id/10601"
         },
         "offers": {
           "@type": "Offer",
@@ -48642,22 +49075,22 @@
         "@id": "https://scenesfrancophones.ca/id/10233",
         "location": {
           "@type": "Place",
-          "name": "Théâtre Louis Vermeersch",
-          "url": "https://scenesfrancophones.ca/node/518",
+          "name": "King's Square",
+          "url": "https://scenesfrancophones.ca/node/10600",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "67, chemin Ragged Point",
-            "addressLocality": "Saint-Jean",
+            "streetAddress": "100 King St",
+            "addressLocality": "Saint John",
             "addressRegion": "NB",
-            "postalCode": "E2K 5C3",
+            "postalCode": "E2L 1G4",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.294095",
-            "longitude": "-66.116083"
+            "latitude": "45.273144",
+            "longitude": "-66.059138"
           },
-          "@id": "https://scenesfrancophones.ca/id/518"
+          "@id": "https://scenesfrancophones.ca/id/10600"
         },
         "offers": {
           "@type": "Offer",
@@ -51028,6 +51461,2899 @@
             "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
           ]
         }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/empire-pagaille-mme-brulee-10470",
+        "name": "Empire Pagaille -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. \r\n \r\nDans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
+        "startDate": "2024-05-08T17:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10470",
+        "location": {
+          "@type": "Place",
+          "name": "Northgate Shopping Centre",
+          "url": "https://scenesfrancophones.ca/node/10465",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1500 Fisher Street",
+            "addressLocality": "North Bay",
+            "addressRegion": "ON",
+            "postalCode": "P1B 2H3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.314633",
+            "longitude": "-79.440663"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10465"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10468",
+          "url": "https://scenesfrancophones.ca/artistes/empire-pagaille-1",
+          "name": "Empire Pagaille",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/empire-pagaille-mme-brulee-10472",
+        "name": "Empire Pagaille -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. \r\n \r\nDans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
+        "startDate": "2024-05-09T17:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10472",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10468",
+          "url": "https://scenesfrancophones.ca/artistes/empire-pagaille-1",
+          "name": "Empire Pagaille",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/corpus-interventions-divines-10474",
+        "name": "CORPUS - La bulle",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Il y a dans chaque histoire un moment de désespoir où tout semble perdu : il n’y a plus d’autre recours possible qu’une intervention divine. Mettant en scène 4 interprètes talentueuses venues de tous horizons, ce spectacle déambulatoire imaginé en confinement se veut être un remède ludique aux défis de l’après COVID. Le public rencontrera par hasard ces déesses ambulantes, ou sera témoin d’un rite transcendantal lors d’une intervention a cappella au coin d’une rue ou d’un parc. Notre intention est d’offrir un moment de poésie, de beauté et d’espoir d’un soutien bienveillant venu de l’au-delà.",
+        "startDate": "2024-05-25T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10474",
+        "location": {
+          "@type": "Place",
+          "name": "Northgate Shopping Centre",
+          "url": "https://scenesfrancophones.ca/node/10465",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1500 Fisher Street",
+            "addressLocality": "North Bay",
+            "addressRegion": "ON",
+            "postalCode": "P1B 2H3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.314633",
+            "longitude": "-79.440663"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10465"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/1018",
+          "url": "https://scenesfrancophones.ca/artistes/corpus",
+          "name": "CORPUS"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/singing-spirit-singing-spirit-10478",
+        "name": "Singing Spirit -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-06-09T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10478",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10476",
+          "url": "https://scenesfrancophones.ca/artistes/singing-spirit",
+          "name": "Singing Spirit",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/katryne-foisy-et-alex-fisher-katryne-foisy-et-alex-fisher-10483",
+        "name": "Katryne Foisy et Alex Fisher -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-06-22T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10483",
+        "location": {
+          "@type": "Place",
+          "name": "Northgate Shopping Centre",
+          "url": "https://scenesfrancophones.ca/node/10465",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1500 Fisher Street",
+            "addressLocality": "North Bay",
+            "addressRegion": "ON",
+            "postalCode": "P1B 2H3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.314633",
+            "longitude": "-79.440663"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10465"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10481",
+          "url": "https://scenesfrancophones.ca/artistes/katryne-foisy-et-alex-fisher",
+          "name": "Katryne Foisy et Alex Fisher",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/andy-et-gab-andy-et-gab-10487",
+        "name": "Andy et Gab -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-06-22T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10487",
+        "location": {
+          "@type": "Place",
+          "name": "Northgate Shopping Centre",
+          "url": "https://scenesfrancophones.ca/node/10465",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1500 Fisher Street",
+            "addressLocality": "North Bay",
+            "addressRegion": "ON",
+            "postalCode": "P1B 2H3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.314633",
+            "longitude": "-79.440663"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10465"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10485",
+          "url": "https://scenesfrancophones.ca/artistes/andy-et-gab",
+          "name": "Andy et Gab",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/isabelle-lebel-et-chloe-gravelle-isabelle-lebel-et-chloe-gravelle-10491",
+        "name": "Isabelle Lebel et Chloe Gravelle -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-06-22T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10491",
+        "location": {
+          "@type": "Place",
+          "name": "Northgate Shopping Centre",
+          "url": "https://scenesfrancophones.ca/node/10465",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1500 Fisher Street",
+            "addressLocality": "North Bay",
+            "addressRegion": "ON",
+            "postalCode": "P1B 2H3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.314633",
+            "longitude": "-79.440663"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10465"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10489",
+          "url": "https://scenesfrancophones.ca/artistes/isabelle-lebel-et-chloe-gravelle",
+          "name": "Isabelle Lebel et Chloe Gravelle",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/10494",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-06-22T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10494",
+        "location": {
+          "@type": "Place",
+          "name": "Northgate Shopping Centre",
+          "url": "https://scenesfrancophones.ca/node/10465",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1500 Fisher Street",
+            "addressLocality": "North Bay",
+            "addressRegion": "ON",
+            "postalCode": "P1B 2H3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.314633",
+            "longitude": "-79.440663"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10465"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/xavier-boucher-spectacle-xavier-boucher-10496",
+        "name": "Xavier Boucher -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-06-22T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10496",
+        "location": {
+          "@type": "Place",
+          "name": "Northgate Shopping Centre",
+          "url": "https://scenesfrancophones.ca/node/10465",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1500 Fisher Street",
+            "addressLocality": "North Bay",
+            "addressRegion": "ON",
+            "postalCode": "P1B 2H3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.314633",
+            "longitude": "-79.440663"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10465"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/10493",
+          "url": "https://scenesfrancophones.ca/artistes/xavier-boucher",
+          "name": "Xavier Boucher"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/eric-romanica-eric-romanica-10500",
+        "name": "Éric Romanica -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Concert",
+        "startDate": "2024-06-22T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10500",
+        "location": {
+          "@type": "Place",
+          "name": "Northgate Shopping Centre",
+          "url": "https://scenesfrancophones.ca/node/10465",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1500 Fisher Street",
+            "addressLocality": "North Bay",
+            "addressRegion": "ON",
+            "postalCode": "P1B 2H3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.314633",
+            "longitude": "-79.440663"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10465"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10498",
+          "url": "https://scenesfrancophones.ca/artistes/eric-romanica",
+          "name": "Éric Romanica",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ps2-ps2-10504",
+        "name": "PS2 -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-06-22T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10504",
+        "location": {
+          "@type": "Place",
+          "name": "Northgate Shopping Centre",
+          "url": "https://scenesfrancophones.ca/node/10465",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1500 Fisher Street",
+            "addressLocality": "North Bay",
+            "addressRegion": "ON",
+            "postalCode": "P1B 2H3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.314633",
+            "longitude": "-79.440663"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10465"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10502",
+          "url": "https://scenesfrancophones.ca/artistes/ps2",
+          "name": "PS2",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/eric-romanica-eric-romanica-10506",
+        "name": "Éric Romanica -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Concert",
+        "startDate": "2024-07-01T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10506",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10498",
+          "url": "https://scenesfrancophones.ca/artistes/eric-romanica",
+          "name": "Éric Romanica",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/bam-percussion-bam-percussion-10510",
+        "name": "BAM percussion -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2024-07-30T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10510",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10508",
+          "url": "https://scenesfrancophones.ca/artistes/bam-percussion",
+          "name": "BAM percussion",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/sara-dufour-le-gros-party-du-debut-avec-sara-dufour-et-beauxmont-10544",
+        "name": "Sara Dufour -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Party%20du%20d%C3%A9but%20WP.png?itok=dggsB9z7",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Sara Dufour: Une puissante bougie d’allumage! Voilà un qualificatif qui décrit parfaitement Sara Dufour. La brillante auteure-compositrice originaire de Dolbeau-Mistassini a déjà un EP et 3 albums à son actif. Depuis la sortie de son premier album, « Dépanneur Pierrette » en 2016, elle parcourt le Québec et la France et empile les honneurs (ADISQ, SOCAN, prix André ‘Dédé’ Fortin de la SPACQ). Elle a joué plus de 400 spectacles devant un public conquis et grandissant, incluant une performance sur les plaines d’Abraham lors d’une soirée historique avec Les Cowboys Fringants pendant le Festival d’été de Québec en 2023. \r\n\r\n \r\n\r\n En mai 2023, Sara Dufour a remporté le prix SOCAN « Musique country ». Elle s’est ensuite envolée pour une tournée en Chine, partageant avec un nouveau public son dernier album « On va-tu prendre une marche? ». Cet opus a été récompensé d'un Félix dans la catégorie « Album de l’année - Folk » et lui a valu une nomination comme « Artiste féminine de l’année » à l’ADISQ 2024. \r\n\r\n En spectacle, on fait la rencontre de quelqu’un d’authentique qui nous donne envie de s’évader le temps d’une escapade ou du moins, le goût de respirer la liberté pour un moment. Au volant de sa guitare, elle continue de «taper sa trail» avec son folk’n’roll. Elle vous raconte des histoires et vous entraîne dans ses aventures parsemées d’humour et de spontanéité, bien ancrées dans ses racines.\r\n\r\n \r\n\r\n Beauxmont se distingue par sa capacité à rafraîchir le répertoire traditionnel acadien tout en restant fidèle à ses racines. Formé de six talentueux musiciens provenant des quatre coins du Nouveau-Brunswick, les membres du groupe portent en eux un riche bagage de traditions musicales aux saveurs de la Louisiane. Maniant avec force voix, accordéon, violon, guitares et batteries, Beauxmont se taille rapidement une place de choix en tant que relève de la musique acadienne avec le succès du nouvel album, Volume 2. La formation saura vous entraîner avec une énergie contagieuse, des rythmes percutants et des mélodies inoubliables pour laisser les bons temps rouler toute la soirée.",
+        "startDate": "2025-08-03T21:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10544",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/sara-dufour-beauxmont",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10542",
+          "url": "https://scenesfrancophones.ca/artistes/sara-dufour",
+          "name": "Sara Dufour",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/louis-berube-soiree-country-avec-louis-berube-et-flo-durelle-en-1ere-partie-10547",
+        "name": "Louis Bérubé -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Soir%C3%A9e%20country%20WP%202.png?itok=v2dBqE3-",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Louis Bérubé est né le 23 octobre 1969 à Saint-Quentin au Nouveau-Brunswick. À l’âge de six ans, il chante en public pour la première fois et à neuf ans, il écrit sa première chanson. À quatorze ans, l’emploi d’été qu’il occupe lui permet de côtoyer son idole de l’heure, Patrick Norman; un présage de sa future carrière… À seize ans, il achète sa première guitare : il sait déjà que la musique fait dorénavant partie de sa vie. \r\n\r\n Flo Durelle, artiste et compositrice interprète originaire de Baie Sainte-Anne, Nouveau-Brunswick, mène une carrière musicale de plus de 40 ans. Ayant débuté dès l’enfance, elle a tourné dans les années 80 avec des groupes country professionnels et enregistré à Nashville à 19 ans. Depuis 2016, elle poursuit une carrière solo avec succès, ses albums To Daddy et Listen To Your Heart ayant marqué les palmarès. Invitée sur des émissions télévisées comme Pour l’Amour du Country, elle a également été intronisée au Temple de la renommée de la musique country du Nouveau-Brunswick en 2020 et au Mur de la Renommée de la Musique francophone en 2023.",
+        "startDate": "2025-08-08T20:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10547",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/soiree-country-louis-berube",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10545",
+          "url": "https://scenesfrancophones.ca/artistes/louis-berube",
+          "name": "Louis Bérubé",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/radio-radio-lgs-dj-unpier-soiree-boom-boom-avec-lgs-radio-radio-dj-unpier-10550",
+        "name": "Radio Radio - LGS - DJ Unpier -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/boum%20boum%20WP.png?itok=RYnjDsiB",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "LGS\r\n\r\nLe groupe LGS est à l’Ontario francophone ce que Les Colocs sont au Québec. Avec 25 années de carrière, LGS reste actuel en se réinventant album après album. En août 2021, la formation lance son 5e opus « LGS » qui se compose de 15 chansons parfaites pour « groover » et chanter à tue-tête ! Nommé au gala de l’ADISQ, aux JUNO et récipiendaire de 13 prix Trille Or, LGS propose une pop urbaine bien à eux, inspirée des sonorités pop américaines des années 90 en passant par le EDM d’aujourd’hui. En concert, c’est la folie et l’énergie du trio, accompagnée de danseurs donne l’impression d’offrir à tout le public présent une boisson énergisante qui donne des ailes.\r\n\r\nRADIO RADIO \r\n\r\n Incontournables de la scène musicale, ils impressionnent avec un hip-hop acadien teinté d’électro. Dangereusement efficaces sur scène, Gabio et Jacobus ont récemment lancé chacun un nouvel album solo et présentent un spectacle incluant les grands succès de Radio Radio et des pièces issues de leurs nouveaux albums solo, le tout premier album de Gabio et le dernier de Jacobus. Plaisir festif assuré! \r\n\r\nDJ UNPIER\r\n\r\nDepuis une quinzaine d’années, UNPIER est devenu une figure de la musique électronique francophone au pays avec une identité musicale qui lui est propre. Ses collaborations (plus d’une quarantaine!) avec divers artistes de différents horizons ont notamment figurées sur les bandes sonores de différentes émissions de télévision telles que : The Kardashian, Tout le monde en parle, The Good Girls, Un chef à la cabane. Le succès d’UNPIER ne se limite pas à ses productions musicales originales festives et percussives, sa présence scénique charismatique le démarque de tout autre artiste.",
+        "startDate": "2025-08-09T21:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10550",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/soiree-boom-boom",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10548",
+          "url": "https://scenesfrancophones.ca/artistes/radio-radio-lgs-dj-unpier",
+          "name": "Radio Radio - LGS - DJ Unpier",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/maude-cyr-deschenes-et-viviane-audet-co-plateau-avec-maude-cyr-deschenes-suivie-de",
+        "name": "Maude Cyr-Deschênes et Viviane Audet -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Maude%20Viviane%20WP.png?itok=MKQcC5Iy",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Couronnée grande gagnante de La Voix 2024, Maude Cyr-Deschênes se démarque sur scène par sa confiance, sa personnalité pétillante, et surtout par son timbre de voix cristallin. Livrant avec une grande vulnérabilité ses textes épurés et imagés, elle arrive à toucher chaque personne qui a la chance de l’entendre. Accompagnée sur scène par de jeunes musiciens d’exceptions, le public pourra découvrir l’univers musical de Maude avec ses chansons au son indie rock. Elle risque aussi de faire un clin d'œil à son passage à l’émission en interprétant les chansons qui ont conquis le public et qui lui ont permis de remporter La Voix. \r\n\r\nLe nouveau spectacle de Viviane Audet met en lumière son plus récent album instrumental, Le piano et le torrent — un récit pianistique de quinze pièces, enraciné dans ce petit village côtier de la Baie-des-Chaleurs qui l’a vue naître, grandir et devenir : Maria.\r\n\r\nDans une mise en scène à la fois délicate et vibrante, où les rires croisent les larmes, Viviane déploie ses talents de pianiste et de comédienne. Avec tendresse et aplomb, elle lève le voile sur son lien intime avec le territoire, là où veillent les goélands, les corneilles… et les souvenirs.  Ce spectacle révèle ce que Viviane a de plus précieux : sa façon bien à elle de tisser un lien avec le public, son amour profond de la scène, et ce don rare de marier musique et récit.  Un rendez-vous profondément humain, qui invite à plonger dans un récit de déracinement et de lumière.",
+        "startDate": "2025-08-12T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10554",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/maude-cyr-deschenes-vivianne-audet",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10552",
+          "url": "https://scenesfrancophones.ca/artistes/maude-cyr-deschenes-et-viviane-audet",
+          "name": "Maude Cyr-Deschênes et Viviane Audet",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/artistes-varies-hommage-cayouche-fayo-10557",
+        "name": "Artistes variés -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Cayouche%20Fayo%20wp.png?itok=npTDhXgk",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Venez chanter les grands classiques de Cayouche et Fayo en compagnie de plusieurs artistes invités lors de ce spectacle Hommage.\r\n\r\nUne soirée festive et rassembleuse pour célébrer deux piliers de la musique acadienne à travers leurs chansons les plus marquantes. Ambiance garantie!\r\n\r\nAvec : Jacques Surette - Johnny Comeau - Marty Melanson - Milène Robichaud - Joannie Benoït - Adam Robichaud - Julien Breau - Danny Maillet et Martin Robichaud",
+        "startDate": "2025-08-13T20:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10557",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/hommage-cayouche-fayo",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10555",
+          "url": "https://scenesfrancophones.ca/artistes/artistes-varies-0",
+          "name": "Artistes variés",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/luce-dufault-lulu-hugues-et-kim-richardson-elles-10560",
+        "name": "Luce Dufault, Lulu Hugues et Kim Richardson -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/ELLES_SP207576-ret_FFF%20par%20Jean-Charles%20Labarre_0.jpg?itok=obpvR0rd",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Luce Dufault, Lulu Hughes et Kim Richardson réunies sur scène dans ELLES\r\n\r\nS’il y a trois voix que l’on rêve d’entendre à l’unisson, ce sont bien celles de Luce Dufault, Lulu Hughes et Kim Richardson. Ce rêve deviendra réalité puisque les trois interprètes se retrouveront ensemble sur scène dans un nouveau spectacle de Productions Martin Leclerc intitulé ELLES, et qui est en quelque sorte un retour aux sources pour les trois artistes. Leur répertoire? Jazz, soul, rhythm and blues, folk et rock bien sûr, avec des chansons qui leur permettront de s’éclater. Frissons garantis. \r\n\r\nLuce, Lulu et Kim sont au sommet de leur art et elles  habiteront la scène avec panache, que ce soit en solo, en duo ou en trio, dans une rencontre  exceptionnelle où la spontanéité et la complicité ressemblent à l’amitié qui les unit depuis 30 ans. \r\n\r\nLa mise en scène de ELLES a été confiée à Michel Poirier et la direction musicale sera signée Jean Garneau.",
+        "startDate": "2025-10-04T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10560",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/elles",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10558",
+          "url": "https://scenesfrancophones.ca/artistes/luce-dufault-lulu-hugues-et-kim-richardson",
+          "name": "Luce Dufault, Lulu Hugues et Kim Richardson",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/guillaume-pineault-vulnerable-10563",
+        "name": "Guillaume Pineault -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/GPineault_Vulne%E2%95%A0%C3%BCrable_364x316.jpg?itok=PlZqc4jb",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Malgré l’air calme et confiant que je peux dégager sur mon affiche, derrière cette façade, se cachent plusieurs mécanismes de défense, beaucoup d’anxiété et 65 % d’eau (oui, c’est vraiment le pourcentage d’eau dans le corps adulte; je le sais, je l’ai appris à l’université, et j’adore rappeler aux gens que j’ai des connaissances biologiques grâce à mon passé académique).\r\n\r\nDans ce spectacle, il n’y a plus de filtre, aucune carapace : vous aurez accès à un Guillaume plus intime, authentique et vulnérable. Bien entendu, mon désir premier est de vous faire rire, mais également de vous faire découvrir l’humain derrière l’humoriste.\r\n\r\nAu plaisir de vous voir et de vous présenter : VULNÉRABLE",
+        "startDate": "2025-10-18T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10563",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/guillaume-pineault",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10561",
+          "url": "https://scenesfrancophones.ca/artistes/guillaume-pineault-1",
+          "name": "Guillaume Pineault",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-hay-babies-tintamarre-10566",
+        "name": "Les hay babies -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Les%20Hay%20Babies%209_WEB_cr%C3%A9dit%20photo%20Elizabeth%20Landry.jpg?itok=NtjF3Lld",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Tintamarre! \r\n\r\nLe spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l'âme folklorique de l'Acadie. Ce show c’est la fête, c'est country rock et c'est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entrainent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit \" Acadie \" dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. \r\n\r\nLes Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
+        "startDate": "2025-10-23T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10566",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/hay-babies-tintamarre",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10564",
+          "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-2",
+          "name": "Les hay babies",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/souldia-nouvelle-vie-10569",
+        "name": "Souldia -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/SOULDIA%20WP.png?itok=yud5ITPD",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Après une année non conventionnelle et chargée en émotions, Souldia est plus déterminé que jamais à présenter son nouveau show. Haut en couleurs et plus percutant que jamais, le rappeur ose en nous proposant un spectacle énergique complètement hors du commun, passant par des sonorités rock’n’roll, voire même punk, bien agencées à son style cru. Souldia est au sommet de sa forme et sûr de lui pour un nouveau départ sur scène ahurissant!",
+        "startDate": "2025-11-21T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10569",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/souldia-nouvelle-vie",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10567",
+          "url": "https://scenesfrancophones.ca/artistes/souldia",
+          "name": "Souldia",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/louis-t-male-alpha-10572",
+        "name": "Louis T -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/LouisT_MaleAlpha_1920x1080_sanstexte.png?itok=jtTmaTop",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Louis T revient avec un 3e spectacle, à la fois plus mature et tannant.\r\n\r\nAvec humour, le nouveau quarantenaire nous partage ses réflexions sur la masculinité; ces hommes qui deviennent père à 80 ans, l’insécurité dans le lit, les séparations difficiles ou encore la place qu’occupe les minorités dans l’espace public.\r\n\r\nAvec un regard bienveillant, quoi que critique, sur la société et les hommes. Louis T arrive à la conclusion que malgré bien des défauts, les hommes modernes ne sont vraiment pas si pires que ça, quoi que... Un spectacle drôle, efficace et brillant!",
+        "startDate": "2025-11-28T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10572",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/louis-t-male-alpha",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10570",
+          "url": "https://scenesfrancophones.ca/artistes/louis-t-0",
+          "name": "Louis T",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/alphonse-bisaillon-solo-10575",
+        "name": "Alphonse Bisaillon -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Alphonse%20Bisaillon_cr%20Camille%20Gladu-Drouin_pf_0.jpg?itok=xmeho00F",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Alphonse Bisaillon se distingue par l’utilisation d’images évocatrices, de trames narratives riches et de jeux de mots ingénieux. Chaque composition est minutieusement ciselée pour créer une expérience véritablement immersive. Alphonse Bisaillon ose explorer de nouveaux territoires sonores, mêlant habilement différents types d’influences musicales. C'est un projet de chanson qui doit beaucoup à Aznavour ; une symphonie éclectique qui séduit et surprend à chaque écoute.            \r\n\r\nSon EP éponyme est paru le 28 octobre 2022 sous l’étiquette L-A be. Ce dernier a été réalisé par François Richard et enregistré aux Studio B-12 et Studio Le Hublot. Au nombre des distinctions reçues figurent l’Étoile Montante Stingray, le Prix Belle et Bum Télé-Québec, le Prix du public Hydro-Québec, la Bourse Sirius XM, le prix Chanson actuelle Sirius XM, le Prix Mouffe 2024 et le Prix Coup de pouce PURCOM à l’édition 2024 de Vue sur la relève. Par ailleurs, il se retrouve au nombre des Coup de cœur de l’année du journal Le Droit.",
+        "startDate": "2026-01-27T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10575",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/alphonse-bisaillon-solo",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10573",
+          "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon-1",
+          "name": "Alphonse Bisaillon",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/gregory-charles-une-voix-dix-doigts-10578",
+        "name": "Grégory Charles -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/GregoryCharles_1Voix10Doigts_Web_600X600_2.jpg?itok=6hEXcOZ1",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "À l’occasion de son 35e anniversaire de carrière et avec des milliers de spectacles interactifs à son actif, Gregory Charles, qui a chanté spontanément plus de 13 000 chansons sur scène, vous présente Une voix, dix doigts, un spectacle solo, au piano, au cours duquel l’artiste offre les chansons qui l’ont le plus marqué.\r\n\r\nMais ce spectacle n’est pas simplement constitué d’une série de chansons. Gregory, raconteur exceptionnel, allie des histoires savoureuses et des anecdotes personnelles à chacun des trésors de musique qu’il a choisis.\r\n\r\nVenez fêter avec lui!",
+        "startDate": "2026-03-20T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10578",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/gregory-charles",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10576",
+          "url": "https://scenesfrancophones.ca/artistes/gregory-charles-2",
+          "name": "Grégory Charles",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mohamed-bouya-ely-vall-ptit-bouya-en-acadie-10581",
+        "name": "Mohamed Bouya Ely Vall -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/CR%C3%89DIT%20PHOTO%20NINA%20ROUGERIE.jpeg?itok=IXBSFqC-",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "« P'tit Bouya en Acadie » est un one man show orchestré par Mohamed Bouya Ely Vall, relatant d’un sujet inédit : le choc culturel dont il a été l’objet en arrivant au Nouveau-Brunswick. C’est l’occasion parfaite de découvrir une personnalité haute en couleur qui a réuni ses plus grandes anecdotes, à la fois personnelles et hilarantes, afin de conter la réalité de son adaptation en Amérique du Nord. Ainsi, de part son identité culturelle unique, entremêlant la Mauritanie, l’Acadie et le Canada, il se fait le porteur d’une ode à la diversité.",
+        "startDate": "2026-03-27T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10581",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/ptit-bouya-en-acadie",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10579",
+          "url": "https://scenesfrancophones.ca/artistes/mohamed-bouya-ely-vall-0",
+          "name": "Mohamed Bouya Ely Vall",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mike-ward-modeste-10584",
+        "name": "Mike Ward -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/v4_web_1080x1080_3_0.jpg?itok=eP4o11bx",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Grâce à la qualité de son stand-up, la popularité de son podcast et sa victoire à la cour suprême, Mike Ward est devenu une véritable icône de l’humour québécois.\r\n\r\nAvec plus de 100 millions de téléchargements et une diffusion au Centre Bell ayant fracassé un record Guinness pour le plus de billets vendus pour un enregistrement de podcast, Sous Écoute est non seulement le podcast d’humour francophone le plus populaire au monde, mais aussi un phénomène culturel.\r\n\r\nNoir, son dernier one-man-show, a été encensé par la critique et lui a permis de gagner tous les trophées possibles pour un spectacle d’humour au Gala Les Olivier.\r\n\r\nIl présente maintenant son tout nouveau spectacle : Modeste.",
+        "startDate": "2026-04-02T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10584",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/mike-ward-modeste",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10582",
+          "url": "https://scenesfrancophones.ca/artistes/mike-ward-1",
+          "name": "Mike Ward",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/france-damour-quatorze-10587",
+        "name": "France D'Amour -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/France%20D%27Amour_photo%202023%20%281%29_cr%C3%A9dit%20Bertrand%20Exertier.jpg?itok=lQkEGfZS",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Besoin d’un remontant pour le moral ? Le spectacle de France D’Amour est tout indiqué. Forte de ses 40 années d’expérience et de ses nombreux succès, elle inspire, divertit en plus de nous présenter les chansons de son nouvel album : Quatorze. \r\n\r\nLe spectacle est drôle, réconfortant et nous redonne ce qu’on a tant besoin : de l’énergie! À ne pas manquer!",
+        "startDate": "2026-04-18T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10587",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/france-damour-quatorze",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10585",
+          "url": "https://scenesfrancophones.ca/artistes/france-damour-0",
+          "name": "France D'Amour",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/coco-belliveau-cocologie-10590",
+        "name": "Coco Belliveau -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/CocoBelliveau24_Web1080x1080-CocoEnSpectacle.jpg?itok=RLuiicBR",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "En 1692 à Salem, des procès ont été mis en place afin de mettre fin à la sorcellerie. Des centaines d'années plus tard, Coco Belliveau fait le rodage de son prochain spectacle. Coïncidence ? Nous ne croyons pas…. \r\n\r\nJoignez-vous à cette charmante acadienne neurodivergente (et totalement brûlée) pour une soirée de paroles envoûtantes. Vite, avant qu'elle ne soit clouée au pilori pour ses calembredaines et sa Cocologie aiguisée!",
+        "startDate": "2026-05-01T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10590",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/coco-belliveau-cocologie",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10588",
+          "url": "https://scenesfrancophones.ca/artistes/coco-belliveau-2",
+          "name": "Coco Belliveau",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/cirque-kalabante-afrique-en-cirque-10593",
+        "name": "Cirque Kalabanté -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/DSC_1997_0.jpg?itok=Z2-FbDh5",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le spectacle « Afrique en cirque » symbolise la force, l'agilité et la joie de vivre de la jeunesse africaine. Une poignée d'acrobates audacieux, accompagnés de leurs musiciens, se produisent au rythme endiablé des djembés guinéens, avec des chorégraphies et des acrobaties authentiques et originales. Au son mélodieux de la kora, Yamoussa Bangoura nous transporte dans un lieu où la diversité des arts traditionnels africains s'illumine et se conjugue à la virtuosité d'un cirque nord-américain moderne.",
+        "startDate": "2026-05-10T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10593",
+        "location": {
+          "@type": "Place",
+          "name": "Salle du Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/472",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29, ave. du Carr",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/472"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/cirque-kalabante",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10591",
+          "url": "https://scenesfrancophones.ca/artistes/cirque-kalabante-0",
+          "name": "Cirque Kalabanté",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/megan-brouillard-chiendent-10596",
+        "name": "Mégan Brouillard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/1080x1350.png?itok=Tl2GK2U_",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le chiendent, c’est subjectif. La mauvaise herbe, c’est quelque chose qui pousse là où toi, tu ne voulais pas. Ce qui est du chiendent pour l’un ne l’est peut-être pas pour l’autre et ce qui est du chiendent quelque part, ne l’est pas ailleurs… Mon spectacle tourne autour de cette perspective, des différentes perceptions de chacun et chacune et autour de mes propres perceptions.\r\n\r\nLe premier one-woman-show de Mégan Brouillard est un spectacle mordant et authentique, où Mégan présente elle et les siens, sans filtre et toujours de façon hilarante!",
+        "startDate": "2023-05-23T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10596",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/megan-brouillard-chiendent",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10594",
+          "url": "https://scenesfrancophones.ca/artistes/megan-brouillard-1",
+          "name": "Mégan Brouillard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/debout-10615",
+        "name": "- Debout",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%284%29.png?itok=vWXyzexx",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Dans “Debout”, je vous raconte tout ce qui me pousse à sortir du lit chaque matin : mon métier, mes jumelles (qui n’ont aucune pitié pour la grasse matinée), et un quotidien rempli d’anecdotes aussi farfelues qu’inattendues. Un spectacle drôle, sincère et énergique... parce que rester debout, c’est déjà une victoire ! “Debout”, c’est plus qu’un simple spectacle de stand-up, c’est une plongée dans tout ce qui me donne envie de me lever le matin. Entre rêves, galères, absurdités du quotidien et grandes questions existentielles, je vous embarque dans un voyage drôle et sincère à travers mes motivations (parfois étranges) pour affronter chaque journée. Alors, qu’est-ce qui me tient debout ? \r\n\r\n\r\nL’artiste\r\n\r\nVenez le découvrir... et peut-être que vous repartirez avec des raisons en plus de vous lever demain ! Alex Roy est un humoriste qui manie l’art du stand-up avec une énergie débordante et un sens aigu de l’autodérision. Avec son franc-parler et sa capacité à transformer les situations du quotidien en histoires hilarantes, il vous embarque dans un univers où chaque détail devient matière à rire. Que ce soit pour parler de sa famille, de ses expériences de vie ou de ses réflexions improbables, Alex Roy sait comment captiver son public en mêlant sincérité, absurdité et une bonne dose d’impertinence. Préparez-vous à rire... et à vous reconnaître (parfois malgré vous) dans ses anecdotes décapantes !",
+        "startDate": "2025-09-10T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10615",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Louis Vermeersch",
+          "url": "https://scenesfrancophones.ca/node/518",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "67, chemin Ragged Point",
+            "addressLocality": "Saint-Jean",
+            "addressRegion": "NB",
+            "postalCode": "E2K 5C3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.294095",
+            "longitude": "-66.116083"
+          },
+          "@id": "https://scenesfrancophones.ca/id/518"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8869",
+            "url": "https://scenesfrancophones.ca/artistes/alex-roy",
+            "name": "Alex Roy",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/debout-10617",
+        "name": "- Debout",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%284%29.png?itok=vWXyzexx",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Dans “Debout”, je vous raconte tout ce qui me pousse à sortir du lit chaque matin : mon métier, mes jumelles (qui n’ont aucune pitié pour la grasse matinée), et un quotidien rempli d’anecdotes aussi farfelues qu’inattendues. Un spectacle drôle, sincère et énergique... parce que rester debout, c’est déjà une victoire ! “Debout”, c’est plus qu’un simple spectacle de stand-up, c’est une plongée dans tout ce qui me donne envie de me lever le matin. Entre rêves, galères, absurdités du quotidien et grandes questions existentielles, je vous embarque dans un voyage drôle et sincère à travers mes motivations (parfois étranges) pour affronter chaque journée. Alors, qu’est-ce qui me tient debout ? \r\n\r\n\r\nL’artiste\r\n\r\nVenez le découvrir... et peut-être que vous repartirez avec des raisons en plus de vous lever demain ! Alex Roy est un humoriste qui manie l’art du stand-up avec une énergie débordante et un sens aigu de l’autodérision. Avec son franc-parler et sa capacité à transformer les situations du quotidien en histoires hilarantes, il vous embarque dans un univers où chaque détail devient matière à rire. Que ce soit pour parler de sa famille, de ses expériences de vie ou de ses réflexions improbables, Alex Roy sait comment captiver son public en mêlant sincérité, absurdité et une bonne dose d’impertinence. Préparez-vous à rire... et à vous reconnaître (parfois malgré vous) dans ses anecdotes décapantes !",
+        "startDate": "2025-09-14T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10617",
+        "location": {
+          "@type": "Place",
+          "name": "Salle communautaire de Inkerman",
+          "url": "https://scenesfrancophones.ca/node/10616",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "122 Rue de l'Eglise",
+            "addressLocality": "Inkerman",
+            "addressRegion": "NB",
+            "postalCode": "E8P 1E7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.671153",
+            "longitude": "-64.818495"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10616"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/44",
+          "name": "La Maison de la culture Inc.",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-maison-de-la-culture-inc"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8869",
+            "url": "https://scenesfrancophones.ca/artistes/alex-roy",
+            "name": "Alex Roy",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/debout-10618",
+        "name": "- Debout",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%284%29.png?itok=vWXyzexx",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Dans “Debout”, je vous raconte tout ce qui me pousse à sortir du lit chaque matin : mon métier, mes jumelles (qui n’ont aucune pitié pour la grasse matinée), et un quotidien rempli d’anecdotes aussi farfelues qu’inattendues. Un spectacle drôle, sincère et énergique... parce que rester debout, c’est déjà une victoire ! “Debout”, c’est plus qu’un simple spectacle de stand-up, c’est une plongée dans tout ce qui me donne envie de me lever le matin. Entre rêves, galères, absurdités du quotidien et grandes questions existentielles, je vous embarque dans un voyage drôle et sincère à travers mes motivations (parfois étranges) pour affronter chaque journée. Alors, qu’est-ce qui me tient debout ? \r\n\r\n\r\nL’artiste\r\n\r\nVenez le découvrir... et peut-être que vous repartirez avec des raisons en plus de vous lever demain ! Alex Roy est un humoriste qui manie l’art du stand-up avec une énergie débordante et un sens aigu de l’autodérision. Avec son franc-parler et sa capacité à transformer les situations du quotidien en histoires hilarantes, il vous embarque dans un univers où chaque détail devient matière à rire. Que ce soit pour parler de sa famille, de ses expériences de vie ou de ses réflexions improbables, Alex Roy sait comment captiver son public en mêlant sincérité, absurdité et une bonne dose d’impertinence. Préparez-vous à rire... et à vous reconnaître (parfois malgré vous) dans ses anecdotes décapantes !",
+        "startDate": "2025-09-11T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10618",
+        "location": {
+          "@type": "Place",
+          "name": "Palais Centre-Ville",
+          "url": "https://scenesfrancophones.ca/node/496",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Rue Deschênes",
+            "addressLocality": "Saint-Quentin",
+            "addressRegion": "NB",
+            "postalCode": "E8A 1G9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.511393",
+            "longitude": "-67.391806"
+          },
+          "@id": "https://scenesfrancophones.ca/id/496"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/49",
+          "name": "Société culturelle des Hauts-Plateaux",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8869",
+            "url": "https://scenesfrancophones.ca/artistes/alex-roy",
+            "name": "Alex Roy",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/debout-10620",
+        "name": "- Debout",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%284%29.png?itok=vWXyzexx",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Dans “Debout”, je vous raconte tout ce qui me pousse à sortir du lit chaque matin : mon métier, mes jumelles (qui n’ont aucune pitié pour la grasse matinée), et un quotidien rempli d’anecdotes aussi farfelues qu’inattendues. Un spectacle drôle, sincère et énergique... parce que rester debout, c’est déjà une victoire ! “Debout”, c’est plus qu’un simple spectacle de stand-up, c’est une plongée dans tout ce qui me donne envie de me lever le matin. Entre rêves, galères, absurdités du quotidien et grandes questions existentielles, je vous embarque dans un voyage drôle et sincère à travers mes motivations (parfois étranges) pour affronter chaque journée. Alors, qu’est-ce qui me tient debout ? \r\n\r\n\r\nL’artiste\r\n\r\nVenez le découvrir... et peut-être que vous repartirez avec des raisons en plus de vous lever demain ! Alex Roy est un humoriste qui manie l’art du stand-up avec une énergie débordante et un sens aigu de l’autodérision. Avec son franc-parler et sa capacité à transformer les situations du quotidien en histoires hilarantes, il vous embarque dans un univers où chaque détail devient matière à rire. Que ce soit pour parler de sa famille, de ses expériences de vie ou de ses réflexions improbables, Alex Roy sait comment captiver son public en mêlant sincérité, absurdité et une bonne dose d’impertinence. Préparez-vous à rire... et à vous reconnaître (parfois malgré vous) dans ses anecdotes décapantes !",
+        "startDate": "2025-09-12T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10620",
+        "location": {
+          "@type": "Place",
+          "name": "Centre communautaire de Balmoral",
+          "url": "https://scenesfrancophones.ca/node/10619",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "21 Rue du Centre",
+            "addressLocality": "Balmoral",
+            "addressRegion": "NB",
+            "postalCode": "E8E 1H5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.965296",
+            "longitude": "-66.478741"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10619"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/48",
+          "name": "Société culturelle de la Baie des Chaleurs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8869",
+            "url": "https://scenesfrancophones.ca/artistes/alex-roy",
+            "name": "Alex Roy",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/debout-10621",
+        "name": "- Debout",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%284%29.png?itok=vWXyzexx",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Dans “Debout”, je vous raconte tout ce qui me pousse à sortir du lit chaque matin : mon métier, mes jumelles (qui n’ont aucune pitié pour la grasse matinée), et un quotidien rempli d’anecdotes aussi farfelues qu’inattendues. Un spectacle drôle, sincère et énergique... parce que rester debout, c’est déjà une victoire ! “Debout”, c’est plus qu’un simple spectacle de stand-up, c’est une plongée dans tout ce qui me donne envie de me lever le matin. Entre rêves, galères, absurdités du quotidien et grandes questions existentielles, je vous embarque dans un voyage drôle et sincère à travers mes motivations (parfois étranges) pour affronter chaque journée. Alors, qu’est-ce qui me tient debout ? \r\n\r\n\r\nL’artiste\r\n\r\nVenez le découvrir... et peut-être que vous repartirez avec des raisons en plus de vous lever demain ! Alex Roy est un humoriste qui manie l’art du stand-up avec une énergie débordante et un sens aigu de l’autodérision. Avec son franc-parler et sa capacité à transformer les situations du quotidien en histoires hilarantes, il vous embarque dans un univers où chaque détail devient matière à rire. Que ce soit pour parler de sa famille, de ses expériences de vie ou de ses réflexions improbables, Alex Roy sait comment captiver son public en mêlant sincérité, absurdité et une bonne dose d’impertinence. Préparez-vous à rire... et à vous reconnaître (parfois malgré vous) dans ses anecdotes décapantes !",
+        "startDate": "2025-09-13T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10621",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Gilles Laplante",
+          "url": "https://scenesfrancophones.ca/node/10382",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300 Beaverbrook Rd,",
+            "addressLocality": "Miramichi",
+            "addressRegion": "NB",
+            "postalCode": "E1V 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.008958",
+            "longitude": "-65.587482"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10382"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/37",
+          "name": "Carrefour communautaire Beausoleil",
+          "url": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8869",
+            "url": "https://scenesfrancophones.ca/artistes/alex-roy",
+            "name": "Alex Roy",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/100-contrefacons-10622",
+        "name": "- 100 contrefaçons",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/png%20%284%29.png?itok=DZ9NNaSm",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
+        "startDate": "2025-09-17T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10622",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Fatima",
+          "url": "https://scenesfrancophones.ca/node/498",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Rue St Jean Baptiste",
+            "addressLocality": "Kedgwick",
+            "addressRegion": "NB",
+            "postalCode": "E8B 1M5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.646354",
+            "longitude": "-67.354525"
+          },
+          "@id": "https://scenesfrancophones.ca/id/498"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/49",
+          "name": "Société culturelle des Hauts-Plateaux",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8829",
+            "url": "https://scenesfrancophones.ca/artistes/david-corriveau-2",
+            "name": "David Corriveau",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/100-contrefacons-10623",
+        "name": "- 100 contrefaçons",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/png%20%284%29.png?itok=DZ9NNaSm",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
+        "startDate": "2025-10-15T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10623",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Louis Vermeersch",
+          "url": "https://scenesfrancophones.ca/node/518",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "67, chemin Ragged Point",
+            "addressLocality": "Saint-Jean",
+            "addressRegion": "NB",
+            "postalCode": "E2K 5C3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.294095",
+            "longitude": "-66.116083"
+          },
+          "@id": "https://scenesfrancophones.ca/id/518"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/36",
+          "name": "Association régionale de la Communauté Francophone de Saint-Jean (ARCf)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8829",
+            "url": "https://scenesfrancophones.ca/artistes/david-corriveau-2",
+            "name": "David Corriveau",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/100-contrefacons-10624",
+        "name": "- 100 contrefaçons",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/png%20%284%29.png?itok=DZ9NNaSm",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
+        "startDate": "2025-10-19T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10624",
+        "location": {
+          "@type": "Place",
+          "name": "Centre communautaire de Balmoral",
+          "url": "https://scenesfrancophones.ca/node/10619",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "21 Rue du Centre",
+            "addressLocality": "Balmoral",
+            "addressRegion": "NB",
+            "postalCode": "E8E 1H5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.965296",
+            "longitude": "-66.478741"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10619"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/59",
+          "name": "Village de Bois-Joli",
+          "url": "https://scenesfrancophones.ca/diffuseurs/village-de-bois-joli"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8829",
+            "url": "https://scenesfrancophones.ca/artistes/david-corriveau-2",
+            "name": "David Corriveau",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/100-contrefacons-10625",
+        "name": "- 100 contrefaçons",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/png%20%284%29.png?itok=DZ9NNaSm",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
+        "startDate": "2025-10-18T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10625",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Multifonctionnelle Denis-Richard",
+          "url": "https://scenesfrancophones.ca/node/524",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "706, rue Principale",
+            "addressLocality": "Petit-Rocher",
+            "addressRegion": "NB",
+            "postalCode": "E8J 1V1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.77321",
+            "longitude": "-65.71659"
+          },
+          "@id": "https://scenesfrancophones.ca/id/524"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/54",
+          "name": "Société culturelle régionale Nepisiguit",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-nepisiguit"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8829",
+            "url": "https://scenesfrancophones.ca/artistes/david-corriveau-2",
+            "name": "David Corriveau",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/daniel-lemire-10626",
+        "name": "- Daniel Lemire",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202025-08-01%20a%CC%80%2003.23.53.png?itok=nEuWh6T_",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Daniel Lemire fête ses 40 ans de carrière avec un tout nouveau spectacle ! Il fera le tour de l’actualité en stand up comme seul lui sait le faire depuis 40 ans.\r\n\r\nEdmond perdu dans les nouvelles tendances sexuelles. Il croit que LGBT signifie la grande bibliothèque. Yvon Travaillé propose des solutions à la pénurie de main-d’œuvre. Vous assisterez à une fraude en direct. Maurice l’ex-fumeur consulte pour sa gestion de la colère. N’ayant plus de PCU, Ronnie retourne chez ses parents. Et Oncle Georges pourrait-il être un influenceur ?\r\n\r\nEst-ce votre dernière chance de voir du grand Lemire en spectacle?",
+        "startDate": "2025-10-28T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10626",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Léo-Poulin",
+          "url": "https://scenesfrancophones.ca/node/523",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300, rue Martin",
+            "addressLocality": "Edmundston",
+            "addressRegion": "NB",
+            "postalCode": "E3V 2N6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.367979",
+            "longitude": "-68.313597"
+          },
+          "@id": "https://scenesfrancophones.ca/id/523"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/41",
+          "name": "Le Centre des arts d’Edmundston",
+          "url": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8835",
+            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
+            "name": "Daniel Lemire",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/daniel-lemire-10627",
+        "name": "- Daniel Lemire",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202025-08-01%20a%CC%80%2003.23.53.png?itok=nEuWh6T_",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Daniel Lemire fête ses 40 ans de carrière avec un tout nouveau spectacle ! Il fera le tour de l’actualité en stand up comme seul lui sait le faire depuis 40 ans.\r\n\r\nEdmond perdu dans les nouvelles tendances sexuelles. Il croit que LGBT signifie la grande bibliothèque. Yvon Travaillé propose des solutions à la pénurie de main-d’œuvre. Vous assisterez à une fraude en direct. Maurice l’ex-fumeur consulte pour sa gestion de la colère. N’ayant plus de PCU, Ronnie retourne chez ses parents. Et Oncle Georges pourrait-il être un influenceur ?\r\n\r\nEst-ce votre dernière chance de voir du grand Lemire en spectacle?",
+        "startDate": "2025-10-24T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10627",
+        "location": {
+          "@type": "Place",
+          "name": "Centre Rhéal-Cormier",
+          "url": "https://scenesfrancophones.ca/node/484",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "200, ave. Hôtel de Ville",
+            "addressLocality": "Shippagan",
+            "addressRegion": "NB",
+            "postalCode": "E8S 1S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.740751",
+            "longitude": "-64.716084"
+          },
+          "@id": "https://scenesfrancophones.ca/id/484"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/44",
+          "name": "La Maison de la culture Inc.",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-maison-de-la-culture-inc"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8835",
+            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
+            "name": "Daniel Lemire",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/daniel-lemire-10628",
+        "name": "- Daniel Lemire",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202025-08-01%20a%CC%80%2003.23.53.png?itok=nEuWh6T_",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Daniel Lemire fête ses 40 ans de carrière avec un tout nouveau spectacle ! Il fera le tour de l’actualité en stand up comme seul lui sait le faire depuis 40 ans.\r\n\r\nEdmond perdu dans les nouvelles tendances sexuelles. Il croit que LGBT signifie la grande bibliothèque. Yvon Travaillé propose des solutions à la pénurie de main-d’œuvre. Vous assisterez à une fraude en direct. Maurice l’ex-fumeur consulte pour sa gestion de la colère. N’ayant plus de PCU, Ronnie retourne chez ses parents. Et Oncle Georges pourrait-il être un influenceur ?\r\n\r\nEst-ce votre dernière chance de voir du grand Lemire en spectacle?",
+        "startDate": "2025-10-25T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10628",
+        "location": {
+          "@type": "Place",
+          "name": "Amphithéâtre Richelieu de l’École Secondaire Népisiguit",
+          "url": "https://scenesfrancophones.ca/node/506",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "915, rue Ste-Anne",
+            "addressLocality": "Bathurst",
+            "addressRegion": "NB",
+            "postalCode": "E2A 6X1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.625247",
+            "longitude": "-65.684547"
+          },
+          "@id": "https://scenesfrancophones.ca/id/506"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/54",
+          "name": "Société culturelle régionale Nepisiguit",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-nepisiguit"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8835",
+            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
+            "name": "Daniel Lemire",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/100-contrefacons-10629",
+        "name": "- 100 contrefaçons",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/png%20%284%29.png?itok=DZ9NNaSm",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
+        "startDate": "2025-10-14T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10629",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Gilles Laplante",
+          "url": "https://scenesfrancophones.ca/node/10382",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300 Beaverbrook Rd,",
+            "addressLocality": "Miramichi",
+            "addressRegion": "NB",
+            "postalCode": "E1V 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.008958",
+            "longitude": "-65.587482"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10382"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/37",
+          "name": "Carrefour communautaire Beausoleil",
+          "url": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8829",
+            "url": "https://scenesfrancophones.ca/artistes/david-corriveau-2",
+            "name": "David Corriveau",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/naturel-10653",
+        "name": "- NATUREL",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%286%29.png?itok=a4FYTPFr",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L’humoriste français installé au Québec depuis plus de 17 ans revient sur scène avec son troisième one-man-show, NATUREL.\r\nJérémy Demay se livre comme jamais auparavant, avec une franchise touchante et un humour percutant. Il transforme ses anecdotes de vie en éclats de rire, dans un spectacle où authenticité et émotions s’entrelacent. Porté par une énergie débordante, il crée instantanément une complicité avec le public pour 90 minutes de pur bonheur, sans entracte.\r\nINCLUANT: Première partie 19h00!",
+        "startDate": "2025-10-21T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10653",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium Richelieu",
+          "url": "https://scenesfrancophones.ca/node/503",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "215, rue Guimont",
+            "addressLocality": "Grand-Sault",
+            "addressRegion": "NB",
+            "postalCode": "E3Y 3W3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.056374",
+            "longitude": "-67.73096"
+          },
+          "@id": "https://scenesfrancophones.ca/id/503"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/53",
+          "name": "Société culturelle régionale Les Chutes",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8538",
+            "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-1",
+            "name": "Jérémy Demay",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/naturel-10654",
+        "name": "- NATUREL",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%286%29.png?itok=a4FYTPFr",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L’humoriste français installé au Québec depuis plus de 17 ans revient sur scène avec son troisième one-man-show, NATUREL.\r\nJérémy Demay se livre comme jamais auparavant, avec une franchise touchante et un humour percutant. Il transforme ses anecdotes de vie en éclats de rire, dans un spectacle où authenticité et émotions s’entrelacent. Porté par une énergie débordante, il crée instantanément une complicité avec le public pour 90 minutes de pur bonheur, sans entracte.\r\nINCLUANT: Première partie 19h00!",
+        "startDate": "2025-10-22T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10654",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Bernard Poirier",
+          "url": "https://scenesfrancophones.ca/node/468",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "715, rue Priestman",
+            "addressLocality": "Fredericton",
+            "addressRegion": "NB",
+            "postalCode": "E3B 5W7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.941773",
+            "longitude": "-66.651817"
+          },
+          "@id": "https://scenesfrancophones.ca/id/468"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/38",
+          "name": "Centre communautaire Sainte-Anne",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-communautaire-sainte-anne"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8538",
+            "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-1",
+            "name": "Jérémy Demay",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/naturel-10655",
+        "name": "- NATUREL",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%286%29.png?itok=a4FYTPFr",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L’humoriste français installé au Québec depuis plus de 17 ans revient sur scène avec son troisième one-man-show, NATUREL.\r\nJérémy Demay se livre comme jamais auparavant, avec une franchise touchante et un humour percutant. Il transforme ses anecdotes de vie en éclats de rire, dans un spectacle où authenticité et émotions s’entrelacent. Porté par une énergie débordante, il crée instantanément une complicité avec le public pour 90 minutes de pur bonheur, sans entracte.\r\nINCLUANT: Première partie 19h00!",
+        "startDate": "2025-10-26T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10655",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Restigouche",
+          "url": "https://scenesfrancophones.ca/node/2537",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "45 A, avenue du Village",
+            "addressLocality": "Campbellton",
+            "addressRegion": "NB",
+            "postalCode": "E3N 1N5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.001855",
+            "longitude": "-66.665314"
+          },
+          "@id": "https://scenesfrancophones.ca/id/2537"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/48",
+          "name": "Société culturelle de la Baie des Chaleurs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8538",
+            "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-1",
+            "name": "Jérémy Demay",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/naturel-10656",
+        "name": "- NATUREL",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%286%29.png?itok=a4FYTPFr",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L’humoriste français installé au Québec depuis plus de 17 ans revient sur scène avec son troisième one-man-show, NATUREL.\r\nJérémy Demay se livre comme jamais auparavant, avec une franchise touchante et un humour percutant. Il transforme ses anecdotes de vie en éclats de rire, dans un spectacle où authenticité et émotions s’entrelacent. Porté par une énergie débordante, il crée instantanément une complicité avec le public pour 90 minutes de pur bonheur, sans entracte.\r\nINCLUANT: Première partie 19h00!",
+        "startDate": "2025-10-23T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10656",
+        "location": {
+          "@type": "Place",
+          "name": "Sanctuary Arts Centre",
+          "url": "https://scenesfrancophones.ca/node/10070",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "100 Ochtoloney street",
+            "addressLocality": "Dartmouth",
+            "addressRegion": "NS",
+            "postalCode": "B2Y 0G2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.668244",
+            "longitude": "-63.566053"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10070"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/31",
+          "name": "Conseil communautaire du Grand-Havre",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-communautaire-du-grand-havre"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8538",
+            "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-1",
+            "name": "Jérémy Demay",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -55111,6 +58437,102 @@
           "longitude": "-79.440663"
         },
         "@id": "https://scenesfrancophones.ca/id/10465"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10600",
+        "name": "King's Square",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "100 King St",
+          "addressLocality": "Saint John",
+          "addressRegion": "NB",
+          "postalCode": "E2L 1G4",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.273144",
+          "longitude": "-66.059138"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10600"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10601",
+        "name": "Fort Latour",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "10 promenade",
+          "addressLocality": "Saint-John",
+          "addressRegion": "NB",
+          "postalCode": "E2K 5L6",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.264862",
+          "longitude": "-66.077266"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10601"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10616",
+        "name": "Salle communautaire de Inkerman",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "122 Rue de l'Eglise",
+          "addressLocality": "Inkerman",
+          "addressRegion": "NB",
+          "postalCode": "E8P 1E7",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "47.671153",
+          "longitude": "-64.818495"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10616"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/10619",
+        "name": "Centre communautaire de Balmoral",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 Rue du Centre",
+          "addressLocality": "Balmoral",
+          "addressRegion": "NB",
+          "postalCode": "E8E 1H5",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "47.965296",
+          "longitude": "-66.478741"
+        },
+        "@id": "https://scenesfrancophones.ca/id/10619"
       }
     ]
   },
