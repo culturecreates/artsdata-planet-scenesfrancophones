@@ -49136,28 +49136,9 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Connaissez-vous la fable L’enfant qui criait au loup ? Bien sûr que vous la connaissez. Un enfantberger qui a menti en criant « Au loup ! » est puni en étant lui-même dévoré par un loup. C’est un classique ! C’est la même histoire depuis 3000 ans… Mais si c’était la fable elle-même qui nous avait menti ? Si le loup n’était pas le monstre sanguinaire des légendes ? S’il devenait l’ami de l’enfant-menteur ? Si ensemble, ils partaient en quête de vérité et d’émancipation ? S’ils tournaient même un doigt accusateur vers l’artiste-marionnettiste qui est en train de faire le spectacle que vous regardez !? Ne vous laissez pas berner par le décor idyllique, le village de montagne coquet, les prés fleuris, INFORMATIONS GÉNÉRALES INFORMATIONS SUR LE SPECTACLE les chansons entraînantes et les marionnettes rigolotes ! Nous ne sommes pas ici dans un conte normal. Alix et le loup, c’est un spectacle immersif abracadabrant, où l’enfant-spectateur est amené à se poser des questions sur la nature du mensonge, sur notre rapport aux histoires inventées, et sur la valeur de l’amitié et de l’empathie.",
-        "startDate": "2025-08-13T09:00:00-03:00",
+        "startDate": "2025-08-13T14:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10234",
-        "location": {
-          "@type": "Place",
-          "name": "Théâtre Gilles-Laplante",
-          "url": "https://scenesfrancophones.ca/node/467",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "300, chemin Beaverbrook",
-            "addressLocality": "Miramichi",
-            "addressRegion": "NB",
-            "postalCode": "E1V 1A1",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "47.011306",
-            "longitude": "-65.587368"
-          },
-          "@id": "https://scenesfrancophones.ca/id/467"
-        },
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock"
