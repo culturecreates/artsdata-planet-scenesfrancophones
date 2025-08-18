@@ -10155,6 +10155,38 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10899",
+        "url": "https://scenesfrancophones.ca/artistes/facheux-theatre",
+        "name": "Fâcheux Théâtre"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/10903",
+        "url": "https://scenesfrancophones.ca/artistes/limagier-vivant",
+        "name": "L'Imagier Vivant"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/961",
         "name": "Marcher à l'infini",
@@ -54335,6 +54367,102 @@
             ]
           }
         ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/facheux-theatre-moliere-dans-le-parc-10901",
+        "name": "Fâcheux Théâtre -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Moliere-dans-le-parc-11x17.jpg?itok=lEoxg1DH",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Agnès est une jeune femme maintenue dès son plus jeune âge en retrait de la vie sociale. C’est qu’Arnolphe, homme d’âge mûr chargé de son éducation, l’a volontairement soustraite à toute influence extérieure pour se garantir une épouse docile et assez idiote pour lui rester fidèle et lui obéir. Jusqu’au jour où Agnès rencontre le jeune Horace…\r\n\r\nÉcrite en alexandrins par Molière, cette version sera adaptée en prose par Sylvain Sabatié afin de faire écho aux enjeux sociaux de notre époque.",
+        "startDate": "2025-08-03T15:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10901",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10899",
+          "url": "https://scenesfrancophones.ca/artistes/facheux-theatre",
+          "name": "Fâcheux Théâtre",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/limagier-vivant-le-roi-boreal-10905",
+        "name": "L'Imagier Vivant -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Roi-Boreal-11x17.jpg?itok=cHI9m7ng",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Borée (dieu du vent du nord), l’orignal majestueux, se promène avec les sons, les essences et les odeurs de la nature.\r\n\r\nÀ travers Borée, on découvre les quatre saisons, autant visuellement qu’olfactivement et poétiquement. Aux aguets, il avance lentement, explorant un tout nouvel environnement. Il tente de s’intégrer dans tout ce béton envahissant, avec quelques rares espaces verts qui lui rappellent son habitat naturel. Ce parcours fait vivre au public le cycle de la nature, en transportant les sons, les parfums et les couleurs de l’hiver, du printemps, de l’été et de l’automne.\r\n\r\nLe Roi boréal, c’est un moment pour voir, entendre, ressentir, et se laisser emporter par cette poésie. Une occasion de prendre le temps d’observer !",
+        "startDate": "2025-08-07T21:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/10905",
+        "location": {
+          "@type": "Place",
+          "@id": "https://scenesfrancophones.ca/id/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10903",
+          "url": "https://scenesfrancophones.ca/artistes/limagier-vivant",
+          "name": "L'Imagier Vivant",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
       }
     ]
   },
