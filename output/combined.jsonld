@@ -1850,7 +1850,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4109",
         "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre",
-        "name": "BRIAN ST-PIERRE"
+        "name": "Brian St-Pierre"
       }
     ]
   },
@@ -10474,6 +10474,401 @@
         "@id": "https://scenesfrancophones.ca/id/11997",
         "url": "https://scenesfrancophones.ca/artistes/rick-et-les-bons-moments",
         "name": "Rick et les Bons Moments"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12005",
+        "url": "https://scenesfrancophones.ca/artistes/les-gens-du-nord",
+        "name": "Les gens du nord"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12012",
+        "url": "https://scenesfrancophones.ca/artistes/josianne-benoit-louis-antoine-chretien-oceane-lanteigne-anie-richer",
+        "name": "Josianne Benoit, Louis-Antoine Chrétien, Océane Lanteigne, Anie Richer"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12015",
+        "url": "https://scenesfrancophones.ca/artistes/josianne-benoit-louis-antoine-chretien-oceane-lanteigne-anie-richer-0",
+        "name": "Josianne Benoit, Louis-Antoine Chrétien, Océane Lanteigne, Anie Richer"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12018",
+        "url": "https://scenesfrancophones.ca/artistes/josianne-benoit-louis-antoine-chretien-oceane-lanteigne-anie-richer-1",
+        "name": "Josianne Benoit, Louis-Antoine Chrétien, Océane Lanteigne, Anie Richer"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12021",
+        "url": "https://scenesfrancophones.ca/artistes/guy-philippe-cote-edon-descollines-penelope-goulet-simard-david-noel-michael-nimbley",
+        "name": "Guy-Philippe Côté, Edon Descollines, Pénélope Goulet-Simard,  David Noël, Michael Nimbley, Audrey Talbot et Caroline Tosti"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12024",
+        "url": "https://scenesfrancophones.ca/artistes/guy-philippe-cote-edon-descollines-penelope-goulet-simard-david-noel-michael-nimbley-0",
+        "name": "Guy-Philippe Côté, Edon Descollines, Pénélope Goulet-Simard,  David Noël, Michael Nimbley, Audrey Talbot et Caroline Tosti"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12027",
+        "url": "https://scenesfrancophones.ca/artistes/felix-basque-gabriel-vincent-deslauriers-emilie-dugas-zacharie-cassista-landry-tony-murray",
+        "name": "Félix Basque, Gabriel-Vincent Deslauriers, Émilie Dugas, Zacharie Cassista Landry, Tony Murray et Claire Normand"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12030",
+        "url": "https://scenesfrancophones.ca/artistes/felix-basque-gabriel-vincent-deslauriers-emilie-dugas-zacharie-cassista-landry-tony-0",
+        "name": "Félix Basque, Gabriel-Vincent Deslauriers, Émilie Dugas, Zacharie Cassista Landry, Tony Murray et Claire Normand"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12033",
+        "url": "https://scenesfrancophones.ca/artistes/micha-raoutenfeld-et-sebastien-ricard",
+        "name": "Micha Raoutenfeld et Sébastien Ricard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12036",
+        "url": "https://scenesfrancophones.ca/artistes/micha-raoutenfeld-et-sebastien-ricard-0",
+        "name": "Micha Raoutenfeld et Sébastien Ricard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12039",
+        "url": "https://scenesfrancophones.ca/artistes/phillip-andre-collette-izabelle-ouellet-et-marc-andre-robichaud",
+        "name": "Phillip-André Collette, Izabelle Ouellet et Marc-André Robichaud"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12042",
+        "url": "https://scenesfrancophones.ca/artistes/phillip-andre-collette-izabelle-ouellet-et-marc-andre-robichaud-0",
+        "name": "Phillip-André Collette, Izabelle Ouellet et Marc-André Robichaud"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12045",
+        "url": "https://scenesfrancophones.ca/artistes/guy-philippe-cote-edon-descollines-penelope-goulet-simard-david-noel-michael-nimbley-1",
+        "name": "Guy-Philippe Côté, Edon Descollines, Pénélope Goulet-Simard,  David Noël, Michael Nimbley, Audrey Talbot et Caroline Tosti"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12065",
+        "url": "https://scenesfrancophones.ca/artistes/coproduction-theatre-lescaouette-et-theatre-catapulte",
+        "name": "Coproduction : théâtre l'Escaouette et Théâtre Catapulte"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12068",
+        "url": "https://scenesfrancophones.ca/artistes/coproduction-theatre-lescaouette-et-theatre-catapulte-0",
+        "name": "Coproduction : théâtre l'Escaouette et Théâtre Catapulte"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12071",
+        "url": "https://scenesfrancophones.ca/artistes/coproduction-theatre-lescaouette-et-theatre-catapulte-1",
+        "name": "Coproduction : théâtre l'Escaouette et Théâtre Catapulte"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12074",
+        "url": "https://scenesfrancophones.ca/artistes/joe-jack-et-john",
+        "name": "Joe, Jack et John"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12077",
+        "url": "https://scenesfrancophones.ca/artistes/joe-jack-et-john-0",
+        "name": "Joe, Jack et John"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12080",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-0",
+        "name": "Théâtre populaire d’Acadie"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12083",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-1",
+        "name": "Théâtre populaire d’Acadie"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12086",
+        "url": "https://scenesfrancophones.ca/artistes/sybillines",
+        "name": "Sybillines"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12090",
+        "url": "https://scenesfrancophones.ca/artistes/sybillines-0",
+        "name": "Sybillines"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12094",
+        "url": "https://scenesfrancophones.ca/artistes/coproduction-theatre-lescaouette-et-theatre-tour-de-role",
+        "name": "Coproduction : théâtre l’Escaouette et Théâtre À tour de rôle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12098",
+        "url": "https://scenesfrancophones.ca/artistes/coproduction-theatre-lescaouette-et-theatre-tour-de-role-0",
+        "name": "Coproduction : théâtre l’Escaouette et Théâtre À tour de rôle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12109",
+        "url": "https://scenesfrancophones.ca/artistes/matiu",
+        "name": "Matiu"
       }
     ]
   },
@@ -32438,7 +32833,22 @@
         "@id": "https://scenesfrancophones.ca/id/8073",
         "location": {
           "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
+          "name": "Théâtre Le Sésame",
+          "url": "https://scenesfrancophones.ca/node/1045",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1290 rue Wheathill",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7M 0A7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.24737",
+            "longitude": "-76.56108"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1045"
         },
         "offers": {
           "@type": "Offer",
@@ -45058,7 +45468,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-brian-st-pierre-9240",
-        "name": "BRIAN ST-PIERRE - SIMPLEMENT BRIAN",
+        "name": "Brian St-Pierre - SIMPLEMENT BRIAN",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Récipiendaire du prix Hommage Trille Or 2023, Brian St-Pierre nous présente son nouveau spectacle rempli d’énergie et d’émotions avec son nouvel album ainsi que ses plus grands succès. Ce spectacle est présenté en formule intime (duo).",
@@ -45098,7 +45508,7 @@
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4109",
           "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre",
-          "name": "BRIAN ST-PIERRE"
+          "name": "Brian St-Pierre"
         }
       }
     ]
@@ -46107,7 +46517,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-brian-st-pierre-9573",
-        "name": "BRIAN ST-PIERRE - SIMPLEMENT BRIAN",
+        "name": "Brian St-Pierre - SIMPLEMENT BRIAN",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Récipiendaire du prix Hommage Trille Or 2023, Brian St-Pierre nous présente son nouveau spectacle rempli d’énergie et d’émotions avec son nouvel album ainsi que ses plus grands succès. Ce spectacle est présenté en formule intime (duo).",
@@ -46147,7 +46557,7 @@
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4109",
           "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre",
-          "name": "BRIAN ST-PIERRE"
+          "name": "Brian St-Pierre"
         }
       }
     ]
@@ -48214,10 +48624,6 @@
         "startDate": "2025-11-22T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10216",
-        "location": {
-          "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
-        },
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock"
@@ -48249,10 +48655,6 @@
         "startDate": "2026-02-20T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10218",
-        "location": {
-          "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
-        },
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock"
@@ -48292,10 +48694,6 @@
         "startDate": "2026-05-01T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10221",
-        "location": {
-          "@type": "Place",
-          "@id": "https://scenesfrancophones.ca/id/"
-        },
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock"
@@ -48326,7 +48724,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-fou-de-toi-10222",
-        "name": "BRIAN ST-PIERRE - SIMPLEMENT BRIAN",
+        "name": "Brian St-Pierre - SIMPLEMENT BRIAN",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle “Fou de toi”. Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade. L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore. On y découvre ses compositions originales de son nouvel album qui sortira au printemps 2024 et on revit ses plus grands succès.",
@@ -48366,7 +48764,7 @@
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4109",
           "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre",
-          "name": "BRIAN ST-PIERRE"
+          "name": "Brian St-Pierre"
         }
       }
     ]
@@ -50908,7 +51306,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/sam-mallais-tu-mdirais-quoi-10396",
-        "name": "Sam Mallais - Tu m'dirais quoi ?",
+        "name": "Sam Mallais - Tu m'dirais-quoi?",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -50925,26 +51323,26 @@
         "@id": "https://scenesfrancophones.ca/id/10396",
         "location": {
           "@type": "Place",
-          "name": "Centre des Congrès de la Péninsule Acadienne",
-          "url": "https://scenesfrancophones.ca/node/483",
+          "name": "Salle Mathieu-Duguay",
+          "url": "https://scenesfrancophones.ca/node/486",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "106A, rue de l'Aquarium",
-            "addressLocality": "Shippagan",
+            "streetAddress": "65, rue de l'École",
+            "addressLocality": "Lamèque",
             "addressRegion": "NB",
-            "postalCode": "E8S 1H9",
+            "postalCode": "E8T 1B7",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "47.747233",
-            "longitude": "-64.708324"
+            "latitude": "47.796231",
+            "longitude": "-64.64842"
           },
-          "@id": "https://scenesfrancophones.ca/id/483"
+          "@id": "https://scenesfrancophones.ca/id/486"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://maisonculture.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=62&DetectionCookies=TestComplet",
+          "url": "https://maisonculture.ticketacces.net/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -52832,25 +53230,26 @@
         "@id": "https://scenesfrancophones.ca/id/10617",
         "location": {
           "@type": "Place",
-          "name": "Salle communautaire de Inkerman",
-          "url": "https://scenesfrancophones.ca/node/10616",
+          "name": "Auditorium de l'École Marie-Esther",
+          "url": "https://scenesfrancophones.ca/node/482",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "122 Rue de l'Eglise",
-            "addressLocality": "Inkerman",
+            "streetAddress": "201,  ave. Hôtel de Ville",
+            "addressLocality": "Shippagan",
             "addressRegion": "NB",
-            "postalCode": "E8P 1E7",
+            "postalCode": "E8S 1S7",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "47.671153",
-            "longitude": "-64.818495"
+            "latitude": "47.740099",
+            "longitude": "-64.717165"
           },
-          "@id": "https://scenesfrancophones.ca/id/10616"
+          "@id": "https://scenesfrancophones.ca/id/482"
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://maisonculture.ticketacces.net/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -53352,25 +53751,26 @@
         "@id": "https://scenesfrancophones.ca/id/10627",
         "location": {
           "@type": "Place",
-          "name": "Centre Rhéal-Cormier",
-          "url": "https://scenesfrancophones.ca/node/484",
+          "name": "Salle Mathieu-Duguay",
+          "url": "https://scenesfrancophones.ca/node/486",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "200, ave. Hôtel de Ville",
-            "addressLocality": "Shippagan",
+            "streetAddress": "65, rue de l'École",
+            "addressLocality": "Lamèque",
             "addressRegion": "NB",
-            "postalCode": "E8S 1S7",
+            "postalCode": "E8T 1B7",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "47.740751",
-            "longitude": "-64.716084"
+            "latitude": "47.796231",
+            "longitude": "-64.64842"
           },
-          "@id": "https://scenesfrancophones.ca/id/484"
+          "@id": "https://scenesfrancophones.ca/id/486"
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://maisonculture.ticketacces.net/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -54585,30 +54985,31 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "startDate": "2025-11-15T08:00:00-04:00",
+        "startDate": "2025-11-15T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11842",
         "location": {
           "@type": "Place",
-          "name": "Salle Mathieu-Duguay",
-          "url": "https://scenesfrancophones.ca/node/486",
+          "name": "Centre des Congrès de la Péninsule Acadienne",
+          "url": "https://scenesfrancophones.ca/node/483",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "65, rue de l'École",
-            "addressLocality": "Lamèque",
+            "streetAddress": "106A, rue de l'Aquarium",
+            "addressLocality": "Shippagan",
             "addressRegion": "NB",
-            "postalCode": "E8T 1B7",
+            "postalCode": "E8S 1H9",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "47.796231",
-            "longitude": "-64.64842"
+            "latitude": "47.747233",
+            "longitude": "-64.708324"
           },
-          "@id": "https://scenesfrancophones.ca/id/486"
+          "@id": "https://scenesfrancophones.ca/id/483"
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://maisonculture.ticketacces.net/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -56216,25 +56617,26 @@
         "@id": "https://scenesfrancophones.ca/id/11874",
         "location": {
           "@type": "Place",
-          "name": "Centre des Congrès de la Péninsule Acadienne",
-          "url": "https://scenesfrancophones.ca/node/483",
+          "name": "Salle Mathieu-Duguay",
+          "url": "https://scenesfrancophones.ca/node/486",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "106A, rue de l'Aquarium",
-            "addressLocality": "Shippagan",
+            "streetAddress": "65, rue de l'École",
+            "addressLocality": "Lamèque",
             "addressRegion": "NB",
-            "postalCode": "E8S 1H9",
+            "postalCode": "E8T 1B7",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "47.747233",
-            "longitude": "-64.708324"
+            "latitude": "47.796231",
+            "longitude": "-64.64842"
           },
-          "@id": "https://scenesfrancophones.ca/id/483"
+          "@id": "https://scenesfrancophones.ca/id/486"
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://maisonculture.ticketacces.net/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -57712,22 +58114,22 @@
         "@id": "https://scenesfrancophones.ca/id/11903",
         "location": {
           "@type": "Place",
-          "name": "Théâtre du Monument-Lefebvre",
-          "url": "https://scenesfrancophones.ca/node/508",
+          "name": "Bar Le Coude",
+          "url": "https://scenesfrancophones.ca/node/525",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "480, rue Centrale",
-            "addressLocality": "Memramcook",
+            "streetAddress": "19, Av Antonine-Maillet",
+            "addressLocality": "Moncton",
             "addressRegion": "NB",
-            "postalCode": "E4K 3S6",
+            "postalCode": "E1A 3E9",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.97917",
-            "longitude": "-64.566721"
+            "latitude": "46.105729",
+            "longitude": "-64.783756"
           },
-          "@id": "https://scenesfrancophones.ca/id/508"
+          "@id": "https://scenesfrancophones.ca/id/525"
         },
         "offers": {
           "@type": "Offer",
@@ -60470,18 +60872,8 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/chris-belliveau-la-riviere-croche-11951",
-        "name": "Chris Belliveau - La Rivière croche",
         "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2818%29.png?itok=LSJnW2jV",
-          "width": "430",
-          "height": "430",
-          "creditText": "Marc-André Belliveau"
-        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "C’est le 28 octobre 2022 que l’artiste Chris Belliveau lancait son premier album éponyme. Le 1er novembre 2024, un 2e album, « La rivière croche » voyait le jour. Les deux albums sont parus sous le label acadien de Moncton Le Grenier musique. Ses inspirations ? La musique cajun, le country et le blues des années 60 et 70. Pour les paroles, il raconte des histoires plutôt personnelles ou celles de personnes qu’il a connues ou qu’il a rencontrées par chez lui ou sur la route.  Véritable caméléon musical, il s’affirme aujourd’hui pour la première fois dans une carrière solo.",
         "startDate": "2025-10-30T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11951",
@@ -60494,15 +60886,7 @@
           "@id": "https://scenesfrancophones.ca/id/44",
           "name": "La Maison de la culture Inc.",
           "url": "https://scenesfrancophones.ca/diffuseurs/la-maison-de-la-culture-inc"
-        },
-        "performer": [
-          {
-            "@type": "Person",
-            "@id": "https://scenesfrancophones.ca/id/4434",
-            "url": "https://scenesfrancophones.ca/artistes/chris-belliveau",
-            "name": "Chris Belliveau"
-          }
-        ]
+        }
       }
     ]
   },
@@ -61289,6 +61673,2350 @@
             "@id": "https://scenesfrancophones.ca/id/215",
             "url": "https://scenesfrancophones.ca/artistes/ecarlate",
             "name": "Écarlate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/stephane-guertin-effet-papillon-quand-les-orteils-auront-des-dents-12004",
+        "name": "Stéphane Guertin, Effet papillon -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Affiche_DominicAsselin.jpg?itok=YPNUebIu",
+          "width": "430",
+          "height": "430",
+          "creditText": "Gis"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pourquoi j’ai peur ? De quoi j’ai peur? Et s’il existait des trucs pour vaincre les monstres sous notre lit ?  Dans ce spectacle, on s’amuse avec le conteur Stéphane Guertin à se raconter des histoires effrayantes de monstre, de noirceur, de bêtes merveilleuses ou d'oubli.  Quand les orteils auront des dents permet aux 5 à 10 ans d’apprendre en humour à surmonter leurs peurs avec force et détermination. Armé de coffres à surprise et de quelques objets musicaux, le conteur crée en toute simplicité les univers sonores qui accompagnent ses récits. (Aussi disponible en clé-en-main)",
+        "startDate": "2025-11-02T15:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12004",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Rolland Desroches",
+          "url": "https://scenesfrancophones.ca/node/1065",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 2G3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1065"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/8578",
+          "url": "https://scenesfrancophones.ca/artistes/stephane-guertin-effet-papillon",
+          "name": "Stéphane Guertin, Effet papillon"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-gens-du-nord-12007",
+        "name": "Les gens du nord -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Dans le cadre du Winterama de la ville de Penetanguishene, La Clé invite les gens de la communauté à se joindre à nous et déguster un repas canadien-français $( soupe aux pois, tourtière et tarte au sirop d'érable). Ensuite, un spectacle de musique traditionnelle est offert gratuitement pour l'occasion.",
+        "startDate": "2026-02-14T11:30:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12007",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Rolland Desroches",
+          "url": "https://scenesfrancophones.ca/node/1065",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 2G3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1065"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12005",
+          "url": "https://scenesfrancophones.ca/artistes/les-gens-du-nord",
+          "name": "Les gens du nord",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/guy-philippe-cote-edon-descollines-penelope-goulet-simard-david-noel-michael-nimbley-0",
+        "name": "Guy-Philippe Côté, Edon Descollines, Pénélope Goulet-Simard,  David Noël, Michael Nimbley, Audrey Talbot et Caroline Tosti -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/2_0.jpg?itok=1B94cyOs",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une troupe d’interprètes se retrouvent en répétition et travaillent à une nouvelle création. En se questionnant sur la justesse des mots, elles et ils essaient de trouver un terrain d’entente pour créer une pièce qui représentera leurs valeurs. On discute ferme des notions d’identité, d’appropriation, tout comme des considérations de vécu, de légitimité, d’appropriation, de vérité et de fiction.\r\n\r\nNotre société progresse avec certaines douleurs de croissance vers des idéaux d’équité et d’inclusion. Pour en traiter, Joe Jack et John usurpe le titre de la célèbre pièce de l’auteur italien Luigi Pirandello, Six personnages en quête d’auteur (1921). Dans ce texte majeur de la dramaturgie mondiale, des professionnels de la fiction s’opposent à une famille d’êtres humains bien réels, qui offrent sans pudeur leurs drames intimes. Chez Joe Jack et John, coincé·e·s entre leurs désirs artistiques et leurs nombreux principes éthiques, les interprètes découvrent que leur terrain de jeu est miné et leur liberté artistique, limitée.\r\n\r\nUn siècle après sa naissance, les enjeux animant le texte de Pirandello trouvent ici un écho inédit. Joe Jack et John propose une comédie qui ne prétend aucunement réduire la confusion ambiante. À vos rires…qu’ils soient jaunes ou décomplexés!",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12026",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/cispersonnage-en-quete-dauteurice",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12024",
+          "url": "https://scenesfrancophones.ca/artistes/guy-philippe-cote-edon-descollines-penelope-goulet-simard-david-noel-michael-nimbley-0",
+          "name": "Guy-Philippe Côté, Edon Descollines, Pénélope Goulet-Simard,  David Noël, Michael Nimbley, Audrey Talbot et Caroline Tosti",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-12048",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/letetontardif_affiche1_0.png?itok=AZOndgls",
+          "width": "430",
+          "height": "430",
+          "creditText": "Mathieu Séguin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2026-03-10T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12048",
+        "location": {
+          "@type": "Place",
+          "name": "Centre culturel La Ronde",
+          "url": "https://scenesfrancophones.ca/node/4155",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "32, rue Mountjoy nord",
+            "addressLocality": "Timmins",
+            "addressRegion": "ON",
+            "postalCode": "P4N 4V6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.476702",
+            "longitude": "-81.335287"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4155"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/77",
+          "name": "Centre culturel La Ronde",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5731",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+            "name": "Caroline Raynaud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-12049",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/letetontardif_affiche1_0_0.png?itok=1lly8_0j",
+          "width": "430",
+          "height": "430",
+          "creditText": "Omar Morson"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2025-10-24T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12049",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium École Le Relais",
+          "url": "https://scenesfrancophones.ca/node/1047",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "100, rue McNab",
+            "addressLocality": "Alexandria",
+            "addressRegion": "ON",
+            "postalCode": "K0C 1A0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.316669",
+            "longitude": "-74.631662"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1047"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/tickets/xda251024001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5731",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+            "name": "Caroline Raynaud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-12050",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/letetontardif_affiche1_0_1.png?itok=22maHcyK",
+          "width": "430",
+          "height": "430",
+          "creditText": "Omar Morson"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2026-05-07T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12050",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lescompagnons.org/billets#smtx-click",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5731",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+            "name": "Caroline Raynaud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-12051",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/letetontardif_affiche1_0_1.png?itok=22maHcyK",
+          "width": "430",
+          "height": "430",
+          "creditText": "Omar Morson"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2026-05-08T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12051",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lescompagnons.org/billets#smtx-click",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5731",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+            "name": "Caroline Raynaud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-12052",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/letetontardif_affiche1_0_1.png?itok=22maHcyK",
+          "width": "430",
+          "height": "430",
+          "creditText": "Omar Morson"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2026-05-02T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12052",
+        "location": {
+          "@type": "Place",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/node/1050",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2720, chemin Richmond",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K2B 6S2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.358648",
+            "longitude": "-75.792699"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1050"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cmfo.ca/boutique/?swoof=1&product_cat=la-billetterie-flexible%2Cspectacles-et-prestations",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/73",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/maison-de-la-francophonie-dottawa-cmfo"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5731",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+            "name": "Caroline Raynaud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/creations-vivo-mourir-de-trop-gueuler-12053",
+        "name": "Créations In Vivo - Mourir de trop gueuler",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/Cr%C3%A9ationInVivo-affiche-credit-Jasmine_Morin.jpg?itok=03b6ITVt",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jasmine Morin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "MOURIR DE TROP GUEULER est une parade époustouflante de bouffons franco-ontariens pour célébrer le 50e anniversaire du drapeau franco-ontarien. Cette procession théâtrale unique célèbre les funérailles d’une grenouille géante– morte d’avoir trop gueulé. Avec une ambiance de solidarité moqueuse, le spectacle s’embrase grâce à ses musiques entraînantes, ses personnages hauts en couleur et ses scènes comiques irrésistibles. Le public, invité à participer, pourra aider à ressusciter la grenouille avec rires, danses et chants. Une aventure théâtrale électrisante qui unit toutes les générations.",
+        "startDate": "2025-09-25T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12053",
+        "location": {
+          "@type": "Place",
+          "name": "Place des Arts",
+          "url": "https://scenesfrancophones.ca/node/1059",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "27 Larch St",
+            "addressLocality": "Sudbury",
+            "addressRegion": "ON",
+            "postalCode": "P3E 1B7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.491193",
+            "longitude": "-80.995528"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1059"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/82",
+          "name": "La Slague du Carrefour francophone de Sudbury",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/9253",
+            "url": "https://scenesfrancophones.ca/artistes/creations-vivo",
+            "name": "Créations In Vivo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/stephane-guertin-effet-papillon-quand-les-orteils-auront-des-dents-12054",
+        "name": "Stéphane Guertin, Effet papillon - Quand les orteils auront des dents",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/effet_papillon-CR-Oscar_Aguirre.jpg?itok=e3oDNMPk",
+          "width": "430",
+          "height": "430",
+          "creditText": "Oscar Aguirre"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pourquoi j’ai peur ? De quoi j’ai peur? Et s’il existait des trucs pour vaincre les monstres sous notre lit ?  Dans ce spectacle, on s’amuse avec le conteur Stéphane Guertin à se raconter des histoires effrayantes de monstre, de noirceur, de bêtes merveilleuses ou d'oubli.  Quand les orteils auront des dents permet aux 5 à 10 ans d’apprendre en humour à surmonter leurs peurs avec force et détermination. Armé de coffres à surprise et de quelques objets musicaux, le conteur crée en toute simplicité les univers sonores qui accompagnent ses récits. (Aussi disponible en clé-en-main)",
+        "startDate": "2026-04-24T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12054",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.alliance-francaise.ca/fr/art/saison-culturelle/289-quand-les-orteils-auront-des-dents",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8578",
+            "url": "https://scenesfrancophones.ca/artistes/stephane-guertin-effet-papillon",
+            "name": "Stéphane Guertin, Effet papillon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/francois-massicotte-massicotte-80-12055",
+        "name": "Francois Massicotte - Massicotte 8.0!",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/francois-massicotte.jpg?itok=W87rCo8Q",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "François Massicotte, l’humoriste établi apprécié de tous qui cumule plus de 35 ans d’expérience en humour, est de retour sur scène avec son 8e one-man-show : 8.0!\r\n\r\nAvec son sens du timing unique, François aborde des thèmes unificateurs à travers lesquels tous se reconnaissent, tels que la famille, le couple, la parentalité, la vieillesse et plus encore, avec humour et dérision. À travers ses aventures et histoires savoureuses, ce père de cinq enfants nous entraîne dans le tourbillon de la famille moderne avec son énergie scénique contagieuse! Doté d’un talent naturel, François s’assume, s’anime et nous transporte dans le tourbillonnement fou de la vie contemporaine. 8.0!, pour se reconnaître et en rire!",
+        "startDate": "2026-05-02T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12055",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Le Sésame",
+          "url": "https://scenesfrancophones.ca/node/1045",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1290 rue Wheathill",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7M 0A7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.24737",
+            "longitude": "-76.56108"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1045"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://centreculturelfrontenac.com/saison2526-francois-massicotte/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/9175",
+            "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-0",
+            "name": "Francois Massicotte",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/francois-massicotte-massicotte-80-12056",
+        "name": "Francois Massicotte - Massicotte 8.0!",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/francois-massicotte.jpg?itok=W87rCo8Q",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "François Massicotte, l’humoriste établi apprécié de tous qui cumule plus de 35 ans d’expérience en humour, est de retour sur scène avec son 8e one-man-show : 8.0!\r\n\r\nAvec son sens du timing unique, François aborde des thèmes unificateurs à travers lesquels tous se reconnaissent, tels que la famille, le couple, la parentalité, la vieillesse et plus encore, avec humour et dérision. À travers ses aventures et histoires savoureuses, ce père de cinq enfants nous entraîne dans le tourbillon de la famille moderne avec son énergie scénique contagieuse! Doté d’un talent naturel, François s’assume, s’anime et nous transporte dans le tourbillonnement fou de la vie contemporaine. 8.0!, pour se reconnaître et en rire!",
+        "startDate": "2025-09-13T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12056",
+        "location": {
+          "@type": "Place",
+          "name": "Centre culturel La Ronde",
+          "url": "https://scenesfrancophones.ca/node/4155",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "32, rue Mountjoy nord",
+            "addressLocality": "Timmins",
+            "addressRegion": "ON",
+            "postalCode": "P4N 4V6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.476702",
+            "longitude": "-81.335287"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4155"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/77",
+          "name": "Centre culturel La Ronde",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/9175",
+            "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-0",
+            "name": "Francois Massicotte",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/francois-massicotte-massicotte-80-12057",
+        "name": "Francois Massicotte - Massicotte 8.0!",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/francois-massicotte.jpg?itok=W87rCo8Q",
+          "width": "430",
+          "height": "430",
+          "creditText": "https://lepointdevente.com/billets/massicottecdl2025"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "François Massicotte, l’humoriste établi apprécié de tous qui cumule plus de 35 ans d’expérience en humour, est de retour sur scène avec son 8e one-man-show : 8.0!\r\n\r\nAvec son sens du timing unique, François aborde des thèmes unificateurs à travers lesquels tous se reconnaissent, tels que la famille, le couple, la parentalité, la vieillesse et plus encore, avec humour et dérision. À travers ses aventures et histoires savoureuses, ce père de cinq enfants nous entraîne dans le tourbillon de la famille moderne avec son énergie scénique contagieuse! Doté d’un talent naturel, François s’assume, s’anime et nous transporte dans le tourbillonnement fou de la vie contemporaine. 8.0!, pour se reconnaître et en rire!",
+        "startDate": "2025-09-11T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12057",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/80",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/9175",
+            "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-0",
+            "name": "Francois Massicotte",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/francois-massicotte-massicotte-80-12058",
+        "name": "Francois Massicotte - Massicotte 8.0!",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/francois-massicotte.jpg?itok=W87rCo8Q",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "François Massicotte, l’humoriste établi apprécié de tous qui cumule plus de 35 ans d’expérience en humour, est de retour sur scène avec son 8e one-man-show : 8.0!\r\n\r\nAvec son sens du timing unique, François aborde des thèmes unificateurs à travers lesquels tous se reconnaissent, tels que la famille, le couple, la parentalité, la vieillesse et plus encore, avec humour et dérision. À travers ses aventures et histoires savoureuses, ce père de cinq enfants nous entraîne dans le tourbillon de la famille moderne avec son énergie scénique contagieuse! Doté d’un talent naturel, François s’assume, s’anime et nous transporte dans le tourbillonnement fou de la vie contemporaine. 8.0!, pour se reconnaître et en rire!",
+        "startDate": "2026-04-30T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12058",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/82",
+          "name": "La Slague du Carrefour francophone de Sudbury",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/9175",
+            "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-0",
+            "name": "Francois Massicotte",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/katia-cafe-febrissy-ca-rime-avec-vinaigre-12059",
+        "name": "Katia Café-Fébrissy - Ça rime avec Vinaigre",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/crav_2023_cr-andrew-alexander.jpg?itok=3fVLEtEK",
+          "width": "430",
+          "height": "430",
+          "creditText": "Andrew Alexander"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2026-01-24T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12059",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.alliance-francaise.ca/fr/art/saison-culturelle/267-ca-rime-avec-vinaigre",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/6379",
+            "url": "https://scenesfrancophones.ca/artistes/katia-cafe-febrissy",
+            "name": "Katia Café-Fébrissy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/katia-cafe-febrissy-ca-rime-avec-vinaigre-12060",
+        "name": "Katia Café-Fébrissy - Ça rime avec Vinaigre",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/crav_2023_cr-andrew-alexander.jpg?itok=3fVLEtEK",
+          "width": "430",
+          "height": "430",
+          "creditText": "Andrew Alexander"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2026-02-06T19:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12060",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Le Sésame",
+          "url": "https://scenesfrancophones.ca/node/1045",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1290 rue Wheathill",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7M 0A7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.24737",
+            "longitude": "-76.56108"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1045"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://centreculturelfrontenac.com/saison2526-ca-rime-avec-vinaigre/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/6379",
+            "url": "https://scenesfrancophones.ca/artistes/katia-cafe-febrissy",
+            "name": "Katia Café-Fébrissy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/katia-cafe-febrissy-ca-rime-avec-vinaigre-12061",
+        "name": "Katia Café-Fébrissy - Ça rime avec Vinaigre",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/crav_2023_cr-andrew-alexander.jpg?itok=3fVLEtEK",
+          "width": "430",
+          "height": "430",
+          "creditText": "Andrew Alexander"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2026-02-21T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12061",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/87",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-organismes-francophones-de-la-region-de-durham"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/6379",
+            "url": "https://scenesfrancophones.ca/artistes/katia-cafe-febrissy",
+            "name": "Katia Café-Fébrissy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-chiclettes-en-attendant-noel-12062",
+        "name": "Les Chiclettes - En attendant Noël",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/les-chiclettes-cr-Carinne_Leduc.jpeg?itok=YP50hzgJ",
+          "width": "430",
+          "height": "430",
+          "creditText": "Carinne Leduc"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour Noël, Les Chiclettes vous reçoivent chez elles. Puisqu’elles ont davantage l’habitude de se mettre les pieds dans les plats que de les préparer, arriveront-elles à être prêtes avant l’arrivée des invités ? Entre les recettes d’Huguette qui comportent quelques « fausses notes », Vivie, qui n’est toujours pas vite-vite et la fameuse liste de tâches de Simone, peut-être qu’un miracle de Noël sera la seule chose qui pourra les sauver ! À travers les nouvelles chansons de leur album « En attendant Noël », vous êtes assurés de lancer votre saison des fêtes en grande pompe !",
+        "startDate": "2025-12-12T19:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12062",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Le Sésame",
+          "url": "https://scenesfrancophones.ca/node/1045",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1290 rue Wheathill",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7M 0A7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.24737",
+            "longitude": "-76.56108"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1045"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://centreculturelfrontenac.com/saison2526-les-chiclettes/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5435",
+            "url": "https://scenesfrancophones.ca/artistes/les-chiclettes",
+            "name": "Les Chiclettes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-chiclettes-en-attendant-noel-12063",
+        "name": "Les Chiclettes - En attendant Noël",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/les-chiclettes-cr-Carinne_Leduc.jpeg?itok=YP50hzgJ",
+          "width": "430",
+          "height": "430",
+          "creditText": "Carinne Leduc"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour Noël, Les Chiclettes vous reçoivent chez elles. Puisqu’elles ont davantage l’habitude de se mettre les pieds dans les plats que de les préparer, arriveront-elles à être prêtes avant l’arrivée des invités ? Entre les recettes d’Huguette qui comportent quelques « fausses notes », Vivie, qui n’est toujours pas vite-vite et la fameuse liste de tâches de Simone, peut-être qu’un miracle de Noël sera la seule chose qui pourra les sauver ! À travers les nouvelles chansons de leur album « En attendant Noël », vous êtes assurés de lancer votre saison des fêtes en grande pompe !",
+        "startDate": "2025-12-20T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12063",
+        "location": {
+          "@type": "Place",
+          "name": "Centre francophone Hamilton",
+          "url": "https://scenesfrancophones.ca/node/1063",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "56, rue Mulbery",
+            "addressLocality": "Hamilton",
+            "addressRegion": "ON",
+            "postalCode": "L8R 2C7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.262714",
+            "longitude": "-79.869099"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1063"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/86",
+          "name": "Centre francophone Hamilton",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-francophone-hamilton"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5435",
+            "url": "https://scenesfrancophones.ca/artistes/les-chiclettes",
+            "name": "Les Chiclettes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-chiclettes-en-attendant-noel-12064",
+        "name": "Les Chiclettes - En attendant Noël",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/les-chiclettes-cr-Carinne_Leduc.jpeg?itok=YP50hzgJ",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jen Squires"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour Noël, Les Chiclettes vous reçoivent chez elles. Puisqu’elles ont davantage l’habitude de se mettre les pieds dans les plats que de les préparer, arriveront-elles à être prêtes avant l’arrivée des invités ? Entre les recettes d’Huguette qui comportent quelques « fausses notes », Vivie, qui n’est toujours pas vite-vite et la fameuse liste de tâches de Simone, peut-être qu’un miracle de Noël sera la seule chose qui pourra les sauver ! À travers les nouvelles chansons de leur album « En attendant Noël », vous êtes assurés de lancer votre saison des fêtes en grande pompe !",
+        "startDate": "2025-12-19T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12064",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5435",
+            "url": "https://scenesfrancophones.ca/artistes/les-chiclettes",
+            "name": "Les Chiclettes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/coproduction-theatre-lescaouette-et-theatre-catapulte-les-ensevelies-12067",
+        "name": "Coproduction : théâtre l'Escaouette et Théâtre Catapulte  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/1_2.jpg?itok=Z4LC7Jto",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "« Un matin de soleil, Pernille est partie sans ses souliers. Elle s’est arrêtée cueillir des fleurs, peut-être. Elle faisait ça tout le temps. En attendant son retour, ses grandes sœurs arpentent la forêt à sa recherche, jour après jour, et leur mère attend en prenant lentement la couleur des murs »\r\n\r\nLes ensevelies, c’est l’érosion sur les âmes de celles qui restent quand les tragédies se terminent. C’est l’indomptable déferlement de méfiance avec lequel elles s’arment devant la cruauté du monde. C’est l’apprentissage obligé qui les guette toutes au prochain détour dans ce monde où la perte de l’innocence arrive comme une morsure. C’est la volonté de continuer à abriter des espoirs sans date de péremption même quand les fruits de notre labeur commencent à pourrir.\r\n\r\nC’est un hommage à la force radicale des femmes qui virent les lacs et les forêts à l’envers même quand elles se savent fragiles, même quand on les arrache à l’enfance, même quand la seule pensée des champignons les dévore. »",
+        "startDate": "2025-11-04T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12067",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/les-ensevelies",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12065",
+          "url": "https://scenesfrancophones.ca/artistes/coproduction-theatre-lescaouette-et-theatre-catapulte",
+          "name": "Coproduction : théâtre l'Escaouette et Théâtre Catapulte",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/coproduction-theatre-lescaouette-et-theatre-catapulte-les-ensevelies-12070",
+        "name": "Coproduction : théâtre l'Escaouette et Théâtre Catapulte  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/1_3.jpg?itok=_V8N0mGt",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "« Un matin de soleil, Pernille est partie sans ses souliers. Elle s’est arrêtée cueillir des fleurs, peut-être. Elle faisait ça tout le temps. En attendant son retour, ses grandes sœurs arpentent la forêt à sa recherche, jour après jour, et leur mère attend en prenant lentement la couleur des murs »\r\n\r\nLes ensevelies, c’est l’érosion sur les âmes de celles qui restent quand les tragédies se terminent. C’est l’indomptable déferlement de méfiance avec lequel elles s’arment devant la cruauté du monde. C’est l’apprentissage obligé qui les guette toutes au prochain détour dans ce monde où la perte de l’innocence arrive comme une morsure. C’est la volonté de continuer à abriter des espoirs sans date de péremption même quand les fruits de notre labeur commencent à pourrir.\r\n\r\nC’est un hommage à la force radicale des femmes qui virent les lacs et les forêts à l’envers même quand elles se savent fragiles, même quand on les arrache à l’enfance, même quand la seule pensée des champignons les dévore. »",
+        "startDate": "2025-11-05T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12070",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/les-ensevelies",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12068",
+          "url": "https://scenesfrancophones.ca/artistes/coproduction-theatre-lescaouette-et-theatre-catapulte-0",
+          "name": "Coproduction : théâtre l'Escaouette et Théâtre Catapulte",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/coproduction-theatre-lescaouette-et-theatre-catapulte-les-ensevelies-12073",
+        "name": "Coproduction : théâtre l'Escaouette et Théâtre Catapulte  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/1_4.jpg?itok=kIPpncnF",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "« Un matin de soleil, Pernille est partie sans ses souliers. Elle s’est arrêtée cueillir des fleurs, peut-être. Elle faisait ça tout le temps. En attendant son retour, ses grandes sœurs arpentent la forêt à sa recherche, jour après jour, et leur mère attend en prenant lentement la couleur des murs »\r\n\r\nLes ensevelies, c’est l’érosion sur les âmes de celles qui restent quand les tragédies se terminent. C’est l’indomptable déferlement de méfiance avec lequel elles s’arment devant la cruauté du monde. C’est l’apprentissage obligé qui les guette toutes au prochain détour dans ce monde où la perte de l’innocence arrive comme une morsure. C’est la volonté de continuer à abriter des espoirs sans date de péremption même quand les fruits de notre labeur commencent à pourrir.\r\n\r\nC’est un hommage à la force radicale des femmes qui virent les lacs et les forêts à l’envers même quand elles se savent fragiles, même quand on les arrache à l’enfance, même quand la seule pensée des champignons les dévore. »",
+        "startDate": "2025-11-06T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12073",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/les-ensevelies",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12071",
+          "url": "https://scenesfrancophones.ca/artistes/coproduction-theatre-lescaouette-et-theatre-catapulte-1",
+          "name": "Coproduction : théâtre l'Escaouette et Théâtre Catapulte",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/joe-jack-et-john-cispersonnages-en-quete-dauteurice-12076",
+        "name": "Joe, Jack et John -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/2_2.jpg?itok=4MAjKwsT",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une troupe d’interprètes se retrouvent en répétition et travaillent à une nouvelle création. En se questionnant sur la justesse des mots, elles et ils essaient de trouver un terrain d’entente pour créer une pièce qui représentera leurs valeurs. On discute ferme des notions d’identité, d’appropriation, tout comme des considérations de vécu, de légitimité, de vérité et de fiction.\r\n\r\nNotre société progresse avec certaines douleurs de croissance vers des idéaux d’équité et d’inclusion. Pour en traiter, on usurpe le titre de la célèbre pièce de l’auteur italien Luigi Pirandello, Six personnages en quête d’auteur (1921). Dans ce texte majeur, des professionnels de la fiction s’opposent à une famille d’êtres humains réels, qui offrent sans pudeur leurs drames intimes. Chez Joe Jack et John, coincé·e·s entre leurs désirs artistiques et leurs nombreux principes éthiques, les interprètes découvrent que leur terrain de jeu est miné et leur liberté artistique, limitée.\r\n\r\nUn siècle après sa naissance, les enjeux animant le texte de Pirandello trouvent ici un écho inédit. Joe Jack et John propose une comédie qui ne prétend aucunement réduire la confusion ambiante. À vos rires…qu’ils soient jaunes ou décomplexés!",
+        "startDate": "2025-11-27T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12076",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/cispersonnage-en-quete-dauteurice",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12074",
+          "url": "https://scenesfrancophones.ca/artistes/joe-jack-et-john",
+          "name": "Joe, Jack et John",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/joe-jack-et-john-cispersonnages-en-quete-dauteurice-12079",
+        "name": "Joe, Jack et John -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/2_3.jpg?itok=AzAeylUL",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une troupe d’interprètes se retrouvent en répétition et travaillent à une nouvelle création. En se questionnant sur la justesse des mots, elles et ils essaient de trouver un terrain d’entente pour créer une pièce qui représentera leurs valeurs. On discute ferme des notions d’identité, d’appropriation, tout comme des considérations de vécu, de légitimité, de vérité et de fiction.\r\n\r\nNotre société progresse avec certaines douleurs de croissance vers des idéaux d’équité et d’inclusion. Pour en traiter, on usurpe le titre de la célèbre pièce de l’auteur italien Luigi Pirandello, Six personnages en quête d’auteur (1921). Dans ce texte majeur, des professionnels de la fiction s’opposent à une famille d’êtres humains réels, qui offrent sans pudeur leurs drames intimes. Chez Joe Jack et John, coincé·e·s entre leurs désirs artistiques et leurs nombreux principes éthiques, les interprètes découvrent que leur terrain de jeu est miné et leur liberté artistique, limitée.\r\n\r\nUn siècle après sa naissance, les enjeux animant le texte de Pirandello trouvent ici un écho inédit. Joe Jack et John propose une comédie qui ne prétend aucunement réduire la confusion ambiante. À vos rires…qu’ils soient jaunes ou décomplexés!",
+        "startDate": "2025-11-28T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12079",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/cispersonnage-en-quete-dauteurice",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12077",
+          "url": "https://scenesfrancophones.ca/artistes/joe-jack-et-john-0",
+          "name": "Joe, Jack et John",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12082",
+        "name": "Théâtre populaire d’Acadie  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/3_1.jpg?itok=MbZ7tEey",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le 150e anniversaire des émeutes de Caraquet aura lieu en 2025. Il s’agit d’un moment clé dans la lutte des Acadiens pour l’éducation en français.  Ces émeutes, déclenchées par un groupe d’Acadiens en 1875, a marqué l’opposition farouche à un projet de réforme. « C’est une nouvelle loi sur la gestion des écoles qui avait mis le feu aux poudres, en 1871. Les écoles devenaient alors publiques et non confessionnelles. Les Acadiens catholiques, étaient en colère. »  Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd’hui dans nos luttes pour la défense de notre langue et de nos droits.\r\n\r\nLes Émeutiers invitent le spectateur à une réflexion profonde sur le poids de cette réforme sur la communauté et la responsabilité collective de préserver ce qui nous définit. Face à l’actualité, où l’avenir de la langue française est plus que jamais menacé, cette pièce souligne la force indomptable des Acadiens et la puissance d’une communauté unie pour préserver son héritage et ses droits.\r\n\r\nLa pièce met en lumière les tensions sociales dans la communauté acadienne, tant les hommes qui ont participé aux émeutes, que les femmes qui ont maintenu la communauté pendant l’absence des hommes emprisonnés.",
+        "startDate": "2025-12-04T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12082",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/les-emeutiers",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12080",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-0",
+          "name": "Théâtre populaire d’Acadie",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12085",
+        "name": "Théâtre populaire d’Acadie  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/3_2.jpg?itok=qdyMsEA3",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le 150e anniversaire des émeutes de Caraquet aura lieu en 2025. Il s’agit d’un moment clé dans la lutte des Acadiens pour l’éducation en français.  Ces émeutes, déclenchées par un groupe d’Acadiens en 1875, a marqué l’opposition farouche à un projet de réforme. « C’est une nouvelle loi sur la gestion des écoles qui avait mis le feu aux poudres, en 1871. Les écoles devenaient alors publiques et non confessionnelles. Les Acadiens catholiques, étaient en colère. »  Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd’hui dans nos luttes pour la défense de notre langue et de nos droits.\r\n\r\nLes Émeutiers invitent le spectateur à une réflexion profonde sur le poids de cette réforme sur la communauté et la responsabilité collective de préserver ce qui nous définit. Face à l’actualité, où l’avenir de la langue française est plus que jamais menacé, cette pièce souligne la force indomptable des Acadiens et la puissance d’une communauté unie pour préserver son héritage et ses droits.\r\n\r\nLa pièce met en lumière les tensions sociales dans la communauté acadienne, tant les hommes qui ont participé aux émeutes, que les femmes qui ont maintenu la communauté pendant l’absence des hommes emprisonnés.",
+        "startDate": "2025-12-05T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12085",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/les-emeutiers",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12083",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-1",
+          "name": "Théâtre populaire d’Acadie",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/sybillines-la-chouette-12088",
+        "name": "Sybillines -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/4_1.jpg?itok=VhTckjBy",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Spectacle poétique, philosophique, cocasse et résolument politique, “La chouette” est la première œuvre dramatique signée Sébastien Ricard, membre fondateur de Loco Locass et comédien à la carrière éclatante.\r\n\r\n \r\n\r\nTout est parti du désir d’explorer la figure du “monstre”, celle que le philosophe trans Paul B.Preciado utilise pour se définir et qui fait écho à une autre figure, celle du Canayen dont le géographe Jean Morisset tente de cerner le temps et l’espace à travers le vaste paysage de l’Amérique. Preciado comme Morisset questionnent les catégories rigides et prônent la fluidité des frontières réelles ou symboliques entre les genres, les pays, les rôles. Ces questions aboutissent fatalement au théâtre, à ses codes de représentation et à leur remise en question.\r\n\r\n \r\n\r\nCompagnons de route depuis vingt ans, Sébastien Ricard et Brigitte Haentjens s’allient cette fois à l’artiste transdisciplinaire Micha Raoutenfeld. Le trio multi- générationnel s’engage dans un pari audacieux qui bouscule les rôles traditionnels. Le spectacle, fluide et organique, performatif emprunte à différents styles de théâtre pour communiquer avec le public. On n’est pas dans une forme classique de narration, ici, les idées s’incarnent dans les corps et ça déménage!\r\n\r\nUn spectacle original, inclassable, et plein de surprises..",
+        "startDate": "2026-02-19T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12088",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/la-chouette",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12086",
+          "url": "https://scenesfrancophones.ca/artistes/sybillines",
+          "name": "Sybillines",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/sybillines-la-chouette-12092",
+        "name": "Sybillines -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/4_2.jpg?itok=TO0iMO8C",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Spectacle poétique, philosophique, cocasse et résolument politique, “La chouette” est la première œuvre dramatique signée Sébastien Ricard, membre fondateur de Loco Locass et comédien à la carrière éclatante.\r\n\r\n \r\n\r\nTout est parti du désir d’explorer la figure du “monstre”, celle que le philosophe trans Paul B.Preciado utilise pour se définir et qui fait écho à une autre figure, celle du Canayen dont le géographe Jean Morisset tente de cerner le temps et l’espace à travers le vaste paysage de l’Amérique. Preciado comme Morisset questionnent les catégories rigides et prônent la fluidité des frontières réelles ou symboliques entre les genres, les pays, les rôles. Ces questions aboutissent fatalement au théâtre, à ses codes de représentation et à leur remise en question.\r\n\r\n \r\n\r\nCompagnons de route depuis vingt ans, Sébastien Ricard et Brigitte Haentjens s’allient cette fois à l’artiste transdisciplinaire Micha Raoutenfeld. Le trio multi- générationnel s’engage dans un pari audacieux qui bouscule les rôles traditionnels. Le spectacle, fluide et organique, performatif emprunte à différents styles de théâtre pour communiquer avec le public. On n’est pas dans une forme classique de narration, ici, les idées s’incarnent dans les corps et ça déménage!\r\n\r\nUn spectacle original, inclassable, et plein de surprises..",
+        "startDate": "2026-02-20T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12092",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/la-chouette",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12090",
+          "url": "https://scenesfrancophones.ca/artistes/sybillines-0",
+          "name": "Sybillines",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-ouimet-sos-12093",
+        "name": "Melissa Ouimet - SOS",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/melissa-ouimet_photo-de-presse_credit-gaelle-leroyer.jpg?itok=8H09H0EP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Gaelle Leroyer"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Avec un amalgame de pop, rock et néo-soul, le spectacle \"SOS\" de Mélissa Ouimet transporte le public dans un voyage musical vibrant, captivant et rassembleur. Récipiendaire d’un Trille Or pour son spectacle ainsi que pour sa chanson « Amours jetables », l’artiste franco-ontarienne nous promet une soirée riche en émotions. Melissa a captivé les foules à travers le Canada, que ce soit lors de festivals tels que les Francos de Montréal, le FestiVoix de Trois-Rivières ou même aux Jeux olympiques de Vancouver. Reconnue pour son énergie contagieuse et sa fougue sur scène, Mélissa aborde, sous des mélodies accrocheuses, des thématiques universelles comme les ruptures, la persévérance, les dépendances… et bien plus encore. Entourée de ses musiciens, elle propose les pièces à succès de son répertoire, Sans tomber, In Love Again et son plus récent extrait Un peu moins que nous, en plus de revisiter celles de ses plus grandes inspirations musicales.",
+        "startDate": "2025-09-17T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12093",
+        "location": {
+          "@type": "Place",
+          "name": "Quatrième Salle",
+          "url": "https://scenesfrancophones.ca/node/12089",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1 rue Elgin",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K1P 5W1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.423309",
+            "longitude": "-75.693456"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12089"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://nac-cna.ca/fr/event/39293",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/71",
+          "name": "Centre national des Arts",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-national-des-arts"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5406",
+            "url": "https://scenesfrancophones.ca/artistes/melissa-ouimet-0",
+            "name": "Melissa Ouimet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/coproduction-theatre-lescaouette-et-theatre-tour-de-role-ornithorynques-12096",
+        "name": "Coproduction : théâtre l’Escaouette et Théâtre À tour de rôle -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/5_1.jpg?itok=CCV-VSYp",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "À la suite du succès connu lors de sa création au théâtre l’Escaouette en février 2024, ce spectacle, qui rassemble une impressionnante distribution, connaîtra une nouvelle série de 10 représentations à Moncton, Ottawa, Montréal et Caraquet.\r\n\r\nOrnithorynques, c’est l’histoire d’une poignée de marginaux qui racontent l’été 1990, au nord du Nouveau-Brunswick.  Sardine, douze ans, et son oncle Steve naviguent parmi les secrets familiaux avec des cœurs qui battent le rythme au son de la pop de cette fin du vingtième siècle.\r\n\r\nCet été-là, quelque chose s’est brisé — et personne ne détient toute l’histoire. À travers les souvenirs croisés de Sardine, de sa mère Jackie et de son oncle Steve, Ornithorynques dévoile lentement ce qu’on aurait préféré taire.\r\n\r\nAvec une langue franche et vivante, l’autrice Johanne Parent explore les silences pesants des régions éloignées, les blessures enfouies et ce moment fragile où l’on commence à se reconstruire.\r\n\r\nJohanne Parent a été finaliste avec ce texte au Prix Gratien-Gélinas, au Prix du Gouverneur général et au Prix Champlain.",
+        "startDate": "2026-03-10T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12096",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/ornithoryinque",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12094",
+          "url": "https://scenesfrancophones.ca/artistes/coproduction-theatre-lescaouette-et-theatre-tour-de-role",
+          "name": "Coproduction : théâtre l’Escaouette et Théâtre À tour de rôle",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-ouimet-sos-12097",
+        "name": "Melissa Ouimet - SOS",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/melissa-ouimet_photo-de-presse_credit-gaelle-leroyer.jpg?itok=8H09H0EP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Gaelle Leroyer"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Avec un amalgame de pop, rock et néo-soul, le spectacle \"SOS\" de Mélissa Ouimet transporte le public dans un voyage musical vibrant, captivant et rassembleur. Récipiendaire d’un Trille Or pour son spectacle ainsi que pour sa chanson « Amours jetables », l’artiste franco-ontarienne nous promet une soirée riche en émotions. Melissa a captivé les foules à travers le Canada, que ce soit lors de festivals tels que les Francos de Montréal, le FestiVoix de Trois-Rivières ou même aux Jeux olympiques de Vancouver. Reconnue pour son énergie contagieuse et sa fougue sur scène, Mélissa aborde, sous des mélodies accrocheuses, des thématiques universelles comme les ruptures, la persévérance, les dépendances… et bien plus encore. Entourée de ses musiciens, elle propose les pièces à succès de son répertoire, Sans tomber, In Love Again et son plus récent extrait Un peu moins que nous, en plus de revisiter celles de ses plus grandes inspirations musicales.",
+        "startDate": "2026-02-27T20:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12097",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/hrt260227001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5406",
+            "url": "https://scenesfrancophones.ca/artistes/melissa-ouimet-0",
+            "name": "Melissa Ouimet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/coproduction-theatre-lescaouette-et-theatre-tour-de-role-ornithorynques-12100",
+        "name": "Coproduction : théâtre l’Escaouette et Théâtre À tour de rôle -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/5_2.jpg?itok=CjSbJvvR",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "À la suite du succès connu lors de sa création au théâtre l’Escaouette en février 2024, ce spectacle, qui rassemble une impressionnante distribution, connaîtra une nouvelle série de 10 représentations à Moncton, Ottawa, Montréal et Caraquet.\r\n\r\nOrnithorynques, c’est l’histoire d’une poignée de marginaux qui racontent l’été 1990, au nord du Nouveau-Brunswick.  Sardine, douze ans, et son oncle Steve naviguent parmi les secrets familiaux avec des cœurs qui battent le rythme au son de la pop de cette fin du vingtième siècle.\r\n\r\nCet été-là, quelque chose s’est brisé — et personne ne détient toute l’histoire. À travers les souvenirs croisés de Sardine, de sa mère Jackie et de son oncle Steve, Ornithorynques dévoile lentement ce qu’on aurait préféré taire.\r\n\r\nAvec une langue franche et vivante, l’autrice Johanne Parent explore les silences pesants des régions éloignées, les blessures enfouies et ce moment fragile où l’on commence à se reconstruire.\r\n\r\nJohanne Parent a été finaliste avec ce texte au Prix Gratien-Gélinas, au Prix du Gouverneur général et au Prix Champlain.",
+        "startDate": "2026-03-11T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12100",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/ornithoryinque",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12098",
+          "url": "https://scenesfrancophones.ca/artistes/coproduction-theatre-lescaouette-et-theatre-tour-de-role-0",
+          "name": "Coproduction : théâtre l’Escaouette et Théâtre À tour de rôle",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-ouimet-sos-12101",
+        "name": "Melissa Ouimet - SOS",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/melissa-ouimet_photo-de-presse_credit-gaelle-leroyer.jpg?itok=8H09H0EP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Gaelle Leroyer"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Avec un amalgame de pop, rock et néo-soul, le spectacle \"SOS\" de Mélissa Ouimet transporte le public dans un voyage musical vibrant, captivant et rassembleur. Récipiendaire d’un Trille Or pour son spectacle ainsi que pour sa chanson « Amours jetables », l’artiste franco-ontarienne nous promet une soirée riche en émotions. Melissa a captivé les foules à travers le Canada, que ce soit lors de festivals tels que les Francos de Montréal, le FestiVoix de Trois-Rivières ou même aux Jeux olympiques de Vancouver. Reconnue pour son énergie contagieuse et sa fougue sur scène, Mélissa aborde, sous des mélodies accrocheuses, des thématiques universelles comme les ruptures, la persévérance, les dépendances… et bien plus encore. Entourée de ses musiciens, elle propose les pièces à succès de son répertoire, Sans tomber, In Love Again et son plus récent extrait Un peu moins que nous, en plus de revisiter celles de ses plus grandes inspirations musicales.",
+        "startDate": "2026-03-21T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12101",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/node/1064",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "57, rue Simcoe Sud, bureau 2D",
+            "addressLocality": "Oshawa",
+            "addressRegion": "ON",
+            "postalCode": "L1H 4G4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.895895",
+            "longitude": "-78.862579"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1064"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/87",
+          "name": "Conseil des organismes francophones de la région de Durham",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-organismes-francophones-de-la-region-de-durham"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5406",
+            "url": "https://scenesfrancophones.ca/artistes/melissa-ouimet-0",
+            "name": "Melissa Ouimet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/melissa-ouimet-sos-12102",
+        "name": "Melissa Ouimet - SOS",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/melissa-ouimet_photo-de-presse_credit-gaelle-leroyer.jpg?itok=8H09H0EP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Gaelle Leroyer"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Avec un amalgame de pop, rock et néo-soul, le spectacle \"SOS\" de Mélissa Ouimet transporte le public dans un voyage musical vibrant, captivant et rassembleur. Récipiendaire d’un Trille Or pour son spectacle ainsi que pour sa chanson « Amours jetables », l’artiste franco-ontarienne nous promet une soirée riche en émotions. Melissa a captivé les foules à travers le Canada, que ce soit lors de festivals tels que les Francos de Montréal, le FestiVoix de Trois-Rivières ou même aux Jeux olympiques de Vancouver. Reconnue pour son énergie contagieuse et sa fougue sur scène, Mélissa aborde, sous des mélodies accrocheuses, des thématiques universelles comme les ruptures, la persévérance, les dépendances… et bien plus encore. Entourée de ses musiciens, elle propose les pièces à succès de son répertoire, Sans tomber, In Love Again et son plus récent extrait Un peu moins que nous, en plus de revisiter celles de ses plus grandes inspirations musicales.",
+        "startDate": "2026-03-20T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12102",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5406",
+            "url": "https://scenesfrancophones.ca/artistes/melissa-ouimet-0",
+            "name": "Melissa Ouimet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mimi-obonsawin-mimi-obonsawin-12103",
+        "name": "Mimi O'bonsawin - Mimi O'Bonsawin",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/mimi-headshot---cr-jenn-squires.jpg?itok=LudL_Vxw",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jenn Squires"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Mimi O'Bonsawin Trio Concert est destiné aux festivals ou à la programmation grand public.\r\nAprès une tournée des festivals à travers le Canada à l'été 2023, une seconde tournée en France (printemps 2024) soutenue par l'APCM, Rue Haute Production (FR), Le Grand Bain Production (FR) et Le Labo du Convervatoir/Festival Changez D'Air (FR) et une autre tournée d'été au Canada d'un océan à l'autre, Mimi et son groupe sont rompus aux diverses programmations incluant les festivals et les centres d'arts de la scène. Mimi a entamé les démarches pour exporter son projet en France et en Europe.",
+        "startDate": "2026-03-27T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12103",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.alliance-francaise.ca/fr/art/saison-culturelle/concerts/284-mimi-obonsawin",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4408",
+            "url": "https://scenesfrancophones.ca/artistes/mimi-obonsawin",
+            "name": "Mimi O'bonsawin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mimi-obonsawin-mimi-obonsawin-12104",
+        "name": "Mimi O'bonsawin - Mimi O'Bonsawin",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/mimi-headshot---cr-jenn-squires.jpg?itok=LudL_Vxw",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jenn Squires"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Mimi O'Bonsawin Trio Concert est destiné aux festivals ou à la programmation grand public.\r\nAprès une tournée des festivals à travers le Canada à l'été 2023, une seconde tournée en France (printemps 2024) soutenue par l'APCM, Rue Haute Production (FR), Le Grand Bain Production (FR) et Le Labo du Convervatoir/Festival Changez D'Air (FR) et une autre tournée d'été au Canada d'un océan à l'autre, Mimi et son groupe sont rompus aux diverses programmations incluant les festivals et les centres d'arts de la scène. Mimi a entamé les démarches pour exporter son projet en France et en Europe.",
+        "startDate": "2026-03-28T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12104",
+        "location": {
+          "@type": "Place",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/node/1050",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2720, chemin Richmond",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K2B 6S2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.358648",
+            "longitude": "-75.792699"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1050"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://cmfo.ca/boutique/?swoof=1&product_cat=spectacles-et-prestations&paged=1",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/73",
+          "name": "Maison de la francophonie d’Ottawa (CMFO)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/maison-de-la-francophonie-dottawa-cmfo"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4408",
+            "url": "https://scenesfrancophones.ca/artistes/mimi-obonsawin",
+            "name": "Mimi O'bonsawin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/waahli-12105",
+        "name": "Waahli",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/waahli---bruno-destombes.jpg?itok=fibeIpIN",
+          "width": "430",
+          "height": "430",
+          "creditText": "Bruno Destombes"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Waahli est un artiste montréalais d’origine haïtienne dont la musique est un vibrant mélange de hip-hop, afrobeat, reggae et funk haïtien. Sa démarche artistique singulière est profondément ancrée dans ses origines et son identité plurielle. Il interprète ses chansons en anglais, français et créole haïtien. Sur scène, il est accompagné de 3 musiciens avec qui il partage une complicité exceptionnelle, créant une énergie contagieuse. Il ne se contente pas de livrer une performance musicale : il interagit avec son public, l’invite à participer et à vivre une expérience inoubliable.",
+        "startDate": "2026-04-10T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12105",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Le Sésame",
+          "url": "https://scenesfrancophones.ca/node/1045",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1290 rue Wheathill",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7M 0A7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.24737",
+            "longitude": "-76.56108"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1045"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://centreculturelfrontenac.com/saison2526-waahli/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8629",
+            "url": "https://scenesfrancophones.ca/artistes/waahli",
+            "name": "Waahli"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/waahli-12106",
+        "name": "Waahli",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/waahli---bruno-destombes.jpg?itok=fibeIpIN",
+          "width": "430",
+          "height": "430",
+          "creditText": "Carl Hungerbuehler"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Waahli est un artiste montréalais d’origine haïtienne dont la musique est un vibrant mélange de hip-hop, afrobeat, reggae et funk haïtien. Sa démarche artistique singulière est profondément ancrée dans ses origines et son identité plurielle. Il interprète ses chansons en anglais, français et créole haïtien. Sur scène, il est accompagné de 3 musiciens avec qui il partage une complicité exceptionnelle, créant une énergie contagieuse. Il ne se contente pas de livrer une performance musicale : il interagit avec son public, l’invite à participer et à vivre une expérience inoubliable.",
+        "startDate": "2026-04-11T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12106",
+        "location": {
+          "@type": "Place",
+          "name": "Quatrième Salle",
+          "url": "https://scenesfrancophones.ca/node/12089",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1 rue Elgin",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K1P 5W1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.423309",
+            "longitude": "-75.693456"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12089"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/71",
+          "name": "Centre national des Arts",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-national-des-arts"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8629",
+            "url": "https://scenesfrancophones.ca/artistes/waahli",
+            "name": "Waahli"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/waahli-12107",
+        "name": "Waahli",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/waahli---bruno-destombes.jpg?itok=fibeIpIN",
+          "width": "430",
+          "height": "430",
+          "creditText": "Carl Hungerbuehler"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Waahli est un artiste montréalais d’origine haïtienne dont la musique est un vibrant mélange de hip-hop, afrobeat, reggae et funk haïtien. Sa démarche artistique singulière est profondément ancrée dans ses origines et son identité plurielle. Il interprète ses chansons en anglais, français et créole haïtien. Sur scène, il est accompagné de 3 musiciens avec qui il partage une complicité exceptionnelle, créant une énergie contagieuse. Il ne se contente pas de livrer une performance musicale : il interagit avec son public, l’invite à participer et à vivre une expérience inoubliable.",
+        "startDate": "2026-06-11T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12107",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8629",
+            "url": "https://scenesfrancophones.ca/artistes/waahli",
+            "name": "Waahli"
           }
         ]
       }
@@ -65590,6 +68318,30 @@
           "longitude": "-66.062291"
         },
         "@id": "https://scenesfrancophones.ca/id/11981"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12089",
+        "name": "Quatrième Salle",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1 rue Elgin",
+          "addressLocality": "Ottawa",
+          "addressRegion": "ON",
+          "postalCode": "K1P 5W1",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.423309",
+          "longitude": "-75.693456"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12089"
       }
     ]
   },
