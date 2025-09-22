@@ -2883,22 +2883,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/6037",
         "url": "https://scenesfrancophones.ca/artistes/jourdan-thibodeaux",
-        "name": "Jourdan Thibodeaux",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-07/JT%20Promo%20cr%20Joseph%20Vidrine.jpg?itok=yTNLswW8",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Jourdan Thibodeaux"
       }
     ]
   },
@@ -10869,6 +10857,38 @@
         "@id": "https://scenesfrancophones.ca/id/12109",
         "url": "https://scenesfrancophones.ca/artistes/matiu",
         "name": "Matiu"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12113",
+        "url": "https://scenesfrancophones.ca/artistes/luc-langevin",
+        "name": "Luc Langevin"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12144",
+        "url": "https://scenesfrancophones.ca/artistes/audrey-gaussiran",
+        "name": "Audrey Gaussiran"
       }
     ]
   },
@@ -22709,15 +22729,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6037",
             "url": "https://scenesfrancophones.ca/artistes/jourdan-thibodeaux",
-            "name": "Jourdan Thibodeaux",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Jourdan Thibodeaux"
           }
         ]
       }
@@ -22775,15 +22790,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6037",
             "url": "https://scenesfrancophones.ca/artistes/jourdan-thibodeaux",
-            "name": "Jourdan Thibodeaux",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Jourdan Thibodeaux"
           }
         ]
       }
@@ -22841,15 +22851,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6037",
             "url": "https://scenesfrancophones.ca/artistes/jourdan-thibodeaux",
-            "name": "Jourdan Thibodeaux",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Jourdan Thibodeaux"
           }
         ]
       }
@@ -22907,15 +22912,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6037",
             "url": "https://scenesfrancophones.ca/artistes/jourdan-thibodeaux",
-            "name": "Jourdan Thibodeaux",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Jourdan Thibodeaux"
           }
         ]
       }
@@ -27719,15 +27719,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6037",
             "url": "https://scenesfrancophones.ca/artistes/jourdan-thibodeaux",
-            "name": "Jourdan Thibodeaux",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Jourdan Thibodeaux"
           }
         ]
       }
@@ -38013,7 +38008,7 @@
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2812%29.png?itok=Ixsyib_4",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2825%29.png?itok=5bvd8IYD",
           "width": "430",
           "height": "430"
         },
@@ -43515,7 +43510,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Luc Langevin est enfin de retour avec un tout nouveau spectacle à grand déploiement. Au sommet de son art et en parfaite maîtrise de son talent unique, il exécute avec finesse et précision des numéros de grandes illusions, créés sur mesure avec son complice de toujours, le magicien Stéphane Bourgoin. Dans un écrin de lumière où la magie opère, les effets sont époustouflants et touchants à la fois; la musique nous envoûte et nous transporte.\r\n\r\nLe quatrième spectacle de l’illusionniste frappe l’imaginaire. Il explore la dualité entre la tête et le cœur, nous invitant dans un monde fabriqué de toutes pièces pour fuir le réel.\r\n\r\nUn spectacle étonnant qu’il présentera dans toute la francophonie et un peu partout à travers le monde au cours des prochaines années.",
-        "startDate": "2025-09-18T19:00:00-04:00",
+        "startDate": "2026-05-06T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9087",
         "location": {
@@ -45467,11 +45462,11 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-brian-st-pierre-9240",
+        "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-malgre-tout-9240",
         "name": "Brian St-Pierre - SIMPLEMENT BRIAN",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Récipiendaire du prix Hommage Trille Or 2023, Brian St-Pierre nous présente son nouveau spectacle rempli d’énergie et d’émotions avec son nouvel album ainsi que ses plus grands succès. Ce spectacle est présenté en formule intime (duo).",
+        "description": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle et album “Malgré tout”.  Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade.  L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore.  On y découvre ses compositions originales de son nouvel album et on revit ses plus grands succès.",
         "startDate": "2026-04-09T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9240",
@@ -48723,11 +48718,11 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-fou-de-toi-10222",
+        "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-malgre-tout-10222",
         "name": "Brian St-Pierre - SIMPLEMENT BRIAN",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle “Fou de toi”. Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade. L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore. On y découvre ses compositions originales de son nouvel album qui sortira au printemps 2024 et on revit ses plus grands succès.",
+        "description": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle et album “Malgré tout”.  Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade.  L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore.  On y découvre ses compositions originales de son nouvel album et on revit ses plus grands succès.",
         "startDate": "2026-03-27T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10222",
@@ -50904,6 +50899,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://www.eventbrite.ca/e/samantha-tickets-1431849403109?aff=ebdssbdestsearch&keep_tld=1",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -50941,7 +50937,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Comme un grand chansonnier, entouré de sa guitare, son banjo et ses harmonicas Jacques Surette est un raconteur d'histoire qui charme son public par son naturel et sa simplicité. Il offre un spectacle simple, mais efficace, où chansons en français, et parfois en anglais, se mélangent pour mieux comprendre la dualité linguistique de son quotidien. En juin 2019, il sortait son premier disque plutôt folk intitulé « Marche, marche, marche », co-réalisé par Lisa LeBlanc et Benoit Morier. Son deuxième album, « Jacques Surette II » sorti en 2020, a été réalisé par Mike Trask et Christien Belliveau. Son troisième album, « Conséquences », est sorti en novembre 2023 et a été réalisé par Éric Dion et André Lavergne du duo Dans l’Shed. En octobre 2025, il lancera un 4e album réalisé avec une équipe 100 % néo-écossaise dirigée par le réalisateur Charles Robicheau ! Tous ses albums sont du label acadien Le Grenier musique, de Moncton.",
-        "startDate": "2025-10-23T09:00:00-03:00",
+        "startDate": "2025-10-23T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10378",
         "location": {
@@ -50965,7 +50961,7 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://societeculturelledeshautsplateaux.ticketacces.net/fr/organisation/",
+          "url": "https://societeculturelledeshautsplateaux.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=113",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -51257,7 +51253,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Menoncle Jason est un multi-instrumentiste. Il trouve son inspiration dans la réalité de la vie en campagne. Il recherche les sonorités du «Golden Age» qui colore son style country classique rétro chiac. Avec sa voix profonde et grave, il arrive à créer une ambiance sonore singulière où le son est un peu plus pop rock des années 1960-1970, toujours avec la signature country chantée en chiac qui le définit si bien. Avec une touche d’humour et sa voix barytone, il propose des chansons qui traitent de sujets quelque peu hors-la-loi, mais jamais criminels, et toujours inspirées des couleurs régionales du Sud-Est du Nouveau-Brunswick, son chez lui. Les histoires qu’il écrit sont assurées de toucher les gens !",
-        "startDate": "2025-10-18T09:00:00-03:00",
+        "startDate": "2025-10-18T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10395",
         "location": {
@@ -53510,6 +53506,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://arcf.tuxedobillet.com/main/david-corriveau",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -53551,7 +53548,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
-        "startDate": "2025-10-19T09:00:00-03:00",
+        "startDate": "2025-10-19T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10624",
         "location": {
@@ -53575,6 +53572,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://societeculturellebdc.tuxedobillet.com/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -53616,7 +53614,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
-        "startDate": "2025-10-18T09:00:00-03:00",
+        "startDate": "2025-10-18T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10625",
         "location": {
@@ -53640,6 +53638,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=62",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -53681,7 +53680,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Daniel Lemire fête ses 40 ans de carrière avec un tout nouveau spectacle ! Il fera le tour de l’actualité en stand up comme seul lui sait le faire depuis 40 ans.\r\n\r\nEdmond perdu dans les nouvelles tendances sexuelles. Il croit que LGBT signifie la grande bibliothèque. Yvon Travaillé propose des solutions à la pénurie de main-d’œuvre. Vous assisterez à une fraude en direct. Maurice l’ex-fumeur consulte pour sa gestion de la colère. N’ayant plus de PCU, Ronnie retourne chez ses parents. Et Oncle Georges pourrait-il être un influenceur ?\r\n\r\nEst-ce votre dernière chance de voir du grand Lemire en spectacle?",
-        "startDate": "2025-10-28T09:00:00-03:00",
+        "startDate": "2025-10-28T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10626",
         "location": {
@@ -53705,6 +53704,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/evenements/daniel-lemire-spectacle-40e-anniversaire/?lang=fr",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -53836,6 +53836,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=63",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -53901,6 +53902,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://carbeau.tuxedobillet.com/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -54032,6 +54034,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://ccsa.yapsody.com/event/index/850895/Jrmy-Demay",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -54097,6 +54100,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://societeculturellebdc.tuxedobillet.com/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -54389,6 +54393,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/evenements/chris-belliveau-la-riviere-croche/?lang=fr",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -54475,7 +54480,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/chris-belliveau-la-riviere-croche-11833",
-        "name": "Chris Belliveau - La Rivière croche",
+        "name": "Chris Belliveau - La rivière croche",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -54511,6 +54516,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://monumentlefebvre.tuxedobillet.com/main/chris-belliveau",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -54635,6 +54641,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://societeculturellebdc.tuxedobillet.com/main/bilinguish-boys",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -54884,6 +54891,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=64",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -54931,25 +54939,26 @@
         "@id": "https://scenesfrancophones.ca/id/11841",
         "location": {
           "@type": "Place",
-          "name": "Salle BMO",
-          "url": "https://scenesfrancophones.ca/node/2564",
+          "name": "Le Baratie",
+          "url": "https://scenesfrancophones.ca/node/12138",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "112 Princess Street",
-            "addressLocality": "Saint-Jean",
+            "streetAddress": "200 Bridge Rd",
+            "addressLocality": "Saint Jean",
             "addressRegion": "NB",
-            "postalCode": "E2L 1K4",
+            "postalCode": "E2K 1E9",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "45.27157",
-            "longitude": "-66.058813"
+            "latitude": "45.258853",
+            "longitude": "-66.088037"
           },
-          "@id": "https://scenesfrancophones.ca/id/2564"
+          "@id": "https://scenesfrancophones.ca/id/12138"
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://arcf.tuxedobillet.com/main/maude-sonier-et-adrian-house/20251115190000",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -55177,6 +55186,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=68",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -55212,7 +55222,7 @@
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2825%29.png?itok=5bvd8IYD",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/8-benny-jones-1280x860.jpg?itok=1TUtKTKu",
           "width": "430",
           "height": "430",
           "creditText": "Dominique Lebel"
@@ -55243,6 +55253,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/evenements/benny-jones/?lang=fr",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -55302,6 +55313,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://www.eventbrite.ca/e/bilinguish-boys-tickets-1363386237939?aff=ebdssbdestsearch&keep_tld=1",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -55367,6 +55379,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://societeculturelledeshautsplateaux.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=113",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -55432,6 +55445,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=65",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -55498,6 +55512,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=69",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -55811,6 +55826,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://capitol.tuxedobillet.com/main/souldia",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -55875,6 +55891,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://arcf.tuxedobillet.com/main/bilinguish-boys-ccf/20251123140000",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -56005,6 +56022,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://societeculturellebdc.tuxedobillet.com/main/coco-belliveau",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -56135,6 +56153,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://capitol.tuxedobillet.com/main/messe?axeptio_token=7p61m31p7iwznicw5bvjv&_gl=1*117wgm2*_gcl_aw*R0NMLjE3NTgzMDk0NDQuRUFJYUlRb2JDaE1JeWRuZ2lNWGxqd01WOWtsSEFSM3FDaW9QRUFBWUFTQUNFZ0xHZGZEX0J3RQ..*_gcl_au*NzY2NDQyNDM0LjE3NTE5OTQ3Njc.*_ga*MjA3NjE5MjEyMC4xNzUxOTk0NzU5*_ga_7F6R7F4Q6Y*czE3NTgzMDk0MzckbzIkZzEkdDE3NTgzMDk1MDQkajU1JGwwJGgw",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -56447,6 +56466,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/evenements/messe-jmettrai-le-feu/?lang=fr",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -56571,6 +56591,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=66",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -56804,7 +56825,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "startDate": "2026-01-23T08:00:00-04:00",
+        "startDate": "2026-01-23T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11878",
         "location": {
@@ -56828,6 +56849,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://billetterietracadie.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30225",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -56892,6 +56914,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=79",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -57023,6 +57046,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=71",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -57065,7 +57089,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": " Cayenne interprète avec justesse et fougue des récits tantôt champ gauche et énergiques, tantôt introspectifs et sensibles. Au menu : féminisme, préoccupations milléniales, recherche identitaire à travers l’amour du territoire, le tout nappé d’influences qui valsent avec le polyamour musical. C’est la rencontre avec une sympathique bibitte au coeur grand comme la vaste Côte-Nord. Son premier album, SNOWFLAKE, a été lancé à l’automne 2022.Cette année, Cayenne sort de son hibernation pour concocter quelques nouvelles stridulations musicales. C’est entre deux changements de couche et un sommeil perturbé que l’artiste accouchera de son nouvel opus à l’automne 2026. Avec un répertoire revampé et de nouvelles envolées guitaristiques, elle vous parlera de Paula, de Mireille, d’Alyson... peut-être de l’érosion des berges à Pointe-aux-Outardes et très certainement de la grève des enseignants. Le tout dans un tout nouveau spectacle en formule réduite : cocktail mOlOtOv. Simple, savoureux, explosif. Pas de compromis sur les gros mots, les régionalismes et l’irrévérence.",
-        "startDate": "2026-01-28T08:00:00-04:00",
+        "startDate": "2026-01-28T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11883",
         "location": {
@@ -57089,6 +57113,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/evenements/cayenne/?lang=fr",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -57149,6 +57174,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://ccsa.yapsody.com/event/index/850901/Alphonse-Bisaillon-Cayenne",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -57214,6 +57240,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://arcf.tuxedobillet.com/main/plateau-double-bisaillon-cayenne",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -57387,7 +57414,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": " Cayenne interprète avec justesse et fougue des récits tantôt champ gauche et énergiques, tantôt introspectifs et sensibles. Au menu : féminisme, préoccupations milléniales, recherche identitaire à travers l’amour du territoire, le tout nappé d’influences qui valsent avec le polyamour musical. C’est la rencontre avec une sympathique bibitte au coeur grand comme la vaste Côte-Nord. Son premier album, SNOWFLAKE, a été lancé à l’automne 2022.Cette année, Cayenne sort de son hibernation pour concocter quelques nouvelles stridulations musicales. C’est entre deux changements de couche et un sommeil perturbé que l’artiste accouchera de son nouvel opus à l’automne 2026. Avec un répertoire revampé et de nouvelles envolées guitaristiques, elle vous parlera de Paula, de Mireille, d’Alyson... peut-être de l’érosion des berges à Pointe-aux-Outardes et très certainement de la grève des enseignants. Le tout dans un tout nouveau spectacle en formule réduite : cocktail mOlOtOv. Simple, savoureux, explosif. Pas de compromis sur les gros mots, les régionalismes et l’irrévérence.",
-        "startDate": "2026-02-01T08:00:00-04:00",
+        "startDate": "2026-02-01T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11888",
         "location": {
@@ -57411,6 +57438,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://carbeau.tuxedobillet.com/main/cayenne",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -57471,6 +57499,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://www.eventbrite.ca/e/samantha-tickets-1431849403109?aff=ebdssbdestsearch&keep_tld=1",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -57808,7 +57837,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Tout frais sortant des confins du Nord-Ouest du Nouveau-Brunswick, La Grosse Équipe arrive avec un tout premier album et spectacle, \"Rose Motel\". Ce spectacle, c'est une véritable bombe de rock n' roll francophone. Un son PESANT, des paroles à la fois crues et réfléchies et des membres qui n’ont pas peur de faire le PARTY et de faire grouiller les gens. La Grosse Équipe ne reste personne indifférent et ne sont là que pour une seule raison: vous faire passer un good time. Comme ils le disent si bien eux-mêmes : on a eu l’air fou, mais ô moins on aura eu bien du fun!",
-        "startDate": "2026-02-28T08:00:00-04:00",
+        "startDate": "2026-02-28T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11898",
         "location": {
@@ -57832,6 +57861,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://carbeau.tuxedobillet.com/main/la-grosse-equipe",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -57938,6 +57968,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=68",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -57979,7 +58010,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Après l'immense succès télévisuel de l’émission, Passe-Partout, Passe-Carreau et Passe-Montagne reprennent enfin la route à la rencontre de leurs poussinots et poussinettes. Retrouvez-les sur scène dans un spectacle de 50 minutes incluant des jeux participatifs et les chansons populaires de l'émission préférée des tout-petits à Télé-Québec.\r\n\r\nUn spectacle à la fois divertissant et stimulant pour tous les enfants d'âge préscolaire… et les parents nostalgiques!",
-        "startDate": "2026-03-05T08:00:00-04:00",
+        "startDate": "2026-03-05T13:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11901",
         "location": {
@@ -58003,6 +58034,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://billetterietracadie.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=30227",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -58068,6 +58100,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://capitol.tuxedobillet.com/main/coucou-passe-partout",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -58169,7 +58202,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Après l'immense succès télévisuel de l’émission, Passe-Partout, Passe-Carreau et Passe-Montagne reprennent enfin la route à la rencontre de leurs poussinots et poussinettes. Retrouvez-les sur scène dans un spectacle de 50 minutes incluant des jeux participatifs et les chansons populaires de l'émission préférée des tout-petits à Télé-Québec.\r\n\r\nUn spectacle à la fois divertissant et stimulant pour tous les enfants d'âge préscolaire… et les parents nostalgiques!",
-        "startDate": "2026-03-07T08:00:00-04:00",
+        "startDate": "2026-03-07T15:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11904",
         "location": {
@@ -58193,6 +58226,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://ccsa.yapsody.com/event/index/850903/Coucou-PassePartout-le-spectacle",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -58258,6 +58292,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/evenements/passe-partout-coucou-passe-partout-le-spectacle/?lang=fr",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -58323,6 +58358,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://societeculturellebdc.tuxedobillet.com/main/la-grosse-equipe",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -58383,6 +58419,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=69",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -58443,6 +58480,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://www.eventbrite.ca/e/la-grosse-equipe-rose-motel-tickets-1431858680859?aff=ebdssbdestsearch&keep_tld=1",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -58503,6 +58541,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://societeculturelledeshautsplateaux.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=116",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -58540,7 +58579,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.  Et c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin.   Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur.   En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.  ",
-        "startDate": "2026-03-26T09:00:00-03:00",
+        "startDate": "2026-03-26T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11910",
         "location": {
@@ -58564,6 +58603,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/evenements/david-corriveau-100-contrefacons/?lang=fr",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -58684,6 +58724,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/evenements/la-grosse-equipe-rose-motel/?lang=fr",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -58720,7 +58761,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Tout frais sortant des confins du Nord-Ouest du Nouveau-Brunswick, La Grosse Équipe arrive avec un tout premier album et spectacle, \"Rose Motel\". Ce spectacle, c'est une véritable bombe de rock n' roll francophone. Un son PESANT, des paroles à la fois crues et réfléchies et des membres qui n’ont pas peur de faire le PARTY et de faire grouiller les gens. La Grosse Équipe ne reste personne indifférent et ne sont là que pour une seule raison: vous faire passer un good time. Comme ils le disent si bien eux-mêmes : on a eu l’air fou, mais ô moins on aura eu bien du fun!",
-        "startDate": "2026-03-21T09:00:00-03:00",
+        "startDate": "2026-03-21T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11913",
         "location": {
@@ -58744,6 +58785,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://ccsa.yapsody.com/event/index/854813/La-Grosse-quipe",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -58804,6 +58846,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://societeculturellebdc.tuxedobillet.com/main/mike-ward",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -58935,6 +58978,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://capitol.tuxedobillet.com/main/mike-ward",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -59000,6 +59044,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/evenements/mike-ward-modeste/?lang=fr",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -59102,7 +59147,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Dans “Debout”, je vous raconte tout ce qui me pousse à sortir du lit chaque matin : mon métier, mes jumelles (qui n’ont aucune pitié pour la grasse matinée), et un quotidien rempli d’anecdotes aussi farfelues qu’inattendues. Un spectacle drôle, sincère et énergique... parce que rester debout, c’est déjà une victoire ! “Debout”, c’est plus qu’un simple spectacle de stand-up, c’est une plongée dans tout ce qui me donne envie de me lever le matin. Entre rêves, galères, absurdités du quotidien et grandes questions existentielles, je vous embarque dans un voyage drôle et sincère à travers mes motivations (parfois étranges) pour affronter chaque journée. Alors, qu’est-ce qui me tient debout ? \r\n\r\n\r\nL’artiste\r\n\r\nVenez le découvrir... et peut-être que vous repartirez avec des raisons en plus de vous lever demain ! Alex Roy est un humoriste qui manie l’art du stand-up avec une énergie débordante et un sens aigu de l’autodérision. Avec son franc-parler et sa capacité à transformer les situations du quotidien en histoires hilarantes, il vous embarque dans un univers où chaque détail devient matière à rire. Que ce soit pour parler de sa famille, de ses expériences de vie ou de ses réflexions improbables, Alex Roy sait comment captiver son public en mêlant sincérité, absurdité et une bonne dose d’impertinence. Préparez-vous à rire... et à vous reconnaître (parfois malgré vous) dans ses anecdotes décapantes !",
-        "startDate": "2026-04-09T09:00:00-03:00",
+        "startDate": "2026-04-09T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11920",
         "location": {
@@ -59126,6 +59171,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/evenements/alex-roy-debout-en-rodage/?lang=fr",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -59168,7 +59214,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "ON / OFF met en scène un quintette d'interprètes en action sur un dispositif étonnant, un tapis de course. Cinq interprètes évoluent dans un espace restreint où le mouvement devient à la fois contraint et spectaculaire. Le spectacle explore des thèmes tels que le dépassement de soi, la liberté, l’identité, le vivre-ensemble et la complexité des émotions humaines. Le tapis symbolise le passage de l’enfance à l’âge adulte. Les interprètes, tantôt en maîtrise, tantôt dépassés, cherchent leur place dans le monde à travers un dialogue constant entre corps, machine et espace.",
-        "startDate": "2026-04-09T09:00:00-03:00",
+        "startDate": "2026-04-09T19:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11921",
         "location": {
@@ -59192,6 +59238,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://carbeau.tuxedobillet.com/main/grand-poney",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -59252,6 +59299,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=67",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -59383,6 +59431,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://arcf.tuxedobillet.com/main/danse-onoff-grand-poney/20260411150000",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -59443,6 +59492,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://ccsa.yapsody.com/event/index/850905/Alex-Roy",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -59715,7 +59765,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Rescapé d’un music hall des années 20, un couple de télépathes dysfonctionnel livre un croisement unique de prouesses de magie actuelle et d'un concert de femme-orchestre aux instruments inusités. Lévitations, disparitions, évasion et télépathie: un duo captivant, classique et spectaculaire qui saura envouter toute la famille!",
-        "startDate": "2026-04-22T09:00:00-03:00",
+        "startDate": "2026-04-22T19:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11930",
         "location": {
@@ -59739,6 +59789,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://societeculturellebdc.tuxedobillet.com/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -59863,7 +59914,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Rescapé d’un music hall des années 20, un couple de télépathes dysfonctionnel livre un croisement unique de prouesses de magie actuelle et d'un concert de femme-orchestre aux instruments inusités. Lévitations, disparitions, évasion et télépathie: un duo captivant, classique et spectaculaire qui saura envouter toute la famille!",
-        "startDate": "2026-04-24T09:00:00-03:00",
+        "startDate": "2026-04-24T18:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11932",
         "location": {
@@ -59887,6 +59938,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://carbeau.tuxedobillet.com/main/recital-de-magie",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -59928,11 +59980,31 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. Dans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
-        "startDate": "2026-04-24T09:00:00-03:00",
+        "startDate": "2026-04-24T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11934",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts d'Edmundston",
+          "url": "https://scenesfrancophones.ca/node/521",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "82, rue Canada",
+            "addressLocality": "Edmundston",
+            "addressRegion": "NB",
+            "postalCode": "E3V 1V5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.363907",
+            "longitude": "-68.330138"
+          },
+          "@id": "https://scenesfrancophones.ca/id/521"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/evenements/mme-brule/?lang=fr",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -60048,30 +60120,31 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "En 1692 à Salem, des procès ont été mis en place afin de mettre fin à la sorcellerie. Des centaines d'années plus tard, Coco Belliveau fait le rodage de son prochain spectacle. Coïncidence ? Nous ne croyons pas…. \r\n\r\nJoignez-vous à cette charmante acadienne neurodivergente (et totalement brûlée) pour une soirée de paroles envoûtantes. Vite, avant qu'elle ne soit clouée au pilori pour ses calembredaines et sa Cocologie aiguisée!",
-        "startDate": "2026-04-30T19:30:00-04:00",
+        "startDate": "2026-04-30T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11936",
         "location": {
           "@type": "Place",
-          "name": "Centre Capitol",
-          "url": "https://scenesfrancophones.ca/node/1055",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "150, rue Main E",
-            "addressLocality": "North Bay",
-            "addressRegion": "ON",
-            "postalCode": "P1B 1A8",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "46.309849",
-            "longitude": "-79.463031"
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
           },
-          "@id": "https://scenesfrancophones.ca/id/1055"
+          "@id": "https://scenesfrancophones.ca/id/509"
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://capitol.tuxedobillet.com/main/coco-belliveau-2026",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -60269,6 +60342,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://ccsa.yapsody.com/event/index/850907/Maxime-Landry-et-Annie-Blanchard",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -60334,6 +60408,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://scrn.ticketacces.net/fr/organisation/representations/index.cfm?EvenementID=70",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -60399,6 +60474,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/evenements/maxime-landry-et-annie-blanchard-le-country-de-nos-idoles/?lang=fr",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -61335,11 +61411,31 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Le spectacle immersif SHERLOCONTE plonge les jeunes au coeur d’une histoire d’enquête interactive qui se déroule dans un dôme gonflable où sont projetés des décors en 360˚.Un intriguant personnage d’inventrice du futur guide les jeunes à travers une intrigue qui comportent une série d’énigmes visuelles, musicales, mathématiques et même émotionnelles, qui ne peuvent être résolues que par un travail en équipe.Toutes les formes de leur intelligence sont stimulées et les jeunes font appel à leurs sens d’observation, de stratégie et de déduction pour ramasser des indices qui servent à déverrouiller toutes les portes de l’histoire…SHERLOCONTE, une expérience futuriste interactive dans laquelle les jeunes utilisent leur logique pour mener une enquête afin de résoudre un mystère.Avec une approche unique où l'énergie, la curiosité, la déduction, l'enthousiasme, et l'humour servent la soif de participer des enfants, Sherloconte est équipée pour surprendre.En effet, l’approche de Sherloconte porte une réflexion sur l’importance de nos différentes formes d’intelligence et ses avantages, et s'assure également de véhiculer des valeurs importantes, adoptées par les familles.• La valorisation de la jeunesse et de ses capacités• L’apprentissage dans un contexte stimulant• La mise en valeur de l’émerveillement et du plaisir sain• Le développement de l’écoute de nos différentes formes d’intelligence• L’ouverture sur les différentes cultures",
-        "startDate": "2026-09-20T09:00:00-03:00",
+        "startDate": "2025-09-20T11:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11973",
+        "location": {
+          "@type": "Place",
+          "name": "Gymnase de l’École des Bâtisseurs",
+          "url": "https://scenesfrancophones.ca/node/12137",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "715 Priestman St.",
+            "addressLocality": "Fredericton",
+            "addressRegion": "NB",
+            "postalCode": "E3B 5W7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.941773",
+            "longitude": "-66.651817"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12137"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://ccsa.yapsody.com/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -61435,7 +61531,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/theatre-gauche-parler-mal-11977",
-        "name": "Théâtre gauche - Parler mal",
+        "name": "Théâtre Gauche - Parler mal",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -61447,11 +61543,31 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Parler mal est un docu-fiction théâtral de Bianca Richard et Gabriel Robichaud. Ils y portent les chapeaux de co-auteurs, de co-metteurs en scène (avec Philip André Collette) et d’interprètes. Leur démarche, amorcée en août 2019, s’est étalée sur près de 5 ans, avant d’être portée à la scène une première fois à Moncton en mai 2024.Le spectacle traite de l’insécurité linguistique, le sentiment d’illégitimité de prendre la parole dans sa langue maternelle dans un contexte plus ou moins formel de communication. À travers une mosaïque de tableaux inspirés d’expériences personnelles, de réalités récoltées sur le terrain et de discussions avec des spécialistes, les artistes ouvrent le dialogue sur cette question, afin de faire face à leur propre malaise linguistique et de s'en libérer. En interrogeant leurs liens avec le phénomène, Bianca Richard et Gabriel Robichaud se posent trois questions: comment l’insécurité commence-t-elle? Comment se développe/manifeste-t-elle? Comment s’en débarrasser ?Le spectre de l’insécurité linguistique est vaste, mais se décline de 4 façons principales:Hyperconscience : conscience aiguë du locuteur que son registre de langue n’est pas le même que la personne avec qui il converse. Cette conscience s’accompagne généralement d’une impression que son registre est inférieur, que cela soit vrai ou non.Hypercorrection : le registre de langue du locuteur devient truffé de fautes, puisque celui-ci, tentant d’épater la galerie, se met à faire des erreurs qu’il ne fait pas d’habitude.Hypocorrection : pour pallier sa honte, le locuteur parle une version exagérée de sa variante stigmatisée du français. Ce trait s’accompagne souvent d’une fierté de façade qui tente de compenser le manque à gagner du sentiment d’illégitimité liée à l’insécurité linguistique.Silence : la marque la plus violente de l’insécurité linguistique, c’est le silence auto-infligé d’un locuteur qui se tait dans sa langue maternelle, ou qui prend la parole dans une langue seconde, afin de ne pas risquer d’affronter la honte liée à sa façon de parler. C’est en brisant ce silence que le projet invite à réfléchir au phénomène de l'insécurité linguistique et à ses conséquences sociales.",
-        "startDate": "2026-03-19T09:00:00-03:00",
+        "startDate": "2026-03-19T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11977",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Gilles Laplante",
+          "url": "https://scenesfrancophones.ca/node/10382",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300 Beaverbrook Rd,",
+            "addressLocality": "Miramichi",
+            "addressRegion": "NB",
+            "postalCode": "E1V 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.008958",
+            "longitude": "-65.587482"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10382"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://carbeau.tuxedobillet.com/main/parler-mal",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -61482,7 +61598,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/theatre-gauche-parler-mal-11978",
-        "name": "Théâtre gauche - Parler mal",
+        "name": "Théâtre Gauche - Parler mal",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -61494,18 +61610,38 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Parler mal est un docu-fiction théâtral de Bianca Richard et Gabriel Robichaud. Ils y portent les chapeaux de co-auteurs, de co-metteurs en scène (avec Philip André Collette) et d’interprètes. Leur démarche, amorcée en août 2019, s’est étalée sur près de 5 ans, avant d’être portée à la scène une première fois à Moncton en mai 2024.Le spectacle traite de l’insécurité linguistique, le sentiment d’illégitimité de prendre la parole dans sa langue maternelle dans un contexte plus ou moins formel de communication. À travers une mosaïque de tableaux inspirés d’expériences personnelles, de réalités récoltées sur le terrain et de discussions avec des spécialistes, les artistes ouvrent le dialogue sur cette question, afin de faire face à leur propre malaise linguistique et de s'en libérer. En interrogeant leurs liens avec le phénomène, Bianca Richard et Gabriel Robichaud se posent trois questions: comment l’insécurité commence-t-elle? Comment se développe/manifeste-t-elle? Comment s’en débarrasser ?Le spectre de l’insécurité linguistique est vaste, mais se décline de 4 façons principales:Hyperconscience : conscience aiguë du locuteur que son registre de langue n’est pas le même que la personne avec qui il converse. Cette conscience s’accompagne généralement d’une impression que son registre est inférieur, que cela soit vrai ou non.Hypercorrection : le registre de langue du locuteur devient truffé de fautes, puisque celui-ci, tentant d’épater la galerie, se met à faire des erreurs qu’il ne fait pas d’habitude.Hypocorrection : pour pallier sa honte, le locuteur parle une version exagérée de sa variante stigmatisée du français. Ce trait s’accompagne souvent d’une fierté de façade qui tente de compenser le manque à gagner du sentiment d’illégitimité liée à l’insécurité linguistique.Silence : la marque la plus violente de l’insécurité linguistique, c’est le silence auto-infligé d’un locuteur qui se tait dans sa langue maternelle, ou qui prend la parole dans une langue seconde, afin de ne pas risquer d’affronter la honte liée à sa façon de parler. C’est en brisant ce silence que le projet invite à réfléchir au phénomène de l'insécurité linguistique et à ses conséquences sociales.",
-        "startDate": "2026-03-17T09:00:00-03:00",
+        "startDate": "2026-03-17T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11978",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://tpacadie.tuxedobillet.com/main/parler-mal",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
           "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "@id": "https://scenesfrancophones.ca/id/58",
+          "name": "Théâtre populaire d’Acadie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-populaire-dacadie"
         },
         "performer": [
           {
@@ -61529,7 +61665,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/theatre-gauche-parler-mal-11979",
-        "name": "Théâtre gauche - Parler mal",
+        "name": "Théâtre Gauche - Parler mal",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -61541,11 +61677,31 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Parler mal est un docu-fiction théâtral de Bianca Richard et Gabriel Robichaud. Ils y portent les chapeaux de co-auteurs, de co-metteurs en scène (avec Philip André Collette) et d’interprètes. Leur démarche, amorcée en août 2019, s’est étalée sur près de 5 ans, avant d’être portée à la scène une première fois à Moncton en mai 2024.Le spectacle traite de l’insécurité linguistique, le sentiment d’illégitimité de prendre la parole dans sa langue maternelle dans un contexte plus ou moins formel de communication. À travers une mosaïque de tableaux inspirés d’expériences personnelles, de réalités récoltées sur le terrain et de discussions avec des spécialistes, les artistes ouvrent le dialogue sur cette question, afin de faire face à leur propre malaise linguistique et de s'en libérer. En interrogeant leurs liens avec le phénomène, Bianca Richard et Gabriel Robichaud se posent trois questions: comment l’insécurité commence-t-elle? Comment se développe/manifeste-t-elle? Comment s’en débarrasser ?Le spectre de l’insécurité linguistique est vaste, mais se décline de 4 façons principales:Hyperconscience : conscience aiguë du locuteur que son registre de langue n’est pas le même que la personne avec qui il converse. Cette conscience s’accompagne généralement d’une impression que son registre est inférieur, que cela soit vrai ou non.Hypercorrection : le registre de langue du locuteur devient truffé de fautes, puisque celui-ci, tentant d’épater la galerie, se met à faire des erreurs qu’il ne fait pas d’habitude.Hypocorrection : pour pallier sa honte, le locuteur parle une version exagérée de sa variante stigmatisée du français. Ce trait s’accompagne souvent d’une fierté de façade qui tente de compenser le manque à gagner du sentiment d’illégitimité liée à l’insécurité linguistique.Silence : la marque la plus violente de l’insécurité linguistique, c’est le silence auto-infligé d’un locuteur qui se tait dans sa langue maternelle, ou qui prend la parole dans une langue seconde, afin de ne pas risquer d’affronter la honte liée à sa façon de parler. C’est en brisant ce silence que le projet invite à réfléchir au phénomène de l'insécurité linguistique et à ses conséquences sociales.",
-        "startDate": "2026-03-12T09:00:00-03:00",
+        "startDate": "2026-03-12T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11979",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts d'Edmundston",
+          "url": "https://scenesfrancophones.ca/node/521",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "82, rue Canada",
+            "addressLocality": "Edmundston",
+            "addressRegion": "NB",
+            "postalCode": "E3V 1V5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.363907",
+            "longitude": "-68.330138"
+          },
+          "@id": "https://scenesfrancophones.ca/id/521"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://artsedmundston.ca/spectacles/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -61588,11 +61744,12 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Parler mal est un docu-fiction théâtral de Bianca Richard et Gabriel Robichaud. Ils y portent les chapeaux de co-auteurs, de co-metteurs en scène (avec Philip André Collette) et d’interprètes. Leur démarche, amorcée en août 2019, s’est étalée sur près de 5 ans, avant d’être portée à la scène une première fois à Moncton en mai 2024.Le spectacle traite de l’insécurité linguistique, le sentiment d’illégitimité de prendre la parole dans sa langue maternelle dans un contexte plus ou moins formel de communication. À travers une mosaïque de tableaux inspirés d’expériences personnelles, de réalités récoltées sur le terrain et de discussions avec des spécialistes, les artistes ouvrent le dialogue sur cette question, afin de faire face à leur propre malaise linguistique et de s'en libérer. En interrogeant leurs liens avec le phénomène, Bianca Richard et Gabriel Robichaud se posent trois questions: comment l’insécurité commence-t-elle? Comment se développe/manifeste-t-elle? Comment s’en débarrasser ?Le spectre de l’insécurité linguistique est vaste, mais se décline de 4 façons principales:Hyperconscience : conscience aiguë du locuteur que son registre de langue n’est pas le même que la personne avec qui il converse. Cette conscience s’accompagne généralement d’une impression que son registre est inférieur, que cela soit vrai ou non.Hypercorrection : le registre de langue du locuteur devient truffé de fautes, puisque celui-ci, tentant d’épater la galerie, se met à faire des erreurs qu’il ne fait pas d’habitude.Hypocorrection : pour pallier sa honte, le locuteur parle une version exagérée de sa variante stigmatisée du français. Ce trait s’accompagne souvent d’une fierté de façade qui tente de compenser le manque à gagner du sentiment d’illégitimité liée à l’insécurité linguistique.Silence : la marque la plus violente de l’insécurité linguistique, c’est le silence auto-infligé d’un locuteur qui se tait dans sa langue maternelle, ou qui prend la parole dans une langue seconde, afin de ne pas risquer d’affronter la honte liée à sa façon de parler. C’est en brisant ce silence que le projet invite à réfléchir au phénomène de l'insécurité linguistique et à ses conséquences sociales.",
-        "startDate": "2026-03-21T09:00:00-03:00",
+        "startDate": "2026-03-21T19:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11980",
         "offers": {
           "@type": "Offer",
+          "url": "https://www.eventbrite.ca/e/parler-mal-tickets-1538046802389?aff=ebdssbdestsearch&keep_tld=1",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -64019,6 +64176,1222 @@
             "name": "Waahli"
           }
         ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/luc-langevin-lillusionniste-12115",
+        "name": "Luc Langevin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Là où l'impossible prend vie\r\nLuc Langevin est enfin de retour avec un tout nouveau spectacle à grand déploiement. Au sommet de son art et en parfaite maîtrise de son talent unique, il exécute avec finesse et précision des numéros de grandes illusions, créés sur mesure avec son complice de toujours, le magicien Stéphane Bourgoin. Dans un écrin de lumière où la magie opère, les effets sont époustouflants et touchants à la fois; la musique nous envoûte et nous transporte.\r\n\r\nLe quatrième spectacle de l’illusionniste frappe l’imaginaire. Il explore la dualité entre la tête et le cœur, nous invitant dans un monde fabriqué de toutes pièces pour fuir le réel.\r\n\r\nUn spectacle étonnant qu’il présentera dans toute la francophonie et un peu partout à travers le monde au cours des prochaines années.",
+        "startDate": "2026-05-05T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12115",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts Shenkman – salle Harold-Shenkman",
+          "url": "https://scenesfrancophones.ca/node/9075",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "245 Centrum Blvd",
+            "addressLocality": "Orléans",
+            "addressRegion": "ON",
+            "postalCode": "K1E 0A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.480642",
+            "longitude": "-75.511391"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9075"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/75",
+          "name": "MIFO",
+          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12113",
+          "url": "https://scenesfrancophones.ca/artistes/luc-langevin",
+          "name": "Luc Langevin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-malgre-tout-12116",
+        "name": "Brian St-Pierre - Malgré tout",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/brian-st-pierre-cr-Lexine_Photographie.jpg?itok=FFP0AAcH",
+          "width": "430",
+          "height": "430",
+          "creditText": "Lexine Photographie"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle et album “Malgré tout”.  Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade.  L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore.  On y découvre ses compositions originales de son nouvel album et on revit ses plus grands succès.",
+        "startDate": "2026-03-20T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12116",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Le Sésame",
+          "url": "https://scenesfrancophones.ca/node/1045",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1290 rue Wheathill",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7M 0A7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.24737",
+            "longitude": "-76.56108"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1045"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://centreculturelfrontenac.com/saison2526-brian-st-pierre/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4109",
+            "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre",
+            "name": "Brian St-Pierre"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-malgre-tout-12117",
+        "name": "Brian St-Pierre - Malgré tout",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/brian-st-pierre-cr-Lexine_Photographie.jpg?itok=FFP0AAcH",
+          "width": "430",
+          "height": "430",
+          "creditText": "Lexine Photographie"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle et album “Malgré tout”.  Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade.  L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore.  On y découvre ses compositions originales de son nouvel album et on revit ses plus grands succès.",
+        "startDate": "2026-04-10T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12117",
+        "location": {
+          "@type": "Place",
+          "name": "Centre culturel La Ronde",
+          "url": "https://scenesfrancophones.ca/node/4155",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "32, rue Mountjoy nord",
+            "addressLocality": "Timmins",
+            "addressRegion": "ON",
+            "postalCode": "P4N 4V6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.476702",
+            "longitude": "-81.335287"
+          },
+          "@id": "https://scenesfrancophones.ca/id/4155"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/77",
+          "name": "Centre culturel La Ronde",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4109",
+            "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre",
+            "name": "Brian St-Pierre"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-malgre-tout-12118",
+        "name": "Brian St-Pierre - Malgré tout",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/brian-st-pierre-cr-Lexine_Photographie.jpg?itok=FFP0AAcH",
+          "width": "430",
+          "height": "430",
+          "creditText": "Lexine Photographie"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle et album “Malgré tout”.  Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade.  L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore.  On y découvre ses compositions originales de son nouvel album et on revit ses plus grands succès.",
+        "startDate": "2026-09-25T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12118",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/78",
+          "name": "Centre Culturel Les Compagnons des francs loisirs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-compagnons-des-francs-loisirs"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4109",
+            "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre",
+            "name": "Brian St-Pierre"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/matiu-tipatshimushtunan-12119",
+        "name": "Matiu - Tipatshimushtunan",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/vitrine_ontario_2024-2025/photo-1-matiu-credit_drowster-%281.jpg?itok=s25AKbEU",
+          "width": "430",
+          "height": "430",
+          "creditText": "Drowster"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Matiu vient de Maliotenam, une communauté innue située sur la Côte-Nord du Québec. Paré de sa guitare, l’auteur-compositeur-interprète présente un spectacle folk-blues où les textes en français et en innu s’entrecroisent. Matiu relate son histoire et celle de sa communauté à travers des textes qui traitent du quotidien, des relations humaines et familiales ainsi que la quête identitaire autochtone. Il se démarque partout où il passe et séduit le public grâce à sa personnalité colorée, attachante et authentique.",
+        "startDate": "2026-06-13T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12119",
+        "location": {
+          "@type": "Place",
+          "name": "Quatrième Salle",
+          "url": "https://scenesfrancophones.ca/node/12089",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1 rue Elgin",
+            "addressLocality": "Ottawa",
+            "addressRegion": "ON",
+            "postalCode": "K1P 5W1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.423309",
+            "longitude": "-75.693456"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12089"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/71",
+          "name": "Centre national des Arts",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-national-des-arts"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12109",
+            "url": "https://scenesfrancophones.ca/artistes/matiu",
+            "name": "Matiu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/matiu-tipatshimushtunan-12120",
+        "name": "Matiu - Tipatshimushtunan",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/vitrine_ontario_2024-2025/photo-1-matiu-credit_drowster-%281.jpg?itok=s25AKbEU",
+          "width": "430",
+          "height": "430",
+          "creditText": "Drowster"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Matiu vient de Maliotenam, une communauté innue située sur la Côte-Nord du Québec. Paré de sa guitare, l’auteur-compositeur-interprète présente un spectacle folk-blues où les textes en français et en innu s’entrecroisent. Matiu relate son histoire et celle de sa communauté à travers des textes qui traitent du quotidien, des relations humaines et familiales ainsi que la quête identitaire autochtone. Il se démarque partout où il passe et séduit le public grâce à sa personnalité colorée, attachante et authentique.",
+        "startDate": "2026-06-12T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12120",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Le Sésame",
+          "url": "https://scenesfrancophones.ca/node/1045",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1290 rue Wheathill",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7M 0A7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.24737",
+            "longitude": "-76.56108"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1045"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://centreculturelfrontenac.com/saison2526-matiu/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12109",
+            "url": "https://scenesfrancophones.ca/artistes/matiu",
+            "name": "Matiu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/matiu-tipatshimushtunan-12121",
+        "name": "Matiu - Tipatshimushtunan",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/vitrine_ontario_2024-2025/photo-1-matiu-credit_drowster-%281.jpg?itok=s25AKbEU",
+          "width": "430",
+          "height": "430",
+          "creditText": "Drowster"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Matiu vient de Maliotenam, une communauté innue située sur la Côte-Nord du Québec. Paré de sa guitare, l’auteur-compositeur-interprète présente un spectacle folk-blues où les textes en français et en innu s’entrecroisent. Matiu relate son histoire et celle de sa communauté à travers des textes qui traitent du quotidien, des relations humaines et familiales ainsi que la quête identitaire autochtone. Il se démarque partout où il passe et séduit le public grâce à sa personnalité colorée, attachante et authentique.",
+        "startDate": "2026-06-11T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12121",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12109",
+            "url": "https://scenesfrancophones.ca/artistes/matiu",
+            "name": "Matiu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/quen-dit-raton-aureo-et-lunette-12122",
+        "name": "Qu'en dit raton? - Auréo et Lunette",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/vitrine_ontario_2024-2025/aureoetlunette-affiche--hugo-b-lefort.jpg?itok=-Lh-H97f",
+          "width": "430",
+          "height": "430",
+          "creditText": "Hugo Lefort"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Monsieur Crapulet, marchand avare et cupide, vend paisiblement ses légumes au marché, jusqu’au jour où le Docteur Alèse s’installe à côté de son kiosque pour vendre ses « boissons énergisantes ». Alarmé à la perspective de sa ruine, Crapulet cherche par tous les moyens à se débarrasser de ce nouvel arrivant. Jusqu’où ira-t-il? Inconscient de cette menace, le Docteur Alèse espère trouver en ces lieux les solutions à ses soucis. Auréo, son fils, aimerait bien l’aider lorsqu'il croise Lunette, fille de Crapulet, qui rompt sa solitude. Les enfants réconcilieront-ils leurs parents rivaux?",
+        "startDate": "2026-04-11T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12122",
+        "location": {
+          "@type": "Place",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/node/1061",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24, rue Spadina",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.643474",
+            "longitude": "-79.394464"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1061"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.alliance-francaise.ca/fr/art/saison-culturelle/jeune-public/285-aureo-et-lunette",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/9217",
+            "url": "https://scenesfrancophones.ca/artistes/quen-dit-raton-0",
+            "name": "Qu'en dit raton?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-12124",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/letetontardif_affiche1_0_1.png?itok=22maHcyK",
+          "width": "430",
+          "height": "430",
+          "creditText": "Omar Morson"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2026-03-07T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12124",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/80",
+          "name": "Centre régional de Loisirs culturels de Kapuskasing",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5731",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+            "name": "Caroline Raynaud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-12125",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/letetontardif_affiche1_0_0.png?itok=1lly8_0j",
+          "width": "430",
+          "height": "430",
+          "creditText": "Omar Morson"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2026-03-12T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12125",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/node/1058",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "75, 9e Rue, C.P. 2350",
+            "addressLocality": "Hearst",
+            "addressRegion": "ON",
+            "postalCode": "P0L 1N0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.688018",
+            "longitude": "-83.666955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1058"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/hrt260312001",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/81",
+          "name": "Conseil des Arts de Hearst",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5731",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+            "name": "Caroline Raynaud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12128",
+        "name": "Théâtre populaire d'Acadie -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/509191254_1286809306779138_371814447613818005_n.jpg?itok=19-AzgRe",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "150 ans après l’affaire Louis Mailloux, Les Émeutiers nous plonge au cœur de cet événement historique ayant profondément marqué l'identité acadienne. L'intrigue se concentre sur Joseph Chiasson, emprisonné pour le meurtre de John Gifford, alors que ses compagnons retrouvent peu à peu leur liberté. La pièce navigue entre deux endroits chargés de symboles : la cuisine d'André Albert, théâtre de la fusillade fatidique, et la cellule où Joseph Chiasson attend son sort. Les Émeutiers met en lumière non seulement les hommes impliqués dans les tensions, mais aussi les femmes qui ont maintenu la cohésion sociale pendant l'absence des hommes emprisonnés.\r\n\r\nCes évènements ont façonné Caraquet, mais ils ont aussi contribué à l'émergence de l'Acadie moderne et influencé l'identité canadienne. En janvier 2025, Patrimoine Canada confirmait l’importance de l’émeute de Caraquet en l’inscrivant à son registre des évènements historiques nationaux. \r\n\r\nLa grande histoire de ses émeutes ont marqué l'opposition farouche à un projet de réforme sur la gestion des écoles. Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd'hui dans nos luttes pour la défense de notre langue et de nos droits.",
+        "startDate": "2025-11-18T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12128",
+        "location": {
+          "@type": "Place",
+          "name": "Boite théâtre",
+          "url": "https://scenesfrancophones.ca/node/12127",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "11 boulevard St-Pierre Est",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794643",
+            "longitude": "-64.936145"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12127"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://tpacadie.tuxedobillet.com/main/les-emeutiers",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/58",
+          "name": "Théâtre populaire d’Acadie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-populaire-dacadie"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/6076",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie",
+          "name": "Théâtre populaire d'Acadie"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12129",
+        "name": "Théâtre populaire d'Acadie -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/509191254_1286809306779138_371814447613818005_n_0.jpg?itok=41D94Rsu",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "150 ans après l’affaire Louis Mailloux, Les Émeutiers nous plonge au cœur de cet événement historique ayant profondément marqué l'identité acadienne. L'intrigue se concentre sur Joseph Chiasson, emprisonné pour le meurtre de John Gifford, alors que ses compagnons retrouvent peu à peu leur liberté. La pièce navigue entre deux endroits chargés de symboles : la cuisine d'André Albert, théâtre de la fusillade fatidique, et la cellule où Joseph Chiasson attend son sort. Les Émeutiers met en lumière non seulement les hommes impliqués dans les tensions, mais aussi les femmes qui ont maintenu la cohésion sociale pendant l'absence des hommes emprisonnés.\r\n\r\nCes évènements ont façonné Caraquet, mais ils ont aussi contribué à l'émergence de l'Acadie moderne et influencé l'identité canadienne. En janvier 2025, Patrimoine Canada confirmait l’importance de l’émeute de Caraquet en l’inscrivant à son registre des évènements historiques nationaux. \r\n\r\nLa grande histoire de ses émeutes ont marqué l'opposition farouche à un projet de réforme sur la gestion des écoles. Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd'hui dans nos luttes pour la défense de notre langue et de nos droits.",
+        "startDate": "2025-11-19T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12129",
+        "location": {
+          "@type": "Place",
+          "name": "Boite théâtre",
+          "url": "https://scenesfrancophones.ca/node/12127",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "11 boulevard St-Pierre Est",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794643",
+            "longitude": "-64.936145"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12127"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://tpacadie.tuxedobillet.com/main/les-emeutiers",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/58",
+          "name": "Théâtre populaire d’Acadie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-populaire-dacadie"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/6076",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie",
+          "name": "Théâtre populaire d'Acadie"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12130",
+        "name": "Théâtre populaire d'Acadie -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/509191254_1286809306779138_371814447613818005_n_1.jpg?itok=vz6SAB0X",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "150 ans après l’affaire Louis Mailloux, Les Émeutiers nous plonge au cœur de cet événement historique ayant profondément marqué l'identité acadienne. L'intrigue se concentre sur Joseph Chiasson, emprisonné pour le meurtre de John Gifford, alors que ses compagnons retrouvent peu à peu leur liberté. La pièce navigue entre deux endroits chargés de symboles : la cuisine d'André Albert, théâtre de la fusillade fatidique, et la cellule où Joseph Chiasson attend son sort. Les Émeutiers met en lumière non seulement les hommes impliqués dans les tensions, mais aussi les femmes qui ont maintenu la cohésion sociale pendant l'absence des hommes emprisonnés.\r\n\r\nCes évènements ont façonné Caraquet, mais ils ont aussi contribué à l'émergence de l'Acadie moderne et influencé l'identité canadienne. En janvier 2025, Patrimoine Canada confirmait l’importance de l’émeute de Caraquet en l’inscrivant à son registre des évènements historiques nationaux. \r\n\r\nLa grande histoire de ses émeutes ont marqué l'opposition farouche à un projet de réforme sur la gestion des écoles. Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd'hui dans nos luttes pour la défense de notre langue et de nos droits.",
+        "startDate": "2025-11-22T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12130",
+        "location": {
+          "@type": "Place",
+          "name": "Salle J.-Armand-Lavoie",
+          "url": "https://scenesfrancophones.ca/node/499",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "585, rue de l'Église",
+            "addressLocality": "Tracadie",
+            "addressRegion": "NB",
+            "postalCode": "E1X 1G5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.513245",
+            "longitude": "-64.920651"
+          },
+          "@id": "https://scenesfrancophones.ca/id/499"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://tpacadie.tuxedobillet.com/main/les-emeutiers-tracadie",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/58",
+          "name": "Théâtre populaire d’Acadie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-populaire-dacadie"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/6076",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie",
+          "name": "Théâtre populaire d'Acadie"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12131",
+        "name": "Théâtre populaire d'Acadie -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/509191254_1286809306779138_371814447613818005_n_2.jpg?itok=CdPLAatg",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "150 ans après l’affaire Louis Mailloux, Les Émeutiers nous plonge au cœur de cet événement historique ayant profondément marqué l'identité acadienne. L'intrigue se concentre sur Joseph Chiasson, emprisonné pour le meurtre de John Gifford, alors que ses compagnons retrouvent peu à peu leur liberté. La pièce navigue entre deux endroits chargés de symboles : la cuisine d'André Albert, théâtre de la fusillade fatidique, et la cellule où Joseph Chiasson attend son sort. Les Émeutiers met en lumière non seulement les hommes impliqués dans les tensions, mais aussi les femmes qui ont maintenu la cohésion sociale pendant l'absence des hommes emprisonnés.\r\n\r\nCes évènements ont façonné Caraquet, mais ils ont aussi contribué à l'émergence de l'Acadie moderne et influencé l'identité canadienne. En janvier 2025, Patrimoine Canada confirmait l’importance de l’émeute de Caraquet en l’inscrivant à son registre des évènements historiques nationaux. \r\n\r\nLa grande histoire de ses émeutes ont marqué l'opposition farouche à un projet de réforme sur la gestion des écoles. Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd'hui dans nos luttes pour la défense de notre langue et de nos droits.",
+        "startDate": "2025-11-28T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12131",
+        "location": {
+          "@type": "Place",
+          "name": "Amphithéâtre du pavillon Louis-A.-LeBel",
+          "url": "https://scenesfrancophones.ca/node/7773",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "165 Boulevard Hébert",
+            "addressLocality": "Edmundston",
+            "addressRegion": "NB",
+            "postalCode": "E3V 2S8",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.371165",
+            "longitude": "-68.316744"
+          },
+          "@id": "https://scenesfrancophones.ca/id/7773"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://tpacadie.tuxedobillet.com/main/les-emeutiers-edmundston",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/58",
+          "name": "Théâtre populaire d’Acadie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-populaire-dacadie"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/6076",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie",
+          "name": "Théâtre populaire d'Acadie"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12132",
+        "name": "Théâtre populaire d'Acadie -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/509191254_1286809306779138_371814447613818005_n_3.jpg?itok=oo3qQj2S",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "150 ans après l’affaire Louis Mailloux, Les Émeutiers nous plonge au cœur de cet événement historique ayant profondément marqué l'identité acadienne. L'intrigue se concentre sur Joseph Chiasson, emprisonné pour le meurtre de John Gifford, alors que ses compagnons retrouvent peu à peu leur liberté. La pièce navigue entre deux endroits chargés de symboles : la cuisine d'André Albert, théâtre de la fusillade fatidique, et la cellule où Joseph Chiasson attend son sort. Les Émeutiers met en lumière non seulement les hommes impliqués dans les tensions, mais aussi les femmes qui ont maintenu la cohésion sociale pendant l'absence des hommes emprisonnés.\r\n\r\nCes évènements ont façonné Caraquet, mais ils ont aussi contribué à l'émergence de l'Acadie moderne et influencé l'identité canadienne. En janvier 2025, Patrimoine Canada confirmait l’importance de l’émeute de Caraquet en l’inscrivant à son registre des évènements historiques nationaux. \r\n\r\nLa grande histoire de ses émeutes ont marqué l'opposition farouche à un projet de réforme sur la gestion des écoles. Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd'hui dans nos luttes pour la défense de notre langue et de nos droits.",
+        "startDate": "2025-11-30T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12132",
+        "location": {
+          "@type": "Place",
+          "name": "Amphithéâtre Richelieu de l’École Secondaire Népisiguit",
+          "url": "https://scenesfrancophones.ca/node/506",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "915, rue Ste-Anne",
+            "addressLocality": "Bathurst",
+            "addressRegion": "NB",
+            "postalCode": "E2A 6X1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.625247",
+            "longitude": "-65.684547"
+          },
+          "@id": "https://scenesfrancophones.ca/id/506"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://tpacadie.tuxedobillet.com/main/les-emeutiers-bathurst",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/58",
+          "name": "Théâtre populaire d’Acadie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-populaire-dacadie"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/6076",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie",
+          "name": "Théâtre populaire d'Acadie"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12133",
+        "name": "Théâtre populaire d'Acadie -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/509191254_1286809306779138_371814447613818005_n_4.jpg?itok=B7voS7Wt",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "150 ans après l’affaire Louis Mailloux, Les Émeutiers nous plonge au cœur de cet événement historique ayant profondément marqué l'identité acadienne. L'intrigue se concentre sur Joseph Chiasson, emprisonné pour le meurtre de John Gifford, alors que ses compagnons retrouvent peu à peu leur liberté. La pièce navigue entre deux endroits chargés de symboles : la cuisine d'André Albert, théâtre de la fusillade fatidique, et la cellule où Joseph Chiasson attend son sort. Les Émeutiers met en lumière non seulement les hommes impliqués dans les tensions, mais aussi les femmes qui ont maintenu la cohésion sociale pendant l'absence des hommes emprisonnés.\r\n\r\nCes évènements ont façonné Caraquet, mais ils ont aussi contribué à l'émergence de l'Acadie moderne et influencé l'identité canadienne. En janvier 2025, Patrimoine Canada confirmait l’importance de l’émeute de Caraquet en l’inscrivant à son registre des évènements historiques nationaux. \r\n\r\nLa grande histoire de ses émeutes ont marqué l'opposition farouche à un projet de réforme sur la gestion des écoles. Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd'hui dans nos luttes pour la défense de notre langue et de nos droits.",
+        "startDate": "2025-12-02T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12133",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre LER",
+          "url": "https://scenesfrancophones.ca/node/492",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "390, rue Adelaide",
+            "addressLocality": "Dalhousie",
+            "addressRegion": "NB",
+            "postalCode": "E8C 3C4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.064917",
+            "longitude": "-66.374601"
+          },
+          "@id": "https://scenesfrancophones.ca/id/492"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://societeculturellebdc.tuxedobillet.com/main/les-emeutiers",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/58",
+          "name": "Théâtre populaire d’Acadie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-populaire-dacadie"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/6076",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie",
+          "name": "Théâtre populaire d'Acadie"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-simplement-brian-12136",
+        "name": "Brian St-Pierre - SIMPLEMENT BRIAN",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Affiche%2027%20septembre.jpg?itok=yIEuwgbx",
+          "width": "430",
+          "height": "430",
+          "creditText": "Lexine Photographie"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Seul sur scène avec sa guitare et sa pédale loop, Brian St-Pierre ré-orchestre ses compositions ainsi que celles des plus belles chansons du répertoire francophone.   Ses années d’expériences dans divers pays comme chansonnier et son talent d’improvisateur musical ont fait de lui un jukebox aux milles succès. Brian transforme son répertoire sur mesure selon la demande des diffuseurs et du public devant lui. De plus, il compose des chansons en direct selon les thèmes proposés par l’auditoire.  Plaisir, émotion, envoûtement ne sont que quelques mots pour décrire “Simplement Brian”.",
+        "startDate": "2025-09-27T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12136",
+        "location": {
+          "@type": "Place",
+          "name": "Norteños Cantina",
+          "url": "https://scenesfrancophones.ca/node/9540",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "235, chemin Red River",
+            "addressLocality": "Thunder Bay",
+            "addressRegion": "ON",
+            "postalCode": "P7B 1A7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.435227",
+            "longitude": "-89.22136"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9540"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.zeffy.com/en-CA/ticketing/spectacle-simplement-brian-a-thunder-bay",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/76",
+          "name": "Club culturel francophone de Thunder Bay",
+          "url": "https://scenesfrancophones.ca/diffuseurs/club-culturel-francophone-de-thunder-bay"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4109",
+          "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre",
+          "name": "Brian St-Pierre"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/maude-sonier-plateau-double-avec-adrian-house-12140",
+        "name": "Maude Sonier - Plateau double avec Adrian House",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29.png?itok=5ig2hO_i",
+          "width": "430",
+          "height": "430",
+          "creditText": "Annie-France Noël"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Maude Sonier présente un spectacle réconfortant, imprévisible et rêveur, mêlant pop-alternative et psychédélisme. Accompagnée de son piano et de sa guitare, l’Acadienne chante avec enthousiasme sa vingtaine mouvementée, ses amitiés et amours qui lui tiennent à cœur. Avec spontanéité, elle partage sa joie de vivre et vous emporte dans ses mélodies audacieuses, son rire contagieux et son excentricité unique. Grâce à sa voix chaleureuse, sa présence authentique et son charisme hors pair, l’auteure-compositrice-interprète Maude Sonier fait son bout de chemin dans la scène acadienne et canadienne. Son premier EP, intitulé Demi-tour, paraît en mars 2024, lui permettant de partager avec aisance sa joie de vivre sur scène, en misant sur la spontanéité dans ses allocutions et sur la nature de ses compositions touchantes. Laissez-vous emporter par ses mélodies invitantes et audacieuses, son rire contagieux et son excentricité bien à elle !",
+        "startDate": "2025-11-15T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12140",
+        "location": {
+          "@type": "Place",
+          "name": "Le Baratie",
+          "url": "https://scenesfrancophones.ca/node/12138",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "200 Bridge Rd",
+            "addressLocality": "Saint Jean",
+            "addressRegion": "NB",
+            "postalCode": "E2K 1E9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.258853",
+            "longitude": "-66.088037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12138"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://arcf.tuxedobillet.com/main/maude-sonier-et-adrian-house/20251115190000",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/36",
+          "name": "Association régionale de la Communauté Francophone de Saint-Jean (ARCf)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/246",
+            "url": "https://scenesfrancophones.ca/artistes/maude-sonier",
+            "name": "Maude Sonier"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/etienne-fletcher-entre-deux-12142",
+        "name": "Étienne Fletcher - Entre-deux",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/CONCERTS-coup-de-coeur-francophone-novembre-2025-1%20%281%29.jpg?itok=AOz0XOI5",
+          "width": "430",
+          "height": "430",
+          "creditText": "Little Jack Film"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Il se dégage de l’univers d’Étienne Fletcher quelque chose de résolument touchant. \r\nDe douces égratignures dans la voix, l’auteur-compositeur-interprète trouve les mots, les bons, pour traduire en chansons la vie, la mort, et ce qui respire entre les deux. Étienne Fletcher propose un spectacle intime allant du rock au blues, du folk au pop, et portant en son cœur la fierté francophone de l'Ouest canadien.",
+        "startDate": "2025-11-19T19:00:00-07:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12142",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre La Cité des Rocheuses",
+          "url": "https://scenesfrancophones.ca/node/12141",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4800 Richard Road SW #240",
+            "addressLocality": "Calgary",
+            "addressRegion": "AB",
+            "postalCode": "T3E 6L1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "51.011173",
+            "longitude": "-114.123093"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12141"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/cite-des-rocheuses",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/136",
+          "name": "La Cité des Rocheuses",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cite-des-rocheuses"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/898",
+          "url": "https://scenesfrancophones.ca/artistes/etienne-fletcher",
+          "name": "Étienne Fletcher"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mike-ward-modeste-12143",
+        "name": "Mike Ward -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Mike-Ward.jpg?itok=IwYJcH0A",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Grâce à la qualité de son stand-up, la popularité de son podcast et sa victoire à la cour suprême, Mike Ward est devenu une véritable icône de l’humour québécois. Avec plus de 100 millions de téléchargements et une diffusion au Centre Bell ayant fracassé un record Guinness pour le plus de billets vendus pour un enregistrement de podcast, Sous Écoute est non seulement le podcast d’humour francophone le plus populaire au monde, mais aussi un phénomène culturel. Noir, son dernier one-man-show, a été encensé par la critique et lui a permis de gagner tous les trophées possibles pour un spectacle d’humour au Gala Les Olivier. Il présente maintenant son tout nouveau spectacle : Modeste.",
+        "startDate": "2026-01-22T20:00:00-07:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12143",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre La Cité des Rocheuses",
+          "url": "https://scenesfrancophones.ca/node/12141",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4800 Richard Road SW #240",
+            "addressLocality": "Calgary",
+            "addressRegion": "AB",
+            "postalCode": "T3E 6L1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "51.011173",
+            "longitude": "-114.123093"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12141"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/cite-des-rocheuses",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/136",
+          "name": "La Cité des Rocheuses",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cite-des-rocheuses"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10042",
+          "url": "https://scenesfrancophones.ca/artistes/mike-ward-0",
+          "name": "Mike Ward",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/audrey-gaussiran-mosaico-12146",
+        "name": "Audrey Gaussiran -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Mosaico.jpg?itok=so1ujvWA",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "MOSAÏCO allie danse et numérique pour explorer la richesse de l’identité plurielle. Quels héritages nous transmettent nos origines familiales et les territoires qui nous ont façonnés ? Cette création chorégraphique propose une méditation profonde sur la construction identitaire, tissée à la fois par les mouvements et les visuels.\r\n\r\nFlamenco, gigue, danses africaines, latines et urbaines se conjuguent pour honorer les racines diverses qui nourrissent notre société métissée. Sur scène, cinq danseurs, issus principalement de la diversité culturelle, incarnent cette thématique à travers un langage gestuel rythmé et métissé.Leurs mouvements influencent une projection numérique réactive en arrière-plan : une mosaïque texturée prend vie, se transforme et se décompose au gré des gestes des interprètes. Des textes poétiques viennent ponctuer la pièce, invitant le spectateur à plonger dans cette réflexion introspective qui a nourri le processus créatif.\r\n\r\nMOSAÏCO s’impose ainsi comme une œuvre embrassant la diversité culturelle, unissant différentes disciplines et esthétiques artistiques.",
+        "startDate": "2025-11-28T19:00:00-07:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12146",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre La Cité des Rocheuses",
+          "url": "https://scenesfrancophones.ca/node/12141",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4800 Richard Road SW #240",
+            "addressLocality": "Calgary",
+            "addressRegion": "AB",
+            "postalCode": "T3E 6L1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "51.011173",
+            "longitude": "-114.123093"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12141"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.afcalgary.ca/community/event-rsvp/?event_id=2552",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/136",
+          "name": "La Cité des Rocheuses",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cite-des-rocheuses"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12144",
+          "url": "https://scenesfrancophones.ca/artistes/audrey-gaussiran",
+          "name": "Audrey Gaussiran",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
       }
     ]
   },
@@ -67438,7 +68811,7 @@
       {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/8107",
-        "name": "Le Théâtre de la Cité des Rocheuses",
+        "name": "Théâtre de la Cité des Rocheuses",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "4800 Richard Road SW",
@@ -68349,6 +69722,102 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12127",
+        "name": "Boite théâtre",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "11 boulevard St-Pierre Est",
+          "addressLocality": "Caraquet",
+          "addressRegion": "NB",
+          "postalCode": "E1W 1A5",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "47.794643",
+          "longitude": "-64.936145"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12127"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12137",
+        "name": "Gymnase de l’École des Bâtisseurs",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "715 Priestman St.",
+          "addressLocality": "Fredericton",
+          "addressRegion": "NB",
+          "postalCode": "E3B 5W7",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.941773",
+          "longitude": "-66.651817"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12137"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12138",
+        "name": "Le Baratie",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "200 Bridge Rd",
+          "addressLocality": "Saint Jean",
+          "addressRegion": "NB",
+          "postalCode": "E2K 1E9",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "45.258853",
+          "longitude": "-66.088037"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12138"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12141",
+        "name": "Théâtre La Cité des Rocheuses",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "4800 Richard Road SW #240",
+          "addressLocality": "Calgary",
+          "addressRegion": "AB",
+          "postalCode": "T3E 6L1",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "51.011173",
+          "longitude": "-114.123093"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12141"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/24",
         "url": "https://www.carrefourisj.org/",
@@ -68851,7 +70320,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "(506) 627-4125",
-          "email": "mchbihi@carbeau.ca"
+          "email": "lthibodeau@carbeau.ca"
         },
         "logo": {
           "@type": "ImageObject",
@@ -68889,7 +70358,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "(506) 453-8530",
-          "email": "msavoie@ccsafredericton.ca"
+          "email": "mhmichaud@ccsafredericton.ca"
         },
         "logo": {
           "@type": "ImageObject",
@@ -68921,18 +70390,18 @@
       {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/39",
-        "url": "https://www.centrecultureldecaraquet.com/",
-        "description": "Le Centre culturel de Caraquet est un organisme à but non-lucratif dont le mandat principal est de gérer les principales infrastructures culturelles de Caraquet soit le Carrefour de la mer, le Cinéma du Centre et le Centre culturel. La région desservie est la Péninsule acadienne.",
+        "url": "https://evencia.ca/",
+        "description": "Évencia est un organisme à but non lucratif dont le mandat principal est de gérer les infrastructures culturelles de Caraquet soit le Carrefour de la mer, le Cinéma du Centre et le Centre culturel. Son conseil d’administration est composé de six personnes qui représentent la communauté, la municipalité et le secteur artistique.",
         "name": "Centre culturel de Caraquet",
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "(506) 726-5001",
-          "email": "info@cccaraquet.com"
+          "email": "lucie@cccaraquet.com"
         },
         "logo": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2022-06/Centre-culturel-Caraquet.png?itok=BVhYZ73g",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-09/Evencia_0.png?itok=LubHy5eK",
           "width": "480",
           "height": "480"
         },
@@ -73681,7 +75150,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "(506) 228-2045",
-          "email": "info@scbsa.ca"
+          "email": "dir.scbsa@gmail.com"
         },
         "logo": {
           "@type": "ImageObject",
