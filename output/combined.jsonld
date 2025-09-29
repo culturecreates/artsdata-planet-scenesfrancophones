@@ -10896,6 +10896,70 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12148",
+        "url": "https://scenesfrancophones.ca/artistes/joe-jack-et-john-1",
+        "name": "Joe Jack et John"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12156",
+        "url": "https://scenesfrancophones.ca/artistes/justin-guitard-0",
+        "name": "Justin Guitard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12159",
+        "url": "https://scenesfrancophones.ca/artistes/justin-guitard-1",
+        "name": "Justin Guitard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12162",
+        "url": "https://scenesfrancophones.ca/artistes/philippe-bond",
+        "name": "Philippe Bond"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/marcher-linfini-961",
         "name": "Marcher à l'infini",
@@ -56400,6 +56464,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://my.weezevent.com/les-billinguish-boys",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -65399,6 +65464,386 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/joe-jack-et-john-cispersonnages-en-quete-dauterice-12150",
+        "name": "Joe Jack et John -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/CISPERSO_18_ThibaultCarron-1536x1024.jpg?itok=KXwkS1Tp",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Cinq interprètes neurodivergent·e·s se retrouvent en studio de répétition afin d’amorcer un nouveau processus de création. Comme il\r\n\r\nne leur est pas possible de faire le spectacle de licornes initialement prévu – puisqu’iels ne sont pas des licornes – chacun·e propose des idées afin de sortir de l’impasse créative dans laquelle iels se\r\n\r\nretrouvent. \r\n\r\nCoincé·e·s entre leurs envies artistiques et leurs nombreux principes éthiques, les interprètes prennent conscience que leur terrain de jeu semble miné et leur liberté artistique, plutôt limitée. \r\n\r\n\r\n\r\nQui pourrait bien les extirper de ce cul-de-sac ? Un acteur sans handicap ?\r\n\r\nUne licorne magique ? Et s’il fallait tout ça pour s’en sortir ?!",
+        "startDate": "2025-11-25T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12150",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://tpacadie.tuxedobillet.com/main/cispersonnages-en-quete-dauterice",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/58",
+          "name": "Théâtre populaire d’Acadie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-populaire-dacadie"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12148",
+          "url": "https://scenesfrancophones.ca/artistes/joe-jack-et-john-1",
+          "name": "Joe Jack et John",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/theatre-lescaouette-ornithorynques-12152",
+        "name": "théâtre l'Escaouette - L'Art de s'enfuir",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/ORNITHORYNQUES_-OYWvlk3TxxydMRBZZHI_.jpg?itok=tbIGxpwt",
+          "width": "430",
+          "height": "430",
+          "creditText": "Annie-France Noel"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Ornithorynques, c’est l’histoire d’une poignée de marginaux qui racontent l’été 1990, au nord du Nouveau-Brunswick. Sardine, douze ans, et son oncle Steve naviguent parmi les secrets familiaux avec des cœurs qui battent le rythme au son de la pop de cette fin du vingtième siècle. \r\n\r\nCet été là, quelque chose s’est brisé — et personne ne détient toute l’histoire. À travers les souvenirs croisés de Sardine, de sa mère Jackie et de son oncle Steve, Ornithorynques dévoile lentement ce qu’on aurait préféré taire.",
+        "startDate": "2026-03-31T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12152",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://tpacadie.tuxedobillet.com/main/ornithorynques",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/58",
+          "name": "Théâtre populaire d’Acadie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-populaire-dacadie"
+        },
+        "performer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/4020",
+          "url": "https://scenesfrancophones.ca/artistes/theatre-lescaouette",
+          "name": "théâtre l'Escaouette"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-gars-du-nord-la-grande-tournee-du-temps-des-fetes-12155",
+        "name": "LES GARS DU NORD -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/les%20gars%20du%20nord%20TUX.png?itok=5-O0KV1-",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "La tradition se poursuit pour une 12e année consécutive ! Les Gars du Nord sont de retour pour nous mettre dans l'ambiance des fêtes encore une fois cette année ! Une soirée à ne pas manquer !",
+        "startDate": "2025-12-06T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12155",
+        "location": {
+          "@type": "Place",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/12154",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220 Boulevard Saint-Pierre O",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788816",
+            "longitude": "-64.964982"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12154"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/les-gars-du-nord-temps-des-fetes",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/7831",
+          "url": "https://scenesfrancophones.ca/artistes/les-gars-du-nord-0",
+          "name": "LES GARS DU NORD",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/justin-guitard-de-nature-mature-12158",
+        "name": "Justin Guitard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Affiches%20JUSTIN%20GUITARD%20Nature%20mature%2025-26%20%28695%20x%20380%20px%29.jpg?itok=SJ49Zinj",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Justin Guitard est de retour au printemps 2026 avec un nouvel album, son troisième en carrière. Après avoir exploré les thèmes de l’image de soi et avoir exprimé l’envie de demeurer jeune toute sa vie, l’artiste assume maintenant pleinement son âge et la maturité qui vient avec…ou pas ! Ses fidèles complices de toujours seront de la partie et Justin vous prépare un troisième spectacle qui comprendra les grands succès de ses deux premiers albums, mais aussi plusieurs nouvelles chansons de son plus récent album à venir au printemps.",
+        "startDate": "2026-06-13T14:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12158",
+        "location": {
+          "@type": "Place",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/12154",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220 Boulevard Saint-Pierre O",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788816",
+            "longitude": "-64.964982"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12154"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/de-nature-mature",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12156",
+          "url": "https://scenesfrancophones.ca/artistes/justin-guitard-0",
+          "name": "Justin Guitard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/justin-guitard-gaspiller-du-talent-12161",
+        "name": "Justin Guitard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Affiches%20TSAR%2025-26%20%28695%20x%20380%20px%29%20%281%29.jpg?itok=C00mGsxI",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "On lui demande depuis qu’il est tout petit : C’est pour quand, le spectacle d’humour ? Eh bien, le voilà.\r\n\r\nNe manquez pas votre chance de constater par vous-même si Justin aurait dû continuer de s’écouter et se dire qu’il n’est pas un humoriste, ou si, finalement, le public avait raison et qu’il gaspille son vrai talent depuis le début de sa carrière.\r\n\r\nGaspiller du talent, c’est le tout premier one-man show de Justin Guitard, un artiste pluridisciplinaire qui saura vous faire rire et vous divertir avec ses anecdotes dans un feu roulant de comédie, de \"stepettes\" et de surprises.",
+        "startDate": "2026-06-13T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12161",
+        "location": {
+          "@type": "Place",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/12154",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220 Boulevard Saint-Pierre O",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788816",
+            "longitude": "-64.964982"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12154"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/gaspiller-du-talent",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12159",
+          "url": "https://scenesfrancophones.ca/artistes/justin-guitard-1",
+          "name": "Justin Guitard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/philippe-bond-rebondir-en-rodage-12165",
+        "name": "Philippe Bond -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/REBONDIR-2%20tux.png?itok=Cun-XjWa",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Dans ce 4e one-man-show, je vous reviens avec de nouvelles anecdotes et de nombreuses réflexions. On dit que ce qui ne nous tue pas nous rend plus fort. C'est pourquoi je suis fébrile à l'idée de vous retrouver et de vous présenter mon tout nouveau spectacle : Rebondir.",
+        "startDate": "2026-06-26T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12165",
+        "location": {
+          "@type": "Place",
+          "name": "Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/12164",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29 Av. du Carrefour",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12164"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/philippe-bond",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12162",
+          "url": "https://scenesfrancophones.ca/artistes/philippe-bond",
+          "name": "Philippe Bond",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/457",
         "name": "Atrium de l'ACFSJ",
@@ -69811,6 +70256,54 @@
           "longitude": "-114.123093"
         },
         "@id": "https://scenesfrancophones.ca/id/12141"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12154",
+        "name": "Centre culturel de Caraquet",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "220 Boulevard Saint-Pierre O",
+          "addressLocality": "Caraquet",
+          "addressRegion": "NB",
+          "postalCode": "E1W 1A5",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "47.788816",
+          "longitude": "-64.964982"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12154"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12164",
+        "name": "Carrefour de la mer",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "29 Av. du Carrefour",
+          "addressLocality": "Caraquet",
+          "addressRegion": "NB",
+          "postalCode": "E1W 1A5",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "47.794707",
+          "longitude": "-64.937286"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12164"
       }
     ]
   },
