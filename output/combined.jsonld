@@ -10960,6 +10960,102 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12166",
+        "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales",
+        "name": "Jeunesses Musicales"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12169",
+        "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales-0",
+        "name": "Jeunesses Musicales"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12172",
+        "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales-1",
+        "name": "Jeunesses Musicales"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12175",
+        "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales-2",
+        "name": "Jeunesses Musicales"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12178",
+        "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales-3",
+        "name": "Jeunesses Musicales"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12181",
+        "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales-4",
+        "name": "Jeunesses Musicales"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/marcher-linfini-961",
         "name": "Marcher à l'infini",
@@ -65844,6 +65940,390 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jeunesses-musicales-carnets-du-front-12168",
+        "name": "Jeunesses Musicales -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/Carnets%20du%20front.jpg?itok=ziLZp48x",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Mathilde Duval-Laplante, soprano\r\nRosemarie Duval-Laplante, piano\r\nJean-Michel Dubé, piano\r\n\r\nÀ travers ce concert, la soprano Mathilde Duval-Laplante et les pianistes\r\nRosemarie Duval-Laplante et Jean-Michel Dubé proposent avec sensibilité un espace contemplatif autour de la paix en temps de guerre. De l’éclatement des formes musicales à la création d’atmosphères fantasmagoriques\r\npour répondre à un besoin d’évasion, le trio relate en musique des réflexions sur les réalités du front. En passant par la musique et des lectures de correspondances de guerre, ce concert se veut une ode à la paix, alors que les conflits mondiaux sont encore plus d’actualité que jamais.",
+        "startDate": "2026-02-15T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12168",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/carnets-du-front",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12166",
+          "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales",
+          "name": "Jeunesses Musicales",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jeunesses-musicales-cartes-postales-12171",
+        "name": "Jeunesses Musicales -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/Cartes%20postales.jpg?itok=Q0i1MjCK",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "DUO ASTER\r\nClio Theodoridis, saxophone\r\nJonathan Nemtanu, piano\r\n\r\nDuo Aster, composé de la saxophoniste Clio Theodoridis et du pianiste Jonathan Nemtanu, vous invite à parcourir l’univers des musiques classiques à\r\ntravers un voyage autour du monde. En passant par les sonorités espagnoles,\r\nhelléniques, arabes et différentes époques, Duo Aster dévoile la beauté musicale du saxophone et la richesse du piano. Laissez-vous enchanter par la splendeur des œuvres des compositeurs Isaac Albéniz, Pedro Itturalde et\r\nAlexis Ciesla dans cette exploration musicale.",
+        "startDate": "2026-03-31T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12171",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/cartes-postales",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12169",
+          "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales-0",
+          "name": "Jeunesses Musicales",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jeunesses-musicales-compositeurs-et-artistes-du-nouveau-brunswick-12174",
+        "name": "Jeunesses Musicales -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/Compositeurs.png?itok=bbOFnRpo",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le concert présente des compositions de compositeurs interprétées par des artistes tous du Nouveau-Brunswick. L’orchestre comprend quatre violonistes, deux violoncellistes, un contrebassiste et un percussionniste. Certaines compositions inclus des sons électroacoustiques.\r\n\r\nParmi les compositeurs, il y a Sophie Dupuis, Jean-François Mallet, Richard Gibson et Martin Waltz.",
+        "startDate": "2026-05-31T14:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12174",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/Compositeur%20et%20artiste%20du%20Nouveau-Brunswick",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12172",
+          "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales-1",
+          "name": "Jeunesses Musicales",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jeunesses-musicales-gala-optimiste-12177",
+        "name": "Jeunesses Musicales -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/Gala%20Optimiste%20Gala.png?itok=tyV3kKgN",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Des jeunes musiciens et musiciennes de la région du Sud-Est du N.-B.\r\n                                           \t      \t                                  \t\r\n \r\nDes jeunes musiciennes et musiciens, âgés de 15 à 25 ans, et s’ayant manifestés avec succès dans des festivals régionaux, provinciaux et nationaux ainsi que dans des manifestations publiques d’importance, ont été sélectionnés par un comité d’experts sont invités à participer au CONCERT GALA. Un bon nombre d’entre eux poursuivront leurs études à un niveau supérieur, et peut-être certains seront choisis par les Jeunesses Musicales du Canada pour effectuer une tournée nationale en son nom.",
+        "startDate": "2026-03-21T15:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12177",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/gala-optimiste",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12175",
+          "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales-2",
+          "name": "Jeunesses Musicales",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jeunesses-musicales-pamorama-francais-12180",
+        "name": "Jeunesses Musicales -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/Panorama%20Francais.jpg?itok=JIrhdGmx",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "ENSEMBLE CALLINOS\r\nEdyelwys Silva, flûte · flute\r\nThomas Chartré, violoncelle · cello\r\nJeanne Frenette, piano\r\n\r\nL’Ensemble Callinos vous propose de découvrir le lyrisme envoûtant du trio pour flûte, violoncelle et piano qui a inspiré de nombreuses œuvres aux com-\r\npositeurs français romantiques et impressionnistes. Edyelwys Silva à la flûte, Thomas Chartré au violoncelle et Jeanne Frenette au piano vous invitent à découvrir les mélodies enjouées de Pierné, la douceur et la richesse de\r\nDescarries, et la virtuosité éclatante de Farrenc au cours d’un concert alliant charme, tendresse et passion.",
+        "startDate": "2025-12-07T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12180",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/panorama-francais",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12178",
+          "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales-3",
+          "name": "Jeunesses Musicales",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jeunesses-musicales-souvernirs-de-lakme-12183",
+        "name": "Jeunesses Musicales -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Souvenirs%20de%20Lakm%C3%A9.jpg?itok=vMQ2wwLa",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Opéra - d'après l'Opéra de Léo Delibes\r\n\r\nCréé à l’Opéra-Comique de Paris en 1883, l’opéra Lakmé du compositeur Léo Delibes raconte\r\nune histoire d’amour impossible. Lakmé, jeune fille d’un prêtre hindou, et Gérard, un soldat\r\nanglais inconstant, éprouvent un sentiment passionné l’un pour l’autre. Entre ces deux êtres\r\nque tout oppose, une musique raffinée et poétique sert de support pour exprimer l’exotisme\r\nenvoutant de l’Inde. Que ce soit par la chaleur harmonique du duo Sous le dôme épais ou par\r\nle brio impressionnant de l’incontournable « air des clochettes », Lakmé est une œuvre riche,\r\nvéhiculant les inspirations du mouvement orientaliste de la fin du XIXe siècle. Un succès\r\néprouvé qui ne s’est pas démenti depuis plus de 140 ans.",
+        "startDate": "2025-11-09T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12183",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/souvenirs-de-lakmé",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12181",
+          "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales-4",
+          "name": "Jeunesses Musicales",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/457",
         "name": "Atrium de l'ACFSJ",
@@ -73827,7 +74307,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "(306) 763-0337",
-          "email": "direction@scfpa.ca"
+          "email": "scfpa@sasktel.net"
         },
         "logo": {
           "@type": "ImageObject",
