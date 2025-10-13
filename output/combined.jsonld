@@ -1111,8 +1111,8 @@
       {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/998",
-        "url": "https://scenesfrancophones.ca/artistes/bilinguish-boys",
-        "name": "Bilinguish Boys"
+        "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+        "name": "Les Bilinguish Boys"
       }
     ]
   },
@@ -3552,7 +3552,14 @@
         ],
         "@id": "https://scenesfrancophones.ca/id/7837",
         "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
-        "name": "JÉRÉMY DEMAY"
+        "name": "Jérémy Demay",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/jdem_naturel_1080x1920_sansnouvspec.jpg?itok=hw1RBgrB",
+          "width": "480",
+          "height": "480"
+        }
       }
     ]
   },
@@ -3993,22 +4000,6 @@
           "http://xmlns.com/foaf/0.1/Agent",
           "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
         ],
-        "@id": "https://scenesfrancophones.ca/id/8090",
-        "url": "https://scenesfrancophones.ca/artistes/david-corriveau",
-        "name": "David Corriveau"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
         "@id": "https://scenesfrancophones.ca/id/8094",
         "url": "https://scenesfrancophones.ca/artistes/scott-pien-picard-0",
         "name": "Scott-Pien Picard"
@@ -4114,38 +4105,6 @@
         "@id": "https://scenesfrancophones.ca/id/8121",
         "url": "https://scenesfrancophones.ca/artistes/empire-pagaille-0",
         "name": "Empire Pagaille"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/8125",
-        "url": "https://scenesfrancophones.ca/artistes/david-corriveau-0",
-        "name": "David Corriveau"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/8130",
-        "url": "https://scenesfrancophones.ca/artistes/david-corriveau-1",
-        "name": "David Corriveau"
       }
     ]
   },
@@ -6698,41 +6657,9 @@
           "http://xmlns.com/foaf/0.1/Agent",
           "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
         ],
-        "@id": "https://scenesfrancophones.ca/id/8829",
-        "url": "https://scenesfrancophones.ca/artistes/david-corriveau-2",
-        "name": "David Corriveau"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
         "@id": "https://scenesfrancophones.ca/id/8832",
         "url": "https://scenesfrancophones.ca/artistes/theatre-de-la-pire-espece",
         "name": "THÉÂTRE DE LA PIRE ESPÈCE"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/8835",
-        "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
-        "name": "Daniel Lemire"
       }
     ]
   },
@@ -6781,22 +6708,6 @@
         "@id": "https://scenesfrancophones.ca/id/8849",
         "url": "https://scenesfrancophones.ca/artistes/compagnie-rassegna",
         "name": "Compagnie Rassegna"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/8852",
-        "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon",
-        "name": "Alphonse Bisaillon"
       }
     ]
   },
@@ -7448,12 +7359,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/9241",
         "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
         "name": "Les Bilinguish Boys"
@@ -8232,32 +8138,9 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/9992",
-        "url": "https://scenesfrancophones.ca/artistes/alex-roy-0",
-        "name": "Alex Roy",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%283%29.png?itok=-I0bpfrZ",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/9996",
-        "url": "https://scenesfrancophones.ca/artistes/david-corriveau-3",
+        "url": "https://scenesfrancophones.ca/artistes/david-corriveau",
         "name": "David Corriveau",
         "image": {
           "@type": "ImageObject",
@@ -8403,12 +8286,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/10026",
         "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-0",
         "name": "Les Hay Babies",
@@ -8416,24 +8294,6 @@
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/Les%20Hay%20Babies%209_WEB_cre%CC%81dit%20photo%20Elizabeth%20Landry.jpg?itok=pRn0m37H",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/10027",
-        "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon-0",
-        "name": "Alphonse Bisaillon",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%289%29.png?itok=ixf-3q7L",
           "width": "480",
           "height": "480"
         }
@@ -8453,29 +8313,6 @@
         "@id": "https://scenesfrancophones.ca/id/10028",
         "url": "https://scenesfrancophones.ca/artistes/francois-massicotte-2",
         "name": "François Massicotte"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/10031",
-        "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-2",
-        "name": "Jérémy Demay",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/jdem_naturel_1080x1920_sansnouvspec.jpg?itok=hw1RBgrB",
-          "width": "480",
-          "height": "480"
-        }
       }
     ]
   },
@@ -8663,24 +8500,6 @@
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/10046",
-        "url": "https://scenesfrancophones.ca/artistes/menoncle-jason-0",
-        "name": "Menoncle Jason",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%2819%29.png?itok=dJjtDov7",
-          "width": "480",
-          "height": "480"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/10049",
         "url": "https://scenesfrancophones.ca/artistes/serge-yvan-bourque",
         "name": "Serge Yvan Bourque"
@@ -8755,22 +8574,6 @@
         "@id": "https://scenesfrancophones.ca/id/10063",
         "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-1",
         "name": "Les Hay Babies"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/10067",
-        "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-3",
-        "name": "Jeremy Demay"
       }
     ]
   },
@@ -11049,6 +10852,29 @@
         "@id": "https://scenesfrancophones.ca/id/12181",
         "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales-4",
         "name": "Jeunesses Musicales"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12185",
+        "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon-et-cayenne",
+        "name": "Alphonse Bisaillon et Cayenne",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2816%29.png?itok=DycGBx0M",
+          "width": "480",
+          "height": "480"
+        }
       }
     ]
   },
@@ -28979,11 +28805,9 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Jacques%20Surette%20Dieppe_0.jpg?itok=BGYKMEyQ",
           "width": "430",
-          "height": "430",
-          "creditText": "Jocelyne Vautour"
+          "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Par sa sagesse et sa voix de vieil homme, Jacques Surette étonne du haut de sa vingtaine ! Ses chansons folk-country-rock en français nous permettent de comprendre la dualité linguistique du quotidien de l’artiste. Décomplexé et à l’humour facile, il a le don d’être aimé par tous et partout où il passe, le constat est le même : il ira loin ce jeune Acadien!\r\n\r\nSon nouvel album verra le jour à l'automne 2023 réalisé par Éric Dion et André Lavergne.\r\nLe thème de l’album est relié aux conséquences d’un jeune qui apprend de ses erreurs.",
         "startDate": "2025-02-08T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/7737",
@@ -29473,7 +29297,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/les-hay-babies-tintamarre-7765",
+        "url": "https://scenesfrancophones.ca/spectacles/les-hay-babies-7765",
         "name": "Les Hay Babies -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
@@ -29484,7 +29308,6 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Tintamarre! Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l'âme folklorique de l'Acadie. Ce show c’est la fête, c'est country rock et c'est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entrainent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit \" Acadie \" dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
         "startDate": "2025-05-29T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/7765",
@@ -31210,8 +31033,8 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/jeremy-demay-naturel-7839",
-        "name": "JÉRÉMY DEMAY -",
+        "url": "https://scenesfrancophones.ca/spectacles/jeremie-demay-naturel-7839",
+        "name": "Jérémy Demay -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -31221,7 +31044,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Jérémy Demay, le plus québécois des humoristes français, résidant au Québec depuis plus de 17 ans, lance son tout nouveau spectacle intitulé Naturel. Avec ce 3e one-man-show, et entre l’écriture de ses livres plusieurs fois bestseller(150 000 copies vendues), Jérémy s’amuse à aller dans des zones plus personnelles et étonnera assurément par un contenu délicieusement audacieux qu’on ne lui soupçonnait pas… \r\n\r\nAvec une franchise à la fois désarmante mais ô combien hilarante, Jérémy se dévoile comme jamais avec de nombreuses confessions sur lui, sa vie et sa famille en exploitant le côté comique de situations qu’il a vécues. Avec Naturel, on retrouve sur scène un Jérémy toujours aussi énergique, charismatique et vif d’esprit qui tisse dès le départ un lien NATUREL avec le public. Avec son talent unique, Jérémy Demay réussit à la fois à faire rire à gorge déployée et à toucher droit au coeur, tout ça pour le grand plaisir de tous!",
+        "description": "Avec Naturel, on retrouve sur scène un Jérémy toujours aussi énergique, charismatique et vif d’esprit qui tisse dès le départ un lien NATUREL avec le public. Avec son talent unique, Jérémy Demay réussit à la fois à faire rire à gorge déployée et à toucher droit au cœur, tout ça pour le grand plaisir de tous!",
         "startDate": "2025-10-25T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/7839",
@@ -31259,7 +31082,7 @@
           "@type": "Thing",
           "@id": "https://scenesfrancophones.ca/id/7837",
           "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
-          "name": "JÉRÉMY DEMAY",
+          "name": "Jérémy Demay",
           "schema_organization_additional_type": [
             "http://dbpedia.org/ontology/Agent",
             "http://xmlns.com/foaf/0.1/Agent",
@@ -33514,69 +33337,6 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/david-corriveau-david-corriveau-8092",
-        "name": "David Corriveau -",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/David%20Corriveau.jpeg?itok=dhlNrKpk",
-          "width": "430",
-          "height": "430"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Si vous fermez les yeux, vous croyez entendre Céline Dion, Lara Fabian et Ginette Reno. Si vous les ouvrez, vous continuez d’entendre ces voix mais c’est un homme qui est devant vous. Cet homme s’appelle David Corriveau et non ce n’est pas une dérive de l’intelligence artificielle, il est bien là en chair et en os mais sa voix, oh sa voix! L’inimitable David Corriveau en met plein les oreilles dans un spectacle aussi impressionnant que fascinant.",
-        "startDate": "2024-11-20T08:00:00-04:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/8092",
-        "location": {
-          "@type": "Place",
-          "name": "École secondaire Trillium",
-          "url": "https://scenesfrancophones.ca/node/4149",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "9 Broomhead Rd",
-            "addressLocality": "Chapleau",
-            "addressRegion": "ON",
-            "postalCode": "P0M 1K0",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "47.839585",
-            "longitude": "-83.40972"
-          },
-          "@id": "https://scenesfrancophones.ca/id/4149"
-        },
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/79",
-          "name": "Centre culturel Louis-Hémon",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
-        },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/8090",
-          "url": "https://scenesfrancophones.ca/artistes/david-corriveau",
-          "name": "David Corriveau",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/michel-lalonde-de-glen-garolou-8093",
         "name": "Michel Lalonde - de Glen à Garolou",
         "eventStatus": "https://schema.org/EventScheduled",
@@ -34066,7 +33826,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/david-corriveau-david-corriveau-8127",
-        "name": "David Corriveau -",
+        "name": "David Corriveau - David Corriveau",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -34076,7 +33836,6 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Si vous fermez les yeux, vous croyez entendre Céline Dion, Lara Fabian et Ginette Reno. Si vous les ouvrez, vous continuez d’entendre ces voix mais c’est un homme qui est devant vous. Cet homme s’appelle David Corriveau et non ce n’est pas une dérive de l’intelligence artificielle, il est bien là en chair et en os mais sa voix, oh sa voix! L’inimitable David Corriveau en met plein les oreilles dans un spectacle aussi impressionnant que fascinant.",
         "startDate": "2024-11-22T08:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8127",
@@ -34110,15 +33869,8 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
         },
         "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/8125",
-          "url": "https://scenesfrancophones.ca/artistes/david-corriveau-0",
-          "name": "David Corriveau",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -34224,7 +33976,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/david-corriveau-david-corriveau-8132",
-        "name": "David Corriveau -",
+        "name": "David Corriveau - David Corriveau",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -34234,7 +33986,6 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Si vous fermez les yeux, vous croyez entendre Céline Dion, Lara Fabian et Ginette Reno. Si vous les ouvrez, vous continuez d’entendre ces voix mais c’est un homme qui est devant vous. Cet homme s’appelle David Corriveau et non ce n’est pas une dérive de l’intelligence artificielle, il est bien là en chair et en os mais sa voix, oh sa voix! L’inimitable David Corriveau en met plein les oreilles dans un spectacle aussi impressionnant que fascinant.",
         "startDate": "2024-11-23T08:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8132",
@@ -34268,15 +34019,8 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-organismes-francophones-de-la-region-de-durham"
         },
         "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/8130",
-          "url": "https://scenesfrancophones.ca/artistes/david-corriveau-1",
-          "name": "David Corriveau",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -41015,7 +40759,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Jérémy Demay, le plus québécois des humoristes français, résidant au Québec depuis plus de 17 ans, est en tournée avec son spectacle intitulé Naturel. Avec ce 3e one-man-show, et entre l’écriture de ses livres plusieurs fois bestseller (150 000 copies vendues), Jérémy s’amuse à aller dans des zones plus personnelles et étonnera assurément par un contenu délicieusement audacieux qu’on ne lui soupçonnait pas… Avec une franchise à la fois désarmante mais ô combien hilarante, Jérémy se dévoile comme jamais avec de nombreuses confessions sur lui, sa vie et sa famille en exploitant le côté comique de situations qu’il a vécues.\r\n\r\nAvec Naturel, on retrouve sur scène un Jérémy toujours aussi énergique, charismatique et vif d’esprit qui tisse dès le départ un lien NATUREL avec le public. Avec son talent unique, Jérémy Demay réussit à la fois à faire rire à gorge déployée et à toucher droit au cœur, tout ça pour le grand plaisir de tous!",
+        "description": "Avec Naturel, on retrouve sur scène un Jérémy toujours aussi énergique, charismatique et vif d’esprit qui tisse dès le départ un lien NATUREL avec le public. Avec son talent unique, Jérémy Demay réussit à la fois à faire rire à gorge déployée et à toucher droit au cœur, tout ça pour le grand plaisir de tous!",
         "startDate": "2025-10-24T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8776",
@@ -41957,17 +41701,18 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/david-corriveau-100-contrefacons-8831",
-        "name": "David Corriveau -",
+        "name": "David Corriveau - 100 contrefaçons",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/png%20%284%29.png?itok=DZ9NNaSm",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Jean Charles Labarre"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
+        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée. Et c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
         "startDate": "2025-10-16T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8831",
@@ -42001,17 +41746,14 @@
           "name": "Centre des arts et de la culture de Dieppe",
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/8829",
-          "url": "https://scenesfrancophones.ca/artistes/david-corriveau-2",
-          "name": "David Corriveau",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/9996",
+            "url": "https://scenesfrancophones.ca/artistes/david-corriveau",
+            "name": "David Corriveau"
+          }
+        ]
       }
     ]
   },
@@ -42085,17 +41827,18 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/daniel-lemire-8837",
-        "name": "Daniel Lemire -",
+        "name": "Daniel Lemire",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Affiche_Lemire_18x24_Hires_bleed4_page-0001.jpg?itok=Twn2B5zG",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Hires Bleed"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Daniel Lemire fête ses 40 ans de carrière avec un tout nouveau spectacle ! Il fera le tour de l’actualité en stand up comme seul lui sait le faire depuis 40 ans.\r\n\r\nEdmond perdu dans les nouvelles tendances sexuelles. Il croit que LGBT signifie la grande bibliothèque. Yvon Travaillé propose des solutions à la pénurie de main-d’œuvre. Vous assisterez à une fraude en direct. Maurice l’ex-fumeur consulte pour sa gestion de la colère. N’ayant plus de PCU, Ronnie retourne chez ses parents. Et Oncle Georges pourrait-il être un influenceur ?\r\n\r\nEst-ce votre dernière chance de voir du grand Lemire en spectacle?",
+        "description": "Daniel Lemire fête ses 40 ans de carrière avec un tout nouveau spectacle ! Il fera le tour de l’actualité en stand up comme seul lui sait le faire depuis 40 ans. Edmond perdu dans les nouvelles tendances sexuelles. Il croit que LGBT signifie la grande bibliothèque. Yvon Travaillé propose des solutions à la pénurie de main-d’œuvre. Vous assisterez à une fraude en direct. Maurice l’ex-fumeur consulte pour sa gestion de la colère. N’ayant plus de PCU, Ronnie retourne chez ses parents. Et Oncle Georges pourrait-il être un influenceur ? Est-ce votre dernière chance de voir du grand Lemire en spectacle?",
         "startDate": "2025-10-23T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8837",
@@ -42129,17 +41872,19 @@
           "name": "Centre des arts et de la culture de Dieppe",
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/8835",
-          "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
-          "name": "Daniel Lemire",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/10044",
+            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire-0",
+            "name": "Daniel Lemire",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -45673,7 +45418,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/les-bilinguish-boys-les-bilinguish-boys-9243",
+        "url": "https://scenesfrancophones.ca/spectacles/les-bilinguish-boys-9243",
         "name": "Les Bilinguish Boys -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -45710,15 +45455,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "PerformingGroup",
           "@id": "https://scenesfrancophones.ca/id/9241",
           "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-          "name": "Les Bilinguish Boys",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Les Bilinguish Boys"
         }
       }
     ]
@@ -46189,8 +45929,8 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/bilinguish-boys-bilinguish-boys-9269",
-        "name": "Bilinguish Boys - Bilinguish Boys",
+        "url": "https://scenesfrancophones.ca/spectacles/les-bilinguish-boys-9269",
+        "name": "Les Bilinguish Boys - Bilinguish Boys",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -46237,8 +45977,8 @@
         "performer": {
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/998",
-          "url": "https://scenesfrancophones.ca/artistes/bilinguish-boys",
-          "name": "Bilinguish Boys"
+          "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+          "name": "Les Bilinguish Boys"
         }
       }
     ]
@@ -47414,10 +47154,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Design%20sans%20titre-4.png?itok=xivnOm5l",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Elizabeth Landry"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Tintamarre! Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l'âme folklorique de l'Acadie. Ce show c’est la fête, c'est country rock et c'est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entrainent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit \" Acadie \" dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
+        "description": "Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l’âme folklorique de l’Acadie. Ce show c’est la fête, c'est country rock et c’est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entraînent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit Acadie dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
         "startDate": "2025-10-25T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10065",
@@ -47471,7 +47212,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/jeremy-demay-naturel-10069",
-        "name": "Jeremy Demay -",
+        "name": "Jérémy Demay - Naturel",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -47481,7 +47222,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Pour la première soirée du Francofest, venir (re)découvrir l'humouriste Jeremy Demay!\r\n\r\nLe jeudi 23 octobre 2025 au Sanctuary Arts Centre, 100 rue Ochtoloney au centre ville de Dartmouth\r\n\r\n\r\nJérémy Demay, le plus québécois des humoristes français, résidant au Québec depuis plus de 17 ans, est en tournée avec son spectacle intitulé Naturel. Avec ce 3e one-man-show, et entre l’écriture de ses livres plusieurs fois bestseller (150 000 copies vendues), Jérémy s’amuse à aller dans des zones plus personnelles et étonnera assurément par un contenu délicieusement audacieux qu’on ne lui soupçonnait pas… Avec une franchise à la fois désarmante mais ô combien hilarante, Jérémy se dévoile comme jamais avec de nombreuses confessions sur lui, sa vie et sa famille en exploitant le côté comique de situations qu’il a vécues. Avec Naturel, on retrouve sur scène un Jérémy toujours aussi énergique, charismatique et vif d’esprit qui tisse dès le départ un lien NATUREL avec le public. Avec son talent unique, Jérémy Demay réussit à la fois à faire rire à gorge déployée et à toucher droit au coeur, tout ça pour le grand plaisir de tous! \r\n\r\nCe spectacle d'humour est recommandé aux 16 ans et plus mais est ouvert à tous les âges. Veuillez noter que certains segments pourraient aborder des thématiques sensibles ou adultes\r\n\r\nPour la programmation compléte du Francofest, rendez vous sur francofest.ca ou @francofesthalifax \r\n\r\nCet évènement est rendu possible grâce aux financements du gouvernement du Canada, de la province de la Nouvelle-Écosse, Radarts, et de nombreux commandites",
+        "description": "Avec Naturel, on retrouve sur scène un Jérémy toujours aussi énergique, charismatique et vif d’esprit qui tisse dès le départ un lien NATUREL avec le public. Avec son talent unique, Jérémy Demay réussit à la fois à faire rire à gorge déployée et à toucher droit au cœur, tout ça pour le grand plaisir de tous!",
         "startDate": "2025-10-23T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10069",
@@ -47515,17 +47256,19 @@
           "name": "Conseil communautaire du Grand-Havre",
           "url": "https://scenesfrancophones.ca/diffuseurs/conseil-communautaire-du-grand-havre"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/10067",
-          "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-3",
-          "name": "Jeremy Demay",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/7837",
+            "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
+            "name": "Jérémy Demay",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -51154,10 +50897,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2820%29.png?itok=mNTl91qm",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Elizabeth Landry"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Tintamarre! Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l'âme folklorique de l'Acadie. Ce show c’est la fête, c'est country rock et c'est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entrainent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit \" Acadie \" dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
+        "description": "Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l’âme folklorique de l’Acadie. Ce show c’est la fête, c'est country rock et c’est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entraînent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit Acadie dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
         "startDate": "2025-10-22T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10380",
@@ -51193,15 +50937,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/10063",
-            "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-1",
-            "name": "Les Hay Babies",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/10026",
+            "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-0",
+            "name": "Les Hay Babies"
           }
         ]
       }
@@ -51220,10 +50959,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2820%29.png?itok=mNTl91qm",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Elizabeth Landry"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Tintamarre! Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l'âme folklorique de l'Acadie. Ce show c’est la fête, c'est country rock et c'est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entrainent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit \" Acadie \" dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
+        "description": "Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l’âme folklorique de l’Acadie. Ce show c’est la fête, c'est country rock et c’est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entraînent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit Acadie dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
         "startDate": "2025-10-24T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10383",
@@ -51259,15 +50999,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/10063",
-            "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-1",
-            "name": "Les Hay Babies",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/10026",
+            "url": "https://scenesfrancophones.ca/artistes/les-hay-babies-0",
+            "name": "Les Hay Babies"
           }
         ]
       }
@@ -52800,10 +52535,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2820%29.png?itok=mNTl91qm",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Elizabeth Landry"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Tintamarre! \r\n\r\nLe spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l'âme folklorique de l'Acadie. Ce show c’est la fête, c'est country rock et c'est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entrainent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit \" Acadie \" dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. \r\n\r\nLes Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
+        "description": "Le spectacle live des Hay Babies, c’est une expérience envoûtante où le rock rencontre l’âme folklorique de l’Acadie. Ce show c’est la fête, c'est country rock et c’est sincère. Greyées de guitares, de costumes iconiques et de leurs harmonies vocales, elles entraînent les spectateurs sur une virée musicale au travers des paysages sonores riches des régions qui leur tiennent tant à cœur. Et qui dit Acadie dit \"bon temps\". Sur scène, Julie, Katrine et Vivianne dégagent une énergie contagieuse grâce aux histoires comiques et touchantes de leur dernier album. Elles créent une ambiance à la fois festive et introspective, pleine de sourires, d’écoute et d’émotions. Les Hay Babies ne se contentent pas de divertir, elles créent une connexion authentique avec leur public en l’invitant à connaître davantage les récits et les rythmes de leurs chez eux, une chanson à la fois.",
         "startDate": "2025-10-23T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10566",
@@ -53638,10 +53374,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/png%20%284%29.png?itok=DZ9NNaSm",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Jean Charles Labarre"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
+        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée. Et c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
         "startDate": "2025-10-15T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10623",
@@ -53677,15 +53414,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8829",
-            "url": "https://scenesfrancophones.ca/artistes/david-corriveau-2",
-            "name": "David Corriveau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/9996",
+            "url": "https://scenesfrancophones.ca/artistes/david-corriveau",
+            "name": "David Corriveau"
           }
         ]
       }
@@ -53704,10 +53436,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/png%20%284%29.png?itok=DZ9NNaSm",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Jean Charles Labarre"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
+        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée. Et c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
         "startDate": "2025-10-19T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10624",
@@ -53743,15 +53476,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8829",
-            "url": "https://scenesfrancophones.ca/artistes/david-corriveau-2",
-            "name": "David Corriveau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/9996",
+            "url": "https://scenesfrancophones.ca/artistes/david-corriveau",
+            "name": "David Corriveau"
           }
         ]
       }
@@ -53770,10 +53498,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/png%20%284%29.png?itok=DZ9NNaSm",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Jean Charles Labarre"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
+        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée. Et c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
         "startDate": "2025-10-18T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10625",
@@ -53809,15 +53538,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8829",
-            "url": "https://scenesfrancophones.ca/artistes/david-corriveau-2",
-            "name": "David Corriveau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/9996",
+            "url": "https://scenesfrancophones.ca/artistes/david-corriveau",
+            "name": "David Corriveau"
           }
         ]
       }
@@ -53836,10 +53560,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202025-08-01%20a%CC%80%2003.23.53.png?itok=nEuWh6T_",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Hires Bleed"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Daniel Lemire fête ses 40 ans de carrière avec un tout nouveau spectacle ! Il fera le tour de l’actualité en stand up comme seul lui sait le faire depuis 40 ans.\r\n\r\nEdmond perdu dans les nouvelles tendances sexuelles. Il croit que LGBT signifie la grande bibliothèque. Yvon Travaillé propose des solutions à la pénurie de main-d’œuvre. Vous assisterez à une fraude en direct. Maurice l’ex-fumeur consulte pour sa gestion de la colère. N’ayant plus de PCU, Ronnie retourne chez ses parents. Et Oncle Georges pourrait-il être un influenceur ?\r\n\r\nEst-ce votre dernière chance de voir du grand Lemire en spectacle?",
+        "description": "Daniel Lemire fête ses 40 ans de carrière avec un tout nouveau spectacle ! Il fera le tour de l’actualité en stand up comme seul lui sait le faire depuis 40 ans. Edmond perdu dans les nouvelles tendances sexuelles. Il croit que LGBT signifie la grande bibliothèque. Yvon Travaillé propose des solutions à la pénurie de main-d’œuvre. Vous assisterez à une fraude en direct. Maurice l’ex-fumeur consulte pour sa gestion de la colère. N’ayant plus de PCU, Ronnie retourne chez ses parents. Et Oncle Georges pourrait-il être un influenceur ? Est-ce votre dernière chance de voir du grand Lemire en spectacle?",
         "startDate": "2025-10-28T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10626",
@@ -53876,8 +53601,8 @@
         "performer": [
           {
             "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8835",
-            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
+            "@id": "https://scenesfrancophones.ca/id/10044",
+            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire-0",
             "name": "Daniel Lemire",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
@@ -53902,10 +53627,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202025-08-01%20a%CC%80%2003.23.53.png?itok=nEuWh6T_",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Hires Bleed"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Daniel Lemire fête ses 40 ans de carrière avec un tout nouveau spectacle ! Il fera le tour de l’actualité en stand up comme seul lui sait le faire depuis 40 ans.\r\n\r\nEdmond perdu dans les nouvelles tendances sexuelles. Il croit que LGBT signifie la grande bibliothèque. Yvon Travaillé propose des solutions à la pénurie de main-d’œuvre. Vous assisterez à une fraude en direct. Maurice l’ex-fumeur consulte pour sa gestion de la colère. N’ayant plus de PCU, Ronnie retourne chez ses parents. Et Oncle Georges pourrait-il être un influenceur ?\r\n\r\nEst-ce votre dernière chance de voir du grand Lemire en spectacle?",
+        "description": "Daniel Lemire fête ses 40 ans de carrière avec un tout nouveau spectacle ! Il fera le tour de l’actualité en stand up comme seul lui sait le faire depuis 40 ans. Edmond perdu dans les nouvelles tendances sexuelles. Il croit que LGBT signifie la grande bibliothèque. Yvon Travaillé propose des solutions à la pénurie de main-d’œuvre. Vous assisterez à une fraude en direct. Maurice l’ex-fumeur consulte pour sa gestion de la colère. N’ayant plus de PCU, Ronnie retourne chez ses parents. Et Oncle Georges pourrait-il être un influenceur ? Est-ce votre dernière chance de voir du grand Lemire en spectacle?",
         "startDate": "2025-10-24T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10627",
@@ -53942,8 +53668,8 @@
         "performer": [
           {
             "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8835",
-            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
+            "@id": "https://scenesfrancophones.ca/id/10044",
+            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire-0",
             "name": "Daniel Lemire",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
@@ -53968,10 +53694,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202025-08-01%20a%CC%80%2003.23.53.png?itok=nEuWh6T_",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Hires Bleed"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Daniel Lemire fête ses 40 ans de carrière avec un tout nouveau spectacle ! Il fera le tour de l’actualité en stand up comme seul lui sait le faire depuis 40 ans.\r\n\r\nEdmond perdu dans les nouvelles tendances sexuelles. Il croit que LGBT signifie la grande bibliothèque. Yvon Travaillé propose des solutions à la pénurie de main-d’œuvre. Vous assisterez à une fraude en direct. Maurice l’ex-fumeur consulte pour sa gestion de la colère. N’ayant plus de PCU, Ronnie retourne chez ses parents. Et Oncle Georges pourrait-il être un influenceur ?\r\n\r\nEst-ce votre dernière chance de voir du grand Lemire en spectacle?",
+        "description": "Daniel Lemire fête ses 40 ans de carrière avec un tout nouveau spectacle ! Il fera le tour de l’actualité en stand up comme seul lui sait le faire depuis 40 ans. Edmond perdu dans les nouvelles tendances sexuelles. Il croit que LGBT signifie la grande bibliothèque. Yvon Travaillé propose des solutions à la pénurie de main-d’œuvre. Vous assisterez à une fraude en direct. Maurice l’ex-fumeur consulte pour sa gestion de la colère. N’ayant plus de PCU, Ronnie retourne chez ses parents. Et Oncle Georges pourrait-il être un influenceur ? Est-ce votre dernière chance de voir du grand Lemire en spectacle?",
         "startDate": "2025-10-25T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10628",
@@ -54008,8 +53735,8 @@
         "performer": [
           {
             "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8835",
-            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
+            "@id": "https://scenesfrancophones.ca/id/10044",
+            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire-0",
             "name": "Daniel Lemire",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
@@ -54034,10 +53761,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/png%20%284%29.png?itok=DZ9NNaSm",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Jean Charles Labarre"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
+        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée. Et c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
         "startDate": "2025-10-14T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10629",
@@ -54073,15 +53801,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8829",
-            "url": "https://scenesfrancophones.ca/artistes/david-corriveau-2",
-            "name": "David Corriveau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/9996",
+            "url": "https://scenesfrancophones.ca/artistes/david-corriveau",
+            "name": "David Corriveau"
           }
         ]
       }
@@ -54093,7 +53816,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/jeremy-demay-naturel-10653",
-        "name": "Jérémy Demay - NATUREL",
+        "name": "Jérémy Demay - Naturel",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -54103,7 +53826,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "L’humoriste français installé au Québec depuis plus de 17 ans revient sur scène avec son troisième one-man-show, NATUREL.\r\nJérémy Demay se livre comme jamais auparavant, avec une franchise touchante et un humour percutant. Il transforme ses anecdotes de vie en éclats de rire, dans un spectacle où authenticité et émotions s’entrelacent. Porté par une énergie débordante, il crée instantanément une complicité avec le public pour 90 minutes de pur bonheur, sans entracte.\r\nINCLUANT: Première partie 19h00!",
+        "description": "Avec Naturel, on retrouve sur scène un Jérémy toujours aussi énergique, charismatique et vif d’esprit qui tisse dès le départ un lien NATUREL avec le public. Avec son talent unique, Jérémy Demay réussit à la fois à faire rire à gorge déployée et à toucher droit au cœur, tout ça pour le grand plaisir de tous!",
         "startDate": "2025-10-21T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10653",
@@ -54140,8 +53863,8 @@
         "performer": [
           {
             "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8538",
-            "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-1",
+            "@id": "https://scenesfrancophones.ca/id/7837",
+            "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
             "name": "Jérémy Demay",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
@@ -54159,7 +53882,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/jeremy-demay-naturel-10654",
-        "name": "Jérémy Demay - NATUREL",
+        "name": "Jérémy Demay - Naturel",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -54169,7 +53892,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "L’humoriste français installé au Québec depuis plus de 17 ans revient sur scène avec son troisième one-man-show, NATUREL.\r\nJérémy Demay se livre comme jamais auparavant, avec une franchise touchante et un humour percutant. Il transforme ses anecdotes de vie en éclats de rire, dans un spectacle où authenticité et émotions s’entrelacent. Porté par une énergie débordante, il crée instantanément une complicité avec le public pour 90 minutes de pur bonheur, sans entracte.\r\nINCLUANT: Première partie 19h00!",
+        "description": "Avec Naturel, on retrouve sur scène un Jérémy toujours aussi énergique, charismatique et vif d’esprit qui tisse dès le départ un lien NATUREL avec le public. Avec son talent unique, Jérémy Demay réussit à la fois à faire rire à gorge déployée et à toucher droit au cœur, tout ça pour le grand plaisir de tous!",
         "startDate": "2025-10-22T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10654",
@@ -54206,8 +53929,8 @@
         "performer": [
           {
             "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8538",
-            "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-1",
+            "@id": "https://scenesfrancophones.ca/id/7837",
+            "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
             "name": "Jérémy Demay",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
@@ -54225,7 +53948,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/jeremy-demay-naturel-10655",
-        "name": "Jérémy Demay - NATUREL",
+        "name": "Jérémy Demay - Naturel",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -54235,7 +53958,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "L’humoriste français installé au Québec depuis plus de 17 ans revient sur scène avec son troisième one-man-show, NATUREL.\r\nJérémy Demay se livre comme jamais auparavant, avec une franchise touchante et un humour percutant. Il transforme ses anecdotes de vie en éclats de rire, dans un spectacle où authenticité et émotions s’entrelacent. Porté par une énergie débordante, il crée instantanément une complicité avec le public pour 90 minutes de pur bonheur, sans entracte.\r\nINCLUANT: Première partie 19h00!",
+        "description": "Avec Naturel, on retrouve sur scène un Jérémy toujours aussi énergique, charismatique et vif d’esprit qui tisse dès le départ un lien NATUREL avec le public. Avec son talent unique, Jérémy Demay réussit à la fois à faire rire à gorge déployée et à toucher droit au cœur, tout ça pour le grand plaisir de tous!",
         "startDate": "2025-10-26T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10655",
@@ -54272,8 +53995,8 @@
         "performer": [
           {
             "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8538",
-            "url": "https://scenesfrancophones.ca/artistes/jeremy-demay-1",
+            "@id": "https://scenesfrancophones.ca/id/7837",
+            "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
             "name": "Jérémy Demay",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
@@ -54459,10 +54182,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/png%20%284%29.png?itok=DZ9NNaSm",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Jean Charles Labarre"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.\r\n\r\n\r\nEt c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
+        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée. Et c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
         "startDate": "2025-10-17T19:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11787",
@@ -54497,15 +54221,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8829",
-            "url": "https://scenesfrancophones.ca/artistes/david-corriveau-2",
-            "name": "David Corriveau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/9996",
+            "url": "https://scenesfrancophones.ca/artistes/david-corriveau",
+            "name": "David Corriveau"
           }
         ]
       }
@@ -54517,7 +54236,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/chris-belliveau-la-riviere-croche-11788",
-        "name": "Chris Belliveau - La Rivière croche",
+        "name": "Chris Belliveau - La rivière croche",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -54528,7 +54247,7 @@
           "creditText": "Marc-André Belliveau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Chris Belliveau est un artiste acadien rock-blues de grand talent qui a emmagasiné beaucoup d’expérience sur scène mais aussi en studio et dans différents genres musicaux. Depuis ses 15 ans, il est musicien accompagnateur par plusieurs artistes de renommée, dans des house bands et sur des plateaux d’émissions de télévision. Il lance son premier album en octobre 2022 et son deuxième en octobre 2024. Véritable caméléon musical, il s’affirme aujourd’hui pour la première fois dans une carrière solo.",
+        "description": "C’est le 28 octobre 2022 que l’artiste Chris Belliveau lancait son premier album éponyme. Le 1er novembre 2024, un 2e album, « La rivière croche » voyait le jour. Les deux albums sont parus sous le label acadien de Moncton Le Grenier musique. Ses inspirations ? La musique cajun, le country et le blues des années 60 et 70. Pour les paroles, il raconte des histoires plutôt personnelles ou celles de personnes qu’il a connues ou qu’il a rencontrées par chez lui ou sur la route.  Véritable caméléon musical, il s’affirme aujourd’hui pour la première fois dans une carrière solo.",
         "startDate": "2025-10-24T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11788",
@@ -54709,9 +54428,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-12T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11834",
@@ -54747,15 +54468,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -54774,9 +54490,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-13T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11835",
@@ -54812,15 +54530,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -55024,9 +54737,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-14T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11840",
@@ -55062,15 +54777,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -55151,9 +54861,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-15T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11842",
@@ -55189,15 +54901,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -55319,9 +55026,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-16T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11845",
@@ -55357,15 +55066,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -55446,9 +55150,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-19T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11847",
@@ -55484,15 +55190,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -55767,9 +55468,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-21T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11855",
@@ -55804,15 +55507,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -56024,9 +55722,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-23T14:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11861",
@@ -56062,15 +55762,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -56089,9 +55784,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-26T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11862",
@@ -56127,15 +55824,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -56220,9 +55912,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-27T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11865",
@@ -56257,15 +55951,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -56346,9 +56035,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-28T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11867",
@@ -56383,15 +56074,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -56533,9 +56219,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-29T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11870",
@@ -56571,15 +56259,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -56660,9 +56343,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
         "startDate": "2025-11-30T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11872",
@@ -56697,15 +56382,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9241",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys",
-            "name": "Les Bilinguish Boys",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
           }
         ]
       }
@@ -57113,7 +56793,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/png%20%289%29.png?itok=RVi9xiGi",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Alphonse Bisaillon se distingue par l’utilisation d’images évocatrices, de trames narratives riches et de jeux de mots ingénieux. Chaque composition est minutieusement ciselée pour créer une expérience véritablement immersive. Alphonse Bisaillon ose explorer de nouveaux territoires sonores, mêlant habilement différents types d’influences musicales. C'est un projet de chanson qui doit beaucoup à Aznavour ; une symphonie éclectique qui séduit et surprend à chaque écoute.            \r\n\r\nSon EP éponyme est paru le 28 octobre 2022 sous l’étiquette L-A be. Ce dernier a été réalisé par François Richard et enregistré aux Studio B-12 et Studio Le Hublot. Au nombre des distinctions reçues figurent l’Étoile Montante Stingray, le Prix Belle et Bum Télé-Québec, le Prix du public Hydro-Québec, la Bourse Sirius XM, le prix Chanson actuelle Sirius XM, le Prix Mouffe 2024 et le Prix Coup de pouce PURCOM à l’édition 2024 de Vue sur la relève. Par ailleurs, il se retrouve au nombre des Coup de cœur de l’année du journal Le Droit.",
@@ -57179,7 +56860,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/png%20%289%29.png?itok=RVi9xiGi",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Alphonse Bisaillon se distingue par l’utilisation d’images évocatrices, de trames narratives riches et de jeux de mots ingénieux. Chaque composition est minutieusement ciselée pour créer une expérience véritablement immersive. Alphonse Bisaillon ose explorer de nouveaux territoires sonores, mêlant habilement différents types d’influences musicales. C'est un projet de chanson qui doit beaucoup à Aznavour ; une symphonie éclectique qui séduit et surprend à chaque écoute.            \r\n\r\nSon EP éponyme est paru le 28 octobre 2022 sous l’étiquette L-A be. Ce dernier a été réalisé par François Richard et enregistré aux Studio B-12 et Studio Le Hublot. Au nombre des distinctions reçues figurent l’Étoile Montante Stingray, le Prix Belle et Bum Télé-Québec, le Prix du public Hydro-Québec, la Bourse Sirius XM, le prix Chanson actuelle Sirius XM, le Prix Mouffe 2024 et le Prix Coup de pouce PURCOM à l’édition 2024 de Vue sur la relève. Par ailleurs, il se retrouve au nombre des Coup de cœur de l’année du journal Le Droit.",
@@ -57299,8 +56981,8 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/cayenne-cayenne-plateau-double-avec-alphonse-bisaillon-11884",
-        "name": "Cayenne - Cayenne plateau double avec Alphonse Bisaillon",
+        "url": "https://scenesfrancophones.ca/spectacles/alphonse-bisaillon-et-cayenne-alphonse-bisaillon-et-cayenne-en-plateau-double-11884",
+        "name": "Alphonse Bisaillon et Cayenne - Alphonse Bisaillon et Cayenne en plateau double",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -57310,7 +56992,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Cayenne interprète avec justesse et fougue des récits tantôt champ gauche et énergiques, tantôt introspectifs et sensibles. Au menu : féminisme, préoccupations milléniales, recherche identitaire à travers l’amour du territoire, le tout nappé d’influences qui valsent avec le polyamour musical. C’est la rencontre avec une sympathique bibitte au coeur grand comme la vaste Côte-Nord. Son premier album, SNOWFLAKE, a été lancé à l’automne 2022.",
+        "description": "Unis par leur audace et leur sensibilité, Cayenne et Alphonse Bisaillon offrent une soirée où la chanson s’aventure hors des sentiers battus. Entre les récits fougueux et lumineux de Cayenne — empreints de féminisme, d’identité et d’amour du territoire — et les chansons finement ciselées d’Alphonse Bisaillon, riches en images et en émotions, ce spectacle promet un voyage musical vibrant et singulier, à la croisée de la poésie et de l’instinct.",
         "startDate": "2026-01-29T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11884",
@@ -57347,9 +57029,9 @@
         "performer": [
           {
             "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8855",
-            "url": "https://scenesfrancophones.ca/artistes/cayenne",
-            "name": "Cayenne",
+            "@id": "https://scenesfrancophones.ca/id/12185",
+            "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon-et-cayenne",
+            "name": "Alphonse Bisaillon et Cayenne",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
               "http://xmlns.com/foaf/0.1/Agent",
@@ -57365,8 +57047,8 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/cayenne-cayenne-plateau-double-avec-alphonse-bisaillon-11885",
-        "name": "Cayenne - Cayenne plateau double avec Alphonse Bisaillon",
+        "url": "https://scenesfrancophones.ca/spectacles/alphonse-bisaillon-et-cayenne-alphonse-bisaillon-et-cayenne-en-plateau-double-11885",
+        "name": "Alphonse Bisaillon et Cayenne - Alphonse Bisaillon et Cayenne en plateau double",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -57376,7 +57058,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Cayenne interprète avec justesse et fougue des récits tantôt champ gauche et énergiques, tantôt introspectifs et sensibles. Au menu : féminisme, préoccupations milléniales, recherche identitaire à travers l’amour du territoire, le tout nappé d’influences qui valsent avec le polyamour musical. C’est la rencontre avec une sympathique bibitte au coeur grand comme la vaste Côte-Nord. Son premier album, SNOWFLAKE, a été lancé à l’automne 2022.",
+        "description": "Unis par leur audace et leur sensibilité, Cayenne et Alphonse Bisaillon offrent une soirée où la chanson s’aventure hors des sentiers battus. Entre les récits fougueux et lumineux de Cayenne — empreints de féminisme, d’identité et d’amour du territoire — et les chansons finement ciselées d’Alphonse Bisaillon, riches en images et en émotions, ce spectacle promet un voyage musical vibrant et singulier, à la croisée de la poésie et de l’instinct.",
         "startDate": "2026-01-30T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11885",
@@ -57413,9 +57095,9 @@
         "performer": [
           {
             "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8855",
-            "url": "https://scenesfrancophones.ca/artistes/cayenne",
-            "name": "Cayenne",
+            "@id": "https://scenesfrancophones.ca/id/12185",
+            "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon-et-cayenne",
+            "name": "Alphonse Bisaillon et Cayenne",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
               "http://xmlns.com/foaf/0.1/Agent",
@@ -57431,8 +57113,8 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/cayenne-cayenne-plateau-double-avec-alphonse-bisaillon-11886",
-        "name": "Cayenne - Cayenne plateau double avec Alphonse Bisaillon",
+        "url": "https://scenesfrancophones.ca/spectacles/alphonse-bisaillon-et-cayenne-alphonse-bisaillon-et-cayenne-en-plateau-double-11886",
+        "name": "Alphonse Bisaillon et Cayenne - Alphonse Bisaillon et Cayenne en plateau double",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -57442,7 +57124,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Cayenne interprète avec justesse et fougue des récits tantôt champ gauche et énergiques, tantôt introspectifs et sensibles. Au menu : féminisme, préoccupations milléniales, recherche identitaire à travers l’amour du territoire, le tout nappé d’influences qui valsent avec le polyamour musical. C’est la rencontre avec une sympathique bibitte au coeur grand comme la vaste Côte-Nord. Son premier album, SNOWFLAKE, a été lancé à l’automne 2022.",
+        "description": "Unis par leur audace et leur sensibilité, Cayenne et Alphonse Bisaillon offrent une soirée où la chanson s’aventure hors des sentiers battus. Entre les récits fougueux et lumineux de Cayenne — empreints de féminisme, d’identité et d’amour du territoire — et les chansons finement ciselées d’Alphonse Bisaillon, riches en images et en émotions, ce spectacle promet un voyage musical vibrant et singulier, à la croisée de la poésie et de l’instinct.",
         "startDate": "2026-01-31T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11886",
@@ -57479,9 +57161,9 @@
         "performer": [
           {
             "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8855",
-            "url": "https://scenesfrancophones.ca/artistes/cayenne",
-            "name": "Cayenne",
+            "@id": "https://scenesfrancophones.ca/id/12185",
+            "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon-et-cayenne",
+            "name": "Alphonse Bisaillon et Cayenne",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
               "http://xmlns.com/foaf/0.1/Agent",
@@ -57505,7 +57187,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/png%20%289%29.png?itok=RVi9xiGi",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Alphonse Bisaillon se distingue par l’utilisation d’images évocatrices, de trames narratives riches et de jeux de mots ingénieux. Chaque composition est minutieusement ciselée pour créer une expérience véritablement immersive. Alphonse Bisaillon ose explorer de nouveaux territoires sonores, mêlant habilement différents types d’influences musicales. C'est un projet de chanson qui doit beaucoup à Aznavour ; une symphonie éclectique qui séduit et surprend à chaque écoute.            \r\n\r\nSon EP éponyme est paru le 28 octobre 2022 sous l’étiquette L-A be. Ce dernier a été réalisé par François Richard et enregistré aux Studio B-12 et Studio Le Hublot. Au nombre des distinctions reçues figurent l’Étoile Montante Stingray, le Prix Belle et Bum Télé-Québec, le Prix du public Hydro-Québec, la Bourse Sirius XM, le prix Chanson actuelle Sirius XM, le Prix Mouffe 2024 et le Prix Coup de pouce PURCOM à l’édition 2024 de Vue sur la relève. Par ailleurs, il se retrouve au nombre des Coup de cœur de l’année du journal Le Droit.",
@@ -58739,7 +58422,7 @@
           "creditText": "Jean Charles Labarre"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.  Et c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin.   Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur.   En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.  ",
+        "description": "Découvert sur le plateau de Salut Bonjour! où il a impressionné Gino Chouinard et le Québec tout entier, il compte maintenant plus de 25 millions de vues sur les réseaux sociaux. Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée. Et c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin. Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur. En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.",
         "startDate": "2026-03-26T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11910",
@@ -58777,7 +58460,7 @@
           {
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/9996",
-            "url": "https://scenesfrancophones.ca/artistes/david-corriveau-3",
+            "url": "https://scenesfrancophones.ca/artistes/david-corriveau",
             "name": "David Corriveau"
           }
         ]
@@ -61140,11 +60823,9 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/png%20%284%29.png?itok=DZ9NNaSm",
           "width": "430",
-          "height": "430",
-          "creditText": "Jean Charles Labarre"
+          "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Finaliste à La France a un incroyable talent, le rôle de Herbert Léotard dans la pièce Moi … et l’autre et un premier spectacle solo fort attendu… David Corriveau vit un véritable conte de fée.  Et c’est ce qu’il a choisi de nous raconter dans 100 contrefaçons, avec sa voix exceptionnelle capable de chanter au masculin comme au féminin.   Sur scène, l’histoire commence par une enfance heureuse sur une ferme, bercée par la musique et ce désir, quand il sera grand, de chanter comme Céline Dion. Puis la musique le suit partout : sur cassettes, sur walkman, jusqu’au karaokés. Plus tard, les imitations mises en ligne lui ouvrent le chemin de la France et enfin ce job dans un restaurant où il rencontre un producteur.   En partant du poulailler de son enfance à la Place des Arts, David Corriveau vous invite à la comédie musicale qu’est sa vie autour des chansons qu’il entend à la radio, des artistes qu’il rencontre. De toutes ces chansons qui marquent son parcours, de Ginette Reno à Céline, en passant par Mickael Jackson, Tina Turner, Rock Voisine, Julie Masse et WHAM.  ",
         "startDate": "2025-09-17T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11952",
@@ -61178,14 +60859,10 @@
           "name": "Société culturelle des Hauts-Plateaux",
           "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
         },
-        "performer": [
-          {
-            "@type": "Person",
-            "@id": "https://scenesfrancophones.ca/id/9996",
-            "url": "https://scenesfrancophones.ca/artistes/david-corriveau-3",
-            "name": "David Corriveau"
-          }
-        ]
+        "performer": {
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/"
+        }
       }
     ]
   },
