@@ -37912,7 +37912,7 @@
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2825%29.png?itok=5bvd8IYD",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-10/25-26-%C3%89v%C3%A9nements.png?itok=06zc5vb_",
           "width": "430",
           "height": "430"
         },
@@ -37942,7 +37942,7 @@
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://leschutes.tuxedobillet.com/",
+          "url": "https://crleschutes.tuxedobillet.com/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -37976,7 +37976,7 @@
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/c7dbd900ddb0a238aa6b956db71f3e00%20%281%29.jpeg?itok=khdk6yC-",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-10/25-26-%C3%89v%C3%A9nements_4.png?itok=bZKwT8WV",
           "width": "430",
           "height": "430"
         },
@@ -38104,7 +38104,7 @@
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/1600x1000web-countryidoles_0.jpg?itok=4VnDCkr5",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-10/25-26-%C3%89v%C3%A9nements_2.png?itok=R9rWoFfA",
           "width": "430",
           "height": "430"
         },
@@ -53821,7 +53821,7 @@
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%286%29.png?itok=a4FYTPFr",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-10/25-26-%C3%89v%C3%A9nements_3.png?itok=x-5AJurR",
           "width": "430",
           "height": "430"
         },
@@ -55287,22 +55287,22 @@
         "@id": "https://scenesfrancophones.ca/id/11852",
         "location": {
           "@type": "Place",
-          "name": "Théâtre Richard-Denys",
-          "url": "https://scenesfrancophones.ca/node/502",
+          "name": "Salle Multifonctionnelle Denis-Richard",
+          "url": "https://scenesfrancophones.ca/node/524",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "700, rue Principale",
-            "addressLocality": "Neguac",
+            "streetAddress": "706, rue Principale",
+            "addressLocality": "Petit-Rocher",
             "addressRegion": "NB",
-            "postalCode": "E9G 1N4",
+            "postalCode": "E8J 1V1",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "47.24295",
-            "longitude": "-65.08009"
+            "latitude": "47.77321",
+            "longitude": "-65.71659"
           },
-          "@id": "https://scenesfrancophones.ca/id/502"
+          "@id": "https://scenesfrancophones.ca/id/524"
         },
         "offers": {
           "@type": "Offer",
