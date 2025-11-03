@@ -10882,6 +10882,38 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12193",
+        "url": "https://scenesfrancophones.ca/artistes/tom-folly-0",
+        "name": "Tom Folly"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12202",
+        "url": "https://scenesfrancophones.ca/artistes/joey-albert",
+        "name": "Joey Albert"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/marcher-linfini-961",
         "name": "Marcher à l'infini",
@@ -11141,8 +11173,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         }
       }
     ]
@@ -13513,8 +13545,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         }
       }
     ]
@@ -13565,8 +13597,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         }
       }
     ]
@@ -15731,8 +15763,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         }
       }
     ]
@@ -17188,8 +17220,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         }
       }
     ]
@@ -18353,8 +18385,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Person",
@@ -18766,8 +18798,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         }
       }
     ]
@@ -22644,8 +22676,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": [
           {
@@ -23307,8 +23339,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": [
           {
@@ -25956,8 +25988,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": [
           {
@@ -30179,8 +30211,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -30243,8 +30275,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -30307,8 +30339,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -30371,8 +30403,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -30435,8 +30467,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -30499,8 +30531,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -30563,8 +30595,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -30627,8 +30659,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -30691,8 +30723,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -30755,8 +30787,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -30819,8 +30851,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -30883,8 +30915,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -30947,8 +30979,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -31011,8 +31043,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -31075,8 +31107,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -31139,8 +31171,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -31204,8 +31236,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Person",
@@ -32362,8 +32394,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -32426,8 +32458,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -37917,7 +37949,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, quelque part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry. Avec leurs chansons originales et leurs reprises, ces maîtres de la scène franco-ontarienne offrent une dose d'improvisation, des voix et des guitares harmonieusement mélangées dans un cocktail sonore qui vous emmène à toute vitesse. Leur approche n'est pas risquée, car ces gars ont tous les bons mouvements. Un plaisir garanti !\r\n\r\nBenny Jones prendra la scène du Foyer McCain à partir de 20h30 en format cabaret. Gaspésien d’origine, devenu Madelinot d’adoption, il parcourt la province à la rencontre du public, pour chanter ses histoires et raconter ses chansons. Autodidacte, le jeune Benny apprend les rudiments de la guitare à l’aide d’une chanson d’Okoumé. Armé de quelques accords et d’un amour des mots, il compose finalement ses premières chansons originales. Une décennie plus tard, ses compositions aux saveurs folk lui permettent de remporter le prix Étoile Stingray en 2019. ",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, quelque part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry. Avec leurs chansons originales et leurs reprises, ces maîtres de la scène franco-ontarienne offrent une dose d'improvisation, des voix et des guitares harmonieusement mélangées dans un cocktail sonore qui vous emmène à toute vitesse. Leur approche n'est pas risquée, car ces gars ont tous les bons mouvements. Un plaisir garanti ! Gagnant du prix Étoile Stingray en 2019, l’auteur-compositeur-interprète Benny Jones débarque dans l’univers musical francophone en 2020 avec son premier album Parce qu’il m’arrive. Gaspésien d’origine, devenu Madelinot d’adoption, Benny Jones parcourt la province à la rencontre du public, pour chanter ses histoires et raconter ses chansons. Fort de son expérience scénique, dont les 1ères parties de 2Frères et tournées ROSEQ, il est notamment lauréat des prix Réseau des Grands Espaces et RADARTS lors des Rencontres d’Automne du ROSEQ 2023.",
         "startDate": "2025-11-20T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8543",
@@ -40173,8 +40205,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52121,8 +52153,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52185,8 +52217,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52249,8 +52281,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52313,8 +52345,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52377,8 +52409,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52441,8 +52473,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52505,8 +52537,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52570,8 +52602,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52634,8 +52666,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52698,8 +52730,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52762,8 +52794,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52826,8 +52858,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52890,8 +52922,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -52954,8 +52986,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -53018,8 +53050,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -55593,7 +55625,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, quelque part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry. Avec leurs chansons originales et leurs reprises, ces maîtres de la scène franco-ontarienne offrent une dose d'improvisation, des voix et des guitares harmonieusement mélangées dans un cocktail sonore qui vous emmène à toute vitesse. Leur approche n'est pas risquée, car ces gars ont tous les bons mouvements. Un plaisir garanti !\r\n\r\nBenny Jones prendra la scène du Foyer McCain à partir de 20h30 en format cabaret. Gaspésien d’origine, devenu Madelinot d’adoption, il parcourt la province à la rencontre du public, pour chanter ses histoires et raconter ses chansons. Autodidacte, le jeune Benny apprend les rudiments de la guitare à l’aide d’une chanson d’Okoumé. Armé de quelques accords et d’un amour des mots, il compose finalement ses premières chansons originales. Une décennie plus tard, ses compositions aux saveurs folk lui permettent de remporter le prix Étoile Stingray en 2019. ",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, quelque part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry. Avec leurs chansons originales et leurs reprises, ces maîtres de la scène franco-ontarienne offrent une dose d'improvisation, des voix et des guitares harmonieusement mélangées dans un cocktail sonore qui vous emmène à toute vitesse. Leur approche n'est pas risquée, car ces gars ont tous les bons mouvements. Un plaisir garanti ! Gagnant du prix Étoile Stingray en 2019, l’auteur-compositeur-interprète Benny Jones débarque dans l’univers musical francophone en 2020 avec son premier album Parce qu’il m’arrive. Gaspésien d’origine, devenu Madelinot d’adoption, Benny Jones parcourt la province à la rencontre du public, pour chanter ses histoires et raconter ses chansons. Fort de son expérience scénique, dont les 1ères parties de 2Frères et tournées ROSEQ, il est notamment lauréat des prix Réseau des Grands Espaces et RADARTS lors des Rencontres d’Automne du ROSEQ 2023.",
         "startDate": "2025-11-22T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11859",
@@ -55922,11 +55954,11 @@
         "@id": "https://scenesfrancophones.ca/id/11865",
         "location": {
           "@type": "Place",
-          "name": "Cafétéria du carrefour de l'Île-Saint-Jean",
-          "url": "https://scenesfrancophones.ca/node/11786",
+          "name": "Théâtre Port-Lajoye",
+          "url": "https://scenesfrancophones.ca/node/520",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "5 Acadian Dr, Charlottetown, PE",
+            "streetAddress": "5, promenade Acadian",
             "addressLocality": "Charlottetown",
             "addressRegion": "PE",
             "postalCode": "C1C 1M2",
@@ -55934,13 +55966,14 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "46.262145",
-            "longitude": "-63.092755"
+            "latitude": "46.26131",
+            "longitude": "-63.09456"
           },
-          "@id": "https://scenesfrancophones.ca/id/11786"
+          "@id": "https://scenesfrancophones.ca/id/520"
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://www.carrefourisj.org/event-details/bilinguish-boys-la-tournee-hahahacadienne",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -56828,8 +56861,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": [
           {
@@ -58762,8 +58795,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": [
           {
@@ -60060,8 +60093,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": [
           {
@@ -61315,7 +61348,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Le spectacle immersif SHERLOCONTE plonge les jeunes au coeur d’une histoire d’enquête interactive qui se déroule dans un dôme gonflable où sont projetés des décors en 360˚.Un intriguant personnage d’inventrice du futur guide les jeunes à travers une intrigue qui comportent une série d’énigmes visuelles, musicales, mathématiques et même émotionnelles, qui ne peuvent être résolues que par un travail en équipe.Toutes les formes de leur intelligence sont stimulées et les jeunes font appel à leurs sens d’observation, de stratégie et de déduction pour ramasser des indices qui servent à déverrouiller toutes les portes de l’histoire…SHERLOCONTE, une expérience futuriste interactive dans laquelle les jeunes utilisent leur logique pour mener une enquête afin de résoudre un mystère.Avec une approche unique où l'énergie, la curiosité, la déduction, l'enthousiasme, et l'humour servent la soif de participer des enfants, Sherloconte est équipée pour surprendre.En effet, l’approche de Sherloconte porte une réflexion sur l’importance de nos différentes formes d’intelligence et ses avantages, et s'assure également de véhiculer des valeurs importantes, adoptées par les familles.• La valorisation de la jeunesse et de ses capacités• L’apprentissage dans un contexte stimulant• La mise en valeur de l’émerveillement et du plaisir sain• Le développement de l’écoute de nos différentes formes d’intelligence• L’ouverture sur les différentes cultures",
-        "startDate": "2026-10-26T09:00:00-03:00",
+        "startDate": "2025-10-26T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11974",
         "location": {
@@ -65404,8 +65437,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -65468,8 +65501,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -65532,8 +65565,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -65596,8 +65629,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/39",
-          "name": "Centre culturel de Caraquet",
-          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet"
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
           "@type": "Thing",
@@ -65994,6 +66027,341 @@
             "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
           ]
         }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/tom-folly-festival-interculturel-des-arts-de-kingston-12196",
+        "name": "Tom Folly -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-09-21T16:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12196",
+        "location": {
+          "@type": "Place",
+          "name": "Confederation Park",
+          "url": "https://scenesfrancophones.ca/node/12195",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7L2Z1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.2293",
+            "longitude": "-76.480324"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12195"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12193",
+          "url": "https://scenesfrancophones.ca/artistes/tom-folly-0",
+          "name": "Tom Folly",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mehdi-cayenne-animal-chic-12198",
+        "name": "Mehdi Cayenne - Mehdi Cayenne",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Électron libre de la francophonie internationale, Mehdi Cayenne nous entraîne dans un maelström irrésistible de nouvelles chansons qui font du bien, et qui ont du chien.\r\nSa plume plus acérée que jamais est portée par des sonorités électro-pop aux couleurs d’ici et d’ailleurs d’une efficacité indéniable, et sans équivalent dans le paysage culturel québécois. \r\nBienvenue dans le Cayenne Club: ça varge, ça décoiffe, ça brasse et ça embrasse: tout un programme!",
+        "startDate": "2025-09-25T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12198",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Le Sésame",
+          "url": "https://scenesfrancophones.ca/node/1045",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1290 rue Wheathill",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7M 0A7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.24737",
+            "longitude": "-76.56108"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1045"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4026",
+          "url": "https://scenesfrancophones.ca/artistes/mehdi-cayenne",
+          "name": "Mehdi Cayenne"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/stephane-guertin-effet-papillon-quand-les-orteils-auront-des-dents-12201",
+        "name": "Stéphane Guertin, Effet papillon -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pourquoi j’ai peur ? De quoi j’ai peur? Et s’il existait des trucs pour vaincre les monstres sous notre lit ?  Dans ce spectacle, on s’amuse avec le conteur Stéphane Guertin à se raconter des histoires effrayantes de monstre, de noirceur, de bêtes merveilleuses ou d'oubli.  Quand les orteils auront des dents permet aux 5 à 10 ans d’apprendre en humour à surmonter leurs peurs avec force et détermination. Armé de coffres à surprise et de quelques objets musicaux, le conteur crée en toute simplicité les univers sonores qui accompagnent ses récits. (Aussi disponible en clé-en-main)",
+        "startDate": "2025-11-01T11:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12201",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Le Sésame",
+          "url": "https://scenesfrancophones.ca/node/1045",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1290 rue Wheathill",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7M 0A7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.24737",
+            "longitude": "-76.56108"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1045"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/8578",
+          "url": "https://scenesfrancophones.ca/artistes/stephane-guertin-effet-papillon",
+          "name": "Stéphane Guertin, Effet papillon"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/joey-albert-lart-et-lhistoire-du-cirque-12205",
+        "name": "Joey Albert -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-10-18T11:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12205",
+        "location": {
+          "@type": "Place",
+          "name": "Centre communautaire de l'Est de Kingston",
+          "url": "https://scenesfrancophones.ca/node/12204",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "779 15, Kingston, ON",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7L4V3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.254514",
+            "longitude": "-76.458908"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12204"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12202",
+          "url": "https://scenesfrancophones.ca/artistes/joey-albert",
+          "name": "Joey Albert",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-bilinguish-boys-12208",
+        "name": "Les Bilinguish Boys",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
+          "width": "430",
+          "height": "430",
+          "creditText": "Lynne Dupuis"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "startDate": "2025-11-20T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12208",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium Richelieu",
+          "url": "https://scenesfrancophones.ca/node/503",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "215, rue Guimont",
+            "addressLocality": "Grand-Sault",
+            "addressRegion": "NB",
+            "postalCode": "E3Y 3W3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.056374",
+            "longitude": "-67.73096"
+          },
+          "@id": "https://scenesfrancophones.ca/id/503"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://crleschutes.tuxedobillet.com/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/53",
+          "name": "Société culturelle régionale Les Chutes",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-bilinguish-boys-12209",
+        "name": "Les Bilinguish Boys",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
+          "width": "430",
+          "height": "430",
+          "creditText": "Lynne Dupuis"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "startDate": "2025-11-22T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12209",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Bernard Poirier",
+          "url": "https://scenesfrancophones.ca/node/468",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "715, rue Priestman",
+            "addressLocality": "Fredericton",
+            "addressRegion": "NB",
+            "postalCode": "E3B 5W7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.941773",
+            "longitude": "-66.651817"
+          },
+          "@id": "https://scenesfrancophones.ca/id/468"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://centre-sainte-anne.nb.ca/programmation/plateau-double-benny-bilinguish",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/38",
+          "name": "Centre communautaire Sainte-Anne",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-communautaire-sainte-anne"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/998",
+            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
+            "name": "Les Bilinguish Boys"
+          }
+        ]
       }
     ]
   },
@@ -70468,6 +70836,53 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12195",
+        "name": "Confederation Park",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Kingston",
+          "addressRegion": "ON",
+          "postalCode": "K7L2Z1",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "44.2293",
+          "longitude": "-76.480324"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12195"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12204",
+        "name": "Centre communautaire de l'Est de Kingston",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "779 15, Kingston, ON",
+          "addressLocality": "Kingston",
+          "addressRegion": "ON",
+          "postalCode": "K7L4V3",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "44.254514",
+          "longitude": "-76.458908"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12204"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/24",
         "url": "https://www.carrefourisj.org/",
@@ -71042,7 +71457,7 @@
         "@id": "https://scenesfrancophones.ca/id/39",
         "url": "https://evencia.ca/",
         "description": "Évencia est un organisme à but non lucratif dont le mandat principal est de gérer les infrastructures culturelles de Caraquet soit le Carrefour de la mer, le Cinéma du Centre et le Centre culturel. Son conseil d’administration est composé de six personnes qui représentent la communauté, la municipalité et le secteur artistique.",
-        "name": "Centre culturel de Caraquet",
+        "name": "Évencia",
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "(506) 726-5001",
@@ -71055,7 +71470,7 @@
           "width": "480",
           "height": "480"
         },
-        "mainEntityOfPage": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-de-caraquet",
+        "mainEntityOfPage": "https://scenesfrancophones.ca/diffuseurs/evencia",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "220, boulevard Saint-Pierre Ouest, bureau 200",
