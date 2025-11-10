@@ -1112,7 +1112,14 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/998",
         "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
-        "name": "Les Bilinguish Boys"
+        "name": "Les Bilinguish Boys",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-11/Promo%20Bilinguish.png?itok=2i4IWTUD",
+          "width": "480",
+          "height": "480"
+        }
       }
     ]
   },
@@ -10907,6 +10914,38 @@
         "@id": "https://scenesfrancophones.ca/id/12202",
         "url": "https://scenesfrancophones.ca/artistes/joey-albert",
         "name": "Joey Albert"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12214",
+        "url": "https://scenesfrancophones.ca/artistes/jean-luc-boutin-et-le-pere-garneau",
+        "name": "Jean-Luc Boutin et le Pére Garneau"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12217",
+        "url": "https://scenesfrancophones.ca/artistes/iron-lace-jazz-band",
+        "name": "Iron Lace Jazz Band"
       }
     ]
   },
@@ -45973,7 +46012,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-05-31T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9269",
@@ -54464,7 +54503,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-12T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11834",
@@ -54526,7 +54565,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-13T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11835",
@@ -54773,7 +54812,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-14T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11840",
@@ -54897,7 +54936,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-15T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11842",
@@ -55062,7 +55101,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-16T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11845",
@@ -55186,7 +55225,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-19T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11847",
@@ -55504,7 +55543,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-21T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11855",
@@ -55758,7 +55797,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-23T14:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11861",
@@ -55820,7 +55859,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-26T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11862",
@@ -55948,7 +55987,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-27T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11865",
@@ -56072,7 +56111,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-28T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11867",
@@ -56256,7 +56295,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-29T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11870",
@@ -56380,7 +56419,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-30T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11872",
@@ -66258,7 +66297,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-20T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12208",
@@ -66320,7 +66359,7 @@
           "creditText": "Lynne Dupuis"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est un groupe formé en banlieue du Grand Sudbury, à quek’ part entre Azilda et Chelmsford. Composé de Stef Paquette, Dayv Poulin, et Édouard Landry, ces gars de la 'scène' se ‘guette together’ de temps en temps pour jouer pour un prélèvement de fond, ou bien même pour un dévoilement de programmation ou pour juste passer une soirée dans une brasserie! \r\nChansons originales et des reprises, ces ‘top guns’ de la scène franco-ontarienne vous offrent de l’improvisation, des voix et des guitares ‘blenderées’ dans un ‘cocktail’ qui ‘cruise’ à 100 milles à l’heure.",
+        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
         "startDate": "2025-11-22T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12209",
@@ -66362,6 +66401,132 @@
             "name": "Les Bilinguish Boys"
           }
         ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jean-luc-boutin-et-le-pere-garneau-une-soiree-des-fetes-de-par-chez-nous-12216",
+        "name": "Jean-Luc Boutin et le Pére Garneau -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-11/affiche%20journe%CC%81e%20familiale%20Noe%CC%88l%202025.jpg?itok=MduIKejy",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Un party de contes et chansons avec Jean-Luc Boutin et le Pére Garneau",
+        "startDate": "2025-11-30T10:30:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12216",
+        "location": {
+          "@type": "Place",
+          "name": "Conseil scolaire de district catholique des Aurores boréales (CSDCAB)",
+          "url": "https://scenesfrancophones.ca/node/1078",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "175, rue High Nord",
+            "addressLocality": "Thunder Bay",
+            "addressRegion": "ON",
+            "postalCode": "P7A 8C7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.443986",
+            "longitude": "-89.228868"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1078"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/76",
+          "name": "Club culturel francophone de Thunder Bay",
+          "url": "https://scenesfrancophones.ca/diffuseurs/club-culturel-francophone-de-thunder-bay"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12214",
+          "url": "https://scenesfrancophones.ca/artistes/jean-luc-boutin-et-le-pere-garneau",
+          "name": "Jean-Luc Boutin et le Pére Garneau",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/iron-lace-jazz-band-swinger-noel-du-mississippi-thunder-bay-12220",
+        "name": "Iron Lace Jazz Band -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/affiche%20souper%20Noe%CC%88l%202025.jpg?itok=z9yqGDuF",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2025-12-05T18:00:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12220",
+        "location": {
+          "@type": "Place",
+          "name": "Superior Inn Hotel and Conference Centre",
+          "url": "https://scenesfrancophones.ca/node/12219",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "555, rue Arthur Ouest",
+            "addressLocality": "Thunder Bay",
+            "addressRegion": "ON",
+            "postalCode": "P7E5R5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.381529",
+            "longitude": "-89.292778"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12219"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.zeffy.com/fr-CA/ticketing/souper-de-noel-et-soiree-dansante",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/76",
+          "name": "Club culturel francophone de Thunder Bay",
+          "url": "https://scenesfrancophones.ca/diffuseurs/club-culturel-francophone-de-thunder-bay"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12217",
+          "url": "https://scenesfrancophones.ca/artistes/iron-lace-jazz-band",
+          "name": "Iron Lace Jazz Band",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
       }
     ]
   },
@@ -70876,6 +71041,30 @@
           "longitude": "-76.458908"
         },
         "@id": "https://scenesfrancophones.ca/id/12204"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12219",
+        "name": "Superior Inn Hotel and Conference Centre",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "555, rue Arthur Ouest",
+          "addressLocality": "Thunder Bay",
+          "addressRegion": "ON",
+          "postalCode": "P7E5R5",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "48.381529",
+          "longitude": "-89.292778"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12219"
       }
     ]
   },
