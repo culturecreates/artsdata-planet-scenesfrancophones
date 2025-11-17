@@ -10953,6 +10953,22 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12221",
+        "url": "https://scenesfrancophones.ca/artistes/mariana-mazza-0",
+        "name": "Mariana Mazza"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/marcher-linfini-961",
         "name": "Marcher à l'infini",
@@ -52616,11 +52632,11 @@
         "@id": "https://scenesfrancophones.ca/id/10566",
         "location": {
           "@type": "Place",
-          "name": "Salle du Carrefour de la mer",
-          "url": "https://scenesfrancophones.ca/node/472",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "29, ave. du Carr",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
             "addressLocality": "Caraquet",
             "addressRegion": "NB",
             "postalCode": "E1W 1A5",
@@ -52628,10 +52644,10 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "47.794707",
-            "longitude": "-64.937286"
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
           },
-          "@id": "https://scenesfrancophones.ca/id/472"
+          "@id": "https://scenesfrancophones.ca/id/471"
         },
         "offers": {
           "@type": "Offer",
@@ -56444,6 +56460,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://www.conseildesartsdecheticamp.com/event-info/bilinguish-boys",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -66534,6 +66551,70 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mariana-mazza-foie-gras-12223",
+        "name": "Mariana Mazza -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/2410_MMaz_MEV-E_600x300_coverCMQ.png?itok=pV8_q0S7",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour son troisième spectacle, Foie Gras, Mariana Mazza décide de s’exprimer avec sa tête et son coeur… pour faire changement. Dans ce one-woman-show bien personnel, la jeune fille qui a grandi à Montréal-Nord, maintenant rendue une femme embourgeoisée qui vit à Saint-Lambert avec ses caniches et ses toiles invendues, se montre aussi brillante qu’hilarante. Étant habituée à dire des choses uniquement pour provoquer un rire, elle souhaite aller plus loin cette fois et faire un coming out au public : elle est émotive et vulnérable. Le chihuahua sur le Red Bull est officiellement remplacé par le tank au coeur de porcelaine. Comme elle le dit si bien : « C’est moi la meilleure tabarnak! » Oui, Mariana a changé. Mais à quel point?",
+        "startDate": "2026-11-27T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12223",
+        "location": {
+          "@type": "Place",
+          "name": "Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/12164",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29 Av. du Carrefour",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12164"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/mariana-mazza-foie-gras",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12221",
+          "url": "https://scenesfrancophones.ca/artistes/mariana-mazza-0",
+          "name": "Mariana Mazza",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/457",
         "name": "Atrium de l'ACFSJ",
@@ -71065,6 +71146,150 @@
           "longitude": "-89.292778"
         },
         "@id": "https://scenesfrancophones.ca/id/12219"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12225",
+        "name": "École secondaire Pavillon Gustave-Dubois",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2320, avenue Louise",
+          "addressLocality": "Saskatoon",
+          "addressRegion": "SK",
+          "postalCode": "S7J 3M7",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "52.099587",
+          "longitude": "-106.625146"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12225"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12227",
+        "name": "École Valois",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "449, 10 rue E",
+          "addressLocality": "Prince Albert",
+          "addressRegion": "SK",
+          "postalCode": "S6V 0Z5",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "53.20378",
+          "longitude": "-105.743421"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12227"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12228",
+        "name": "Centre communautaire de St-Denis",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "CP 42",
+          "addressLocality": "St-Denis",
+          "addressRegion": "SK",
+          "postalCode": "S0K 3W0",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "52.512591",
+          "longitude": "-106.422071"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12228"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12229",
+        "name": "École Notre-Dame-des-Vertus",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "650, 2e rue Nord",
+          "addressLocality": "Zenon Park",
+          "addressRegion": "SK",
+          "postalCode": "S0E 1W0",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "53.064428",
+          "longitude": "-103.758225"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12229"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12230",
+        "name": "École Père Mercure",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1881, 99e rue",
+          "addressLocality": "North Battleford",
+          "addressRegion": "SK",
+          "postalCode": "S9A 0R9",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "52.785094",
+          "longitude": "-108.301006"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12230"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12231",
+        "name": "École Monseigneur de Laval",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1601, croissant Cowan",
+          "addressLocality": "Regina",
+          "addressRegion": "SK",
+          "postalCode": "S4S 4C3",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "50.41833",
+          "longitude": "-104.604334"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12231"
       }
     ]
   },
