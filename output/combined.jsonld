@@ -64303,7 +64303,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle et album “Malgré tout”.  Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade.  L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore.  On y découvre ses compositions originales de son nouvel album et on revit ses plus grands succès.",
-        "startDate": "2026-09-25T09:00:00-03:00",
+        "startDate": "2025-09-25T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12118",
         "offers": {
@@ -66608,6 +66608,440 @@
             "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
           ]
         }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/micah-micah-joue-de-la-musique-12235",
+        "name": "MIcah! - Micah! Joue de la musique",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-11/Micah%21%20promo%20v1.jpeg?itok=zayb88Cb",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jocelyne Baribeau"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "startDate": "2025-12-05T19:00:00-06:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12235",
+        "location": {
+          "@type": "Place",
+          "name": "École secondaire Pavillon Gustave-Dubois",
+          "url": "https://scenesfrancophones.ca/node/12225",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2320, avenue Louise",
+            "addressLocality": "Saskatoon",
+            "addressRegion": "SK",
+            "postalCode": "S7J 3M7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "52.099587",
+            "longitude": "-106.625146"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12225"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.francosaskatoon.ca/events/spetacle-de-noel",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/118",
+          "name": "Fédération des Francophones de Saskatoon (FFS)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/federation-des-francophones-de-saskatoon-ffs"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8179",
+            "url": "https://scenesfrancophones.ca/artistes/micah-0",
+            "name": "MIcah!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/micah-micah-joue-de-la-musique-12236",
+        "name": "MIcah! - Micah! Joue de la musique",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-11/Micah%21%20promo%20v1.jpeg?itok=zayb88Cb",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jocelyne Baribeau"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "startDate": "2025-12-06T19:00:00-06:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12236",
+        "location": {
+          "@type": "Place",
+          "name": "École Valois",
+          "url": "https://scenesfrancophones.ca/node/12227",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "449, 10 rue E",
+            "addressLocality": "Prince Albert",
+            "addressRegion": "SK",
+            "postalCode": "S6V 0Z5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "53.20378",
+            "longitude": "-105.743421"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12227"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://conseilculturelfransaskois.ca/micah-et-madame-diva-en-saskatchewan/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/120",
+          "name": "Société canadienne-française de Prince Albert (SCFPA)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-canadienne-francaise-de-prince-albert-scfpa"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8179",
+            "url": "https://scenesfrancophones.ca/artistes/micah-0",
+            "name": "MIcah!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/micah-micah-joue-de-la-musique-12237",
+        "name": "MIcah! - Micah! Joue de la musique",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-11/Micah%21%20promo%20v1.jpeg?itok=zayb88Cb",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jocelyne Baribeau"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "startDate": "2025-12-07T13:00:00-06:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12237",
+        "location": {
+          "@type": "Place",
+          "name": "Centre communautaire de St-Denis",
+          "url": "https://scenesfrancophones.ca/node/12228",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "CP 42",
+            "addressLocality": "St-Denis",
+            "addressRegion": "SK",
+            "postalCode": "S0K 3W0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "52.512591",
+            "longitude": "-106.422071"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12228"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://conseilculturelfransaskois.ca/micah-et-madame-diva-en-saskatchewan/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/4158",
+          "name": "Association communautaire fransaskoise de la Trinité",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-communautaire-fransaskoise-de-la-trinite"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8179",
+            "url": "https://scenesfrancophones.ca/artistes/micah-0",
+            "name": "MIcah!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/micah-micah-joue-de-la-musique-12238",
+        "name": "MIcah! - Micah! Joue de la musique",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-11/Micah%21%20promo%20v1.jpeg?itok=zayb88Cb",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jocelyne Baribeau"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "startDate": "2025-12-09T13:00:00-06:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12238",
+        "location": {
+          "@type": "Place",
+          "name": "École Notre-Dame-des-Vertus",
+          "url": "https://scenesfrancophones.ca/node/12229",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "650, 2e rue Nord",
+            "addressLocality": "Zenon Park",
+            "addressRegion": "SK",
+            "postalCode": "S0E 1W0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "53.064428",
+            "longitude": "-103.758225"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12229"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://conseilculturelfransaskois.ca/micah-et-madame-diva-en-saskatchewan/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/111",
+          "name": "Association fransaskoise de Zenon Park (AFZP)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-fransaskoise-de-zenon-park-afzp"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8179",
+            "url": "https://scenesfrancophones.ca/artistes/micah-0",
+            "name": "MIcah!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/micah-micah-joue-de-la-musique-12239",
+        "name": "MIcah! - Micah! Joue de la musique",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-11/Micah%21%20promo%20v1.jpeg?itok=zayb88Cb",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jocelyne Baribeau"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "startDate": "2025-12-11T14:00:00-06:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12239",
+        "location": {
+          "@type": "Place",
+          "name": "École Père Mercure",
+          "url": "https://scenesfrancophones.ca/node/12230",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1881, 99e rue",
+            "addressLocality": "North Battleford",
+            "addressRegion": "SK",
+            "postalCode": "S9A 0R9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "52.785094",
+            "longitude": "-108.301006"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12230"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://conseilculturelfransaskois.ca/micah-et-madame-diva-en-saskatchewan/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/114",
+          "name": "Centre francophone des Battlefords",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-francophone-des-battlefords"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8179",
+            "url": "https://scenesfrancophones.ca/artistes/micah-0",
+            "name": "MIcah!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/micah-micah-joue-de-la-musique-12240",
+        "name": "MIcah! - Micah! Joue de la musique",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-11/Micah%21%20promo%20v1.jpeg?itok=zayb88Cb",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jocelyne Baribeau"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "startDate": "2025-12-13T10:00:00-06:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12240",
+        "location": {
+          "@type": "Place",
+          "name": "École Monseigneur de Laval",
+          "url": "https://scenesfrancophones.ca/node/12231",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1601, croissant Cowan",
+            "addressLocality": "Regina",
+            "addressRegion": "SK",
+            "postalCode": "S4S 4C3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "50.41833",
+            "longitude": "-104.604334"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12231"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://conseilculturelfransaskois.ca/micah-et-madame-diva-en-saskatchewan/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/109",
+          "name": "Association communautaire fransaskoise de Regina (ACFR)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-communautaire-fransaskoise-de-regina-acfr"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8179",
+            "url": "https://scenesfrancophones.ca/artistes/micah-0",
+            "name": "MIcah!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/micah-micah-joue-de-la-musique-12242",
+        "name": "MIcah! - Micah! Joue de la musique",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-11/Micah%21%20promo%20v1.jpeg?itok=zayb88Cb",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jocelyne Baribeau"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "startDate": "2025-12-14T14:00:00-06:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12242",
+        "location": {
+          "@type": "Place",
+          "name": "Centre culturel franco-manitobain",
+          "url": "https://scenesfrancophones.ca/node/12241",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "340, boulevard Provencher",
+            "addressLocality": "Winnipeg",
+            "addressRegion": "MB",
+            "postalCode": "R2H0G7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.893891",
+            "longitude": "-97.114173"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12241"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://3common.com/event/micah-joue-de-la-musique-et-chante-nol-invite-spciale-madame-diva/684aebbaf316e1054fcbc34d",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/105",
+          "name": "Centre culturel franco-manitobain (CCFM)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-franco-manitobain-ccfm"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8179",
+            "url": "https://scenesfrancophones.ca/artistes/micah-0",
+            "name": "MIcah!"
+          }
+        ]
       }
     ]
   },
@@ -71290,6 +71724,30 @@
           "longitude": "-104.604334"
         },
         "@id": "https://scenesfrancophones.ca/id/12231"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12241",
+        "name": "Centre culturel franco-manitobain",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "340, boulevard Provencher",
+          "addressLocality": "Winnipeg",
+          "addressRegion": "MB",
+          "postalCode": "R2H0G7",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "49.893891",
+          "longitude": "-97.114173"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12241"
       }
     ]
   },
