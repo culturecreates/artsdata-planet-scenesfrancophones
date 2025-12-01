@@ -10969,6 +10969,22 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12251",
+        "url": "https://scenesfrancophones.ca/artistes/la-famille-basque",
+        "name": "La Famille Basque"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/marcher-linfini-961",
         "name": "Marcher à l'infini",
@@ -49013,16 +49029,9 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/nicolas-pellerin-et-les-grands-hurleurs-nicolas-pellerin-et-les-grands-hurleurs-10228",
-        "name": "Nicolas Pellerin et les grands hurleurs - Nicolas Pellerin et les grands hurleurs",
+        "url": "https://scenesfrancophones.ca/spectacles/nicolas-pellerin-et-les-grand-hurleurs-nicolas-pellerin-et-les-grands-hurleurs-10228",
+        "name": "Nicolas Pellerin et Les Grand Hurleurs - Nicolas Pellerin et les grands hurleurs",
         "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/CBM_0996.JPG?itok=zNj22hHR",
-          "width": "430",
-          "height": "430"
-        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Le nouvel album Layon de la formation Nicolas Pellerin et Les Grands Hurleurs a été lancé le 15 mars dernier toujours dans un esprit créatif, dansant et organique. Le public est appelé à la fête, aux moments plus touchants, le tout enrobé par des histoires qui viennent unifier la soirée. Layon s’écoute comme une randonnée musicale en sentier sur fond de musique trad, avec des parfums mélodiques, des dénivelés rythmiques et des paysages atmosphériques inspirants d’air pur. Un album bien ancré dans la groove, un son acoustique et pourtant, une énergie plus rock se dégage grâce aux excellents Grands Hurleurs qui sont désormais Simon Lepage, Louis Thibault et Phil Girard. La formation Nicolas Pellerin et Les Grands Hurleurs a gagné le cœur du public québécois et international grâce à sa musique traditionnelle modernisée et accessible. Avec l’intégration d’influences folk, bluegrass classique, le groupe saura surprendre et toucher les gens encore une fois avec ce trad enrichi! Les violons, la mandoline, la guitare, la contrebasse, les pieds et les riches harmonies vocales se marient afin d’explorer une multitude d’émotions.",
         "startDate": "2025-08-16T20:30:00-03:00",
@@ -51346,7 +51355,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/sam-mallais-tu-mdirais-quoi-10397",
-        "name": "Sam Mallais - Tu m'dirais quoi ?",
+        "name": "Sam Mallais - Tu m'dirais-quoi?",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -54196,71 +54205,6 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/alex-roy-debout-11785",
-        "name": "Alex Roy - Debout",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%284%29.png?itok=vWXyzexx",
-          "width": "430",
-          "height": "430"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Dans “Debout”, je vous raconte tout ce qui me pousse à sortir du lit chaque matin : mon métier, mes jumelles (qui n’ont aucune pitié pour la grasse matinée), et un quotidien rempli d’anecdotes aussi farfelues qu’inattendues. Un spectacle drôle, sincère et énergique... parce que rester debout, c’est déjà une victoire ! “Debout”, c’est plus qu’un simple spectacle de stand-up, c’est une plongée dans tout ce qui me donne envie de me lever le matin. Entre rêves, galères, absurdités du quotidien et grandes questions existentielles, je vous embarque dans un voyage drôle et sincère à travers mes motivations (parfois étranges) pour affronter chaque journée. Alors, qu’est-ce qui me tient debout ? \r\n\r\n\r\nL’artiste\r\n\r\nVenez le découvrir... et peut-être que vous repartirez avec des raisons en plus de vous lever demain ! Alex Roy est un humoriste qui manie l’art du stand-up avec une énergie débordante et un sens aigu de l’autodérision. Avec son franc-parler et sa capacité à transformer les situations du quotidien en histoires hilarantes, il vous embarque dans un univers où chaque détail devient matière à rire. Que ce soit pour parler de sa famille, de ses expériences de vie ou de ses réflexions improbables, Alex Roy sait comment captiver son public en mêlant sincérité, absurdité et une bonne dose d’impertinence. Préparez-vous à rire... et à vous reconnaître (parfois malgré vous) dans ses anecdotes décapantes !",
-        "startDate": "2025-09-11T20:00:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/11785",
-        "location": {
-          "@type": "Place",
-          "name": "Palais Centre-Ville",
-          "url": "https://scenesfrancophones.ca/node/496",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Rue Deschênes",
-            "addressLocality": "Saint-Quentin",
-            "addressRegion": "NB",
-            "postalCode": "E8A 1G9",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "47.511393",
-            "longitude": "-67.391806"
-          },
-          "@id": "https://scenesfrancophones.ca/id/496"
-        },
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/49",
-          "name": "Société culturelle des Hauts-Plateaux",
-          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
-        },
-        "performer": [
-          {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8869",
-            "url": "https://scenesfrancophones.ca/artistes/alex-roy",
-            "name": "Alex Roy",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/david-corriveau-100-contrefacons-11787",
         "name": "David Corriveau - 100 contrefaçons",
         "eventStatus": "https://schema.org/EventScheduled",
@@ -54385,7 +54329,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/chris-belliveau-la-riviere-croche-11789",
-        "name": "Chris Belliveau - La Rivière croche",
+        "name": "Chris Belliveau - La rivière croche",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -54694,7 +54638,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/sam-mallais-tu-mdirais-quoi-11837",
-        "name": "Sam Mallais - Tu m'dirais quoi ?",
+        "name": "Sam Mallais - Tu m'dirais-quoi?",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -55045,7 +54989,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/sam-mallais-tu-mdirais-quoi-11844",
-        "name": "Sam Mallais - Tu m'dirais quoi ?",
+        "name": "Sam Mallais - Tu m'dirais-quoi?",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -61212,63 +61156,6 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/le-theatre-des-alentours-sacrees-canailles-11968",
-        "name": "Le Théâtre des Alentours -",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le Théâtre des Alentours nous revient avec la pièce Sacrées Canailles, une comédie de Charles Istace, mise en scène de Alfreda Haché. L’histoire se déroule dans une maison de retraite par temps de canicule. Les pensionnaires souffrent non seulement de la chaleur, mais aussi d’un papy blues, une déprime consécutive à une trop grande oisiveté. La directrice, qui est une femme d’initiative, a l’idée de booster les résidents en organisant à leur intention des activités de remise en forme. Elle les contraint également à relever de nouveaux défis, ce qui a pour effet de bouleverser leur vie à l’intérieur de l’institution.",
-        "startDate": "2025-09-28T14:00:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/11968",
-        "location": {
-          "@type": "Place",
-          "name": "Théâtre Richard-Denys",
-          "url": "https://scenesfrancophones.ca/node/502",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "700, rue Principale",
-            "addressLocality": "Neguac",
-            "addressRegion": "NB",
-            "postalCode": "E9G 1N4",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "47.24295",
-            "longitude": "-65.08009"
-          },
-          "@id": "https://scenesfrancophones.ca/id/502"
-        },
-        "offers": {
-          "@type": "Offer",
-          "url": "http://scn.ticketacces.net",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/52",
-          "name": "Société culturelle Nigawouek",
-          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-nigawouek"
-        },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/11966",
-          "url": "https://scenesfrancophones.ca/artistes/le-theatre-des-alentours",
-          "name": "Le Théâtre des Alentours",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/anne-godin-contes-et-legendes-dacadie-11972",
         "name": "Anne Godin -",
         "eventStatus": "https://schema.org/EventScheduled",
@@ -67042,6 +66929,70 @@
             "name": "MIcah!"
           }
         ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/la-famille-basque-nouveau-spectacle-12253",
+        "name": "La Famille Basque -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/La%20famille%20Basque%20poster.jpg?itok=ckx0Fjq7",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "La famille Basque est de retour avec son tout nouveau spectacle!\r\n\r\nLa vie à Saint-Riboire est toujours aussi mouvementée. Bourline et Gapi rêvent d'un Noël tranquille, mais Tancrède a d'autres intentions. Ti-Gus se laissera-t-il entraîner dans ses aventures toujours aussi malhonnêtes? Odilon a réussi à vendre son vieux bazou et le bedeau essaye depuis deux ans de faire réparer la cloche de l'église au garage de Ti-Gus. Madame Pincette se fait héberger chez madame Ladébauche. Comment toutes ces aventures finiront-elles? C'est à voir!",
+        "startDate": "2026-01-16T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12253",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Richard-Denys",
+          "url": "https://scenesfrancophones.ca/node/502",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "700, rue Principale",
+            "addressLocality": "Neguac",
+            "addressRegion": "NB",
+            "postalCode": "E9G 1N4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.24295",
+            "longitude": "-65.08009"
+          },
+          "@id": "https://scenesfrancophones.ca/id/502"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "http://scn.ticketacces.net",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/52",
+          "name": "Société culturelle Nigawouek",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-nigawouek"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12251",
+          "url": "https://scenesfrancophones.ca/artistes/la-famille-basque",
+          "name": "La Famille Basque",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
       }
     ]
   },
