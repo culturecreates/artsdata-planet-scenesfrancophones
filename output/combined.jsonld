@@ -8472,7 +8472,7 @@
           "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
         ],
         "@id": "https://scenesfrancophones.ca/id/10044",
-        "url": "https://scenesfrancophones.ca/artistes/daniel-lemire-0",
+        "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
         "name": "Daniel Lemire",
         "image": {
           "@type": "ImageObject",
@@ -10978,6 +10978,102 @@
         "@id": "https://scenesfrancophones.ca/id/12251",
         "url": "https://scenesfrancophones.ca/artistes/la-famille-basque",
         "name": "La Famille Basque"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12278",
+        "url": "https://scenesfrancophones.ca/artistes/latelier-dopera-de-luniversite-de-moncton",
+        "name": "L'atelier d'opéra de l'Université de Moncton"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12282",
+        "url": "https://scenesfrancophones.ca/artistes/le-gala-des-rendez-vous-de-la-francophonie",
+        "name": "Le Gala des Rendez-vous de la Francophonie"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12285",
+        "url": "https://scenesfrancophones.ca/artistes/marthe-laverdiere",
+        "name": "Marthe Laverdière"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12300",
+        "url": "https://scenesfrancophones.ca/artistes/celeste-levis-et-joly",
+        "name": "Céleste Lévis et Joly"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12305",
+        "url": "https://scenesfrancophones.ca/artistes/france-damour-1",
+        "name": "France D'Amour"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12310",
+        "url": "https://scenesfrancophones.ca/artistes/matiu-0",
+        "name": "Matiu"
       }
     ]
   },
@@ -41979,7 +42075,7 @@
           {
             "@type": "Thing",
             "@id": "https://scenesfrancophones.ca/id/10044",
-            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire-0",
+            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
             "name": "Daniel Lemire",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
@@ -48620,11 +48716,38 @@
         "url": "https://scenesfrancophones.ca/spectacles/les-chiclettes-en-attendant-noel-10216",
         "name": "Les Chiclettes - En attendant Noël",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-12/Les-Chiclettes-22-novembre-2025-8.5x11%201.jpg?itok=RNI27bnt",
+          "width": "430",
+          "height": "430",
+          "creditText": "Carinne Leduc"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Pour Noël, Les Chiclettes vous reçoivent chez elles. Puisqu’elles ont davantage l’habitude de se mettre les pieds dans les plats que de les préparer, arriveront-elles à être prêtes avant l’arrivée des invités ? Entre les recettes d’Huguette qui comportent quelques « fausses notes », Vivie, qui n’est toujours pas vite-vite et la fameuse liste de tâches de Simone, peut-être qu’un miracle de Noël sera la seule chose qui pourra les sauver ! À travers les nouvelles chansons de leur album « En attendant Noël », vous êtes assurés de lancer votre saison des fêtes en grande pompe !",
-        "startDate": "2025-11-22T20:00:00-04:00",
+        "startDate": "2025-11-22T20:00:00-05:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10216",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Five Points",
+          "url": "https://scenesfrancophones.ca/node/12308",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1 Dunlop St W",
+            "addressLocality": "Barrie",
+            "addressRegion": "ON",
+            "postalCode": "L4N 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.389001",
+            "longitude": "-79.690366"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12308"
+        },
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock"
@@ -48652,12 +48775,40 @@
         "url": "https://scenesfrancophones.ca/spectacles/katia-cafe-febrissy-ca-rime-avec-vinaigre-10218",
         "name": "Katia Café-Fébrissy -",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-12/CRAV_2023_Andrew%20Alexander_09feb23jpg.jpg?itok=Dn8iTh39",
+          "width": "430",
+          "height": "430",
+          "creditText": "Andrew Alexander"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "startDate": "2026-02-20T20:00:00-04:00",
+        "startDate": "2026-02-20T19:30:00-05:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10218",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Five Points",
+          "url": "https://scenesfrancophones.ca/node/12308",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1 Dunlop St W",
+            "addressLocality": "Barrie",
+            "addressRegion": "ON",
+            "postalCode": "L4N 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.389001",
+            "longitude": "-79.690366"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12308"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://tprocob.ticketpro.ca/en/pages/1665097804",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -48692,11 +48843,31 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "François Massicotte, l’humoriste établi apprécié de tous qui cumule plus de 35 ans d’expérience en humour, est de retour sur scène avec son 8e one-man-show : 8.0!\r\n\r\nAvec son sens du timing unique, François aborde des thèmes unificateurs, à travers lesquels tous se reconnaissent, telle la famille, le couple, la parentalité, la vieillesse et plus encore, avec humour et dérision. À travers ses aventures et histoires savoureuses, ce père de cinq enfants nous entraîne dans le tourbillon de la famille moderne avec son énergie scénique contagieuse! Doté d’un talent naturel, François s’assume, s’anime et nous transporte dans le tourbillonnement fou de la vie contemporaine. 8.0!, pour se reconnaître et en rire!",
-        "startDate": "2026-05-01T20:00:00-03:00",
+        "startDate": "2026-05-01T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10221",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Five Points",
+          "url": "https://scenesfrancophones.ca/node/12308",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1 Dunlop St W",
+            "addressLocality": "Barrie",
+            "addressRegion": "ON",
+            "postalCode": "L4N 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.389001",
+            "longitude": "-79.690366"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12308"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://tprocob.ticketpro.ca/en/pages/1668373512",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -48727,6 +48898,14 @@
         "url": "https://scenesfrancophones.ca/spectacles/brian-st-pierre-malgre-tout-10222",
         "name": "Brian St-Pierre - SIMPLEMENT BRIAN",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-12/Brian%20St-Pierre%20%28photo%20promo%20%231%29.jpg?itok=X6UPWLRJ",
+          "width": "430",
+          "height": "430",
+          "creditText": "Lexine Photographie"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle et album “Malgré tout”.  Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade.  L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore.  On y découvre ses compositions originales de son nouvel album et on revit ses plus grands succès.",
         "startDate": "2026-03-27T19:00:00-04:00",
@@ -48753,6 +48932,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://events.digibot.ca/event/9749/18309836",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -48953,72 +49133,6 @@
             "@id": "https://scenesfrancophones.ca/id/215",
             "url": "https://scenesfrancophones.ca/artistes/ecarlate",
             "name": "Écarlate"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/nicolas-pellerin-et-les-grands-hurleurs-nicolas-pellerin-et-les-grands-hurleurs-10227",
-        "name": "Nicolas Pellerin et les grands hurleurs - Nicolas Pellerin et les grands hurleurs",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/CBM_0996.JPG?itok=zNj22hHR",
-          "width": "430",
-          "height": "430"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le nouvel album Layon de la formation Nicolas Pellerin et Les Grands Hurleurs a été lancé le 15 mars dernier toujours dans un esprit créatif, dansant et organique. Le public est appelé à la fête, aux moments plus touchants, le tout enrobé par des histoires qui viennent unifier la soirée. Layon s’écoute comme une randonnée musicale en sentier sur fond de musique trad, avec des parfums mélodiques, des dénivelés rythmiques et des paysages atmosphériques inspirants d’air pur. Un album bien ancré dans la groove, un son acoustique et pourtant, une énergie plus rock se dégage grâce aux excellents Grands Hurleurs qui sont désormais Simon Lepage, Louis Thibault et Phil Girard. La formation Nicolas Pellerin et Les Grands Hurleurs a gagné le cœur du public québécois et international grâce à sa musique traditionnelle modernisée et accessible. Avec l’intégration d’influences folk, bluegrass classique, le groupe saura surprendre et toucher les gens encore une fois avec ce trad enrichi! Les violons, la mandoline, la guitare, la contrebasse, les pieds et les riches harmonies vocales se marient afin d’explorer une multitude d’émotions.",
-        "startDate": "2025-08-15T20:30:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/10227",
-        "location": {
-          "@type": "Place",
-          "name": "Stationnement édifice Dollard Bélanger",
-          "url": "https://scenesfrancophones.ca/node/10379",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "430 Boulevard Broadway, Grand-Sault, NB",
-            "addressLocality": "Grand-Sault",
-            "addressRegion": "NB",
-            "postalCode": "E3Z 2K6",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "47.04601",
-            "longitude": "-67.74462"
-          },
-          "@id": "https://scenesfrancophones.ca/id/10379"
-        },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://leschutes.tuxedobillet.com/",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/53",
-          "name": "Société culturelle régionale Les Chutes",
-          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
-        },
-        "performer": [
-          {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/9957",
-            "url": "https://scenesfrancophones.ca/artistes/nicolas-pellerin-et-les-grand-hurleurs-0",
-            "name": "Nicolas Pellerin et Les Grand Hurleurs",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
           }
         ]
       }
@@ -53698,7 +53812,7 @@
           {
             "@type": "Thing",
             "@id": "https://scenesfrancophones.ca/id/10044",
-            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire-0",
+            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
             "name": "Daniel Lemire",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
@@ -53765,7 +53879,7 @@
           {
             "@type": "Thing",
             "@id": "https://scenesfrancophones.ca/id/10044",
-            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire-0",
+            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
             "name": "Daniel Lemire",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
@@ -53832,7 +53946,7 @@
           {
             "@type": "Thing",
             "@id": "https://scenesfrancophones.ca/id/10044",
-            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire-0",
+            "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
             "name": "Daniel Lemire",
             "schema_organization_additional_type": [
               "http://dbpedia.org/ontology/Agent",
@@ -61716,9 +61830,16 @@
         "url": "https://scenesfrancophones.ca/spectacles/les-gens-du-nord-12007",
         "name": "Les gens du nord -",
         "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-12/GDN%20-%20photo%20de%20groupe.jpg?itok=pWUzIPSh",
+          "width": "430",
+          "height": "430"
+        },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Dans le cadre du Winterama de la ville de Penetanguishene, La Clé invite les gens de la communauté à se joindre à nous et déguster un repas canadien-français $( soupe aux pois, tourtière et tarte au sirop d'érable). Ensuite, un spectacle de musique traditionnelle est offert gratuitement pour l'occasion.",
-        "startDate": "2026-02-14T11:30:00-05:00",
+        "startDate": "2026-02-14T13:00:00-05:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12007",
         "location": {
@@ -61742,6 +61863,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://events.digibot.ca/event/9749/69695916",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -63969,7 +64091,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Waahli est un artiste montréalais d’origine haïtienne dont la musique est un vibrant mélange de hip-hop, afrobeat, reggae et funk haïtien. Sa démarche artistique singulière est profondément ancrée dans ses origines et son identité plurielle. Il interprète ses chansons en anglais, français et créole haïtien. Sur scène, il est accompagné de 3 musiciens avec qui il partage une complicité exceptionnelle, créant une énergie contagieuse. Il ne se contente pas de livrer une performance musicale : il interagit avec son public, l’invite à participer et à vivre une expérience inoubliable.",
-        "startDate": "2026-06-11T09:00:00-03:00",
+        "startDate": "2026-07-11T13:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12107",
         "offers": {
@@ -64355,11 +64477,31 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Matiu vient de Maliotenam, une communauté innue située sur la Côte-Nord du Québec. Paré de sa guitare, l’auteur-compositeur-interprète présente un spectacle folk-blues où les textes en français et en innu s’entrecroisent. Matiu relate son histoire et celle de sa communauté à travers des textes qui traitent du quotidien, des relations humaines et familiales ainsi que la quête identitaire autochtone. Il se démarque partout où il passe et séduit le public grâce à sa personnalité colorée, attachante et authentique.",
-        "startDate": "2026-06-11T09:00:00-03:00",
+        "startDate": "2026-06-11T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12121",
+        "location": {
+          "@type": "Place",
+          "name": "Flying Monkeys Craft Brewery",
+          "url": "https://scenesfrancophones.ca/node/12312",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "107 Dunlop St E",
+            "addressLocality": "Barrie",
+            "addressRegion": "ON",
+            "postalCode": "L4M 1A6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.389024",
+            "longitude": "-79.686674"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12312"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://events.digibot.ca/event/9749/56085669",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -66189,68 +66331,6 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/les-bilinguish-boys-12208",
-        "name": "Les Bilinguish Boys",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2817%29.png?itok=JDghM9gF",
-          "width": "430",
-          "height": "430",
-          "creditText": "Lynne Dupuis"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Les Bilinguish Boys est en premier lieu un spectacle de chanson et de musique. Leur spectacle se veut « sur mesure », s'adaptant aux besoins de chaque membre du public, qu'il soit francophone ou non. L'interaction avec le public et l'improvisation sont des éléments centraux de leur performance, rendant chaque spectacle unique. Les Bilinguish Boys brisent le quatrième mur, créant un lien direct avec leur audience, ce qui transforme l'événement en une expérience immersive à vivre plutôt qu'à simplement observer. Leur chanson, Revenir Acadien, est une ode à la réincarnation et au désir profond de revenir au monde comme un Acadien. Ce morceau, plein d'émotions et de nostalgie, a su conquérir le public et les diffuseurs lors de la Francofête en Acadie l'an dernier, devenant un véritable hymne de fierté.",
-        "startDate": "2025-11-20T19:00:00-04:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/12208",
-        "location": {
-          "@type": "Place",
-          "name": "Auditorium Richelieu",
-          "url": "https://scenesfrancophones.ca/node/503",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "215, rue Guimont",
-            "addressLocality": "Grand-Sault",
-            "addressRegion": "NB",
-            "postalCode": "E3Y 3W3",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "47.056374",
-            "longitude": "-67.73096"
-          },
-          "@id": "https://scenesfrancophones.ca/id/503"
-        },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://crleschutes.tuxedobillet.com/",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/53",
-          "name": "Société culturelle régionale Les Chutes",
-          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
-        },
-        "performer": [
-          {
-            "@type": "Person",
-            "@id": "https://scenesfrancophones.ca/id/998",
-            "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
-            "name": "Les Bilinguish Boys"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/les-bilinguish-boys-12209",
         "name": "Les Bilinguish Boys",
         "eventStatus": "https://schema.org/EventScheduled",
@@ -66987,6 +67067,693 @@
           "@id": "https://scenesfrancophones.ca/id/12251",
           "url": "https://scenesfrancophones.ca/artistes/la-famille-basque",
           "name": "La Famille Basque",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-gars-du-nord-la-grande-tournee-du-temps-des-fetes-12276",
+        "name": "Les Gars du Nord -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/garsdunord.jpg?itok=Y6AKChcy",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "La tradition se poursuit pour une 12e année consécutive ! Les Gars du nord sont de retour pour nous mettre dans l'ambiance des fêtes encore une fois cette année ! Une soirée à ne pas manquer!",
+        "startDate": "2025-12-11T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12276",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/les-gars-du-nord-2025",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/7754",
+          "url": "https://scenesfrancophones.ca/artistes/les-gars-du-nord",
+          "name": "Les Gars du Nord",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/les-gars-du-nord-la-grande-tournee-du-temps-des-fetes-12277",
+        "name": "Les Gars du Nord -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/garsdunord_0.jpg?itok=bQiRuG4G",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "La tradition se poursuit pour une 12e année consécutive ! Les Gars du nord sont de retour pour nous mettre dans l'ambiance des fêtes encore une fois cette année ! Une soirée à ne pas manquer!",
+        "startDate": "2025-12-12T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12277",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/les-gars-du-nord-2025",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/7754",
+          "url": "https://scenesfrancophones.ca/artistes/les-gars-du-nord",
+          "name": "Les Gars du Nord",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/latelier-dopera-de-luniversite-de-moncton-hansel-gretel-12280",
+        "name": "L'atelier d'opéra de l'Université de Moncton -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-12/Atelier%20d%27ope%CC%81ra%202026%20-%20Affiche_Profil%201.jpg?itok=V7lfqCqC",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L’Atelier d’opéra du Département de musique de l’Université de Moncton, en collaboration avec Productions L’Entrepôt, sous la direction artistique de la professeure Lisa Roy, présente l'œuvre de Humperdinck, Hansel et Gretel.\r\n\r\nHansel et Gretel d’Engelbert Humperdinck est une œuvre inspirée du conte des frères Grimm publié en 1812. L’histoire est centrée sur une sœur et un frère vivant dans la pauvreté. Affamés, ils s'aventurent dans la forêt où ils rencontrent une sorcière qui les entraînera dans une succession d’épreuves et d’aventures.\r\n\r\nLa production de cette année marque la dernière direction artistique de la professeure Lisa Roy. Après plusieurs années de passion et de créativité, elle signe un ultime projet qui célèbre son engagement envers la formation musicale et le développement des jeunes artistes lyriques avant son départ à la retraite. C'est d'ailleurs avec l'opéra Hänsel et Gretel qu'elle a débuté sa carrière alors que pour la première fois à l'atelier d'opéra, tous les rôles furent interprétés par des personnes étudiantes.\r\n\r\nL'œuvre sera présentée en français avec des surtitres en anglais et peut être appréciée par un public de tous âges.\r\n\r\nDans une mise en scène de Karène Chiasson, Violette Guerlotte signera la scénographie. Pour sa part, Jaël Aucoin assurera la partition de piano pour une deuxième année.\r\n\r\nLes élèves en chant du studio Mimi Musique, dirigé par Myriam Poitras-Dionne, vont se joindre au chœur des pains d’épices.",
+        "startDate": "2026-01-17T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12280",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/latelier-dopera-de-luniversite-de-moncton-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12278",
+          "url": "https://scenesfrancophones.ca/artistes/latelier-dopera-de-luniversite-de-moncton",
+          "name": "L'atelier d'opéra de l'Université de Moncton",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/latelier-dopera-de-luniversite-de-moncton-hansel-gretel-12281",
+        "name": "L'atelier d'opéra de l'Université de Moncton -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Atelier%20d%27ope%CC%81ra%202026%20-%20Affiche_Profil%201.jpg?itok=5fC96Q1P",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L’Atelier d’opéra du Département de musique de l’Université de Moncton, en collaboration avec Productions L’Entrepôt, sous la direction artistique de la professeure Lisa Roy, présente l'œuvre de Humperdinck, Hansel et Gretel.\r\n\r\nHansel et Gretel d’Engelbert Humperdinck est une œuvre inspirée du conte des frères Grimm publié en 1812. L’histoire est centrée sur une sœur et un frère vivant dans la pauvreté. Affamés, ils s'aventurent dans la forêt où ils rencontrent une sorcière qui les entraînera dans une succession d’épreuves et d’aventures.\r\n\r\nLa production de cette année marque la dernière direction artistique de la professeure Lisa Roy. Après plusieurs années de passion et de créativité, elle signe un ultime projet qui célèbre son engagement envers la formation musicale et le développement des jeunes artistes lyriques avant son départ à la retraite. C'est d'ailleurs avec l'opéra Hänsel et Gretel qu'elle a débuté sa carrière alors que pour la première fois à l'atelier d'opéra, tous les rôles furent interprétés par des personnes étudiantes.\r\n\r\nL'œuvre sera présentée en français avec des surtitres en anglais et peut être appréciée par un public de tous âges.\r\n\r\nDans une mise en scène de Karène Chiasson, Violette Guerlotte signera la scénographie. Pour sa part, Jaël Aucoin assurera la partition de piano pour une deuxième année.\r\n\r\nLes élèves en chant du studio Mimi Musique, dirigé par Myriam Poitras-Dionne, vont se joindre au chœur des pains d’épices.",
+        "startDate": "2026-01-18T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12281",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/latelier-dopera-de-luniversite-de-moncton-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12278",
+          "url": "https://scenesfrancophones.ca/artistes/latelier-dopera-de-luniversite-de-moncton",
+          "name": "L'atelier d'opéra de l'Université de Moncton",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/le-gala-des-rendez-vous-de-la-francophonie-12284",
+        "name": "Le Gala des Rendez-vous de la Francophonie -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-12/MarioJean_NOtext_1080x1080%20%281%29.jpg?itok=FTg-iSik",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Toujours accueillit chaleureusement, ce gala présente une vitrine des humoristes vedettes de la scène acadienne et québécoise. Mettant en vedette Mario Jean avec les humoristes invités Sinem Kara, Stéphanie Morin-Robert, Jonathan Dion et plus.",
+        "startDate": "2026-01-23T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12284",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/le-gala-des-rendez-vous-de-la-francophonie-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12282",
+          "url": "https://scenesfrancophones.ca/artistes/le-gala-des-rendez-vous-de-la-francophonie",
+          "name": "Le Gala des Rendez-vous de la Francophonie",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/marthe-laverdiere-marthe-laverdiere-fait-son-show-12287",
+        "name": "Marthe Laverdière -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Marthe_Laverdiere_promo_4_credit_pascal_rameux.jpg?itok=Fn9KrWV-",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Quand on s’appelle Marthe Laverdière, les anecdotes rocambolesques ne sont jamais loin! Tout au long de sa carrière et de sa vie personnelle, l’horticultrice qui n’a pas la langue dans sa poche, en a vu de toutes les couleurs!  \r\n\r\nDans son premier one-woman-show, mis en scène par Mario Jean, l’excellente conteuse nous entraîne dans toutes sortes d’histoires plus drôles et surprenantes les unes que les autres.  \r\n\r\nQue ce soit son achat d’une serre entière sur un coup de tête, des clients colorés qu’elle a parfois dû recadrer, des énormes gaffes rattrapées de justesse, des accidents de bouquets de fleurs, de ses années comme massothérapeute ou d’agente au recouvrement… quand Marthe se raconte, on ne s’ennuie jamais et on rit du début à la fin.",
+        "startDate": "2026-01-24T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12287",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/marthe-laverdiere-fait-son-show",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12285",
+          "url": "https://scenesfrancophones.ca/artistes/marthe-laverdiere",
+          "name": "Marthe Laverdière",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/laurie-leblanc-de-hier-demain-etou-country-pis-swiftie-12288",
+        "name": "Laurie LeBlanc - Long Weekend",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Laurie%20LeBlanc%20-%20photo%20de%20presse%202022-2023.jpg?itok=uCZ1f9Jz",
+          "width": "430",
+          "height": "430",
+          "creditText": "Yorke Photography"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Laurie LeBlanc, auteur-compositeur-interprète country bien établi, propose deux spectacles uniques pour le grand public et les festivals. De hier à demain, inspiré de son 9e album, rend hommage aux pionniers d’hier, salue les artistes d’aujourd’hui et met en lumière la relève de demain. Tirée de ce même album, la chanson Country pis Swiftie prend vie sur scène alors que Laurie partage la scène avec sa nièce Sofia (10 ans) pour célébrer l’union des générations et des styles musicaux. Deux propositions rassembleuses, festives et accessibles à toute la famille.",
+        "startDate": "2026-04-25T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12288",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/laurie-leblanc",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/910",
+          "url": "https://scenesfrancophones.ca/artistes/laurie-leblanc",
+          "name": "Laurie LeBlanc"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/justin-guitard-gaspiller-du-talent-12290",
+        "name": "Justin Guitard - La loi du plus corps",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/IMG_4807.jpg?itok=RpbWqh_9",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "On lui demande depuis qu’il est tout petit : C’est pour quand, le spectacle d’humour? Eh bien, le voilà.\r\n\r\nNe manquez pas votre chance de constater par vous-même si Justin aurait dû continuer de s’écouter et se dire qu’il n’est pas un humoriste, ou si, finalement, le public avait raison et qu’il gaspille son vrai talent depuis le début de sa carrière.\r\n\r\nGaspiller du talent, c’est le tout premier one-man show de Justin Guitard, un artiste pluridisciplinaire qui saura vous faire rire et vous divertir avec ses anecdotes dans un feu roulant de comédie, de \"stepettes\" et de surprises.",
+        "startDate": "2026-06-08T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12290",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/justin-guitard",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/908",
+          "url": "https://scenesfrancophones.ca/artistes/justin-guitard",
+          "name": "Justin Guitard"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/celeste-levis-et-joly-12302",
+        "name": "Céleste Lévis et Joly -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/IMG_4651_0.JPG?itok=ZraDf_ib",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Plateau double avec Céleste Lévis et Marc-Antoine Joly",
+        "startDate": "2026-04-18T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12302",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Rolland Desroches",
+          "url": "https://scenesfrancophones.ca/node/1065",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "63 rue Main",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 2G3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.769711",
+            "longitude": "-79.934351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1065"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://events.digibot.ca/event/9749/75945135",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12300",
+          "url": "https://scenesfrancophones.ca/artistes/celeste-levis-et-joly",
+          "name": "Céleste Lévis et Joly",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/gabrielle-goulet-12304",
+        "name": "Gabrielle Goulet - Gabrielle Goulet",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/GG%20-%20photo%20promo.jpg?itok=D3I-YMTF",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2026-06-20T17:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12304",
+        "location": {
+          "@type": "Place",
+          "name": "Parc Rotary Champlain Wendat",
+          "url": "https://scenesfrancophones.ca/node/12303",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Trans-Canada Trail, Owen S",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 1M8",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.768969",
+            "longitude": "-79.939351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12303"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5401",
+          "url": "https://scenesfrancophones.ca/artistes/gabrielle-goulet-0",
+          "name": "Gabrielle Goulet"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/france-damour-12307",
+        "name": "France D'Amour -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/France%20D%27Amour_%28cre%CC%81dit%20Melany%20Bernier%29.jpg?itok=6R5kPnTb",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "France D'Amour nous chantera ses plus grands succès dans le cadre de la célébration de la Saint-Jean-Baptiste.",
+        "startDate": "2026-06-20T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12307",
+        "location": {
+          "@type": "Place",
+          "name": "Parc Rotary Champlain Wendat",
+          "url": "https://scenesfrancophones.ca/node/12303",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Trans-Canada Trail, Owen S",
+            "addressLocality": "Penetanguishene",
+            "addressRegion": "ON",
+            "postalCode": "L9M 1M8",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.768969",
+            "longitude": "-79.939351"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12303"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/88",
+          "name": "La Clé",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12305",
+          "url": "https://scenesfrancophones.ca/artistes/france-damour-1",
+          "name": "France D'Amour",
           "schema_organization_additional_type": [
             "http://dbpedia.org/ontology/Agent",
             "http://xmlns.com/foaf/0.1/Agent",
@@ -71699,6 +72466,78 @@
           "longitude": "-97.114173"
         },
         "@id": "https://scenesfrancophones.ca/id/12241"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12303",
+        "name": "Parc Rotary Champlain Wendat",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Trans-Canada Trail, Owen S",
+          "addressLocality": "Penetanguishene",
+          "addressRegion": "ON",
+          "postalCode": "L9M 1M8",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "44.768969",
+          "longitude": "-79.939351"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12303"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12308",
+        "name": "Théâtre Five Points",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1 Dunlop St W",
+          "addressLocality": "Barrie",
+          "addressRegion": "ON",
+          "postalCode": "L4N 1A1",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "44.389001",
+          "longitude": "-79.690366"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12308"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12312",
+        "name": "Flying Monkeys Craft Brewery",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "107 Dunlop St E",
+          "addressLocality": "Barrie",
+          "addressRegion": "ON",
+          "postalCode": "L4M 1A6",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "44.389024",
+          "longitude": "-79.686674"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12312"
       }
     ]
   },
