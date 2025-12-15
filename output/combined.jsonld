@@ -2283,10 +2283,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Organization",
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/4254",
-        "url": "https://scenesfrancophones.ca/artistes/moovottawa-1",
-        "name": "Moov'Ottawa"
+        "url": "https://scenesfrancophones.ca/artistes/moov",
+        "name": "MOOV"
       }
     ]
   },
@@ -2737,12 +2737,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5730",
         "url": "https://scenesfrancophones.ca/artistes/makhena-rankin",
         "name": "Makhena Rankin"
@@ -10905,12 +10900,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/12202",
         "url": "https://scenesfrancophones.ca/artistes/joey-albert",
         "name": "Joey Albert"
@@ -11074,6 +11064,176 @@
         "@id": "https://scenesfrancophones.ca/id/12310",
         "url": "https://scenesfrancophones.ca/artistes/matiu-0",
         "name": "Matiu"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12335",
+        "url": "https://scenesfrancophones.ca/artistes/360-mouvements-par-minute",
+        "name": "360 Mouvements par minute"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12340",
+        "url": "https://scenesfrancophones.ca/artistes/lea-deschenes",
+        "name": "Léa Deschênes"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12342",
+        "url": "https://scenesfrancophones.ca/artistes/les-productions-pixie",
+        "name": "Les productions Pixie"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12344",
+        "url": "https://scenesfrancophones.ca/artistes/lady-sylva",
+        "name": "Lady Sylva"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12346",
+        "url": "https://scenesfrancophones.ca/artistes/kourage",
+        "name": "Kourage"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12348",
+        "url": "https://scenesfrancophones.ca/artistes/jean-gardy-afropologie",
+        "name": "Jean Gardy Afropologie"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12350",
+        "url": "https://scenesfrancophones.ca/artistes/hopiho",
+        "name": "Hopiho"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12352",
+        "url": "https://scenesfrancophones.ca/artistes/felix-leroux",
+        "name": "Félix Leroux"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/12355",
+        "url": "https://scenesfrancophones.ca/artistes/brian-st-pierre-et-johanne-lefebvre",
+        "name": "Brian St-Pierre et Johanne Lefebvre"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12358",
+        "url": "https://scenesfrancophones.ca/artistes/sam-ajam-aventuriers-du-rythme",
+        "name": "SAM & AJAM ✩ Aventuriers du Rythme"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12360",
+        "url": "https://scenesfrancophones.ca/artistes/participiano-samajam",
+        "name": "PARTICIPIANO ✩ SAMAJAM"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12362",
+        "url": "https://scenesfrancophones.ca/artistes/catherine-gignac",
+        "name": "Catherine Gignac"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/12364",
+        "url": "https://scenesfrancophones.ca/artistes/lapprenti-et-son-mentor",
+        "name": "L'Apprenti et son mentor"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12367",
+        "url": "https://scenesfrancophones.ca/artistes/louis-mercier",
+        "name": "Louis Mercier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12369",
+        "url": "https://scenesfrancophones.ca/artistes/michel-rivard",
+        "name": "MICHEL RIVARD"
       }
     ]
   },
@@ -24168,10 +24328,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Vent%20a%CC%80%20vendre%20-%20Sf.png?itok=JGUU5xME",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "En 2017, les habitants du petit village d’Anse-Bleue dans la Péninsule acadienne, au nord du Nouveau-Brunswick, apprennent par un dépliant reçu dans leur boîte aux lettres que leur village accueillerait bientôt un parc éolien. Bonne nouvelle financière pour certains, escroquerie pour d’autres, l’histoire s’est rapidement envenimée et s’est transformée en conflit social, environnemental et politique. Pourquoi ?",
+        "description": "Après plusieurs résidences et chantiers de création au Canada et en France, Vent à vendre prend enfin l’affiche avec 17 représentations au Nouveau-Brunswick et à l’Île-du-Prince-Édouard. Cette pièce documentaire de Matthieu Girard plonge au cœur d’un conflit social et environnemental survenu à Anse-Bleue, autour d’un projet de parc éolien qui a divisé toute une communauté.",
         "startDate": "2024-11-20T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6078",
@@ -24228,10 +24389,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Vent%20a%CC%80%20vendre%20-%20Sf.png?itok=JGUU5xME",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "En 2017, les habitants du petit village d’Anse-Bleue dans la Péninsule acadienne, au nord du Nouveau-Brunswick, apprennent par un dépliant reçu dans leur boîte aux lettres que leur village accueillerait bientôt un parc éolien. Bonne nouvelle financière pour certains, escroquerie pour d’autres, l’histoire s’est rapidement envenimée et s’est transformée en conflit social, environnemental et politique. Pourquoi ?",
+        "description": "Après plusieurs résidences et chantiers de création au Canada et en France, Vent à vendre prend enfin l’affiche avec 17 représentations au Nouveau-Brunswick et à l’Île-du-Prince-Édouard. Cette pièce documentaire de Matthieu Girard plonge au cœur d’un conflit social et environnemental survenu à Anse-Bleue, autour d’un projet de parc éolien qui a divisé toute une communauté.",
         "startDate": "2024-11-22T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6079",
@@ -24289,10 +24451,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Vent%20a%CC%80%20vendre%20-%20Sf.png?itok=JGUU5xME",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "En 2017, les habitants du petit village d’Anse-Bleue dans la Péninsule acadienne, au nord du Nouveau-Brunswick, apprennent par un dépliant reçu dans leur boîte aux lettres que leur village accueillerait bientôt un parc éolien. Bonne nouvelle financière pour certains, escroquerie pour d’autres, l’histoire s’est rapidement envenimée et s’est transformée en conflit social, environnemental et politique. Pourquoi ?",
+        "description": "Après plusieurs résidences et chantiers de création au Canada et en France, Vent à vendre prend enfin l’affiche avec 17 représentations au Nouveau-Brunswick et à l’Île-du-Prince-Édouard. Cette pièce documentaire de Matthieu Girard plonge au cœur d’un conflit social et environnemental survenu à Anse-Bleue, autour d’un projet de parc éolien qui a divisé toute une communauté.",
         "startDate": "2024-11-23T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6080",
@@ -24350,10 +24513,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Vent%20a%CC%80%20vendre%20-%20Sf.png?itok=JGUU5xME",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "En 2017, les habitants du petit village d’Anse-Bleue dans la Péninsule acadienne, au nord du Nouveau-Brunswick, apprennent par un dépliant reçu dans leur boîte aux lettres que leur village accueillerait bientôt un parc éolien. Bonne nouvelle financière pour certains, escroquerie pour d’autres, l’histoire s’est rapidement envenimée et s’est transformée en conflit social, environnemental et politique. Pourquoi ?",
+        "description": "Après plusieurs résidences et chantiers de création au Canada et en France, Vent à vendre prend enfin l’affiche avec 17 représentations au Nouveau-Brunswick et à l’Île-du-Prince-Édouard. Cette pièce documentaire de Matthieu Girard plonge au cœur d’un conflit social et environnemental survenu à Anse-Bleue, autour d’un projet de parc éolien qui a divisé toute une communauté.",
         "startDate": "2024-11-27T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6081",
@@ -24411,10 +24575,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Vent%20a%CC%80%20vendre%20-%20Sf.png?itok=JGUU5xME",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "En 2017, les habitants du petit village d’Anse-Bleue dans la Péninsule acadienne, au nord du Nouveau-Brunswick, apprennent par un dépliant reçu dans leur boîte aux lettres que leur village accueillerait bientôt un parc éolien. Bonne nouvelle financière pour certains, escroquerie pour d’autres, l’histoire s’est rapidement envenimée et s’est transformée en conflit social, environnemental et politique. Pourquoi ?",
+        "description": "Après plusieurs résidences et chantiers de création au Canada et en France, Vent à vendre prend enfin l’affiche avec 17 représentations au Nouveau-Brunswick et à l’Île-du-Prince-Édouard. Cette pièce documentaire de Matthieu Girard plonge au cœur d’un conflit social et environnemental survenu à Anse-Bleue, autour d’un projet de parc éolien qui a divisé toute une communauté.",
         "startDate": "2024-11-28T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6082",
@@ -24472,10 +24637,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Vent%20a%CC%80%20vendre%20-%20Sf.png?itok=JGUU5xME",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "En 2017, les habitants du petit village d’Anse-Bleue dans la Péninsule acadienne, au nord du Nouveau-Brunswick, apprennent par un dépliant reçu dans leur boîte aux lettres que leur village accueillerait bientôt un parc éolien. Bonne nouvelle financière pour certains, escroquerie pour d’autres, l’histoire s’est rapidement envenimée et s’est transformée en conflit social, environnemental et politique. Pourquoi ?",
+        "description": "Après plusieurs résidences et chantiers de création au Canada et en France, Vent à vendre prend enfin l’affiche avec 17 représentations au Nouveau-Brunswick et à l’Île-du-Prince-Édouard. Cette pièce documentaire de Matthieu Girard plonge au cœur d’un conflit social et environnemental survenu à Anse-Bleue, autour d’un projet de parc éolien qui a divisé toute une communauté.",
         "startDate": "2024-11-30T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6083",
@@ -24533,10 +24699,11 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Vent%20a%CC%80%20vendre%20-%20Sf.png?itok=JGUU5xME",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "En 2017, les habitants du petit village d’Anse-Bleue dans la Péninsule acadienne, au nord du Nouveau-Brunswick, apprennent par un dépliant reçu dans leur boîte aux lettres que leur village accueillerait bientôt un parc éolien. Bonne nouvelle financière pour certains, escroquerie pour d’autres, l’histoire s’est rapidement envenimée et s’est transformée en conflit social, environnemental et politique. Pourquoi ?",
+        "description": "Après plusieurs résidences et chantiers de création au Canada et en France, Vent à vendre prend enfin l’affiche avec 17 représentations au Nouveau-Brunswick et à l’Île-du-Prince-Édouard. Cette pièce documentaire de Matthieu Girard plonge au cœur d’un conflit social et environnemental survenu à Anse-Bleue, autour d’un projet de parc éolien qui a divisé toute une communauté.",
         "startDate": "2024-12-04T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6084",
@@ -29624,17 +29791,18 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-vent-vendre-7769",
-        "name": "Théâtre populaire d'Acadie -",
+        "name": "Théâtre populaire d'Acadie  -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/sm_ventavendre1-2048x1365.jpg?itok=ZlnlJkgc",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "En 2017, les habitants du petit village d’Anse-Bleue dans la Péninsule acadienne, au nord du Nouveau-Brunswick, apprennent par un dépliant reçu dans leur boîte aux lettres que leur village accueillerait bientôt un parc éolien. Bonne nouvelle financière pour certains, escroquerie pour d’autres, l’histoire s’est rapidement envenimée et s’est transformée en conflit social, environnemental et politique. Pourquoi ?",
+        "description": "Après plusieurs résidences et chantiers de création au Canada et en France, Vent à vendre prend enfin l’affiche avec 17 représentations au Nouveau-Brunswick et à l’Île-du-Prince-Édouard. Cette pièce documentaire de Matthieu Girard plonge au cœur d’un conflit social et environnemental survenu à Anse-Bleue, autour d’un projet de parc éolien qui a divisé toute une communauté.",
         "startDate": "2025-03-28T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/7769",
@@ -46614,7 +46782,7 @@
         "name": "Brian St-Pierre - SIMPLEMENT BRIAN",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Récipiendaire du prix Hommage Trille Or 2023, Brian St-Pierre nous présente son nouveau spectacle rempli d’énergie et d’émotions avec son nouvel album ainsi que ses plus grands succès. Ce spectacle est présenté en formule intime (duo).",
+        "description": "Avec son sens inné de la scène et sa connexion immédiate avec le public, Brian St-Pierre transforme chaque performance en un événement vibrant, chaleureux et mémorable. Son énergie contagieuse crée une ambiance irrésistible, capable de rallier toutes les générations. Que ce soit en formule solo ou accompagné de ses deux musiciens, Brian livre un moment authentique, dynamique et parfaitement adapté à chaque spectacle. Un artiste polyvalent, fiable et magnétique… le genre de performeur qui fait dire aux spectateurs : « On veut le revoir ! »",
         "startDate": "2024-10-19T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9573",
@@ -48904,7 +49072,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-12/Brian%20St-Pierre%20%28photo%20promo%20%231%29.jpg?itok=X6UPWLRJ",
           "width": "430",
           "height": "430",
-          "creditText": "Lexine Photographie"
+          "creditText": "Les Productions St-Pierre"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle et album “Malgré tout”.  Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade.  L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore.  On y découvre ses compositions originales de son nouvel album et on revit ses plus grands succès.",
@@ -51418,7 +51586,7 @@
           "creditText": "Fred Guitare"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le talentueux artiste Acadien de Petit-Rocher apporte une ambiance musicale similaire aux années 70 avec des influences comme The Doors. Ça sonorité tourne autour du blues rock psychédélique. Venez rocker avec lui sur scène.",
+        "description": "Sur scène, Sam Mallais est un véritable show-man: assis derrière son clavier Rhodes ou debout avec sa guitare, il distille une énergie et un style vintage moderne. Son spectacle tout comme son album Tu m'dirais quoi? vibre le blues rock psychédélique analogue. Il offre un spectacle puissant, \r\n la fois électrisant et authentique.",
         "startDate": "2025-10-18T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10396",
@@ -51480,7 +51648,7 @@
           "creditText": "Fred Guitare"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le talentueux artiste Acadien de Petit-Rocher apporte une ambiance musicale similaire aux années 70 avec des influences comme The Doors. Ça sonorité tourne autour du blues rock psychédélique. Venez rocker avec lui sur scène.",
+        "description": "Sur scène, Sam Mallais est un véritable show-man: assis derrière son clavier Rhodes ou debout avec sa guitare, il distille une énergie et un style vintage moderne. Son spectacle tout comme son album Tu m'dirais quoi? vibre le blues rock psychédélique analogue. Il offre un spectacle puissant, \r\n la fois électrisant et authentique.",
         "startDate": "2025-10-17T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10397",
@@ -54763,7 +54931,7 @@
           "creditText": "Fred Guitare"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le talentueux artiste Acadien de Petit-Rocher apporte une ambiance musicale similaire aux années 70 avec des influences comme The Doors. Ça sonorité tourne autour du blues rock psychédélique. Venez rocker avec lui sur scène.",
+        "description": "Sur scène, Sam Mallais est un véritable show-man: assis derrière son clavier Rhodes ou debout avec sa guitare, il distille une énergie et un style vintage moderne. Son spectacle tout comme son album Tu m'dirais quoi? vibre le blues rock psychédélique analogue. Il offre un spectacle puissant, \r\n la fois électrisant et authentique.",
         "startDate": "2025-11-14T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11837",
@@ -55114,7 +55282,7 @@
           "creditText": "Fred Guitare"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le talentueux artiste Acadien de Petit-Rocher apporte une ambiance musicale similaire aux années 70 avec des influences comme The Doors. Ça sonorité tourne autour du blues rock psychédélique. Venez rocker avec lui sur scène.",
+        "description": "Sur scène, Sam Mallais est un véritable show-man: assis derrière son clavier Rhodes ou debout avec sa guitare, il distille une énergie et un style vintage moderne. Son spectacle tout comme son album Tu m'dirais quoi? vibre le blues rock psychédélique analogue. Il offre un spectacle puissant, \r\n la fois électrisant et authentique.",
         "startDate": "2025-11-15T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11844",
@@ -56687,7 +56855,7 @@
           "creditText": "Fred Guitare"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le talentueux artiste Acadien de Petit-Rocher apporte une ambiance musicale similaire aux années 70 avec des influences comme The Doors. Ça sonorité tourne autour du blues rock psychédélique. Venez rocker avec lui sur scène.",
+        "description": "Sur scène, Sam Mallais est un véritable show-man: assis derrière son clavier Rhodes ou debout avec sa guitare, il distille une énergie et un style vintage moderne. Son spectacle tout comme son album Tu m'dirais quoi? vibre le blues rock psychédélique analogue. Il offre un spectacle puissant, \r\n la fois électrisant et authentique.",
         "startDate": "2025-12-12T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11875",
@@ -60941,7 +61109,6 @@
         "url": "https://scenesfrancophones.ca/spectacles/chris-belliveau-la-riviere-croche-11951",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "startDate": "2025-10-30T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11951",
         "offers": {
@@ -64247,7 +64414,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/brian-st-pierre-cr-Lexine_Photographie.jpg?itok=FFP0AAcH",
           "width": "430",
           "height": "430",
-          "creditText": "Lexine Photographie"
+          "creditText": "Les Productions St-Pierre"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Récipiendaire du prix Hommage Trille Or 2023 et ambassadeur de la francophonie ontarienne, Brian St-Pierre revient en force avec son nouveau spectacle et album “Malgré tout”.  Accompagné de deux autres musiciens, son spectacle est à la fois festif et intimiste allant du pop au folk, du rock à la ballade.  L’énergie, la vitalité, la passion ne sont que quelques mots qui décrivent cette bête de scène qui transporte les spectateurs dans son univers sonore.  On y découvre ses compositions originales de son nouvel album et on revit ses plus grands succès.",
@@ -64693,14 +64860,15 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12128",
-        "name": "Théâtre populaire d'Acadie -",
+        "name": "Théâtre populaire d'Acadie  -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/509191254_1286809306779138_371814447613818005_n.jpg?itok=19-AzgRe",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "150 ans après l’affaire Louis Mailloux, Les Émeutiers nous plonge au cœur de cet événement historique ayant profondément marqué l'identité acadienne. L'intrigue se concentre sur Joseph Chiasson, emprisonné pour le meurtre de John Gifford, alors que ses compagnons retrouvent peu à peu leur liberté. La pièce navigue entre deux endroits chargés de symboles : la cuisine d'André Albert, théâtre de la fusillade fatidique, et la cellule où Joseph Chiasson attend son sort. Les Émeutiers met en lumière non seulement les hommes impliqués dans les tensions, mais aussi les femmes qui ont maintenu la cohésion sociale pendant l'absence des hommes emprisonnés.\r\n\r\nCes évènements ont façonné Caraquet, mais ils ont aussi contribué à l'émergence de l'Acadie moderne et influencé l'identité canadienne. En janvier 2025, Patrimoine Canada confirmait l’importance de l’émeute de Caraquet en l’inscrivant à son registre des évènements historiques nationaux. \r\n\r\nLa grande histoire de ses émeutes ont marqué l'opposition farouche à un projet de réforme sur la gestion des écoles. Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd'hui dans nos luttes pour la défense de notre langue et de nos droits.",
@@ -64752,14 +64920,15 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12129",
-        "name": "Théâtre populaire d'Acadie -",
+        "name": "Théâtre populaire d'Acadie  -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/509191254_1286809306779138_371814447613818005_n_0.jpg?itok=41D94Rsu",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "150 ans après l’affaire Louis Mailloux, Les Émeutiers nous plonge au cœur de cet événement historique ayant profondément marqué l'identité acadienne. L'intrigue se concentre sur Joseph Chiasson, emprisonné pour le meurtre de John Gifford, alors que ses compagnons retrouvent peu à peu leur liberté. La pièce navigue entre deux endroits chargés de symboles : la cuisine d'André Albert, théâtre de la fusillade fatidique, et la cellule où Joseph Chiasson attend son sort. Les Émeutiers met en lumière non seulement les hommes impliqués dans les tensions, mais aussi les femmes qui ont maintenu la cohésion sociale pendant l'absence des hommes emprisonnés.\r\n\r\nCes évènements ont façonné Caraquet, mais ils ont aussi contribué à l'émergence de l'Acadie moderne et influencé l'identité canadienne. En janvier 2025, Patrimoine Canada confirmait l’importance de l’émeute de Caraquet en l’inscrivant à son registre des évènements historiques nationaux. \r\n\r\nLa grande histoire de ses émeutes ont marqué l'opposition farouche à un projet de réforme sur la gestion des écoles. Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd'hui dans nos luttes pour la défense de notre langue et de nos droits.",
@@ -64811,14 +64980,15 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12130",
-        "name": "Théâtre populaire d'Acadie -",
+        "name": "Théâtre populaire d'Acadie  -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/509191254_1286809306779138_371814447613818005_n_1.jpg?itok=vz6SAB0X",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "150 ans après l’affaire Louis Mailloux, Les Émeutiers nous plonge au cœur de cet événement historique ayant profondément marqué l'identité acadienne. L'intrigue se concentre sur Joseph Chiasson, emprisonné pour le meurtre de John Gifford, alors que ses compagnons retrouvent peu à peu leur liberté. La pièce navigue entre deux endroits chargés de symboles : la cuisine d'André Albert, théâtre de la fusillade fatidique, et la cellule où Joseph Chiasson attend son sort. Les Émeutiers met en lumière non seulement les hommes impliqués dans les tensions, mais aussi les femmes qui ont maintenu la cohésion sociale pendant l'absence des hommes emprisonnés.\r\n\r\nCes évènements ont façonné Caraquet, mais ils ont aussi contribué à l'émergence de l'Acadie moderne et influencé l'identité canadienne. En janvier 2025, Patrimoine Canada confirmait l’importance de l’émeute de Caraquet en l’inscrivant à son registre des évènements historiques nationaux. \r\n\r\nLa grande histoire de ses émeutes ont marqué l'opposition farouche à un projet de réforme sur la gestion des écoles. Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd'hui dans nos luttes pour la défense de notre langue et de nos droits.",
@@ -64870,14 +65040,15 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12131",
-        "name": "Théâtre populaire d'Acadie -",
+        "name": "Théâtre populaire d'Acadie  -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/509191254_1286809306779138_371814447613818005_n_2.jpg?itok=CdPLAatg",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "150 ans après l’affaire Louis Mailloux, Les Émeutiers nous plonge au cœur de cet événement historique ayant profondément marqué l'identité acadienne. L'intrigue se concentre sur Joseph Chiasson, emprisonné pour le meurtre de John Gifford, alors que ses compagnons retrouvent peu à peu leur liberté. La pièce navigue entre deux endroits chargés de symboles : la cuisine d'André Albert, théâtre de la fusillade fatidique, et la cellule où Joseph Chiasson attend son sort. Les Émeutiers met en lumière non seulement les hommes impliqués dans les tensions, mais aussi les femmes qui ont maintenu la cohésion sociale pendant l'absence des hommes emprisonnés.\r\n\r\nCes évènements ont façonné Caraquet, mais ils ont aussi contribué à l'émergence de l'Acadie moderne et influencé l'identité canadienne. En janvier 2025, Patrimoine Canada confirmait l’importance de l’émeute de Caraquet en l’inscrivant à son registre des évènements historiques nationaux. \r\n\r\nLa grande histoire de ses émeutes ont marqué l'opposition farouche à un projet de réforme sur la gestion des écoles. Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd'hui dans nos luttes pour la défense de notre langue et de nos droits.",
@@ -64929,14 +65100,15 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12132",
-        "name": "Théâtre populaire d'Acadie -",
+        "name": "Théâtre populaire d'Acadie  -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/509191254_1286809306779138_371814447613818005_n_3.jpg?itok=oo3qQj2S",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "150 ans après l’affaire Louis Mailloux, Les Émeutiers nous plonge au cœur de cet événement historique ayant profondément marqué l'identité acadienne. L'intrigue se concentre sur Joseph Chiasson, emprisonné pour le meurtre de John Gifford, alors que ses compagnons retrouvent peu à peu leur liberté. La pièce navigue entre deux endroits chargés de symboles : la cuisine d'André Albert, théâtre de la fusillade fatidique, et la cellule où Joseph Chiasson attend son sort. Les Émeutiers met en lumière non seulement les hommes impliqués dans les tensions, mais aussi les femmes qui ont maintenu la cohésion sociale pendant l'absence des hommes emprisonnés.\r\n\r\nCes évènements ont façonné Caraquet, mais ils ont aussi contribué à l'émergence de l'Acadie moderne et influencé l'identité canadienne. En janvier 2025, Patrimoine Canada confirmait l’importance de l’émeute de Caraquet en l’inscrivant à son registre des évènements historiques nationaux. \r\n\r\nLa grande histoire de ses émeutes ont marqué l'opposition farouche à un projet de réforme sur la gestion des écoles. Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd'hui dans nos luttes pour la défense de notre langue et de nos droits.",
@@ -64988,14 +65160,15 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/theatre-populaire-dacadie-les-emeutiers-12133",
-        "name": "Théâtre populaire d'Acadie -",
+        "name": "Théâtre populaire d'Acadie  -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/509191254_1286809306779138_371814447613818005_n_4.jpg?itok=B7voS7Wt",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Julie d'Amour Leger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "150 ans après l’affaire Louis Mailloux, Les Émeutiers nous plonge au cœur de cet événement historique ayant profondément marqué l'identité acadienne. L'intrigue se concentre sur Joseph Chiasson, emprisonné pour le meurtre de John Gifford, alors que ses compagnons retrouvent peu à peu leur liberté. La pièce navigue entre deux endroits chargés de symboles : la cuisine d'André Albert, théâtre de la fusillade fatidique, et la cellule où Joseph Chiasson attend son sort. Les Émeutiers met en lumière non seulement les hommes impliqués dans les tensions, mais aussi les femmes qui ont maintenu la cohésion sociale pendant l'absence des hommes emprisonnés.\r\n\r\nCes évènements ont façonné Caraquet, mais ils ont aussi contribué à l'émergence de l'Acadie moderne et influencé l'identité canadienne. En janvier 2025, Patrimoine Canada confirmait l’importance de l’émeute de Caraquet en l’inscrivant à son registre des évènements historiques nationaux. \r\n\r\nLa grande histoire de ses émeutes ont marqué l'opposition farouche à un projet de réforme sur la gestion des écoles. Un acte de résistance qui, bien au-delà de son époque, résonne encore aujourd'hui dans nos luttes pour la défense de notre langue et de nos droits.",
@@ -65055,7 +65228,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Affiche%2027%20septembre.jpg?itok=yIEuwgbx",
           "width": "430",
           "height": "430",
-          "creditText": "Lexine Photographie"
+          "creditText": "Les Productions St-Pierre"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Seul sur scène avec sa guitare et sa pédale loop, Brian St-Pierre ré-orchestre ses compositions ainsi que celles des plus belles chansons du répertoire francophone.   Ses années d’expériences dans divers pays comme chansonnier et son talent d’improvisateur musical ont fait de lui un jukebox aux milles succès. Brian transforme son répertoire sur mesure selon la demande des diffuseurs et du public devant lui. De plus, il compose des chansons en direct selon les thèmes proposés par l’auditoire.  Plaisir, émotion, envoûtement ne sont que quelques mots pour décrire “Simplement Brian”.",
@@ -66313,15 +66486,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/12202",
           "url": "https://scenesfrancophones.ca/artistes/joey-albert",
-          "name": "Joey Albert",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Joey Albert"
         }
       }
     ]
@@ -67754,6 +67922,134 @@
           "@id": "https://scenesfrancophones.ca/id/12305",
           "url": "https://scenesfrancophones.ca/artistes/france-damour-1",
           "name": "France D'Amour",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/michel-rivard-apres-va-ou-12371",
+        "name": "MICHEL RIVARD -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/359_064_ApresOnVaOu_1200x628.png?itok=DedsLbhF",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Durant les deux semaines ( symboliques ) que dure la magnifique floraison du magnolia qui illumine la fenêtre de sa chambre, «l'homme qui me ressemble» ( 74 ans ) se questionne sur sa vie, avant et après la mort, en confrontant ses doutes et ses certitudes.\r\n\r\n Entre un rendez-vous médical et le choix d'une urne dans un catalogue, entre un premier amour et une marche en forêt avec son petit-fils de sept ans, «l'homme qui me ressemble» monologue, poétise et chante sa recherche du «plus-grand-que-soi».",
+        "startDate": "2026-09-18T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12371",
+        "location": {
+          "@type": "Place",
+          "name": "Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/12164",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29 Av. du Carrefour",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12164"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/rivard",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12369",
+          "url": "https://scenesfrancophones.ca/artistes/michel-rivard",
+          "name": "MICHEL RIVARD",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mike-ward-modeste-12372",
+        "name": "Mike Ward -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Mike%20Ward%20WP%20SUPP.png?itok=aIIahHpC",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Grâce à la qualité de son stand-up, la popularité de son podcast et sa victoire à la cour suprême, Mike Ward est devenu une véritable icône de l’humour québécois. Avec plus de 100 millions de téléchargements et une diffusion au Centre Bell ayant fracassé un record Guinness pour le plus de billets vendus pour un enregistrement de podcast, Sous Écoute est non seulement le podcast d’humour francophone le plus populaire au monde, mais aussi un phénomène culturel. Noir, son dernier one-man-show, a été encensé par la critique et lui a permis de gagner tous les trophées possibles pour un spectacle d’humour au Gala Les Olivier. Il présente maintenant son tout nouveau spectacle : Modeste.",
+        "startDate": "2026-03-31T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12372",
+        "location": {
+          "@type": "Place",
+          "name": "Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/12164",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29 Av. du Carrefour",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12164"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://billetterieacces.tuxedobillet.com/main/mike-ward-supplementaire",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/10042",
+          "url": "https://scenesfrancophones.ca/artistes/mike-ward-0",
+          "name": "Mike Ward",
           "schema_organization_additional_type": [
             "http://dbpedia.org/ontology/Agent",
             "http://xmlns.com/foaf/0.1/Agent",
@@ -73084,7 +73380,7 @@
         "name": "Centre communautaire Sainte-Anne",
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "(506) 453-8530",
+          "telephone": "(506) 453-2731",
           "email": "mhmichaud@ccsafredericton.ca"
         },
         "logo": {
