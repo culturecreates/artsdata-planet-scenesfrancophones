@@ -179,12 +179,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/224",
         "url": "https://scenesfrancophones.ca/artistes/isabelle-cyr",
         "name": "Isabelle Cyr"
@@ -382,12 +377,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/252",
         "url": "https://scenesfrancophones.ca/artistes/ptit-belliveau",
         "name": "P'tit Belliveau",
@@ -2565,12 +2555,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5029",
         "url": "https://scenesfrancophones.ca/artistes/samantha",
         "name": "Samantha"
@@ -2603,12 +2588,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5404",
         "url": "https://scenesfrancophones.ca/artistes/isabelle-elise",
         "name": "Isabelle Elise"
@@ -2619,12 +2599,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5405",
         "url": "https://scenesfrancophones.ca/artistes/jessy-lindsay",
         "name": "Jessy Lindsay"
@@ -2646,12 +2621,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5434",
         "url": "https://scenesfrancophones.ca/artistes/vincent-leblanc-beaudoin",
         "name": "Vincent Leblanc-Beaudoin"
@@ -2673,12 +2643,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/5436",
         "url": "https://scenesfrancophones.ca/artistes/evasions-mobiles",
         "name": "Évasions Mobiles"
@@ -2689,12 +2654,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5545",
         "url": "https://scenesfrancophones.ca/artistes/mikael-taieb-mathemagicien-dreampics-pixel-art",
         "name": "MIKAEL TAIEB / MATHEMAGICIEN / DREAMPICS PIXEL ART"
@@ -2705,12 +2665,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/5590",
         "url": "https://scenesfrancophones.ca/artistes/chimera-danse-theatre",
         "name": "Chimera Danse Théâtre"
@@ -2721,12 +2676,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5729",
         "url": "https://scenesfrancophones.ca/artistes/sacha-lee",
         "name": "Sacha-Lee"
@@ -2777,12 +2727,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5977",
         "url": "https://scenesfrancophones.ca/artistes/zale-seck",
         "name": "Zale Seck"
@@ -2793,12 +2738,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5984",
         "url": "https://scenesfrancophones.ca/artistes/richardson-zephir",
         "name": "Richardson Zéphir",
@@ -2816,12 +2756,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5998",
         "url": "https://scenesfrancophones.ca/artistes/andy-giroux",
         "name": "Andy Giroux",
@@ -2839,12 +2774,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/6014",
         "url": "https://scenesfrancophones.ca/artistes/emile-bilodeau",
         "name": "Émile Bilodeau",
@@ -2862,12 +2792,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/6029",
         "url": "https://scenesfrancophones.ca/artistes/fouki",
         "name": "Fouki",
@@ -2925,12 +2850,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/6133",
         "url": "https://scenesfrancophones.ca/artistes/messmer",
         "name": "Messmer",
@@ -3546,12 +3466,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/7837",
         "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
         "name": "Jérémy Demay",
@@ -6776,12 +6691,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8869",
         "url": "https://scenesfrancophones.ca/artistes/alex-roy",
         "name": "Alex Roy"
@@ -7964,12 +7874,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/9952",
         "url": "https://scenesfrancophones.ca/artistes/theatre-tortue-berlue",
         "name": "Théâtre Tortue Berlue",
@@ -8003,12 +7908,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/9957",
         "url": "https://scenesfrancophones.ca/artistes/nicolas-pellerin-et-les-grand-hurleurs-0",
         "name": "Nicolas Pellerin et Les Grand Hurleurs",
@@ -8247,12 +8147,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/10024",
         "url": "https://scenesfrancophones.ca/artistes/les-illusionnistes",
         "name": "Les Illusionnistes",
@@ -8322,12 +8217,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/10035",
         "url": "https://scenesfrancophones.ca/artistes/stephane-fallu",
         "name": "Stéphane Fallu",
@@ -8345,12 +8235,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/10036",
         "url": "https://scenesfrancophones.ca/artistes/benny-jones-0",
         "name": "Benny Jones",
@@ -8368,12 +8253,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/10037",
         "url": "https://scenesfrancophones.ca/artistes/passe-partout-0",
         "name": "Passe-Partout",
@@ -8414,12 +8294,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/10042",
         "url": "https://scenesfrancophones.ca/artistes/mike-ward-0",
         "name": "Mike Ward",
@@ -8437,12 +8312,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/10043",
         "url": "https://scenesfrancophones.ca/artistes/coco-belliveau-1",
         "name": "Coco Belliveau",
@@ -8460,12 +8330,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/10044",
         "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
         "name": "Daniel Lemire",
@@ -9782,14 +9647,9 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/10573",
-        "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon-1",
+        "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon",
         "name": "Alphonse Bisaillon"
       }
     ]
@@ -9953,12 +9813,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/11790",
         "url": "https://scenesfrancophones.ca/artistes/sherloconte",
         "name": "Sherloconte",
@@ -10082,12 +9937,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/11933",
         "url": "https://scenesfrancophones.ca/artistes/empire-pagaille-mme-brule",
         "name": "Empire Pagaille-Mme Brûlé",
@@ -10185,12 +10035,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/11975",
         "url": "https://scenesfrancophones.ca/artistes/theatre-gauche",
         "name": "Théâtre Gauche",
@@ -11241,6 +11086,55 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12382",
+        "url": "https://scenesfrancophones.ca/artistes/sandrine-marin",
+        "name": "Sandrine Marin"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12397",
+        "url": "https://scenesfrancophones.ca/artistes/xenia-gould",
+        "name": "Xenia Gould"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12404",
+        "url": "https://scenesfrancophones.ca/artistes/laurence-st-martin",
+        "name": "Laurence St-Martin"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12406",
+        "url": "https://scenesfrancophones.ca/artistes/francis-degrandpre",
+        "name": "Francis Degrandpré"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/marcher-linfini-961",
         "name": "Marcher à l'infini",
@@ -11334,15 +11228,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/association-du-centre-communautaire-de-la-rive-sud"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/252",
           "url": "https://scenesfrancophones.ca/artistes/ptit-belliveau",
-          "name": "P'tit Belliveau",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "P'tit Belliveau"
         }
       }
     ]
@@ -11660,15 +11549,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/252",
           "url": "https://scenesfrancophones.ca/artistes/ptit-belliveau",
-          "name": "P'tit Belliveau",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "P'tit Belliveau"
         }
       }
     ]
@@ -11770,15 +11654,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/252",
           "url": "https://scenesfrancophones.ca/artistes/ptit-belliveau",
-          "name": "P'tit Belliveau",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "P'tit Belliveau"
         }
       }
     ]
@@ -11933,15 +11812,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/municipalite-de-belle-baie"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/252",
           "url": "https://scenesfrancophones.ca/artistes/ptit-belliveau",
-          "name": "P'tit Belliveau",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "P'tit Belliveau"
         }
       }
     ]
@@ -12573,9 +12447,28 @@
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Avec son nouvel album Air Molo, le.Panda vous fait planer direction l’île « chillaxe ». Après deux notes de sa musique Reggae-Soul-RnB, vous sentez aussitôt la symbiose qui s’installe entre l’artiste et ses musiciens. Cette symbiose qui crée un « groove » incroyable vous donne l’impression d’une transe qui vous amène au-delà du continuum espace-temps le moment de sa performance. ",
-        "startDate": "2023-05-18T09:00:00-03:00",
+        "startDate": "2023-05-18T21:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/1042",
+        "location": {
+          "@type": "Place",
+          "name": "Salle George-Cottreau",
+          "url": "https://scenesfrancophones.ca/node/477",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "201 C, avenue du Portage",
+            "addressLocality": "Dartmouth",
+            "addressRegion": "NS",
+            "postalCode": "B2X 3S3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.705297",
+            "longitude": "-63.53267"
+          },
+          "@id": "https://scenesfrancophones.ca/id/477"
+        },
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock"
@@ -12602,6 +12495,25 @@
         "startDate": "2023-05-19T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/1043",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Entre deux mers",
+          "url": "https://scenesfrancophones.ca/node/480",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5, ave. Maris Stella",
+            "addressLocality": "Summerside",
+            "addressRegion": "PE",
+            "postalCode": "C1N 6M9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.418743",
+            "longitude": "-63.810939"
+          },
+          "@id": "https://scenesfrancophones.ca/id/480"
+        },
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock"
@@ -20541,15 +20453,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/5984",
             "url": "https://scenesfrancophones.ca/artistes/richardson-zephir",
-            "name": "Richardson Zéphir",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Richardson Zéphir"
           }
         ]
       }
@@ -20607,15 +20514,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/5984",
             "url": "https://scenesfrancophones.ca/artistes/richardson-zephir",
-            "name": "Richardson Zéphir",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Richardson Zéphir"
           }
         ]
       }
@@ -20673,15 +20575,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/5984",
             "url": "https://scenesfrancophones.ca/artistes/richardson-zephir",
-            "name": "Richardson Zéphir",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Richardson Zéphir"
           }
         ]
       }
@@ -20739,15 +20636,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/5984",
             "url": "https://scenesfrancophones.ca/artistes/richardson-zephir",
-            "name": "Richardson Zéphir",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Richardson Zéphir"
           }
         ]
       }
@@ -20805,15 +20697,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/5984",
             "url": "https://scenesfrancophones.ca/artistes/richardson-zephir",
-            "name": "Richardson Zéphir",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Richardson Zéphir"
           }
         ]
       }
@@ -20871,15 +20758,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/5984",
             "url": "https://scenesfrancophones.ca/artistes/richardson-zephir",
-            "name": "Richardson Zéphir",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Richardson Zéphir"
           }
         ]
       }
@@ -21121,15 +21003,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/5998",
             "url": "https://scenesfrancophones.ca/artistes/andy-giroux",
-            "name": "Andy Giroux",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Andy Giroux"
           }
         ]
       }
@@ -21187,15 +21064,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/5998",
             "url": "https://scenesfrancophones.ca/artistes/andy-giroux",
-            "name": "Andy Giroux",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Andy Giroux"
           }
         ]
       }
@@ -21253,15 +21125,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/5998",
             "url": "https://scenesfrancophones.ca/artistes/andy-giroux",
-            "name": "Andy Giroux",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Andy Giroux"
           }
         ]
       }
@@ -21319,15 +21186,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/5998",
             "url": "https://scenesfrancophones.ca/artistes/andy-giroux",
-            "name": "Andy Giroux",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Andy Giroux"
           }
         ]
       }
@@ -21385,15 +21247,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/5998",
             "url": "https://scenesfrancophones.ca/artistes/andy-giroux",
-            "name": "Andy Giroux",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Andy Giroux"
           }
         ]
       }
@@ -21945,15 +21802,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6014",
             "url": "https://scenesfrancophones.ca/artistes/emile-bilodeau",
-            "name": "Émile Bilodeau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Émile Bilodeau"
           }
         ]
       }
@@ -22012,15 +21864,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6014",
             "url": "https://scenesfrancophones.ca/artistes/emile-bilodeau",
-            "name": "Émile Bilodeau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Émile Bilodeau"
           }
         ]
       }
@@ -22079,15 +21926,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6014",
             "url": "https://scenesfrancophones.ca/artistes/emile-bilodeau",
-            "name": "Émile Bilodeau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Émile Bilodeau"
           }
         ]
       }
@@ -22146,15 +21988,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6014",
             "url": "https://scenesfrancophones.ca/artistes/emile-bilodeau",
-            "name": "Émile Bilodeau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Émile Bilodeau"
           }
         ]
       }
@@ -22213,15 +22050,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6014",
             "url": "https://scenesfrancophones.ca/artistes/emile-bilodeau",
-            "name": "Émile Bilodeau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Émile Bilodeau"
           }
         ]
       }
@@ -22807,15 +22639,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6029",
             "url": "https://scenesfrancophones.ca/artistes/fouki",
-            "name": "Fouki",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Fouki"
           }
         ]
       }
@@ -22874,15 +22701,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6029",
             "url": "https://scenesfrancophones.ca/artistes/fouki",
-            "name": "Fouki",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Fouki"
           }
         ]
       }
@@ -22941,15 +22763,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6029",
             "url": "https://scenesfrancophones.ca/artistes/fouki",
-            "name": "Fouki",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Fouki"
           }
         ]
       }
@@ -23008,15 +22825,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6029",
             "url": "https://scenesfrancophones.ca/artistes/fouki",
-            "name": "Fouki",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Fouki"
           }
         ]
       }
@@ -24952,9 +24764,28 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
-        "startDate": "2025-02-16T08:00:00-04:00",
+        "startDate": "2025-02-16T17:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6092",
+        "location": {
+          "@type": "Place",
+          "name": "Centre communautaire de Balmoral",
+          "url": "https://scenesfrancophones.ca/node/10619",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "21 Rue du Centre",
+            "addressLocality": "Balmoral",
+            "addressRegion": "NB",
+            "postalCode": "E8E 1H5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.965296",
+            "longitude": "-66.478741"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10619"
+        },
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock"
@@ -26195,15 +26026,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6133",
             "url": "https://scenesfrancophones.ca/artistes/messmer",
-            "name": "Messmer",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Messmer"
           }
         ]
       }
@@ -26261,15 +26087,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6133",
             "url": "https://scenesfrancophones.ca/artistes/messmer",
-            "name": "Messmer",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Messmer"
           }
         ]
       }
@@ -26327,15 +26148,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6133",
             "url": "https://scenesfrancophones.ca/artistes/messmer",
-            "name": "Messmer",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Messmer"
           }
         ]
       }
@@ -26393,15 +26209,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/6133",
             "url": "https://scenesfrancophones.ca/artistes/messmer",
-            "name": "Messmer",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Messmer"
           }
         ]
       }
@@ -26420,6 +26231,25 @@
         "startDate": "2025-05-03T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6145",
+        "location": {
+          "@type": "Place",
+          "name": "Place 1604",
+          "url": "https://scenesfrancophones.ca/node/12396",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "333 Acadie Avenue",
+            "addressLocality": "Dieppe",
+            "addressRegion": "NB",
+            "postalCode": "E1A 1G9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.094821",
+            "longitude": "-64.749083"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12396"
+        },
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock"
@@ -26641,6 +26471,25 @@
         "startDate": "2025-05-11T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/6151",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium Richelieu",
+          "url": "https://scenesfrancophones.ca/node/503",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "215, rue Guimont",
+            "addressLocality": "Grand-Sault",
+            "addressRegion": "NB",
+            "postalCode": "E3Y 3W3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.056374",
+            "longitude": "-67.73096"
+          },
+          "@id": "https://scenesfrancophones.ca/id/503"
+        },
         "offers": {
           "@type": "Offer",
           "url": "https://leschutes.tuxedobillet.com/",
@@ -31446,15 +31295,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/7837",
           "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
-          "name": "Jérémy Demay",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Jérémy Demay"
         }
       }
     ]
@@ -31661,7 +31505,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/SORTIR_J0231887%20Stephane_P_cr%C3%A9dit%20Damian%20Siqueiros.jpg?itok=_Z3fJAvr",
           "width": "430",
           "height": "430",
-          "creditText": "Aurore Alessandra"
+          "creditText": "Eclectic Media"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "C'est l'histoire d'une fille qui sera aux premières loges de l'inondaton de son village suite à la construction d'un barrage hydroélectrique. Elle y verra les magouilles politiques, les constructions aléatoires et la réalité des famille qui doivent se refaire dans un ailleurs quelconque. Tout ça, avec humour et lucidité à la fois. SORTIR LA TEMPÊTE DU VERRE raconte l'histoires des gens pour qui l'eau a tout changé dans leur vie. On navigue entre le rire et l’émotion.",
@@ -31843,7 +31687,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/SORTIR_J0231887%20Stephane_P_cr%C3%A9dit%20Damian%20Siqueiros_0.jpg?itok=ZB4rKviA",
           "width": "430",
           "height": "430",
-          "creditText": "Aurore Alessandra"
+          "creditText": "Eclectic Media"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "C'est l'histoire d'une fille qui sera aux premières loges de l'inondaton de son village suite à la construction d'un barrage hydroélectrique. Elle y verra les magouilles politiques, les constructions aléatoires et la réalité des famille qui doivent se refaire dans un ailleurs quelconque. Tout ça, avec humour et lucidité à la fois. SORTIR LA TEMPÊTE DU VERRE raconte l'histoires des gens pour qui l'eau a tout changé dans leur vie. On navigue entre le rire et l’émotion.",
@@ -31902,7 +31746,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/SORTIR_J0231887%20Stephane_P_cr%C3%A9dit%20Damian%20Siqueiros_1.jpg?itok=GLXOIWpi",
           "width": "430",
           "height": "430",
-          "creditText": "Aurore Alessandra"
+          "creditText": "Eclectic Media"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "C'est l'histoire d'une fille qui sera aux premières loges de l'inondaton de son village suite à la construction d'un barrage hydroélectrique. Elle y verra les magouilles politiques, les constructions aléatoires et la réalité des famille qui doivent se refaire dans un ailleurs quelconque. Tout ça, avec humour et lucidité à la fois. SORTIR LA TEMPÊTE DU VERRE raconte l'histoires des gens pour qui l'eau a tout changé dans leur vie. On navigue entre le rire et l’émotion.",
@@ -32025,7 +31869,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/SORTIR_J0231887%20Stephane_P_cr%C3%A9dit%20Damian%20Siqueiros_2.jpg?itok=xXQ3CbTz",
           "width": "430",
           "height": "430",
-          "creditText": "Aurore Alessandra"
+          "creditText": "Eclectic Media"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "C'est l'histoire d'une fille qui sera aux premières loges de l'inondaton de son village suite à la construction d'un barrage hydroélectrique. Elle y verra les magouilles politiques, les constructions aléatoires et la réalité des famille qui doivent se refaire dans un ailleurs quelconque. Tout ça, avec humour et lucidité à la fois. SORTIR LA TEMPÊTE DU VERRE raconte l'histoires des gens pour qui l'eau a tout changé dans leur vie. On navigue entre le rire et l’émotion.",
@@ -32084,7 +31928,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/SORTIR_J0231887%20Stephane_P_cr%C3%A9dit%20Damian%20Siqueiros_3.jpg?itok=WnQ6TmUM",
           "width": "430",
           "height": "430",
-          "creditText": "Aurore Alessandra"
+          "creditText": "Eclectic Media"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "C'est l'histoire d'une fille qui sera aux premières loges de l'inondaton de son village suite à la construction d'un barrage hydroélectrique. Elle y verra les magouilles politiques, les constructions aléatoires et la réalité des famille qui doivent se refaire dans un ailleurs quelconque. Tout ça, avec humour et lucidité à la fois. SORTIR LA TEMPÊTE DU VERRE raconte l'histoires des gens pour qui l'eau a tout changé dans leur vie. On navigue entre le rire et l’émotion.",
@@ -32299,15 +32143,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/5998",
           "url": "https://scenesfrancophones.ca/artistes/andy-giroux",
-          "name": "Andy Giroux",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Andy Giroux"
         }
       }
     ]
@@ -33528,7 +33367,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Effet%20Papillon.jpg?itok=PS4DDnwM",
           "width": "430",
           "height": "430",
-          "creditText": "Aurore Alessandra"
+          "creditText": "Eclectic Media"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "C'est l'histoire d'une fille qui sera aux premières loges de l'inondaton de son village suite à la construction d'un barrage hydroélectrique. Elle y verra les magouilles politiques, les constructions aléatoires et la réalité des famille qui doivent se refaire dans un ailleurs quelconque. Tout ça, avec humour et lucidité à la fois. SORTIR LA TEMPÊTE DU VERRE raconte l'histoires des gens pour qui l'eau a tout changé dans leur vie. On navigue entre le rire et l’émotion.",
@@ -34984,15 +34823,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/5984",
           "url": "https://scenesfrancophones.ca/artistes/richardson-zephir",
-          "name": "Richardson Zéphir",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Richardson Zéphir"
         }
       }
     ]
@@ -35282,6 +35116,7 @@
         "name": "Jessy Lindsay - J'explose",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "La franco-ontarienne Jessy Lindsay vous propose un spectacle pop-groovy entraînant et rafraîchissant qui inspire tout public à danser librement au battement de leur propre coeur. Ses paroles authentiques et mélodies accrocheuses incitent une réflexion sur les réalités actuelles des jeunes femmes queers. Elle explore, en particulier les thèmes d'identité, l'appartenance, la réclamation de soi et le « queer joy ». Ce spectacle férocement groovy marque le début d’une époque remplie de confiance, d’écoute de soi et de musique libératrice pour l’artiste. Plongez vivement dans son univers coloré !",
         "startDate": "2024-04-27T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8242",
@@ -35300,15 +35135,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/maison-de-la-francophonie-dottawa-cmfo"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/5405",
           "url": "https://scenesfrancophones.ca/artistes/jessy-lindsay",
-          "name": "Jessy Lindsay",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Jessy Lindsay"
         }
       }
     ]
@@ -40686,6 +40516,7 @@
           "creditText": "Chantalyne Beausoleil"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "La franco-ontarienne Jessy Lindsay vous propose un spectacle pop-groovy entraînant et rafraîchissant qui inspire tout public à danser librement au battement de leur propre coeur. Ses paroles authentiques et mélodies accrocheuses incitent une réflexion sur les réalités actuelles des jeunes femmes queers. Elle explore, en particulier les thèmes d'identité, l'appartenance, la réclamation de soi et le « queer joy ». Ce spectacle férocement groovy marque le début d’une époque remplie de confiance, d’écoute de soi et de musique libératrice pour l’artiste. Plongez vivement dans son univers coloré !",
         "startDate": "2025-03-14T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8732",
@@ -40719,15 +40550,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/maison-de-la-francophonie-dottawa-cmfo"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/5405",
           "url": "https://scenesfrancophones.ca/artistes/jessy-lindsay",
-          "name": "Jessy Lindsay",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Jessy Lindsay"
         }
       }
     ]
@@ -40872,7 +40698,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/image0.jpeg?itok=yKVhYKbz",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Yorke"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Venez vivre un party acadien vous invitant à chanter, rire et danser pour célébrer les 40 ans de carrière de Hert LeBlanc. Vivez une soirée mémorable au son de sa musique acadienne et country caractérisant ses 10 albums solo en carrière ainsi que quelques nouveautés de son nouveau projet à paraître en septembre 2025. Accompagné de son acolyte de toujours, Rhéal LeBlanc, retrouvez la complicité et l’humour qui caractérise leur relation. Forts de leur succès personnels ainsi qu’avec le groupe Les LeBlanc, fêtez et chantez avec Hert et Rhéal LeBlanc.",
@@ -42241,15 +42068,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10044",
             "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
-            "name": "Daniel Lemire",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Daniel Lemire"
           }
         ]
       }
@@ -43569,15 +43391,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/5984",
           "url": "https://scenesfrancophones.ca/artistes/richardson-zephir",
-          "name": "Richardson Zéphir",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Richardson Zéphir"
         }
       }
     ]
@@ -47625,15 +47442,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/7837",
             "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
-            "name": "Jérémy Demay",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Jérémy Demay"
           }
         ]
       }
@@ -47690,15 +47502,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/conseil-communautaire-du-grand-havre"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/252",
           "url": "https://scenesfrancophones.ca/artistes/ptit-belliveau",
-          "name": "P'tit Belliveau",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "P'tit Belliveau"
         }
       }
     ]
@@ -49230,15 +49037,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/9957",
             "url": "https://scenesfrancophones.ca/artistes/nicolas-pellerin-et-les-grand-hurleurs-0",
-            "name": "Nicolas Pellerin et Les Grand Hurleurs",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Nicolas Pellerin et Les Grand Hurleurs"
           }
         ]
       }
@@ -49351,15 +49153,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/9957",
             "url": "https://scenesfrancophones.ca/artistes/nicolas-pellerin-et-les-grand-hurleurs-0",
-            "name": "Nicolas Pellerin et Les Grand Hurleurs",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Nicolas Pellerin et Les Grand Hurleurs"
           }
         ]
       }
@@ -49418,15 +49215,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/9952",
             "url": "https://scenesfrancophones.ca/artistes/theatre-tortue-berlue",
-            "name": "Théâtre Tortue Berlue",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Théâtre Tortue Berlue"
           }
         ]
       }
@@ -49485,15 +49277,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/9952",
             "url": "https://scenesfrancophones.ca/artistes/theatre-tortue-berlue",
-            "name": "Théâtre Tortue Berlue",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Théâtre Tortue Berlue"
           }
         ]
       }
@@ -49551,15 +49338,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/9952",
             "url": "https://scenesfrancophones.ca/artistes/theatre-tortue-berlue",
-            "name": "Théâtre Tortue Berlue",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Théâtre Tortue Berlue"
           }
         ]
       }
@@ -49586,6 +49368,25 @@
         "startDate": "2025-08-13T14:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10234",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Gilles Laplante",
+          "url": "https://scenesfrancophones.ca/node/10382",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300 Beaverbrook Rd,",
+            "addressLocality": "Miramichi",
+            "addressRegion": "NB",
+            "postalCode": "E1V 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.008958",
+            "longitude": "-65.587482"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10382"
+        },
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock"
@@ -49598,15 +49399,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/9952",
             "url": "https://scenesfrancophones.ca/artistes/theatre-tortue-berlue",
-            "name": "Théâtre Tortue Berlue",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Théâtre Tortue Berlue"
           }
         ]
       }
@@ -49886,15 +49682,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/5977",
           "url": "https://scenesfrancophones.ca/artistes/zale-seck",
-          "name": "Zale Seck",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Zale Seck"
         }
       }
     ]
@@ -50687,15 +50478,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/5998",
           "url": "https://scenesfrancophones.ca/artistes/andy-giroux",
-          "name": "Andy Giroux",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Andy Giroux"
         }
       }
     ]
@@ -51745,15 +51531,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10043",
             "url": "https://scenesfrancophones.ca/artistes/coco-belliveau-1",
-            "name": "Coco Belliveau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Coco Belliveau"
           }
         ]
       }
@@ -53464,15 +53245,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8869",
             "url": "https://scenesfrancophones.ca/artistes/alex-roy",
-            "name": "Alex Roy",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Alex Roy"
           }
         ]
       }
@@ -53530,15 +53306,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8869",
             "url": "https://scenesfrancophones.ca/artistes/alex-roy",
-            "name": "Alex Roy",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Alex Roy"
           }
         ]
       }
@@ -53595,15 +53366,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8869",
             "url": "https://scenesfrancophones.ca/artistes/alex-roy",
-            "name": "Alex Roy",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Alex Roy"
           }
         ]
       }
@@ -53660,15 +53426,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8869",
             "url": "https://scenesfrancophones.ca/artistes/alex-roy",
-            "name": "Alex Roy",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Alex Roy"
           }
         ]
       }
@@ -53725,15 +53486,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8869",
             "url": "https://scenesfrancophones.ca/artistes/alex-roy",
-            "name": "Alex Roy",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Alex Roy"
           }
         ]
       }
@@ -53978,15 +53734,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10044",
             "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
-            "name": "Daniel Lemire",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Daniel Lemire"
           }
         ]
       }
@@ -54045,15 +53796,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10044",
             "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
-            "name": "Daniel Lemire",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Daniel Lemire"
           }
         ]
       }
@@ -54112,15 +53858,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10044",
             "url": "https://scenesfrancophones.ca/artistes/daniel-lemire",
-            "name": "Daniel Lemire",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Daniel Lemire"
           }
         ]
       }
@@ -54240,15 +53981,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/7837",
             "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
-            "name": "Jérémy Demay",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Jérémy Demay"
           }
         ]
       }
@@ -54306,15 +54042,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/7837",
             "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
-            "name": "Jérémy Demay",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Jérémy Demay"
           }
         ]
       }
@@ -54372,15 +54103,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/7837",
             "url": "https://scenesfrancophones.ca/artistes/jeremy-demay",
-            "name": "Jérémy Demay",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Jérémy Demay"
           }
         ]
       }
@@ -56198,15 +55924,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10043",
             "url": "https://scenesfrancophones.ca/artistes/coco-belliveau-1",
-            "name": "Coco Belliveau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Coco Belliveau"
           }
         ]
       }
@@ -56758,15 +56479,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10043",
             "url": "https://scenesfrancophones.ca/artistes/coco-belliveau-1",
-            "name": "Coco Belliveau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Coco Belliveau"
           }
         ]
       }
@@ -56824,15 +56540,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10043",
             "url": "https://scenesfrancophones.ca/artistes/coco-belliveau-1",
-            "name": "Coco Belliveau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Coco Belliveau"
           }
         ]
       }
@@ -56951,15 +56662,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10035",
             "url": "https://scenesfrancophones.ca/artistes/stephane-fallu",
-            "name": "Stéphane Fallu",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Stéphane Fallu"
           }
         ]
       }
@@ -57016,15 +56722,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10035",
             "url": "https://scenesfrancophones.ca/artistes/stephane-fallu",
-            "name": "Stéphane Fallu",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Stéphane Fallu"
           }
         ]
       }
@@ -57081,15 +56782,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10035",
             "url": "https://scenesfrancophones.ca/artistes/stephane-fallu",
-            "name": "Stéphane Fallu",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Stéphane Fallu"
           }
         ]
       }
@@ -57148,15 +56844,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10573",
-            "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon-1",
-            "name": "Alphonse Bisaillon",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon",
+            "name": "Alphonse Bisaillon"
           }
         ]
       }
@@ -57215,15 +56906,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10573",
-            "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon-1",
-            "name": "Alphonse Bisaillon",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon",
+            "name": "Alphonse Bisaillon"
           }
         ]
       }
@@ -57541,15 +57227,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10573",
-            "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon-1",
-            "name": "Alphonse Bisaillon",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "url": "https://scenesfrancophones.ca/artistes/alphonse-bisaillon",
+            "name": "Alphonse Bisaillon"
           }
         ]
       }
@@ -59016,15 +58697,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10042",
             "url": "https://scenesfrancophones.ca/artistes/mike-ward-0",
-            "name": "Mike Ward",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Mike Ward"
           }
         ]
       }
@@ -59082,15 +58758,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10042",
             "url": "https://scenesfrancophones.ca/artistes/mike-ward-0",
-            "name": "Mike Ward",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Mike Ward"
           }
         ]
       }
@@ -59148,15 +58819,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10042",
             "url": "https://scenesfrancophones.ca/artistes/mike-ward-0",
-            "name": "Mike Ward",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Mike Ward"
           }
         ]
       }
@@ -59214,15 +58880,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10042",
             "url": "https://scenesfrancophones.ca/artistes/mike-ward-0",
-            "name": "Mike Ward",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Mike Ward"
           }
         ]
       }
@@ -59341,15 +59002,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8869",
             "url": "https://scenesfrancophones.ca/artistes/alex-roy",
-            "name": "Alex Roy",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Alex Roy"
           }
         ]
       }
@@ -59469,15 +59125,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8869",
             "url": "https://scenesfrancophones.ca/artistes/alex-roy",
-            "name": "Alex Roy",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Alex Roy"
           }
         ]
       }
@@ -59534,15 +59185,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8869",
             "url": "https://scenesfrancophones.ca/artistes/alex-roy",
-            "name": "Alex Roy",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Alex Roy"
           }
         ]
       }
@@ -59662,15 +59308,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8869",
             "url": "https://scenesfrancophones.ca/artistes/alex-roy",
-            "name": "Alex Roy",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Alex Roy"
           }
         ]
       }
@@ -59736,15 +59377,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/10024",
             "url": "https://scenesfrancophones.ca/artistes/les-illusionnistes",
-            "name": "Les Illusionnistes",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Les Illusionnistes"
           }
         ]
       }
@@ -59810,15 +59446,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/10024",
             "url": "https://scenesfrancophones.ca/artistes/les-illusionnistes",
-            "name": "Les Illusionnistes",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Les Illusionnistes"
           }
         ]
       }
@@ -59884,15 +59515,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/10024",
             "url": "https://scenesfrancophones.ca/artistes/les-illusionnistes",
-            "name": "Les Illusionnistes",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Les Illusionnistes"
           }
         ]
       }
@@ -59959,15 +59585,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/10024",
             "url": "https://scenesfrancophones.ca/artistes/les-illusionnistes",
-            "name": "Les Illusionnistes",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Les Illusionnistes"
           }
         ]
       }
@@ -60033,15 +59654,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/10024",
             "url": "https://scenesfrancophones.ca/artistes/les-illusionnistes",
-            "name": "Les Illusionnistes",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Les Illusionnistes"
           }
         ]
       }
@@ -60108,15 +59724,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/10024",
             "url": "https://scenesfrancophones.ca/artistes/les-illusionnistes",
-            "name": "Les Illusionnistes",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Les Illusionnistes"
           }
         ]
       }
@@ -60248,15 +59859,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/10024",
             "url": "https://scenesfrancophones.ca/artistes/les-illusionnistes",
-            "name": "Les Illusionnistes",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Les Illusionnistes"
           }
         ]
       }
@@ -60380,15 +59986,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10043",
             "url": "https://scenesfrancophones.ca/artistes/coco-belliveau-1",
-            "name": "Coco Belliveau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Coco Belliveau"
           }
         ]
       }
@@ -60446,15 +60047,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/10043",
             "url": "https://scenesfrancophones.ca/artistes/coco-belliveau-1",
-            "name": "Coco Belliveau",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Coco Belliveau"
           }
         ]
       }
@@ -61087,15 +60683,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/9957",
             "url": "https://scenesfrancophones.ca/artistes/nicolas-pellerin-et-les-grand-hurleurs-0",
-            "name": "Nicolas Pellerin et Les Grand Hurleurs",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Nicolas Pellerin et Les Grand Hurleurs"
           }
         ]
       }
@@ -61541,15 +61132,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/11790",
             "url": "https://scenesfrancophones.ca/artistes/sherloconte",
-            "name": "Sherloconte",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Sherloconte"
           }
         ]
       }
@@ -61606,15 +61192,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/11790",
             "url": "https://scenesfrancophones.ca/artistes/sherloconte",
-            "name": "Sherloconte",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Sherloconte"
           }
         ]
       }
@@ -61638,7 +61219,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Parler mal est un docu-fiction théâtral de Bianca Richard et Gabriel Robichaud. Ils y portent les chapeaux de co-auteurs, de co-metteurs en scène (avec Philip André Collette) et d’interprètes. Leur démarche, amorcée en août 2019, s’est étalée sur près de 5 ans, avant d’être portée à la scène une première fois à Moncton en mai 2024.Le spectacle traite de l’insécurité linguistique, le sentiment d’illégitimité de prendre la parole dans sa langue maternelle dans un contexte plus ou moins formel de communication. À travers une mosaïque de tableaux inspirés d’expériences personnelles, de réalités récoltées sur le terrain et de discussions avec des spécialistes, les artistes ouvrent le dialogue sur cette question, afin de faire face à leur propre malaise linguistique et de s'en libérer. En interrogeant leurs liens avec le phénomène, Bianca Richard et Gabriel Robichaud se posent trois questions: comment l’insécurité commence-t-elle? Comment se développe/manifeste-t-elle? Comment s’en débarrasser ?Le spectre de l’insécurité linguistique est vaste, mais se décline de 4 façons principales:Hyperconscience : conscience aiguë du locuteur que son registre de langue n’est pas le même que la personne avec qui il converse. Cette conscience s’accompagne généralement d’une impression que son registre est inférieur, que cela soit vrai ou non.Hypercorrection : le registre de langue du locuteur devient truffé de fautes, puisque celui-ci, tentant d’épater la galerie, se met à faire des erreurs qu’il ne fait pas d’habitude.Hypocorrection : pour pallier sa honte, le locuteur parle une version exagérée de sa variante stigmatisée du français. Ce trait s’accompagne souvent d’une fierté de façade qui tente de compenser le manque à gagner du sentiment d’illégitimité liée à l’insécurité linguistique.Silence : la marque la plus violente de l’insécurité linguistique, c’est le silence auto-infligé d’un locuteur qui se tait dans sa langue maternelle, ou qui prend la parole dans une langue seconde, afin de ne pas risquer d’affronter la honte liée à sa façon de parler. C’est en brisant ce silence que le projet invite à réfléchir au phénomène de l'insécurité linguistique et à ses conséquences sociales.",
-        "startDate": "2026-03-19T19:30:00-03:00",
+        "startDate": "2026-03-12T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11977",
         "location": {
@@ -61673,15 +61254,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/11975",
             "url": "https://scenesfrancophones.ca/artistes/theatre-gauche",
-            "name": "Théâtre Gauche",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Théâtre Gauche"
           }
         ]
       }
@@ -61740,15 +61316,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/11975",
             "url": "https://scenesfrancophones.ca/artistes/theatre-gauche",
-            "name": "Théâtre Gauche",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Théâtre Gauche"
           }
         ]
       }
@@ -61807,15 +61378,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/11975",
             "url": "https://scenesfrancophones.ca/artistes/theatre-gauche",
-            "name": "Théâtre Gauche",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Théâtre Gauche"
           }
         ]
       }
@@ -61855,15 +61421,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/11975",
             "url": "https://scenesfrancophones.ca/artistes/theatre-gauche",
-            "name": "Théâtre Gauche",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Théâtre Gauche"
           }
         ]
       }
@@ -63501,134 +63062,6 @@
           "@id": "https://scenesfrancophones.ca/id/12083",
           "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-1",
           "name": "Théâtre populaire d’Acadie",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/sybillines-la-chouette-12088",
-        "name": "Sybillines -",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/4_1.jpg?itok=VhTckjBy",
-          "width": "430",
-          "height": "430"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Spectacle poétique, philosophique, cocasse et résolument politique, “La chouette” est la première œuvre dramatique signée Sébastien Ricard, membre fondateur de Loco Locass et comédien à la carrière éclatante.\r\n\r\n \r\n\r\nTout est parti du désir d’explorer la figure du “monstre”, celle que le philosophe trans Paul B.Preciado utilise pour se définir et qui fait écho à une autre figure, celle du Canayen dont le géographe Jean Morisset tente de cerner le temps et l’espace à travers le vaste paysage de l’Amérique. Preciado comme Morisset questionnent les catégories rigides et prônent la fluidité des frontières réelles ou symboliques entre les genres, les pays, les rôles. Ces questions aboutissent fatalement au théâtre, à ses codes de représentation et à leur remise en question.\r\n\r\n \r\n\r\nCompagnons de route depuis vingt ans, Sébastien Ricard et Brigitte Haentjens s’allient cette fois à l’artiste transdisciplinaire Micha Raoutenfeld. Le trio multi- générationnel s’engage dans un pari audacieux qui bouscule les rôles traditionnels. Le spectacle, fluide et organique, performatif emprunte à différents styles de théâtre pour communiquer avec le public. On n’est pas dans une forme classique de narration, ici, les idées s’incarnent dans les corps et ça déménage!\r\n\r\nUn spectacle original, inclassable, et plein de surprises..",
-        "startDate": "2026-02-19T19:30:00-04:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/12088",
-        "location": {
-          "@type": "Place",
-          "name": "théâtre l'Escaouette",
-          "url": "https://scenesfrancophones.ca/node/511",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "170, rue Botsford",
-            "addressLocality": "Moncton",
-            "addressRegion": "NB",
-            "postalCode": "E1C 4X4",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "46.093968",
-            "longitude": "-64.778509"
-          },
-          "@id": "https://scenesfrancophones.ca/id/511"
-        },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://escaouette.tuxedobillet.com/main/la-chouette",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/57",
-          "name": "théâtre L’escaouette",
-          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
-        },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/12086",
-          "url": "https://scenesfrancophones.ca/artistes/sybillines",
-          "name": "Sybillines",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/sybillines-la-chouette-12092",
-        "name": "Sybillines -",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/4_2.jpg?itok=TO0iMO8C",
-          "width": "430",
-          "height": "430"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Spectacle poétique, philosophique, cocasse et résolument politique, “La chouette” est la première œuvre dramatique signée Sébastien Ricard, membre fondateur de Loco Locass et comédien à la carrière éclatante.\r\n\r\n \r\n\r\nTout est parti du désir d’explorer la figure du “monstre”, celle que le philosophe trans Paul B.Preciado utilise pour se définir et qui fait écho à une autre figure, celle du Canayen dont le géographe Jean Morisset tente de cerner le temps et l’espace à travers le vaste paysage de l’Amérique. Preciado comme Morisset questionnent les catégories rigides et prônent la fluidité des frontières réelles ou symboliques entre les genres, les pays, les rôles. Ces questions aboutissent fatalement au théâtre, à ses codes de représentation et à leur remise en question.\r\n\r\n \r\n\r\nCompagnons de route depuis vingt ans, Sébastien Ricard et Brigitte Haentjens s’allient cette fois à l’artiste transdisciplinaire Micha Raoutenfeld. Le trio multi- générationnel s’engage dans un pari audacieux qui bouscule les rôles traditionnels. Le spectacle, fluide et organique, performatif emprunte à différents styles de théâtre pour communiquer avec le public. On n’est pas dans une forme classique de narration, ici, les idées s’incarnent dans les corps et ça déménage!\r\n\r\nUn spectacle original, inclassable, et plein de surprises..",
-        "startDate": "2026-02-20T19:30:00-04:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/12092",
-        "location": {
-          "@type": "Place",
-          "name": "théâtre l'Escaouette",
-          "url": "https://scenesfrancophones.ca/node/511",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "170, rue Botsford",
-            "addressLocality": "Moncton",
-            "addressRegion": "NB",
-            "postalCode": "E1C 4X4",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "46.093968",
-            "longitude": "-64.778509"
-          },
-          "@id": "https://scenesfrancophones.ca/id/511"
-        },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://escaouette.tuxedobillet.com/main/la-chouette",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/57",
-          "name": "théâtre L’escaouette",
-          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
-        },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/12090",
-          "url": "https://scenesfrancophones.ca/artistes/sybillines-0",
-          "name": "Sybillines",
           "schema_organization_additional_type": [
             "http://dbpedia.org/ontology/Agent",
             "http://xmlns.com/foaf/0.1/Agent",
@@ -65447,15 +64880,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/la-cite-des-rocheuses"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/10042",
           "url": "https://scenesfrancophones.ca/artistes/mike-ward-0",
-          "name": "Mike Ward",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Mike Ward"
         }
       }
     ]
@@ -68046,10 +67474,135 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/10042",
           "url": "https://scenesfrancophones.ca/artistes/mike-ward-0",
-          "name": "Mike Ward",
+          "name": "Mike Ward"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/xenia-gould-juste-vide-ton-coeur-12399",
+        "name": "Xenia Gould -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-12/%C2%A9Alexya%20Cr%C3%B4teau-Gr%C3%A9goire_FIL_25-09-24-7490.jpg?itok=oNekezkp",
+          "width": "430",
+          "height": "430",
+          "creditText": "Alexya Crôteau-Grégoire"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Étoile montante de la scène canadienne et rockstar littéraire, Xénia Gould nous dévoile ses nouvelles expériences poétiques sur scène. JUSTE VIDE TON CŒUR est une performance intime créée avec la complicité de la metteuse en scène Angela Konrad. De façon décomplexée et déjantée, Xénia, artiste associée à l’USINE C, examine la condition humaine, quelque part entre le slam, le théâtre, le journal intime, la drag et la confession. Devant nous, Xénia vide son cœur et nous invite à vivre ce voyage avec elle, sans détour.\r\nAncré dans une absurdité complexe, Xénia nous accroche à sa mitraillette, sa langue. Elle déploie son dialecte acadien, le chiac, restant fidèle à ses racines. Toujours en mouvance, ses relations à son corps, à ses désirs et au concept de home tapissent son regard sur le monde. Elle est connue pour ses vives qualités de performeuse, et sa capacité de remettre en question la structure du monde est toujours doublée de moments de sensualité authentiques et de travail de personnages. Après la mort de sa tante et de sa grand-mère, Xénia Gould cherche à savoir si «ctes femmes là m’aimeraient still sans ma barbe. » C’est après son déménagement à Montréal, sa transition et en plongeant dans ses souvenirs que Xénia cherche à voir si ces femmes défuntes pourront l’aider à transcender sa propre peur de la mort et de l’abandon.",
+        "startDate": "2026-02-11T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12399",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/juste-vide-ton-coeur",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12397",
+          "url": "https://scenesfrancophones.ca/artistes/xenia-gould",
+          "name": "Xenia Gould",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/xenia-gould-juste-vide-ton-coeur-12400",
+        "name": "Xenia Gould -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-12/%C2%A9Alexya%20Cr%C3%B4teau-Gr%C3%A9goire_FIL_25-09-24-7490_0.jpg?itok=Twewpr4H",
+          "width": "430",
+          "height": "430",
+          "creditText": "Alexya Crôteau-Grégoire"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Étoile montante de la scène canadienne et rockstar littéraire, Xénia Gould nous dévoile ses nouvelles expériences poétiques sur scène. JUSTE VIDE TON CŒUR est une performance intime créée avec la complicité de la metteuse en scène Angela Konrad. De façon décomplexée et déjantée, Xénia, artiste associée à l’USINE C, examine la condition humaine, quelque part entre le slam, le théâtre, le journal intime, la drag et la confession. Devant nous, Xénia vide son cœur et nous invite à vivre ce voyage avec elle, sans détour.\r\nAncré dans une absurdité complexe, Xénia nous accroche à sa mitraillette, sa langue. Elle déploie son dialecte acadien, le chiac, restant fidèle à ses racines. Toujours en mouvance, ses relations à son corps, à ses désirs et au concept de home tapissent son regard sur le monde. Elle est connue pour ses vives qualités de performeuse, et sa capacité de remettre en question la structure du monde est toujours doublée de moments de sensualité authentiques et de travail de personnages. Après la mort de sa tante et de sa grand-mère, Xénia Gould cherche à savoir si «ctes femmes là m’aimeraient still sans ma barbe. » C’est après son déménagement à Montréal, sa transition et en plongeant dans ses souvenirs que Xénia cherche à voir si ces femmes défuntes pourront l’aider à transcender sa propre peur de la mort et de l’abandon.",
+        "startDate": "2026-02-12T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12400",
+        "location": {
+          "@type": "Place",
+          "name": "théâtre l'Escaouette",
+          "url": "https://scenesfrancophones.ca/node/511",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "170, rue Botsford",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 4X4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.093968",
+            "longitude": "-64.778509"
+          },
+          "@id": "https://scenesfrancophones.ca/id/511"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://escaouette.tuxedobillet.com/main/juste-vide-ton-coeur",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/57",
+          "name": "théâtre L’escaouette",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-lescaouette"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12397",
+          "url": "https://scenesfrancophones.ca/artistes/xenia-gould",
+          "name": "Xenia Gould",
           "schema_organization_additional_type": [
             "http://dbpedia.org/ontology/Agent",
             "http://xmlns.com/foaf/0.1/Agent",
@@ -72834,6 +72387,31 @@
           "longitude": "-79.686674"
         },
         "@id": "https://scenesfrancophones.ca/id/12312"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12396",
+        "name": "Place 1604",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "333 Acadie Avenue",
+          "addressLocality": "Dieppe",
+          "addressRegion": "NB",
+          "postalCode": "E1A 1G9",
+          "addressCountry": "CA"
+        },
+        "description": "La patinoire réfrigérée est située à la place 1604, derrière l'hôtel de ville, et est ouverte de décembre à mars, même par temps doux. La patinoire mesure plus de 140 mètres de long et cinq mètres de large (sept mètres d'un bout à l'autre). De la musique est diffusée toute la journée et la patinoire est illuminée en soirée.",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "46.094821",
+          "longitude": "-64.749083"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12396"
       }
     ]
   },
