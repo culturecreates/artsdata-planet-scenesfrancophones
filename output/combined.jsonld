@@ -11135,6 +11135,22 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12411",
+        "url": "https://scenesfrancophones.ca/artistes/xenia-gould-0",
+        "name": "Xenia Gould"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/marcher-linfini-961",
         "name": "Marcher à l'infini",
@@ -67602,6 +67618,70 @@
           "@type": "Thing",
           "@id": "https://scenesfrancophones.ca/id/12397",
           "url": "https://scenesfrancophones.ca/artistes/xenia-gould",
+          "name": "Xenia Gould",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/xenia-gould-juste-vide-ton-coeur-12413",
+        "name": "Xenia Gould  -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/JUSTE%20VIDE%20TON%20COEUR_-OgrwMo4kmub1wojaJJW_.png?itok=zQft4UHb",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le TPA ouvre la deuxième moitié de sa saison avec Juste vide ton cœur, un spectacle solo de Xénia Gould, performeuse au langage acéré et profondément ancré dans le chiac. \r\n\r\nLe spectacle explore l’univers de Xénia, installée à Montréal et en pleine transition, et met en lumière son rapport au corps, au désir et au « home ». À la suite du décès de sa tante et de sa grand-mère, elle se demande si celles-ci l’aimeraient encore sans sa barbe. \r\n\r\nEn revisitant ses souvenirs, Xénia cherche à voir si ces femmes disparues peuvent l’aider à dépasser sa peur de la mort et de l’abandon.\r\n\r\nUne création de Xénia Gould. Production déléguée du Festival international de la littérature (FIL). Avec le soutien de l’USINE C.",
+        "startDate": "2026-02-09T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12413",
+        "location": {
+          "@type": "Place",
+          "name": "Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/12154",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220 Boulevard Saint-Pierre O",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788816",
+            "longitude": "-64.964982"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12154"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://tpacadie.tuxedobillet.com/main/juste-vide-ton-coeur",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/58",
+          "name": "Théâtre populaire d’Acadie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-populaire-dacadie"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12411",
+          "url": "https://scenesfrancophones.ca/artistes/xenia-gould-0",
           "name": "Xenia Gould",
           "schema_organization_additional_type": [
             "http://dbpedia.org/ontology/Agent",
