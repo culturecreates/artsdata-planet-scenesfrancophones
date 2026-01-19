@@ -61359,7 +61359,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Parler mal est un docu-fiction théâtral de Bianca Richard et Gabriel Robichaud. Ils y portent les chapeaux de co-auteurs, de co-metteurs en scène (avec Philip André Collette) et d’interprètes. Leur démarche, amorcée en août 2019, s’est étalée sur près de 5 ans, avant d’être portée à la scène une première fois à Moncton en mai 2024.Le spectacle traite de l’insécurité linguistique, le sentiment d’illégitimité de prendre la parole dans sa langue maternelle dans un contexte plus ou moins formel de communication. À travers une mosaïque de tableaux inspirés d’expériences personnelles, de réalités récoltées sur le terrain et de discussions avec des spécialistes, les artistes ouvrent le dialogue sur cette question, afin de faire face à leur propre malaise linguistique et de s'en libérer. En interrogeant leurs liens avec le phénomène, Bianca Richard et Gabriel Robichaud se posent trois questions: comment l’insécurité commence-t-elle? Comment se développe/manifeste-t-elle? Comment s’en débarrasser ?Le spectre de l’insécurité linguistique est vaste, mais se décline de 4 façons principales:Hyperconscience : conscience aiguë du locuteur que son registre de langue n’est pas le même que la personne avec qui il converse. Cette conscience s’accompagne généralement d’une impression que son registre est inférieur, que cela soit vrai ou non.Hypercorrection : le registre de langue du locuteur devient truffé de fautes, puisque celui-ci, tentant d’épater la galerie, se met à faire des erreurs qu’il ne fait pas d’habitude.Hypocorrection : pour pallier sa honte, le locuteur parle une version exagérée de sa variante stigmatisée du français. Ce trait s’accompagne souvent d’une fierté de façade qui tente de compenser le manque à gagner du sentiment d’illégitimité liée à l’insécurité linguistique.Silence : la marque la plus violente de l’insécurité linguistique, c’est le silence auto-infligé d’un locuteur qui se tait dans sa langue maternelle, ou qui prend la parole dans une langue seconde, afin de ne pas risquer d’affronter la honte liée à sa façon de parler. C’est en brisant ce silence que le projet invite à réfléchir au phénomène de l'insécurité linguistique et à ses conséquences sociales.",
-        "startDate": "2026-03-12T20:00:00-03:00",
+        "startDate": "2026-03-19T19:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11979",
         "location": {
@@ -67688,6 +67688,66 @@
             "http://xmlns.com/foaf/0.1/Agent",
             "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
           ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-savoie-rom-com-12414",
+        "name": "Caroline Savoie - Bruits Blancs",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Caroline%20poster.jpg?itok=f1DswF03",
+          "width": "430",
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Caroline Savoie, autrice-compositrice-interprète au parcours tissé sur une décennie, captive avec une sincérité émotive les facettes de l'amour authentique. Inspirée par les classiques de la comédie romantique qui ont façonné son adolescence et sa vingtaine, elle dévoile sur scène les chansons de son 4e album, Rom-Com, issu d’une première expérience à titre de réalisatrice. À la fois grande romantique et indiscutablement comique, Caroline Savoie nous guide dans ses récits d'amour triomphant, mais aussi en explorant les intrications des relations plus douloureuses.",
+        "startDate": "2026-05-08T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12414",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Richard-Denys",
+          "url": "https://scenesfrancophones.ca/node/502",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "700, rue Principale",
+            "addressLocality": "Neguac",
+            "addressRegion": "NB",
+            "postalCode": "E9G 1N4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.24295",
+            "longitude": "-65.08009"
+          },
+          "@id": "https://scenesfrancophones.ca/id/502"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "scn.ticketacces.net",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/52",
+          "name": "Société culturelle Nigawouek",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-nigawouek"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/891",
+          "url": "https://scenesfrancophones.ca/artistes/caroline-savoie",
+          "name": "Caroline Savoie"
         }
       }
     ]
