@@ -28368,7 +28368,7 @@
           "url": "https://scenesfrancophones.ca/node/7694",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "1046, avenue Brunette",
+            "streetAddress": "Parc Mackin",
             "addressLocality": "Coquitlam",
             "addressRegion": "BC",
             "postalCode": "V3K 1E7",
@@ -28376,8 +28376,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.238603",
-            "longitude": "-122.864222"
+            "latitude": "49.236311",
+            "longitude": "-122.863209"
           },
           "@id": "https://scenesfrancophones.ca/id/7694"
         },
@@ -28430,7 +28430,7 @@
           "url": "https://scenesfrancophones.ca/node/7694",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "1046, avenue Brunette",
+            "streetAddress": "Parc Mackin",
             "addressLocality": "Coquitlam",
             "addressRegion": "BC",
             "postalCode": "V3K 1E7",
@@ -28438,8 +28438,8 @@
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "49.238603",
-            "longitude": "-122.864222"
+            "latitude": "49.236311",
+            "longitude": "-122.863209"
           },
           "@id": "https://scenesfrancophones.ca/id/7694"
         },
@@ -38183,7 +38183,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/la-grosse-equipe-8568",
+        "url": "https://scenesfrancophones.ca/spectacles/la-grosse-equipe-rose-motel-8568",
         "name": "La Grosse Équipe -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
@@ -38194,7 +38194,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "La formation propose des pièces aux allures rock, pop et country avec une bonne base d’humour dans les textes et en gros, des chansons de party. Le groupe est composé de cinq musiciens et amis, les frères Alexandre et Benoit Dionne, à la guitare, à la basse et aux voix, les frères Mathieu et Danick Ouellette, à la guitare, voix et batterie, et Patrick Dionne à la guitare. Tout frais sortant des confins du Nord-Ouest du Nouveau-Brunswick, La Grosse Équipe arrive avec un tout premier album et spectacle, \"Rose Motel\". Ce spectacle, c'est une véritable bombe de rock n' roll francophone. Un son PESANT, des paroles à la fois crues et réfléchies et des membres qui n’ont pas peur de faire le PARTY et de faire grouiller les gens. La Grosse Équipe ne reste personne indifférent et ne sont là que pour une seule raison: vous faire passer un good time. Comme ils le disent si bien eux-mêmes : on a eu l’air fou, mais ô moins on aura eu bien du fun!",
+        "description": "Tout frais sortant des confins du Nord-Ouest du Nouveau-Brunswick, La Grosse Équipe arrive avec un tout premier album et spectacle, \"Rose Motel\". Ce spectacle, c'est une véritable bombe de rock n' roll francophone. Un son PESANT, des paroles à la fois crues et réfléchies et des membres qui n’ont pas peur de faire le PARTY et de faire grouiller les gens. La Grosse Équipe ne reste personne indifférent et ne sont là que pour une seule raison: vous faire passer un good time. Comme ils le disent si bien eux-mêmes : on a eu l’air fou, mais ô moins on aura eu bien du fun!",
         "startDate": "2026-02-07T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8568",
@@ -57742,52 +57742,6 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/passe-partout-coucou-passe-partout-11899",
-        "name": "Passe-Partout - Coucou Passe-Partout",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Affiche_18x24_Comediens%20%282%29.jpg?itok=FQGw3VCl",
-          "width": "430",
-          "height": "430"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Après l'immense succès télévisuel de l’émission, Passe-Partout, Passe-Carreau et Passe-Montagne reprennent enfin la route à la rencontre de leurs poussinots et poussinettes. Retrouvez-les sur scène dans un spectacle de 50 minutes incluant des jeux participatifs et les chansons populaires de l'émission préférée des tout-petits à Télé-Québec.\r\n\r\nUn spectacle à la fois divertissant et stimulant pour tous les enfants d'âge préscolaire… et les parents nostalgiques!",
-        "startDate": "2026-03-02T08:00:00-04:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/11899",
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/53",
-          "name": "Société culturelle régionale Les Chutes",
-          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
-        },
-        "performer": [
-          {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/8786",
-            "url": "https://scenesfrancophones.ca/artistes/passe-partout",
-            "name": "Passe-Partout",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/passe-partout-coucou-passe-partout-11900",
         "name": "Passe-Partout - Coucou Passe-Partout",
         "eventStatus": "https://schema.org/EventScheduled",
@@ -58900,67 +58854,6 @@
             "@id": "https://scenesfrancophones.ca/id/10042",
             "url": "https://scenesfrancophones.ca/artistes/mike-ward-0",
             "name": "Mike Ward"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/grand-poney-onoff-11919",
-        "name": "Grand Poney - ON/OFF",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/png%20%285%29.png?itok=UXzrPb8G",
-          "width": "430",
-          "height": "430",
-          "creditText": "Christine Berthiaume"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "ON / OFF met en scène un quintette d'interprètes en action sur un dispositif étonnant, un tapis de course. Cinq interprètes évoluent dans un espace restreint où le mouvement devient à la fois contraint et spectaculaire. Le spectacle explore des thèmes tels que le dépassement de soi, la liberté, l’identité, le vivre-ensemble et la complexité des émotions humaines. Le tapis symbolise le passage de l’enfance à l’âge adulte. Les interprètes, tantôt en maîtrise, tantôt dépassés, cherchent leur place dans le monde à travers un dialogue constant entre corps, machine et espace.",
-        "startDate": "2026-04-08T09:00:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/11919",
-        "location": {
-          "@type": "Place",
-          "name": "Théâtre Capitol",
-          "url": "https://scenesfrancophones.ca/node/509",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "811, rue Main",
-            "addressLocality": "Moncton",
-            "addressRegion": "NB",
-            "postalCode": "E1C 1G1",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "46.088338",
-            "longitude": "-64.779037"
-          },
-          "@id": "https://scenesfrancophones.ca/id/509"
-        },
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/56",
-          "name": "Théâtre Capitol",
-          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
-        },
-        "performer": [
-          {
-            "@type": "Organization",
-            "@id": "https://scenesfrancophones.ca/id/8479",
-            "url": "https://scenesfrancophones.ca/artistes/grand-poney",
-            "name": "Grand Poney"
           }
         ]
       }
@@ -61424,6 +61317,25 @@
         "startDate": "2026-03-21T19:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11980",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Lisa LeBlanc",
+          "url": "https://scenesfrancophones.ca/node/3940",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "46 rue de l'école",
+            "addressLocality": "Rogersville",
+            "addressRegion": "NB",
+            "postalCode": "E4Y 1V7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.732371",
+            "longitude": "-65.423498"
+          },
+          "@id": "https://scenesfrancophones.ca/id/3940"
+        },
         "offers": {
           "@type": "Offer",
           "url": "https://www.eventbrite.ca/e/parler-mal-tickets-1538046802389?aff=ebdssbdestsearch&keep_tld=1",
@@ -67756,6 +67668,294 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jacques-surette-drole-de-chapeau-12415",
+        "name": "Jacques Surette - Drôle de chapeau",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-01/Photo%20Jacques%20Surette%203%20LR%20-%20Par%20Jerome%20Luc%20Paulin%20-%20CMA%202025.jpeg?itok=07QsG869",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jerome Luc Paulin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Jacques Surette est un jeune auteur-compositeur de 25 ans de Yarmouth Nouvelle-Écosse qui séduit et déconcerte par son naturel. En formule solo, duo ou quatuor, son spectacle permet de voyager dans son coin de pays et nous invite à la découverte de l'acadjonne et de sa vie de jeune artiste.",
+        "startDate": "2026-03-07T14:25:00-08:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12415",
+        "location": {
+          "@type": "Place",
+          "name": "Festival du Bois",
+          "url": "https://scenesfrancophones.ca/node/7694",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Parc Mackin",
+            "addressLocality": "Coquitlam",
+            "addressRegion": "BC",
+            "postalCode": "V3K 1E7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.236311",
+            "longitude": "-122.863209"
+          },
+          "@id": "https://scenesfrancophones.ca/id/7694"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.simpletix.com/e/37th-festival-du-bois-tickets-246874",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/150",
+          "name": "Société francophone de Maillardville / Festival du bois",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-francophone-de-maillardville-festival-du-bois"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4028",
+            "url": "https://scenesfrancophones.ca/artistes/jacques-surette",
+            "name": "Jacques Surette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jacques-surette-drole-de-chapeau-12416",
+        "name": "Jacques Surette - Drôle de chapeau",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-01/Photo%20Jacques%20Surette%203%20LR%20-%20Par%20Jerome%20Luc%20Paulin%20-%20CMA%202025.jpeg?itok=07QsG869",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jerome Luc Paulin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Jacques Surette est un jeune auteur-compositeur de 25 ans de Yarmouth Nouvelle-Écosse qui séduit et déconcerte par son naturel. En formule solo, duo ou quatuor, son spectacle permet de voyager dans son coin de pays et nous invite à la découverte de l'acadjonne et de sa vie de jeune artiste.",
+        "startDate": "2026-03-08T11:30:00-07:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12416",
+        "location": {
+          "@type": "Place",
+          "name": "Festival du Bois",
+          "url": "https://scenesfrancophones.ca/node/7694",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Parc Mackin",
+            "addressLocality": "Coquitlam",
+            "addressRegion": "BC",
+            "postalCode": "V3K 1E7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.236311",
+            "longitude": "-122.863209"
+          },
+          "@id": "https://scenesfrancophones.ca/id/7694"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.simpletix.com/e/37th-festival-du-bois-tickets-246874",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/150",
+          "name": "Société francophone de Maillardville / Festival du bois",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-francophone-de-maillardville-festival-du-bois"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4028",
+            "url": "https://scenesfrancophones.ca/artistes/jacques-surette",
+            "name": "Jacques Surette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jacques-surette-drole-de-chapeau-12417",
+        "name": "Jacques Surette - Drôle de chapeau",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-01/Photo%20Jacques%20Surette%203%20LR%20-%20Par%20Jerome%20Luc%20Paulin%20-%20CMA%202025.jpeg?itok=07QsG869",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jerome Luc Paulin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Jacques Surette est un jeune auteur-compositeur de 25 ans de Yarmouth Nouvelle-Écosse qui séduit et déconcerte par son naturel. En formule solo, duo ou quatuor, son spectacle permet de voyager dans son coin de pays et nous invite à la découverte de l'acadjonne et de sa vie de jeune artiste.",
+        "startDate": "2026-03-12T19:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12417",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/141",
+          "name": "Association francophone du centre de l'île (AFCI)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-francophone-du-centre-de-lile-afci"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4028",
+            "url": "https://scenesfrancophones.ca/artistes/jacques-surette",
+            "name": "Jacques Surette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jacques-surette-drole-de-chapeau-12418",
+        "name": "Jacques Surette - Drôle de chapeau",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-01/Photo%20Jacques%20Surette%203%20LR%20-%20Par%20Jerome%20Luc%20Paulin%20-%20CMA%202025.jpeg?itok=07QsG869",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jerome Luc Paulin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Jacques Surette est un jeune auteur-compositeur de 25 ans de Yarmouth Nouvelle-Écosse qui séduit et déconcerte par son naturel. En formule solo, duo ou quatuor, son spectacle permet de voyager dans son coin de pays et nous invite à la découverte de l'acadjonne et de sa vie de jeune artiste.",
+        "startDate": "2026-03-13T19:00:00-07:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12418",
+        "location": {
+          "@type": "Place",
+          "name": "Church St. Taphouse",
+          "url": "https://scenesfrancophones.ca/node/7746",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "215, rue Church",
+            "addressLocality": "Comox",
+            "addressRegion": "BC",
+            "postalCode": "V9M1X7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.674614",
+            "longitude": "-124.927926"
+          },
+          "@id": "https://scenesfrancophones.ca/id/7746"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/141",
+          "name": "Association francophone du centre de l'île (AFCI)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-francophone-du-centre-de-lile-afci"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4028",
+            "url": "https://scenesfrancophones.ca/artistes/jacques-surette",
+            "name": "Jacques Surette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jacques-surette-drole-de-chapeau-12419",
+        "name": "Jacques Surette - Drôle de chapeau",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-01/Photo%20Jacques%20Surette%203%20LR%20-%20Par%20Jerome%20Luc%20Paulin%20-%20CMA%202025.jpeg?itok=07QsG869",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jerome Luc Paulin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Jacques Surette est un jeune auteur-compositeur de 25 ans de Yarmouth Nouvelle-Écosse qui séduit et déconcerte par son naturel. En formule solo, duo ou quatuor, son spectacle permet de voyager dans son coin de pays et nous invite à la découverte de l'acadjonne et de sa vie de jeune artiste.",
+        "startDate": "2026-03-14T18:30:00-07:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12419",
+        "location": {
+          "@type": "Place",
+          "name": "Mint",
+          "url": "https://scenesfrancophones.ca/node/7691",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1414, rue Douglas",
+            "addressLocality": "Victoria",
+            "addressRegion": "BC",
+            "postalCode": "V8W2G2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.42756",
+            "longitude": "-123.364849"
+          },
+          "@id": "https://scenesfrancophones.ca/id/7691"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/151",
+          "name": "Société francophone de Victoria (SFV)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-francophone-de-victoria-sfv"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4028",
+            "url": "https://scenesfrancophones.ca/artistes/jacques-surette",
+            "name": "Jacques Surette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/457",
         "name": "Atrium de l'ACFSJ",
@@ -70883,7 +71083,7 @@
         "name": "Festival du Bois",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "1046, avenue Brunette",
+          "streetAddress": "Parc Mackin",
           "addressLocality": "Coquitlam",
           "addressRegion": "BC",
           "postalCode": "V3K 1E7",
@@ -70891,8 +71091,8 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": "49.238603",
-          "longitude": "-122.864222"
+          "latitude": "49.236311",
+          "longitude": "-122.863209"
         },
         "@id": "https://scenesfrancophones.ca/id/7694"
       }
