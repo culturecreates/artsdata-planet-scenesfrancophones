@@ -50,7 +50,14 @@
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/210",
         "url": "https://scenesfrancophones.ca/artistes/creations-vivo-0",
-        "name": "Créations In Vivo"
+        "name": "Créations In Vivo",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-02/CIV.png?itok=NcfXuY4a",
+          "width": "480",
+          "height": "480"
+        }
       }
     ]
   },
@@ -11144,6 +11151,38 @@
         "@id": "https://scenesfrancophones.ca/id/12411",
         "url": "https://scenesfrancophones.ca/artistes/xenia-gould-0",
         "name": "Xenia Gould"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12435",
+        "url": "https://scenesfrancophones.ca/artistes/christianna-belanger-et-julien-leblanc",
+        "name": "Christianna Bélanger et Julien LeBlanc"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12438",
+        "url": "https://scenesfrancophones.ca/artistes/christianna-belanger-et-julien-leblanc-0",
+        "name": "Christianna Bélanger et Julien LeBlanc"
       }
     ]
   },
@@ -67909,7 +67948,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Jacques Surette est un jeune auteur-compositeur de 25 ans de Yarmouth Nouvelle-Écosse qui séduit et déconcerte par son naturel. En formule solo, duo ou quatuor, son spectacle permet de voyager dans son coin de pays et nous invite à la découverte de l'acadjonne et de sa vie de jeune artiste.",
-        "startDate": "2026-03-14T18:30:00-07:00",
+        "startDate": "2026-03-14T18:00:00-07:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12419",
         "location": {
@@ -67933,6 +67972,7 @@
         },
         "offers": {
           "@type": "Offer",
+          "url": "https://www.sfvictoria.ca/event/franco-fest-concert-jacques-surette-poutine/",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -67949,6 +67989,70 @@
             "name": "Jacques Surette"
           }
         ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/christianna-belanger-et-julien-leblanc-recital-de-chant-classique-carnets-de-voyages",
+        "name": "Christianna Bélanger et Julien LeBlanc -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-02/Christianne%20B%C3%A9langer%20%26%20Julien%20LeBlanc_0.png?itok=hYVoE-R7",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "C’est sur leurs terres natales que la mezzo-soprano Christianne Bélanger et le pianiste Julien LeBlanc reviendront à la rencontre du public néo-brunswickois pour présenter leur récital de chant classique Carnets de voyages. Originaire de Grand-Sault, Christianne Bélanger, et issu de la région de Moncton, Julien LeBlanc se sont rencontrés à l’Université de Moncton, où est née une collaboration artistique qui persiste.\r\nLe programme à saveur d’exploration évoque à la fois l’appel de l’ailleurs, la redécouverte de lieux familiers et la beauté du chez-soi — un thème particulièrement évocateur pour ces deux artistes acadiens expatriés.\r\nLe récital se déploie à travers d’oeuvres poétiques en français, en anglais et en allemand, et il est divisé à parts égales entre oeuvres de compositeurs et de compositrices, notamment Pauline Viardot, Lili Boulanger, Robert Schumann et Francis Poulenc.\r\nEn première partie à 15h: Jacinthe Bernier, native de Saint-Léonard",
+        "startDate": "2026-03-22T15:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12440",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium Richelieu",
+          "url": "https://scenesfrancophones.ca/node/503",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "215, rue Guimont",
+            "addressLocality": "Grand-Sault",
+            "addressRegion": "NB",
+            "postalCode": "E3Y 3W3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.056374",
+            "longitude": "-67.73096"
+          },
+          "@id": "https://scenesfrancophones.ca/id/503"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://leschutes.tuxedobillet.com/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/53",
+          "name": "Société culturelle régionale Les Chutes",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12438",
+          "url": "https://scenesfrancophones.ca/artistes/christianna-belanger-et-julien-leblanc-0",
+          "name": "Christianna Bélanger et Julien LeBlanc",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
       }
     ]
   },
@@ -73775,7 +73879,7 @@
         "name": "Société culturelle Nigawouek",
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "(506) 399-0663",
+          "telephone": "(506) 399-0663 (506) 779-6389",
           "email": "scnigawouek1@gmail.com"
         },
         "logo": {
