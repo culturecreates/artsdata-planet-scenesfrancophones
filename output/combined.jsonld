@@ -31304,7 +31304,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/jeremie-demay-naturel-7839",
+        "url": "https://scenesfrancophones.ca/spectacles/jeremy-demay-naturel-7839",
         "name": "Jérémy Demay -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
@@ -31363,7 +31363,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/back-80s-band-back-80s-band-7842",
+        "url": "https://scenesfrancophones.ca/spectacles/back-80s-band-7842",
         "name": "BACK TO THE 80s BAND -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
@@ -52951,22 +52951,22 @@
         "@id": "https://scenesfrancophones.ca/id/10578",
         "location": {
           "@type": "Place",
-          "name": "Hubmollo",
-          "url": "https://scenesfrancophones.ca/node/472",
+          "name": "Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/12164",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "276 Boulevard Saint-Pierre O, Caraquet, NB E1W 0A8",
+            "streetAddress": "29 Av. du Carrefour",
             "addressLocality": "Caraquet",
             "addressRegion": "NB",
-            "postalCode": "E1W 0A8",
+            "postalCode": "E1W 1A5",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "47.78572",
-            "longitude": "-64.972783"
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
           },
-          "@id": "https://scenesfrancophones.ca/id/472"
+          "@id": "https://scenesfrancophones.ca/id/12164"
         },
         "offers": {
           "@type": "Offer",
@@ -68003,7 +68003,7 @@
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-02/Christianne%20B%C3%A9langer%20%26%20Julien%20LeBlanc_0.png?itok=hYVoE-R7",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-02/Christianne%20B%C3%A9langer%20%26%20Julien%20LeBlanc.png?itok=-u32j_Vv",
           "width": "430",
           "height": "430"
         },
@@ -68052,6 +68052,66 @@
             "http://xmlns.com/foaf/0.1/Agent",
             "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
           ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ariane-mahryke-lemire-ariane-mahryke-lemire-rapiecee-12447",
+        "name": "Ariane Mahrÿke Lemire -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Concert%20Musique%20Rock%20%C3%89v%C3%A9nement%20Affiche%20R%C3%A9tro%20Multicolore.jpg?itok=J4boxyds",
+          "width": "430",
+          "height": "430",
+          "creditText": "Ariane"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Ariane Mahrÿke Lemire – Rapiécée\r\nAvec \"Rapiécée\", Ariane Mahrÿke Lemire livre un spectacle intime et vibrant, entre chanson, spoken word et folk atmosphérique. Portée par une poésie brute et une présence scénique captivante, elle tisse des récits sensibles et puissants, entre confidences et fulgurances musicales. Accompagnée de textures sonores riches et organiques, elle invite le public dans un voyage introspectif où chaque mot résonne, chaque silence raconte. Une performance immersive qui laisse une empreinte durable.",
+        "startDate": "2026-02-19T19:00:00-08:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12447",
+        "location": {
+          "@type": "Place",
+          "name": "Little Red Church",
+          "url": "https://scenesfrancophones.ca/node/12446",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2182 Comox Ave",
+            "addressLocality": "Comox",
+            "addressRegion": "BC",
+            "postalCode": "V9M 1W5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "49.675579",
+            "longitude": "-124.943779"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12446"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.eventbrite.ca/e/1982469288007?aff=oddtdtcreator",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/141",
+          "name": "Association francophone du centre de l'île (AFCI)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-francophone-du-centre-de-lile-afci"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/7889",
+          "url": "https://scenesfrancophones.ca/artistes/ariane-mahryke-lemire",
+          "name": "Ariane Mahrÿke Lemire"
         }
       }
     ]
@@ -72881,6 +72941,30 @@
           "longitude": "-123.36854"
         },
         "@id": "https://scenesfrancophones.ca/id/12430"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12446",
+        "name": "Little Red Church",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2182 Comox Ave",
+          "addressLocality": "Comox",
+          "addressRegion": "BC",
+          "postalCode": "V9M 1W5",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "49.675579",
+          "longitude": "-124.943779"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12446"
       }
     ]
   },
