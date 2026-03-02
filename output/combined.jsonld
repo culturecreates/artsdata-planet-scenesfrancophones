@@ -67843,11 +67843,31 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Jacques Surette est un jeune auteur-compositeur de 25 ans de Yarmouth Nouvelle-Écosse qui séduit et déconcerte par son naturel. En formule solo, duo ou quatuor, son spectacle permet de voyager dans son coin de pays et nous invite à la découverte de l'acadjonne et de sa vie de jeune artiste.",
-        "startDate": "2026-03-12T19:00:00-03:00",
+        "startDate": "2026-03-12T19:00:00-07:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12417",
+        "location": {
+          "@type": "Place",
+          "name": "Local de l'AFCI",
+          "url": "https://scenesfrancophones.ca/node/12451",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "891, 13eme Avenue",
+            "addressLocality": "Campbell River",
+            "addressRegion": "BC",
+            "postalCode": "V9W 4G9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "50.027874",
+            "longitude": "-125.253668"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12451"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://www.eventbrite.ca/e/jacques-surette-en-concert-a-campbell-river-tickets-1984023671209?aff=oddtdtcreator",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -72964,6 +72984,30 @@
           "longitude": "-124.943779"
         },
         "@id": "https://scenesfrancophones.ca/id/12446"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12451",
+        "name": "Local de l'AFCI",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "891, 13eme Avenue",
+          "addressLocality": "Campbell River",
+          "addressRegion": "BC",
+          "postalCode": "V9W 4G9",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "50.027874",
+          "longitude": "-125.253668"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12451"
       }
     ]
   },
