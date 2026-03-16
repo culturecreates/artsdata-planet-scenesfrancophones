@@ -41249,70 +41249,6 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/rita-baga-spraynet-8791",
-        "name": "Rita Baga -",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/ritabaga-spraynet-sanstexte-1x1_1.jpg?itok=eNlgfa1T",
-          "width": "430",
-          "height": "430"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Rita Baga, la plus célèbre drag queen québécoise qui s’illustre aussi en Europe, revient chez vous avec sa toute nouvelle tournée musicale SPRAYNET!\r\n\r\nRita a conquis le pays avec Créature, la plus longue tournée solo d’une drag en Amérique, vue par 75 000 spectacteur.trices et récipiendaire d’un prix Olivier. En 2025, l’artiste drag présente un nouveau spectacle bien différent, mais tout autant flamboyant.\r\n\r\nAccompagnée par son band sous la direction musicale de Jacob Roberge, SPRAYNET vous convie à un véritable party des années 80. Rita revisitera les plus grands succès de cette décennie qu’elle adore, en plus d’interpréter les chansons de son premier album original à paraître en 2025. Ce spectacle met en valeur la voix puissante de Rita, que plusieurs ont découvert à Chanteurs Masqués, puis à Zénith. La tournée SPRAYNET est évidemment accentuée de costumes à couper le souffle, de l’humour et du charisme propres à Rita! Préparez votre plus imposante coiffure pour une soirée éblouissante où vous ne pourrez pas vous empêcher de rire, chanter et danser!",
-        "startDate": "2026-03-13T19:30:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/8791",
-        "location": {
-          "@type": "Place",
-          "name": "Théâtre Capitol",
-          "url": "https://scenesfrancophones.ca/node/509",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "811, rue Main",
-            "addressLocality": "Moncton",
-            "addressRegion": "NB",
-            "postalCode": "E1C 1G1",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "46.088338",
-            "longitude": "-64.779037"
-          },
-          "@id": "https://scenesfrancophones.ca/id/509"
-        },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/rita-baga",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/56",
-          "name": "Théâtre Capitol",
-          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
-        },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/8789",
-          "url": "https://scenesfrancophones.ca/artistes/rita-baga",
-          "name": "Rita Baga",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/gregory-charles-une-voix-dix-doigts-8794",
         "name": "Gregory Charles -",
         "eventStatus": "https://schema.org/EventScheduled",
@@ -51658,7 +51594,7 @@
         "name": "Empire Pagaille -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. Dans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
+        "description": "Mme Brûlé est une enseignante qui s’accroche à sa vocation contre vents et marées. Dans un spectacle qui allie le théâtre, l’art clownesque et l’improvisation, la comédienne Évelyne Laniel offre un numéro solo à la fois humoristique et critique. Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. Dans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
         "startDate": "2024-05-08T17:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10470",
@@ -51714,7 +51650,7 @@
         "name": "Empire Pagaille -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. Dans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
+        "description": "Mme Brûlé est une enseignante qui s’accroche à sa vocation contre vents et marées. Dans un spectacle qui allie le théâtre, l’art clownesque et l’improvisation, la comédienne Évelyne Laniel offre un numéro solo à la fois humoristique et critique. Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. Dans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
         "startDate": "2024-05-09T17:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/10472",
@@ -59696,7 +59632,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. Dans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
+        "description": "Mme Brûlé est une enseignante qui s’accroche à sa vocation contre vents et marées. Dans un spectacle qui allie le théâtre, l’art clownesque et l’improvisation, la comédienne Évelyne Laniel offre un numéro solo à la fois humoristique et critique. Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. Dans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
         "startDate": "2026-04-24T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11934",
@@ -59953,7 +59889,7 @@
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/png%20%2816%29.png?itok=OApz95u9",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-03/Coco%20Belliveau-SCLC.png?itok=px505wJg",
           "width": "430",
           "height": "430"
         },
@@ -60217,7 +60153,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. Dans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
+        "description": "Mme Brûlé est une enseignante qui s’accroche à sa vocation contre vents et marées. Dans un spectacle qui allie le théâtre, l’art clownesque et l’improvisation, la comédienne Évelyne Laniel offre un numéro solo à la fois humoristique et critique. Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. Dans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
         "startDate": "2026-05-20T18:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11942",
@@ -60278,12 +60214,12 @@
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/1-%20MmeBru%CC%82le%CC%81_cre%CC%81ditsPhilipDeAndrade%20%28officielle%29%20%281%29.jpg?itok=6UBqMy9a",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-03/Mme-Brule-SCLC.png?itok=P1D-Td1m",
           "width": "430",
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. Dans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
+        "description": "Mme Brûlé est une enseignante qui s’accroche à sa vocation contre vents et marées. Dans un spectacle qui allie le théâtre, l’art clownesque et l’improvisation, la comédienne Évelyne Laniel offre un numéro solo à la fois humoristique et critique. Appelée pour un remplacement de dernière minute, Mme Brûlé est euphorique à l'idée d'obtenir son premier contrat d'enseignement. Son enthousiasme laisse cependant rapidement place à la panique en réalisant qu'elle est la quatrième remplaçante de l'année. Son arrivée dans la classe coïncide également avec la rencontre annuelle de parents lors de laquelle elle doit remettre les bulletins qui sont… introuvables. Dans un enchaînement de numéros de comédie physique, entremêlant slapstick et théâtre d’objets, le spectateur qui endosse tantôt le rôle de l’élève, tantôt celui du parent, assiste à la descente aux enfers d’une enseignante qui s’accroche malgré tout à un seul espoir, sa vocation : changer le monde un enfant à la fois.",
         "startDate": "2026-05-22T18:40:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11943",
@@ -68132,6 +68068,72 @@
           "url": "https://scenesfrancophones.ca/artistes/ariane-mahryke-lemire",
           "name": "Ariane Mahrÿke Lemire"
         }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/passe-partout-coucou-passe-partout-12452",
+        "name": "Passe-Partout - Coucou Passe-Partout",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-03/Passe-Partout-SCLC.png?itok=WVq_RGk6",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Après l'immense succès télévisuel de l’émission, Passe-Partout, Passe-Carreau et Passe-Montagne reprennent enfin la route à la rencontre de leurs poussinots et poussinettes. Retrouvez-les sur scène dans un spectacle de 50 minutes incluant des jeux participatifs et les chansons populaires de l'émission préférée des tout-petits à Télé-Québec.\r\n\r\nUn spectacle à la fois divertissant et stimulant pour tous les enfants d'âge préscolaire… et les parents nostalgiques!",
+        "startDate": "2026-03-02T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12452",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium Richelieu",
+          "url": "https://scenesfrancophones.ca/node/503",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "215, rue Guimont",
+            "addressLocality": "Grand-Sault",
+            "addressRegion": "NB",
+            "postalCode": "E3Y 3W3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.056374",
+            "longitude": "-67.73096"
+          },
+          "@id": "https://scenesfrancophones.ca/id/503"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://leschutes.tuxedobillet.com/",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/53",
+          "name": "Société culturelle régionale Les Chutes",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/8786",
+            "url": "https://scenesfrancophones.ca/artistes/passe-partout",
+            "name": "Passe-Partout",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
       }
     ]
   },
