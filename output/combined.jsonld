@@ -530,7 +530,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/890",
         "url": "https://scenesfrancophones.ca/artistes/beausejour",
         "name": "Beauséjour"
@@ -700,7 +700,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/906",
         "url": "https://scenesfrancophones.ca/artistes/jono",
-        "name": "JONO"
+        "name": "Jono"
       }
     ]
   },
@@ -1796,7 +1796,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4044",
         "url": "https://scenesfrancophones.ca/artistes/baie",
         "name": "Baie"
@@ -6752,12 +6752,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8911",
         "url": "https://scenesfrancophones.ca/artistes/joyce-nsana-0",
         "name": "Joyce N'Sana"
@@ -7348,12 +7343,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/9262",
         "url": "https://scenesfrancophones.ca/artistes/sugar-crush-0",
         "name": "Sugar Crush"
@@ -7777,7 +7767,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/9669",
         "url": "https://scenesfrancophones.ca/artistes/veranda",
         "name": "Veranda"
@@ -9320,7 +9310,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/10368",
         "url": "https://scenesfrancophones.ca/artistes/carine-au-micro",
-        "name": "Carine Au Micro"
+        "name": "Carine au Micro"
       }
     ]
   },
@@ -10967,7 +10957,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Person",
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/12346",
         "url": "https://scenesfrancophones.ca/artistes/kourage",
         "name": "Kourage"
@@ -11199,6 +11189,229 @@
         "@id": "https://scenesfrancophones.ca/id/12458",
         "url": "https://scenesfrancophones.ca/artistes/annabelle-hebert",
         "name": "Annabelle Hébert"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12464",
+        "url": "https://scenesfrancophones.ca/artistes/marc-beaudin",
+        "name": "Marc Beaudin"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/12467",
+        "url": "https://scenesfrancophones.ca/artistes/en-route-boys",
+        "name": "En route, boys"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12471",
+        "url": "https://scenesfrancophones.ca/artistes/violette-jordan",
+        "name": "Violette & Jordan"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12473",
+        "url": "https://scenesfrancophones.ca/artistes/rosier",
+        "name": "Rosier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/12476",
+        "url": "https://scenesfrancophones.ca/artistes/musique-bouches",
+        "name": "Musique à Bouches"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12478",
+        "url": "https://scenesfrancophones.ca/artistes/lwazo-sirois",
+        "name": "Lwazo Sirois"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12486",
+        "url": "https://scenesfrancophones.ca/artistes/patrick-lac",
+        "name": "Patrick Lac"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12496",
+        "url": "https://scenesfrancophones.ca/artistes/agathe-et-adrien",
+        "name": "Agathe et Adrien",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-03/Poster%20N.Ormes%20for%20NECCA.jpg?itok=ZD0Rud7o",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12498",
+        "url": "https://scenesfrancophones.ca/artistes/andie-therio",
+        "name": "Andie Therio"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12500",
+        "url": "https://scenesfrancophones.ca/artistes/veronique-bilodeau",
+        "name": "Véronique Bilodeau"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12503",
+        "url": "https://scenesfrancophones.ca/artistes/cristian-de-luna",
+        "name": "CRISTIAN DE LUNA"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12505",
+        "url": "https://scenesfrancophones.ca/artistes/alain-choquette",
+        "name": "Alain Choquette",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-03/alain-choquette_mev-entourage_1080x1080-complet.jpg?itok=lijxxq9D",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12509",
+        "url": "https://scenesfrancophones.ca/artistes/tom-chicoine",
+        "name": "Tom Chicoine"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12511",
+        "url": "https://scenesfrancophones.ca/artistes/nadine-altounji",
+        "name": "Nadine Altounji"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12515",
+        "url": "https://scenesfrancophones.ca/artistes/natasha-kanape",
+        "name": "Natasha Kanapé"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12517",
+        "url": "https://scenesfrancophones.ca/artistes/elage-diouf",
+        "name": "Élage Diouf"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/12523",
+        "url": "https://scenesfrancophones.ca/artistes/blue-rivera",
+        "name": "Blue Rivera"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12525",
+        "url": "https://scenesfrancophones.ca/artistes/samajam-vous-etes-le-show",
+        "name": "SAMAJAM ✩ VOUS êtes le Show"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12527",
+        "url": "https://scenesfrancophones.ca/artistes/en-2-temps",
+        "name": "En 2 temps"
       }
     ]
   },
@@ -16798,7 +17011,7 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/association-du-centre-communautaire-de-la-rive-sud"
         },
         "performer": {
-          "@type": "PerformingGroup",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4044",
           "url": "https://scenesfrancophones.ca/artistes/baie",
           "name": "Baie"
@@ -16858,7 +17071,7 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
         },
         "performer": {
-          "@type": "PerformingGroup",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4044",
           "url": "https://scenesfrancophones.ca/artistes/baie",
           "name": "Baie"
@@ -16918,7 +17131,7 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
         },
         "performer": {
-          "@type": "PerformingGroup",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4044",
           "url": "https://scenesfrancophones.ca/artistes/baie",
           "name": "Baie"
@@ -16978,7 +17191,7 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-communautaire-sainte-anne"
         },
         "performer": {
-          "@type": "PerformingGroup",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4044",
           "url": "https://scenesfrancophones.ca/artistes/baie",
           "name": "Baie"
@@ -17038,7 +17251,7 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
         },
         "performer": {
-          "@type": "PerformingGroup",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4044",
           "url": "https://scenesfrancophones.ca/artistes/baie",
           "name": "Baie"
@@ -17098,7 +17311,7 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/societe-du-monument-lefebvre"
         },
         "performer": {
-          "@type": "PerformingGroup",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4044",
           "url": "https://scenesfrancophones.ca/artistes/baie",
           "name": "Baie"
@@ -17158,7 +17371,7 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-nepisiguit"
         },
         "performer": {
-          "@type": "PerformingGroup",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4044",
           "url": "https://scenesfrancophones.ca/artistes/baie",
           "name": "Baie"
@@ -20852,7 +21065,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Sylvie%20Boulianne%20-%20Sf.png?itok=p3BOf-X-",
           "width": "430",
           "height": "430",
-          "creditText": "Amber D'entremont"
+          "creditText": "Amber d'Entremont"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Laissez vous emporter dans l’univers de Sylvie Boulianne, avec ce premier EP intitulé DESFOIS C’EST MOI de l’autrice-compositrice-interprète. Une fusion entre la musique traditionnelle acadienne, folk et pop, faites vous bercer par les vagues et le vent salin de la Baie Sainte-Marie, jusqu’aux soirées d’été chaude et enivrée de Montréal. Livrant des messages d’amour, de résilience, ainsi que de découverte de soi, Sylvie saura vous captiver et vous charmer dès la première note.",
@@ -20913,7 +21126,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Sylvie%20Boulianne%20-%20Sf.png?itok=p3BOf-X-",
           "width": "430",
           "height": "430",
-          "creditText": "Amber D'entremont"
+          "creditText": "Amber d'Entremont"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Laissez vous emporter dans l’univers de Sylvie Boulianne, avec ce premier EP intitulé DESFOIS C’EST MOI de l’autrice-compositrice-interprète. Une fusion entre la musique traditionnelle acadienne, folk et pop, faites vous bercer par les vagues et le vent salin de la Baie Sainte-Marie, jusqu’aux soirées d’été chaude et enivrée de Montréal. Livrant des messages d’amour, de résilience, ainsi que de découverte de soi, Sylvie saura vous captiver et vous charmer dès la première note.",
@@ -20974,7 +21187,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Sylvie%20Boulianne%20-%20Sf.png?itok=p3BOf-X-",
           "width": "430",
           "height": "430",
-          "creditText": "Amber D'entremont"
+          "creditText": "Amber d'Entremont"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Laissez vous emporter dans l’univers de Sylvie Boulianne, avec ce premier EP intitulé DESFOIS C’EST MOI de l’autrice-compositrice-interprète. Une fusion entre la musique traditionnelle acadienne, folk et pop, faites vous bercer par les vagues et le vent salin de la Baie Sainte-Marie, jusqu’aux soirées d’été chaude et enivrée de Montréal. Livrant des messages d’amour, de résilience, ainsi que de découverte de soi, Sylvie saura vous captiver et vous charmer dès la première note.",
@@ -21341,7 +21554,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Beause%CC%81jour%20CCF%20-%20Sf.png?itok=CIz-GNX_",
           "width": "430",
           "height": "430",
-          "creditText": "La Cave Media"
+          "creditText": "Kristen Sawatsky"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "En unissant leurs forces, ces créateurs ont développé une fusion musicale qui permet d’aller à la découverte de deux régions, deux vécus et multiples styles. Leur musique fait voyager tant par les mélodies que les accents. La richesse des textes se mêle à la chaleur incomparable des voix. Sur scène, Beauséjour est une expérience réconfortante qui nous donne chaque fois l’impression de rentrer au bercail.",
@@ -21379,7 +21592,7 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -21402,7 +21615,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Beause%CC%81jour%20CCF%20-%20Sf.png?itok=CIz-GNX_",
           "width": "430",
           "height": "430",
-          "creditText": "La Cave Media"
+          "creditText": "Kristen Sawatsky"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "En unissant leurs forces, ces créateurs ont développé une fusion musicale qui permet d’aller à la découverte de deux régions, deux vécus et multiples styles. Leur musique fait voyager tant par les mélodies que les accents. La richesse des textes se mêle à la chaleur incomparable des voix. Sur scène, Beauséjour est une expérience réconfortante qui nous donne chaque fois l’impression de rentrer au bercail.",
@@ -21440,7 +21653,7 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -21463,7 +21676,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Beause%CC%81jour%20CCF%20-%20Sf.png?itok=CIz-GNX_",
           "width": "430",
           "height": "430",
-          "creditText": "La Cave Media"
+          "creditText": "Kristen Sawatsky"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "En unissant leurs forces, ces créateurs ont développé une fusion musicale qui permet d’aller à la découverte de deux régions, deux vécus et multiples styles. Leur musique fait voyager tant par les mélodies que les accents. La richesse des textes se mêle à la chaleur incomparable des voix. Sur scène, Beauséjour est une expérience réconfortante qui nous donne chaque fois l’impression de rentrer au bercail.",
@@ -21501,7 +21714,7 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -21524,7 +21737,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Beause%CC%81jour%20CCF%20-%20Sf.png?itok=CIz-GNX_",
           "width": "430",
           "height": "430",
-          "creditText": "La Cave Media"
+          "creditText": "Kristen Sawatsky"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "En unissant leurs forces, ces créateurs ont développé une fusion musicale qui permet d’aller à la découverte de deux régions, deux vécus et multiples styles. Leur musique fait voyager tant par les mélodies que les accents. La richesse des textes se mêle à la chaleur incomparable des voix. Sur scène, Beauséjour est une expérience réconfortante qui nous donne chaque fois l’impression de rentrer au bercail.",
@@ -21563,7 +21776,7 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -21586,7 +21799,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Beause%CC%81jour%20CCF%20-%20Sf.png?itok=CIz-GNX_",
           "width": "430",
           "height": "430",
-          "creditText": "La Cave Media"
+          "creditText": "Kristen Sawatsky"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "En unissant leurs forces, ces créateurs ont développé une fusion musicale qui permet d’aller à la découverte de deux régions, deux vécus et multiples styles. Leur musique fait voyager tant par les mélodies que les accents. La richesse des textes se mêle à la chaleur incomparable des voix. Sur scène, Beauséjour est une expérience réconfortante qui nous donne chaque fois l’impression de rentrer au bercail.",
@@ -21625,7 +21838,7 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -21648,7 +21861,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Beause%CC%81jour%20CCF%20-%20Sf.png?itok=CIz-GNX_",
           "width": "430",
           "height": "430",
-          "creditText": "La Cave Media"
+          "creditText": "Kristen Sawatsky"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "En unissant leurs forces, ces créateurs ont développé une fusion musicale qui permet d’aller à la découverte de deux régions, deux vécus et multiples styles. Leur musique fait voyager tant par les mélodies que les accents. La richesse des textes se mêle à la chaleur incomparable des voix. Sur scène, Beauséjour est une expérience réconfortante qui nous donne chaque fois l’impression de rentrer au bercail.",
@@ -21687,7 +21900,7 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -21710,7 +21923,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Beause%CC%81jour%20CCF%20-%20Sf.png?itok=CIz-GNX_",
           "width": "430",
           "height": "430",
-          "creditText": "La Cave Media"
+          "creditText": "Kristen Sawatsky"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "En unissant leurs forces, ces créateurs ont développé une fusion musicale qui permet d’aller à la découverte de deux régions, deux vécus et multiples styles. Leur musique fait voyager tant par les mélodies que les accents. La richesse des textes se mêle à la chaleur incomparable des voix. Sur scène, Beauséjour est une expérience réconfortante qui nous donne chaque fois l’impression de rentrer au bercail.",
@@ -21749,7 +21962,7 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -21772,7 +21985,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/DP%20-%20Beause%CC%81jour%20et%20JP%20LeBlanc%20-%20Sf.png?itok=0lpFjjLA",
           "width": "430",
           "height": "430",
-          "creditText": "La Cave Media"
+          "creditText": "Kristen Sawatsky"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "En unissant leurs forces, ces créateurs ont développé une fusion musicale qui permet d’aller à la découverte de deux régions, deux vécus et multiples styles. Leur musique fait voyager tant par les mélodies que les accents. La richesse des textes se mêle à la chaleur incomparable des voix. Sur scène, Beauséjour est une expérience réconfortante qui nous donne chaque fois l’impression de rentrer au bercail.",
@@ -21811,7 +22024,7 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -42789,15 +43002,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/8911",
           "url": "https://scenesfrancophones.ca/artistes/joyce-nsana-0",
-          "name": "Joyce N'Sana",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Joyce N'Sana"
         }
       }
     ]
@@ -46063,7 +46271,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/Image%2010.jpeg?itok=hl6uKJn-",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Christian Doucet Morgan"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Sugar Crush est un duo composé de deux filles à la personnalité vibrante et colorée, Joanie Charron et Marie-Soleil Provost. Ce groupe franco-ontarien propose un tout nouveau spectacle déjà et propose un tout nouveau spectacle festif garni de compositions originales et de reprises populaires du grand répertoire country. De par son orchestration simple, mais assumée, le duo met de l’avant ses voix féminines en misant sur de belles harmonies vocales, le tout soutenu par une douce rythmique de ukulélé. Sugar Crush est le parfait mélange de la jeunesse et d’enracinement populaire.",
@@ -46101,15 +46310,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/9262",
           "url": "https://scenesfrancophones.ca/artistes/sugar-crush-0",
-          "name": "Sugar Crush",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Sugar Crush"
         }
       }
     ]
@@ -54292,7 +54496,7 @@
           "creditText": "Marc-André Belliveau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "C’est le 28 octobre 2022 que l’artiste Chris Belliveau lancait son premier album éponyme. Le 1er novembre 2024, un 2e album, « La rivière croche » voyait le jour. Les deux albums sont parus sous le label acadien de Moncton Le Grenier musique. Ses inspirations ? La musique cajun, le country et le blues des années 60 et 70. Pour les paroles, il raconte des histoires plutôt personnelles ou celles de personnes qu’il a connues ou qu’il a rencontrées par chez lui ou sur la route.  Véritable caméléon musical, il s’affirme aujourd’hui pour la première fois dans une carrière solo.",
+        "description": "Un spectacle de musique rock, avec des épices cajun, country et blues des années 60 et 70. Des éclats nostalgiques du son rock-folk de JJ Cale ou de Link Wray, l’énergie de Eagle of Death Metal, de Gros Mené ou des Hôtesses d’Hilaire et des histoires locales à la Thomé Young ou Menoncle Jason racontées à la façon de Serge Gainsbourg. Des musiciens de grande expérience de scène, un spectacle qui déménage et qui plait à tous les publics.",
         "startDate": "2025-10-24T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11788",
@@ -54354,7 +54558,7 @@
           "creditText": "Marc-André Belliveau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "C’est le 28 octobre 2022 que l’artiste Chris Belliveau lancait son premier album éponyme. Le 1er novembre 2024, un 2e album, « La rivière croche » voyait le jour. Les deux albums sont parus sous le label acadien de Moncton Le Grenier musique. Ses inspirations ? La musique cajun, le country et le blues des années 60 et 70. Pour les paroles, il raconte des histoires plutôt personnelles ou celles de personnes qu’il a connues ou qu’il a rencontrées par chez lui ou sur la route.  Véritable caméléon musical, il s’affirme aujourd’hui pour la première fois dans une carrière solo.",
+        "description": "Un spectacle de musique rock, avec des épices cajun, country et blues des années 60 et 70. Des éclats nostalgiques du son rock-folk de JJ Cale ou de Link Wray, l’énergie de Eagle of Death Metal, de Gros Mené ou des Hôtesses d’Hilaire et des histoires locales à la Thomé Young ou Menoncle Jason racontées à la façon de Serge Gainsbourg. Des musiciens de grande expérience de scène, un spectacle qui déménage et qui plait à tous les publics.",
         "startDate": "2025-10-25T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11789",
@@ -54415,7 +54619,7 @@
           "creditText": "Marc-André Belliveau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "C’est le 28 octobre 2022 que l’artiste Chris Belliveau lancait son premier album éponyme. Le 1er novembre 2024, un 2e album, « La rivière croche » voyait le jour. Les deux albums sont parus sous le label acadien de Moncton Le Grenier musique. Ses inspirations ? La musique cajun, le country et le blues des années 60 et 70. Pour les paroles, il raconte des histoires plutôt personnelles ou celles de personnes qu’il a connues ou qu’il a rencontrées par chez lui ou sur la route.  Véritable caméléon musical, il s’affirme aujourd’hui pour la première fois dans une carrière solo.",
+        "description": "Un spectacle de musique rock, avec des épices cajun, country et blues des années 60 et 70. Des éclats nostalgiques du son rock-folk de JJ Cale ou de Link Wray, l’énergie de Eagle of Death Metal, de Gros Mené ou des Hôtesses d’Hilaire et des histoires locales à la Thomé Young ou Menoncle Jason racontées à la façon de Serge Gainsbourg. Des musiciens de grande expérience de scène, un spectacle qui déménage et qui plait à tous les publics.",
         "startDate": "2025-11-01T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11833",
