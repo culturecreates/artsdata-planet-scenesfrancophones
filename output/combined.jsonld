@@ -11419,6 +11419,22 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12532",
+        "url": "https://scenesfrancophones.ca/artistes/quen-dit-raton-1",
+        "name": "Qu'en dit raton ?"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/marcher-linfini-961",
         "name": "Marcher à l'infini",
@@ -68361,6 +68377,121 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mimi-obonsawin-mimi-obonsawin-12530",
+        "name": "Mimi O'bonsawin - Mimi O'Bonsawin- Trio",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-03/Soire%CC%81e%20de%20la%20Saint-Jean-Baptiste%20Mercredi%2024%20juin%202026%20a%CC%80%20partir%20de%2018h%20McGillivray%E2%80%99s%20Landing%2C%20Parc%20historique%20du%20Fort%20William%20%281%29.jpg?itok=Ujn0NhbM",
+          "width": "430",
+          "height": "430",
+          "creditText": "Jen Squires"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Mimi O'Bonsawin Trio Concert est destiné aux festivals ou à la programmation grand public.\r\nAprès une tournée des festivals à travers le Canada à l'été 2023, une seconde tournée en France (printemps 2024) soutenue par l'APCM, Rue Haute Production (FR), Le Grand Bain Production (FR) et Le Labo du Convervatoir/Festival Changez D'Air (FR) et une autre tournée d'été au Canada d'un océan à l'autre, Mimi et son groupe sont rompus aux diverses programmations incluant les festivals et les centres d'arts de la scène. Mimi a entamé les démarches pour exporter son projet en France et en Europe.",
+        "startDate": "2026-06-24T18:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12530",
+        "location": {
+          "@type": "Place",
+          "name": "McGillivray's Landing",
+          "url": "https://scenesfrancophones.ca/node/12529",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Parc historique du Fort William, 1350 chemin King",
+            "addressLocality": "Thunder Bay",
+            "addressRegion": "ON",
+            "postalCode": "P7K1L6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.346988",
+            "longitude": "-89.354295"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12529"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.zeffy.com/fr-CA/ticketing/soiree-de-la-st-jean-baptiste-avec-mimi-obonsawin",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/76",
+          "name": "Club culturel francophone de Thunder Bay",
+          "url": "https://scenesfrancophones.ca/diffuseurs/club-culturel-francophone-de-thunder-bay"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/4408",
+          "url": "https://scenesfrancophones.ca/artistes/mimi-obonsawin",
+          "name": "Mimi O'bonsawin"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/quen-dit-raton-aureo-et-lunettes-12534",
+        "name": "Qu'en dit raton ? -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "startDate": "2026-03-27T17:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12534",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Le Sésame",
+          "url": "https://scenesfrancophones.ca/node/1045",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1290 rue Wheathill",
+            "addressLocality": "Kingston",
+            "addressRegion": "ON",
+            "postalCode": "K7M 0A7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.24737",
+            "longitude": "-76.56108"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1045"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/68",
+          "name": "Centre culturel Frontenac",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12532",
+          "url": "https://scenesfrancophones.ca/artistes/quen-dit-raton-1",
+          "name": "Qu'en dit raton ?",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/457",
         "name": "Atrium de l'ACFSJ",
@@ -73230,6 +73361,30 @@
           "longitude": "-125.253668"
         },
         "@id": "https://scenesfrancophones.ca/id/12451"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/12529",
+        "name": "McGillivray's Landing",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Parc historique du Fort William, 1350 chemin King",
+          "addressLocality": "Thunder Bay",
+          "addressRegion": "ON",
+          "postalCode": "P7K1L6",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "48.346988",
+          "longitude": "-89.354295"
+        },
+        "@id": "https://scenesfrancophones.ca/id/12529"
       }
     ]
   },
