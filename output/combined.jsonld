@@ -68492,6 +68492,125 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/la-viree-la-viree-25-ans-du-groupe-12594",
+        "name": "La Virée - La Virée en spectacle",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/La%20Vir%C3%A9e%20babillard%202.jpg?itok=uNMrKad4",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis plus de 25 ans, La Virée fait vibrer les scènes d’ici et d’ailleurs avec une musique rassembleuse et festive. \r\nAvec ses chansons originales, son style accessible et son énergie contagieuse, La Virée fait chanter et danser Acadiens, francophones, francophiles et anglophones partout où il passe. Chaque spectacle devient une véritable célébration qui fait rayonner la culture acadienne et le savoir-faire néo-brunswickois, tout en rapprochant les gens autour de la musique.\r\nSur scène, place à la fête! Le groupe revient à ses racines en revisitant de grandes tounes acadiennes, agrémentées de reels entraînants et de compositions originales — encore plus de musique à party, encore plus de plaisir partagé!\r\nAu fil des années, la formation a évolué, mais La Virée retrouve aujourd’hui presque au complet l’équipe marquante de 2006-2009 :\r\n• Eric Haché — voix et guitare\r\n• Denis Surette — voix et guitare\r\n• Steven Haché — voix et basse\r\n• Don Pellerin — voix et batterie\r\n• Sébastien Leblanc — voix et violon",
+        "startDate": "2026-06-20T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12594",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Richard-Denys",
+          "url": "https://scenesfrancophones.ca/node/502",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "700, rue Principale",
+            "addressLocality": "Neguac",
+            "addressRegion": "NB",
+            "postalCode": "E9G 1N4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.24295",
+            "longitude": "-65.08009"
+          },
+          "@id": "https://scenesfrancophones.ca/id/502"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "scn.ticketacces.net",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/52",
+          "name": "Société culturelle Nigawouek",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-nigawouek"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/4043",
+          "url": "https://scenesfrancophones.ca/artistes/la-viree",
+          "name": "La Virée"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/hert-et-rheal-leblanc-hert-et-rheal-leblanc-le-cowboy-et-le-tymeux-12595",
+        "name": "Hert et Rhéal LeBlanc -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/hert%20%26%20Rh%C3%A9al%20leblanc%20%C3%A9v%C3%A8nement%20facebook.jpg?itok=qSg6DG_2",
+          "width": "430",
+          "height": "430",
+          "creditText": "Yorke"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Deux artistes de Bouctouche et pas de proche parenté, venez vivre un party acadien vous invitant à chanter, rire et danser pour célébrer les 40 ans de carrière de Hert LeBlanc. Vivez une soirée mémorable au son de sa musique acadienne et country caractérisant ses 10 albums solo en carrière! Accompagné de son acolyte de toujours, Rhéal LeBlanc, retrouvez la complicité et l’humour qui caractérise leur relation. Forts de leur succès personnels ainsi qu’avec le groupe Les LeBlanc, fêtez et chantez avec Hert et Rhéal LeBlanc, car ils sont le Cowboy et le Tymeux.",
+        "startDate": "2026-10-02T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12595",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Richard-Denys",
+          "url": "https://scenesfrancophones.ca/node/502",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "700, rue Principale",
+            "addressLocality": "Neguac",
+            "addressRegion": "NB",
+            "postalCode": "E9G 1N4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.24295",
+            "longitude": "-65.08009"
+          },
+          "@id": "https://scenesfrancophones.ca/id/502"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "scn.ticketacces.net",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/52",
+          "name": "Société culturelle Nigawouek",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-nigawouek"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/8576",
+          "url": "https://scenesfrancophones.ca/artistes/hert-et-rheal-leblanc",
+          "name": "Hert et Rhéal LeBlanc"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/457",
         "name": "Atrium de l'ACFSJ",
