@@ -2261,7 +2261,14 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4204",
         "url": "https://scenesfrancophones.ca/artistes/thome-young",
-        "name": "Thomé Young"
+        "name": "Thomé Young",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/image8.jpeg?itok=Hgw7Y6cr",
+          "width": "480",
+          "height": "480"
+        }
       }
     ]
   },
@@ -11844,6 +11851,432 @@
         "@id": "https://scenesfrancophones.ca/id/12828",
         "url": "https://scenesfrancophones.ca/artistes/boucar-diouf-0",
         "name": "Boucar Diouf"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12838",
+        "url": "https://scenesfrancophones.ca/artistes/coeur-de-pirate",
+        "name": "Coeur de Pirate",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/horizontal_cdp.jpg?itok=_8M_yA9J",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12839",
+        "url": "https://scenesfrancophones.ca/artistes/damien-robitaille-0",
+        "name": "Damien Robitaille",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/coverpresse-fr-1739378053.jpg?itok=wyUVWLQ4",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12840",
+        "url": "https://scenesfrancophones.ca/artistes/dianne-tell",
+        "name": "Dianne Tell",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Visuel_Officiel_Tournee-50-i_aime_Diane-Tell_carree_%E2%92%B8%20Guillaume%20Bernon.jpg?itok=4C4vAkHG",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12841",
+        "url": "https://scenesfrancophones.ca/artistes/gabrielle-caron-0",
+        "name": "Gabrielle Caron",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/GabrielleCaron-Photodepresse-Cre%CC%81ditsJoseeLecompte.jpg?itok=NheiFYVQ",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12842",
+        "url": "https://scenesfrancophones.ca/artistes/guillaume-arsenault-0",
+        "name": "Guillaume Arsenault",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2002.48.22.png?itok=3H3_DzKi",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12843",
+        "url": "https://scenesfrancophones.ca/artistes/jay-scott-0",
+        "name": "Jay Scott",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/JAY_SCOTT_TLRSS_Affiche_Diffuseurs-scaled.jpg?itok=HcacT1G8",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12844",
+        "url": "https://scenesfrancophones.ca/artistes/jean-francois-mercier",
+        "name": "Jean-François Mercier",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/9749_humoristes23343-scaled.jpg?itok=8IOJFh_-",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12845",
+        "url": "https://scenesfrancophones.ca/artistes/karine-basque-et-atlantic-sinfonia",
+        "name": "Karine Basque et Atlantic Sinfonia",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Piaf.png?itok=F3fxLxbq",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12846",
+        "url": "https://scenesfrancophones.ca/artistes/katrine-sansregret",
+        "name": "katrine Sansregret",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/20251121_1733.jpg?itok=-6-YKGMJ",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12847",
+        "url": "https://scenesfrancophones.ca/artistes/king-melrose-0",
+        "name": "King Melrose",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2003.11.37.png?itok=tLY7Oguz",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12848",
+        "url": "https://scenesfrancophones.ca/artistes/le-gros-orteil-2",
+        "name": "Le Gros Orteil",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2003.19.06.png?itok=aqdVNH3C",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/12849",
+        "url": "https://scenesfrancophones.ca/artistes/les-bluecharms",
+        "name": "Les Bluecharms",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2003.22.30.png?itok=37-jPIex",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12850",
+        "url": "https://scenesfrancophones.ca/artistes/lilianne-cormier",
+        "name": "Lilianne Cormier",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2003.27.10.png?itok=w-1IM46j",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12851",
+        "url": "https://scenesfrancophones.ca/artistes/lou-adriane-cassidy",
+        "name": "Lou-Adriane Cassidy",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/LAC-000002_legerementplusclose_sat_noirsplusnoirs_Noe%CC%81mie%20D.Leclerc.jpeg?itok=ofX7_hHo",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12852",
+        "url": "https://scenesfrancophones.ca/artistes/mario-tessier",
+        "name": "Mario Tessier",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/mario-champion-visuel-final-18x24-1.jpg?itok=K2_SNd1i",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12853",
+        "url": "https://scenesfrancophones.ca/artistes/maxim-martin-1",
+        "name": "Maxim Martin",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2003.57.51.png?itok=FLbzQpIp",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12854",
+        "url": "https://scenesfrancophones.ca/artistes/michel-robichaud-0",
+        "name": "Michel Robichaud",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2012.42.06.png?itok=ROezco6I",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12855",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-de-la-lni-0",
+        "name": "Théâtre de la LNI",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Cygnus%20Oct%202025%20-%2048.jpg?itok=A3cYsfpl",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12856",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-parminou",
+        "name": "Théâtre Parminou",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2013.53.03.png?itok=DFJtJk51",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12857",
+        "url": "https://scenesfrancophones.ca/artistes/vague-de-cirque-0",
+        "name": "Vague de Cirque",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2014.13.13.png?itok=_vnS1oGe",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12858",
+        "url": "https://scenesfrancophones.ca/artistes/vince-lemire-0",
+        "name": "Vince Lemire",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Photo%20de%20presse%20Vince%20Lemire%202024-2025.jpg?itok=llR-z8ez",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12859",
+        "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud-0",
+        "name": "Caroline Raynaud",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2014.23.02.png?itok=rT-hq0-e",
+          "width": "480",
+          "height": "480"
+        }
       }
     ]
   },
