@@ -2148,7 +2148,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4191",
         "url": "https://scenesfrancophones.ca/artistes/collage-trad",
         "name": "Collage Trad"
@@ -4829,7 +4829,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Person",
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/8365",
         "url": "https://scenesfrancophones.ca/artistes/makenzie",
         "name": "Makenzie"
@@ -5664,7 +5664,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/8546",
         "url": "https://scenesfrancophones.ca/artistes/aurore-liang-artiste-et-ses-collaborateurs",
         "name": "Aurore Liang artiste et ses collaborateurs"
@@ -5757,12 +5757,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/8566",
         "url": "https://scenesfrancophones.ca/artistes/la-grosse-equipe-0",
         "name": "La Grosse Équipe"
@@ -12277,6 +12272,110 @@
           "width": "480",
           "height": "480"
         }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/12877",
+        "url": "https://scenesfrancophones.ca/artistes/marcel-leboeuf",
+        "name": "Marcel Leboeuf"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12887",
+        "url": "https://scenesfrancophones.ca/artistes/hubert-cormier",
+        "name": "Hubert Cormier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12892",
+        "url": "https://scenesfrancophones.ca/artistes/gab-fredette",
+        "name": "Gab Fredette"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12894",
+        "url": "https://scenesfrancophones.ca/artistes/joel-vogt",
+        "name": "Joël Vogt"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12897",
+        "url": "https://scenesfrancophones.ca/artistes/pasteur-papillon",
+        "name": "Pasteur Papillon"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12900",
+        "url": "https://scenesfrancophones.ca/artistes/veronique-isabel-filion",
+        "name": "Véronique Isabel Filion"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12903",
+        "url": "https://scenesfrancophones.ca/artistes/danger-zoo",
+        "name": "Danger Zoo"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12905",
+        "url": "https://scenesfrancophones.ca/artistes/ben-nesrallah",
+        "name": "Ben Nesrallah"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12909",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-bistouri",
+        "name": "Théâtre Bistouri"
       }
     ]
   },
@@ -32705,7 +32804,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/lionel-groove-lionel-groove-7852",
+        "url": "https://scenesfrancophones.ca/spectacles/lionel-groove-7852",
         "name": "Lionel Groove -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
@@ -39362,15 +39461,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "PerformingGroup",
           "@id": "https://scenesfrancophones.ca/id/8566",
           "url": "https://scenesfrancophones.ca/artistes/la-grosse-equipe-0",
-          "name": "La Grosse Équipe",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "La Grosse Équipe"
         }
       }
     ]
@@ -47128,7 +47222,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/sugar-crush-sugar-crush-9264",
+        "url": "https://scenesfrancophones.ca/spectacles/sugar-crush-9264",
         "name": "Sugar Crush -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
@@ -48290,7 +48384,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/gabrielle-goulet-gabrielle-goulet-10033",
+        "url": "https://scenesfrancophones.ca/spectacles/gabrielle-goulet-10033",
         "name": "Gabrielle Goulet - Gabrielle Goulet",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -48341,7 +48435,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/buscadero-buscadero-10034",
+        "url": "https://scenesfrancophones.ca/spectacles/buscadero-10034",
         "name": "Buscadero -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
@@ -71617,6 +71711,63 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/marcel-leboeuf-brunch-conference-12879",
+        "name": "Marcel Leboeuf -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Conférence sur la vie de Marcel Leboeuf et son parcours.",
+        "startDate": "2026-04-12T10:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/12879",
+        "location": {
+          "@type": "Place",
+          "name": "Pavillon Bonnie Glen",
+          "url": "https://scenesfrancophones.ca/node/9226",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "19596 County Rd 43",
+            "addressLocality": "Alexandria",
+            "addressRegion": "ON",
+            "postalCode": "K0C 1A0",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.280224",
+            "longitude": "-74.695843"
+          },
+          "@id": "https://scenesfrancophones.ca/id/9226"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/xda260412001?lang=fr",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/70",
+          "name": "Centre culturel Les trois p’tits points",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/12877",
+          "url": "https://scenesfrancophones.ca/artistes/marcel-leboeuf",
+          "name": "Marcel Leboeuf",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/457",
         "name": "Atrium de l'ACFSJ",
@@ -77331,7 +77482,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "(506) 336-3423",
-          "email": "mculture19832@gmail.com"
+          "email": "mculture1983@gmail.com"
         },
         "logo": {
           "@type": "ImageObject",
