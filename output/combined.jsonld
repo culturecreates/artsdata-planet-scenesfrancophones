@@ -45377,70 +45377,6 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/theatre-du-village-dorleans-fausses-rumeurs-9113",
-        "name": "Théâtre du Village d'Orléans -",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Theatre%20fausses%20rumeurs.png?itok=FDN3VUQj",
-          "width": "430",
-          "height": "430"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Théâtre communautaire\r\nLe maire d’un arrondissement municipal baigne dans son sang. Est-ce une tentative de suicide ou est-ce la vengeance de son épouse? C’est ce que tenteront d’élucider les invités conviés à l’anniversaire de mariage du couple soit disant exemplaire. Les rumeurs iront bon train et se répandront comme une traînée de poudre dans cette comédie loufoque!\r\n\r\nUne production du Théâtre du Village\r\n\r\nCe spectacle est présenté du 20 au 23 novembre 2025.\r\n\r\nHoraire du 20 au 22 novembre: 19h30",
-        "startDate": "2025-11-23T13:30:00-05:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/9113",
-        "location": {
-          "@type": "Place",
-          "name": "Centre des arts Shenkman – Théâtre Richcraft",
-          "url": "https://scenesfrancophones.ca/node/9078",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "245 Centrum Blvd",
-            "addressLocality": "Orléans",
-            "addressRegion": "ON",
-            "postalCode": "K1E 0A1",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "45.480642",
-            "longitude": "-75.511391"
-          },
-          "@id": "https://scenesfrancophones.ca/id/9078"
-        },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://meridianshenkman.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=RT1120N&linkID=centrepointe-fr&shopperContext=&caller=&appCode=",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/75",
-          "name": "MIFO",
-          "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
-        },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/8429",
-          "url": "https://scenesfrancophones.ca/artistes/theatre-du-village-dorleans",
-          "name": "Théâtre du Village d'Orléans",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/garou-garou-solo-9116",
         "name": "Garou -",
         "eventStatus": "https://schema.org/EventScheduled",
@@ -68192,65 +68128,6 @@
           "@id": "https://scenesfrancophones.ca/id/910",
           "url": "https://scenesfrancophones.ca/artistes/laurie-leblanc",
           "name": "Laurie LeBlanc"
-        }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/justin-guitard-gaspiller-du-talent-12290",
-        "name": "Justin Guitard - La loi du plus corps",
-        "eventStatus": "https://schema.org/EventScheduled",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/IMG_4807.jpg?itok=RpbWqh_9",
-          "width": "430",
-          "height": "430"
-        },
-        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "On lui demande depuis qu’il est tout petit : C’est pour quand, le spectacle d’humour? Eh bien, le voilà.\r\n\r\nNe manquez pas votre chance de constater par vous-même si Justin aurait dû continuer de s’écouter et se dire qu’il n’est pas un humoriste, ou si, finalement, le public avait raison et qu’il gaspille son vrai talent depuis le début de sa carrière.\r\n\r\nGaspiller du talent, c’est le tout premier one-man show de Justin Guitard, un artiste pluridisciplinaire qui saura vous faire rire et vous divertir avec ses anecdotes dans un feu roulant de comédie, de \"stepettes\" et de surprises.",
-        "startDate": "2026-06-08T19:00:00-03:00",
-        "isAccessibleForFree": "True",
-        "@id": "https://scenesfrancophones.ca/id/12290",
-        "location": {
-          "@type": "Place",
-          "name": "Théâtre Capitol",
-          "url": "https://scenesfrancophones.ca/node/509",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "811, rue Main",
-            "addressLocality": "Moncton",
-            "addressRegion": "NB",
-            "postalCode": "E1C 1G1",
-            "addressCountry": "CA"
-          },
-          "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "46.088338",
-            "longitude": "-64.779037"
-          },
-          "@id": "https://scenesfrancophones.ca/id/509"
-        },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/justin-guitard",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "@id": "https://scenesfrancophones.ca/id/56",
-          "name": "Théâtre Capitol",
-          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
-        },
-        "performer": {
-          "@type": "Person",
-          "@id": "https://scenesfrancophones.ca/id/908",
-          "url": "https://scenesfrancophones.ca/artistes/justin-guitard",
-          "name": "Justin Guitard"
         }
       }
     ]
