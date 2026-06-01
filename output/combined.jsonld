@@ -530,7 +530,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Person",
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/890",
         "url": "https://scenesfrancophones.ca/artistes/beausejour",
         "name": "Beauséjour"
@@ -711,14 +711,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/907",
         "url": "https://scenesfrancophones.ca/artistes/julie-aube",
-        "name": "Julie Aubé",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2023-03/Julie%20Aub%C3%A9-photo.jpg?itok=vvilG3KJ",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Julie Aubé"
       }
     ]
   },
@@ -1444,10 +1437,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4003",
         "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
-        "name": "La Famille LeBlanc"
+        "name": "La Famille Leblanc"
       }
     ]
   },
@@ -2367,7 +2360,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/4408",
         "url": "https://scenesfrancophones.ca/artistes/mimi-obonsawin",
-        "name": "Mimi O'bonsawin"
+        "name": "Mimi O'Bonsawin"
       }
     ]
   },
@@ -2593,7 +2586,7 @@
       {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5401",
-        "url": "https://scenesfrancophones.ca/artistes/gabrielle-goulet-0",
+        "url": "https://scenesfrancophones.ca/artistes/gabrielle-goulet",
         "name": "Gabrielle Goulet"
       }
     ]
@@ -2885,14 +2878,7 @@
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/6142",
         "url": "https://scenesfrancophones.ca/artistes/zeugma-danse",
-        "name": "Zeugma Danse",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-07/Zeugma%20Danse%20-%20Sf.png?itok=pX0EJRtx",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "ZEUGMA DANSE"
       }
     ]
   },
@@ -4122,7 +4108,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8179",
         "url": "https://scenesfrancophones.ca/artistes/micah-0",
-        "name": "MIcah!"
+        "name": "Micah!"
       }
     ]
   },
@@ -4731,7 +4717,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/8343",
         "url": "https://scenesfrancophones.ca/artistes/jonny-arsenault",
         "name": "Jonny Arsenault"
@@ -5453,7 +5439,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Person",
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/8502",
         "url": "https://scenesfrancophones.ca/artistes/tentaconte",
         "name": "Tentaconte"
@@ -7140,12 +7126,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/9160",
         "url": "https://scenesfrancophones.ca/artistes/evelyne-roy-molgat-0",
         "name": "Evelyne Roy-Molgat"
@@ -9866,7 +9847,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/11799",
         "url": "https://scenesfrancophones.ca/artistes/jeanphilip",
-        "name": "Jeanphilip"
+        "name": "JEANPHILIP"
       }
     ]
   },
@@ -10577,12 +10558,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/12159",
         "url": "https://scenesfrancophones.ca/artistes/justin-guitard-1",
         "name": "Justin Guitard"
@@ -10959,7 +10935,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/12346",
         "url": "https://scenesfrancophones.ca/artistes/kourage",
         "name": "Kourage"
@@ -11645,15 +11621,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/12790",
         "url": "https://scenesfrancophones.ca/artistes/lydol",
-        "name": "Lydol"
+        "name": "LYDOL"
       }
     ]
   },
@@ -12046,14 +12017,7 @@
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/12848",
         "url": "https://scenesfrancophones.ca/artistes/le-gros-orteil-2",
-        "name": "Le Gros Orteil",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2003.19.06.png?itok=aqdVNH3C",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Le Gros Orteil"
       }
     ]
   },
@@ -12082,14 +12046,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/12850",
         "url": "https://scenesfrancophones.ca/artistes/lilianne-cormier",
-        "name": "Lilianne Cormier",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2003.27.10.png?itok=w-1IM46j",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Lilianne Cormier"
       }
     ]
   },
@@ -12376,6 +12333,615 @@
         "@id": "https://scenesfrancophones.ca/id/12909",
         "url": "https://scenesfrancophones.ca/artistes/theatre-bistouri",
         "name": "Théâtre Bistouri"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12932",
+        "url": "https://scenesfrancophones.ca/artistes/alexandra-hernandez",
+        "name": "Alexandra Hernandez"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/12936",
+        "url": "https://scenesfrancophones.ca/artistes/justin-guitard-2",
+        "name": "Justin Guitard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/12939",
+        "url": "https://scenesfrancophones.ca/artistes/les-moontunes",
+        "name": "Les Moontunes"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/12942",
+        "url": "https://scenesfrancophones.ca/artistes/alliance-suprm",
+        "name": "Alliance SuPRM"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12944",
+        "url": "https://scenesfrancophones.ca/artistes/caracol",
+        "name": "Caracol"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12946",
+        "url": "https://scenesfrancophones.ca/artistes/clara-roy-jensen",
+        "name": "Clara Roy-Jensen"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12951",
+        "url": "https://scenesfrancophones.ca/artistes/eric-dion",
+        "name": "Éric Dion"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12955",
+        "url": "https://scenesfrancophones.ca/artistes/chantal-therrien",
+        "name": "Chantal Therrien"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12957",
+        "url": "https://scenesfrancophones.ca/artistes/cedric-descamps",
+        "name": "Cédric Descamps"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12960",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-ink",
+        "name": "Théâtre I.N.K."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12970",
+        "url": "https://scenesfrancophones.ca/artistes/ariane-labonte",
+        "name": "Ariane Labonté"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12972",
+        "url": "https://scenesfrancophones.ca/artistes/cirkoscopik",
+        "name": "Cirkoscopik"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12975",
+        "url": "https://scenesfrancophones.ca/artistes/feu-toute",
+        "name": "Feu toute!"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12981",
+        "url": "https://scenesfrancophones.ca/artistes/daniel-grenier",
+        "name": "Daniel Grenier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/12984",
+        "url": "https://scenesfrancophones.ca/artistes/jean-michel-martel",
+        "name": "Jean-Michel Martel"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/12987",
+        "url": "https://scenesfrancophones.ca/artistes/oktopus",
+        "name": "Oktopus"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/12989",
+        "url": "https://scenesfrancophones.ca/artistes/hotel-motel",
+        "name": "Hôtel Motel"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13025",
+        "url": "https://scenesfrancophones.ca/artistes/les-productions-bernard-lebel",
+        "name": "Les Productions Bernard Lebel"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13027",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-biscornu",
+        "name": "Théâtre Biscornu"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13029",
+        "url": "https://scenesfrancophones.ca/artistes/zak",
+        "name": "ZAK"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13031",
+        "url": "https://scenesfrancophones.ca/artistes/jerome-pinel",
+        "name": "JÉRÔME PINEL"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13033",
+        "url": "https://scenesfrancophones.ca/artistes/quentin-guerin",
+        "name": "Quentin Guerin"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13096",
+        "url": "https://scenesfrancophones.ca/artistes/izabelle",
+        "name": "Izabelle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13111",
+        "url": "https://scenesfrancophones.ca/artistes/kamilou",
+        "name": "Kamilou"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13114",
+        "url": "https://scenesfrancophones.ca/artistes/la-grande-veillee-du-2-pierrots",
+        "name": "La grande veillée du 2 Pierrots"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13122",
+        "url": "https://scenesfrancophones.ca/artistes/maheja",
+        "name": "Mahéja"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13125",
+        "url": "https://scenesfrancophones.ca/artistes/marjolaine-morasse",
+        "name": "Marjolaine Morasse"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13130",
+        "url": "https://scenesfrancophones.ca/artistes/mat-vezio",
+        "name": "Mat Vezio"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13137",
+        "url": "https://scenesfrancophones.ca/artistes/mlou",
+        "name": "MLou"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13139",
+        "url": "https://scenesfrancophones.ca/artistes/edith-butler-1",
+        "name": "Édith Butler"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/13143",
+        "url": "https://scenesfrancophones.ca/artistes/mon-doux-saigneur",
+        "name": "Mon Doux Saigneur"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/13146",
+        "url": "https://scenesfrancophones.ca/artistes/monastere",
+        "name": "Monastere"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13152",
+        "url": "https://scenesfrancophones.ca/artistes/etienne-fletcher-et-caroline-savoie",
+        "name": "Étienne Fletcher et Caroline Savoie"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13162",
+        "url": "https://scenesfrancophones.ca/artistes/major-et-moran",
+        "name": "Major et Moran"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/13165",
+        "url": "https://scenesfrancophones.ca/artistes/moustache-rodeo",
+        "name": "Moustache Rodéo"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13170",
+        "url": "https://scenesfrancophones.ca/artistes/raffy",
+        "name": "Raffy"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13179",
+        "url": "https://scenesfrancophones.ca/artistes/veronique-labbe",
+        "name": "Véronique Labbé"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13186",
+        "url": "https://scenesfrancophones.ca/artistes/bo-montreal-ballet-ouest-de-montreal-0",
+        "name": "BO Montréal (Ballet Ouest de Montréal)"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/13191",
+        "url": "https://scenesfrancophones.ca/artistes/melina-pi-gelina",
+        "name": "Mélina pi Gélina"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/13193",
+        "url": "https://scenesfrancophones.ca/artistes/ensemble-augmente",
+        "name": "Ensemble Augmenté"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13206",
+        "url": "https://scenesfrancophones.ca/artistes/sarina",
+        "name": "Sarina"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13208",
+        "url": "https://scenesfrancophones.ca/artistes/nathan-dimitroff",
+        "name": "Nathan Dimitroff"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13216",
+        "url": "https://scenesfrancophones.ca/artistes/productions-cirkaz",
+        "name": "Productions Cirkaz"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13219",
+        "url": "https://scenesfrancophones.ca/artistes/groupe-samajam",
+        "name": "Groupe SAMAJAM"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13221",
+        "url": "https://scenesfrancophones.ca/artistes/jenny-lyne-leblanc",
+        "name": "Jenny Lyne LeBlanc"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/13225",
+        "url": "https://scenesfrancophones.ca/artistes/ariell-bourdon-chicoine",
+        "name": "Ariell - Bourdon - Chicoine"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13227",
+        "url": "https://scenesfrancophones.ca/artistes/marion-cousineau",
+        "name": "Marion Cousineau"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13229",
+        "url": "https://scenesfrancophones.ca/artistes/patrick-prevost",
+        "name": "Patrick Prévost"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/13231",
+        "url": "https://scenesfrancophones.ca/artistes/dahlia-ave",
+        "name": "Dahlia Ave."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/13233",
+        "url": "https://scenesfrancophones.ca/artistes/grouyan-gombo",
+        "name": "Grouyan Gombo"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13235",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-populaire-dacadie-et-le-collectif-le-cahier",
+        "name": "Théâtre populaire d'Acadie et le collectif Le Cahier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13237",
+        "url": "https://scenesfrancophones.ca/artistes/creations-sans-escale",
+        "name": "Créations sans escale"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13239",
+        "url": "https://scenesfrancophones.ca/artistes/les-productions-drole-de-monde",
+        "name": "Les Productions Drôle de Monde"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13241",
+        "url": "https://scenesfrancophones.ca/artistes/erick-nado-ainsi-que-erick-elektrik",
+        "name": "Erick Nado ainsi que Erick Elektrik"
       }
     ]
   },
@@ -13675,8 +14241,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/33",
-          "name": "Les Productions Le Moulin",
-          "url": "https://scenesfrancophones.ca/diffuseurs/les-productions-le-moulin"
+          "name": "Association le Moulin de la Baie Sainte-Marie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-le-moulin-de-la-baie-sainte-marie"
         },
         "performer": {
           "@type": "PerformingGroup",
@@ -15253,8 +15819,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/33",
-          "name": "Les Productions Le Moulin",
-          "url": "https://scenesfrancophones.ca/diffuseurs/les-productions-le-moulin"
+          "name": "Association le Moulin de la Baie Sainte-Marie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-le-moulin-de-la-baie-sainte-marie"
         },
         "performer": {
           "@type": "PerformingGroup",
@@ -22556,7 +23122,7 @@
         },
         "performer": [
           {
-            "@type": "Person",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -22612,12 +23178,12 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/33",
-          "name": "Les Productions Le Moulin",
-          "url": "https://scenesfrancophones.ca/diffuseurs/les-productions-le-moulin"
+          "name": "Association le Moulin de la Baie Sainte-Marie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-le-moulin-de-la-baie-sainte-marie"
         },
         "performer": [
           {
-            "@type": "Person",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -22678,7 +23244,7 @@
         },
         "performer": [
           {
-            "@type": "Person",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -22740,7 +23306,7 @@
         },
         "performer": [
           {
-            "@type": "Person",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -22802,7 +23368,7 @@
         },
         "performer": [
           {
-            "@type": "Person",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -22864,7 +23430,7 @@
         },
         "performer": [
           {
-            "@type": "Person",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -22926,7 +23492,7 @@
         },
         "performer": [
           {
-            "@type": "Person",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -22988,7 +23554,7 @@
         },
         "performer": [
           {
-            "@type": "Person",
+            "@type": "PerformingGroup",
             "@id": "https://scenesfrancophones.ca/id/890",
             "url": "https://scenesfrancophones.ca/artistes/beausejour",
             "name": "Beauséjour"
@@ -23354,8 +23920,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/33",
-          "name": "Les Productions Le Moulin",
-          "url": "https://scenesfrancophones.ca/diffuseurs/les-productions-le-moulin"
+          "name": "Association le Moulin de la Baie Sainte-Marie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-le-moulin-de-la-baie-sainte-marie"
         },
         "performer": [
           {
@@ -25057,8 +25623,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/33",
-          "name": "Les Productions Le Moulin",
-          "url": "https://scenesfrancophones.ca/diffuseurs/les-productions-le-moulin"
+          "name": "Association le Moulin de la Baie Sainte-Marie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-le-moulin-de-la-baie-sainte-marie"
         },
         "performer": [
           {
@@ -25084,7 +25650,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Julie%20Aube%CC%81%20CCF%20-%20Sf.png?itok=6Az43nsH",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "La flamme du spectacle dansant en plein dans son viseur, Julie Aubé s’entoure d’un full band pour transmettre sur les planches sa forte inclinaison pour le flamboyant, la fête et le fun. Force naturellement introspective, elle channel son énergie sur scène et plonge dans celle-ci comme dans une occasion parfaite pour sortir d’elle-même et de son corps. Elle décore d’ailleurs ce dernier pour l’occasion de costumes de scène de sa propre confection. Dans une signature folk-rock-country vintage calquée sur son oralité acadien, Julie Aubé chante puissant pour décrire sa gratitude, sa relation avec sa région natale pis l’amour, of course.",
@@ -25145,7 +25712,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Julie%20Aube%CC%81%20CCF%20-%20Sf.png?itok=6Az43nsH",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "La flamme du spectacle dansant en plein dans son viseur, Julie Aubé s’entoure d’un full band pour transmettre sur les planches sa forte inclinaison pour le flamboyant, la fête et le fun. Force naturellement introspective, elle channel son énergie sur scène et plonge dans celle-ci comme dans une occasion parfaite pour sortir d’elle-même et de son corps. Elle décore d’ailleurs ce dernier pour l’occasion de costumes de scène de sa propre confection. Dans une signature folk-rock-country vintage calquée sur son oralité acadien, Julie Aubé chante puissant pour décrire sa gratitude, sa relation avec sa région natale pis l’amour, of course.",
@@ -25206,7 +25774,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Julie%20Aube%CC%81%20CCF%20-%20Sf.png?itok=6Az43nsH",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "La flamme du spectacle dansant en plein dans son viseur, Julie Aubé s’entoure d’un full band pour transmettre sur les planches sa forte inclinaison pour le flamboyant, la fête et le fun. Force naturellement introspective, elle channel son énergie sur scène et plonge dans celle-ci comme dans une occasion parfaite pour sortir d’elle-même et de son corps. Elle décore d’ailleurs ce dernier pour l’occasion de costumes de scène de sa propre confection. Dans une signature folk-rock-country vintage calquée sur son oralité acadien, Julie Aubé chante puissant pour décrire sa gratitude, sa relation avec sa région natale pis l’amour, of course.",
@@ -25266,7 +25835,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Julie%20Aube%CC%81%20CCF%20-%20Sf.png?itok=6Az43nsH",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "La flamme du spectacle dansant en plein dans son viseur, Julie Aubé s’entoure d’un full band pour transmettre sur les planches sa forte inclinaison pour le flamboyant, la fête et le fun. Force naturellement introspective, elle channel son énergie sur scène et plonge dans celle-ci comme dans une occasion parfaite pour sortir d’elle-même et de son corps. Elle décore d’ailleurs ce dernier pour l’occasion de costumes de scène de sa propre confection. Dans une signature folk-rock-country vintage calquée sur son oralité acadien, Julie Aubé chante puissant pour décrire sa gratitude, sa relation avec sa région natale pis l’amour, of course.",
@@ -25327,7 +25897,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Julie%20Aube%CC%81%20Messe%20premie%CC%80re%20CCF%20-%20Sf_.png?itok=9MmRd6Ac",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "La flamme du spectacle dansant en plein dans son viseur, Julie Aubé s’entoure d’un full band pour transmettre sur les planches sa forte inclinaison pour le flamboyant, la fête et le fun. Force naturellement introspective, elle channel son énergie sur scène et plonge dans celle-ci comme dans une occasion parfaite pour sortir d’elle-même et de son corps. Elle décore d’ailleurs ce dernier pour l’occasion de costumes de scène de sa propre confection. Dans une signature folk-rock-country vintage calquée sur son oralité acadien, Julie Aubé chante puissant pour décrire sa gratitude, sa relation avec sa région natale pis l’amour, of course.",
@@ -25822,7 +26393,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/La%20Famille%20LeBlanc%20-%20Sf.png?itok=kfRjQW_j",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade"
+          "creditText": "La Famille Leblanc"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -25861,10 +26432,10 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4003",
             "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
-            "name": "La Famille LeBlanc"
+            "name": "La Famille Leblanc"
           }
         ]
       }
@@ -25884,7 +26455,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/DP%20-%20Famille%20LeBlanc%20et%20Jourdan%20-%20Sf.png?itok=66RjWGzI",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade"
+          "creditText": "La Famille Leblanc"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -25923,10 +26494,10 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4003",
             "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
-            "name": "La Famille LeBlanc"
+            "name": "La Famille Leblanc"
           }
         ]
       }
@@ -25946,7 +26517,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/La%20Famille%20LeBlanc%20-%20Sf.png?itok=kfRjQW_j",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade"
+          "creditText": "La Famille Leblanc"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -25985,10 +26556,10 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4003",
             "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
-            "name": "La Famille LeBlanc"
+            "name": "La Famille Leblanc"
           }
         ]
       }
@@ -26008,7 +26579,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/La%20Famille%20LeBlanc%20-%20Sf.png?itok=kfRjQW_j",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade"
+          "creditText": "La Famille Leblanc"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -26046,10 +26617,10 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4003",
             "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
-            "name": "La Famille LeBlanc"
+            "name": "La Famille Leblanc"
           }
         ]
       }
@@ -26069,7 +26640,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/La%20Famille%20LeBlanc%20-%20Sf.png?itok=kfRjQW_j",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade"
+          "creditText": "La Famille Leblanc"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -26108,10 +26679,10 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4003",
             "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
-            "name": "La Famille LeBlanc"
+            "name": "La Famille Leblanc"
           }
         ]
       }
@@ -26131,7 +26702,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/La%20Famille%20LeBlanc%20-%20Sf.png?itok=kfRjQW_j",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade"
+          "creditText": "La Famille Leblanc"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -26170,10 +26741,10 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4003",
             "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
-            "name": "La Famille LeBlanc"
+            "name": "La Famille Leblanc"
           }
         ]
       }
@@ -26193,7 +26764,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/La%20Famille%20LeBlanc%20-%20Sf.png?itok=kfRjQW_j",
           "width": "430",
           "height": "430",
-          "creditText": "Karine Wade"
+          "creditText": "La Famille Leblanc"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Robin, Rebecca LeBlanc et leurs trois filles, Charlotte, Rosalie et Mélodie, puisent dans le répertoire folklorique de l'Acadie pour en ressortir une magnifique sélection de chants et de réels qu'ils préservent de l'oubli. La Famille LeBlanc effectue un véritable devoir de mémoire en interprétant des pièces provenant du patrimoine de toutes les régions acadiennes. Accompagnés solidement par les musiciens professionnels Nicolas Basque à la guitare et de Julien Breau à la contrebasse, La Famille LeBlanc inspire et attire son public dans un voyage historique vivant !",
@@ -26231,10 +26802,10 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4003",
             "url": "https://scenesfrancophones.ca/artistes/la-famille-leblanc",
-            "name": "La Famille LeBlanc"
+            "name": "La Famille Leblanc"
           }
         ]
       }
@@ -27513,7 +28084,7 @@
             "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/6142",
             "url": "https://scenesfrancophones.ca/artistes/zeugma-danse",
-            "name": "Zeugma Danse"
+            "name": "ZEUGMA DANSE"
           }
         ]
       }
@@ -27532,7 +28103,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Zeugma%20Danse%20-%20Sf.png?itok=vM3bQZmL",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "David Wong pour Zeugma Danse"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Huit personnes, chacune portant une histoire unique, s’allient dans une quête commune. À travers les pas cadencés et les gestuelles fluides, elles surmontent les obstacles et découvrent de nouveaux horizons avec une énergie collective grandissante. Une performance qui célèbre la richesse de la collaboration, du dépassement de soi et de la découverte de l’autre à travers la danse percussive.",
@@ -27573,7 +28145,7 @@
             "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/6142",
             "url": "https://scenesfrancophones.ca/artistes/zeugma-danse",
-            "name": "Zeugma Danse"
+            "name": "ZEUGMA DANSE"
           }
         ]
       }
@@ -27592,7 +28164,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Zeugma%20Danse%20-%20Sf.png?itok=vM3bQZmL",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "David Wong pour Zeugma Danse"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Huit personnes, chacune portant une histoire unique, s’allient dans une quête commune. À travers les pas cadencés et les gestuelles fluides, elles surmontent les obstacles et découvrent de nouveaux horizons avec une énergie collective grandissante. Une performance qui célèbre la richesse de la collaboration, du dépassement de soi et de la découverte de l’autre à travers la danse percussive.",
@@ -27633,7 +28206,7 @@
             "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/6142",
             "url": "https://scenesfrancophones.ca/artistes/zeugma-danse",
-            "name": "Zeugma Danse"
+            "name": "ZEUGMA DANSE"
           }
         ]
       }
@@ -27652,7 +28225,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Zeugma%20Danse%20-%20Sf.png?itok=vM3bQZmL",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "David Wong pour Zeugma Danse"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Huit personnes, chacune portant une histoire unique, s’allient dans une quête commune. À travers les pas cadencés et les gestuelles fluides, elles surmontent les obstacles et découvrent de nouveaux horizons avec une énergie collective grandissante. Une performance qui célèbre la richesse de la collaboration, du dépassement de soi et de la découverte de l’autre à travers la danse percussive.",
@@ -27693,7 +28267,7 @@
             "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/6142",
             "url": "https://scenesfrancophones.ca/artistes/zeugma-danse",
-            "name": "Zeugma Danse"
+            "name": "ZEUGMA DANSE"
           }
         ]
       }
@@ -27712,7 +28286,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Zeugma%20Danse%20-%20Sf.png?itok=vM3bQZmL",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "David Wong pour Zeugma Danse"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Huit personnes, chacune portant une histoire unique, s’allient dans une quête commune. À travers les pas cadencés et les gestuelles fluides, elles surmontent les obstacles et découvrent de nouveaux horizons avec une énergie collective grandissante. Une performance qui célèbre la richesse de la collaboration, du dépassement de soi et de la découverte de l’autre à travers la danse percussive.",
@@ -27754,7 +28329,7 @@
             "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/6142",
             "url": "https://scenesfrancophones.ca/artistes/zeugma-danse",
-            "name": "Zeugma Danse"
+            "name": "ZEUGMA DANSE"
           }
         ]
       }
@@ -27773,7 +28348,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Zeugma%20Danse%20-%20Sf.png?itok=vM3bQZmL",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "David Wong pour Zeugma Danse"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Huit personnes, chacune portant une histoire unique, s’allient dans une quête commune. À travers les pas cadencés et les gestuelles fluides, elles surmontent les obstacles et découvrent de nouveaux horizons avec une énergie collective grandissante. Une performance qui célèbre la richesse de la collaboration, du dépassement de soi et de la découverte de l’autre à travers la danse percussive.",
@@ -27815,7 +28391,7 @@
             "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/6142",
             "url": "https://scenesfrancophones.ca/artistes/zeugma-danse",
-            "name": "Zeugma Danse"
+            "name": "ZEUGMA DANSE"
           }
         ]
       }
@@ -28140,7 +28716,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28202,7 +28778,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28264,7 +28840,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28326,7 +28902,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28388,7 +28964,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28450,7 +29026,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28512,7 +29088,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28574,7 +29150,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28636,7 +29212,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28698,7 +29274,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28760,7 +29336,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-03/483028281_18019960754671691_1777209890772139708_n.jpg?itok=FgMYrjaC",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28822,7 +29398,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28884,7 +29460,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -28946,7 +29522,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-02/Aboiteau-1080x1080-2025.png?itok=31anJKzR",
           "width": "430",
           "height": "430",
-          "creditText": "Jérome Luc Paulin"
+          "creditText": "Jérôme Luc Paulin"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "À travers son nouveau spectacle, ABOiTEAU raconte ses histoires et ses légendes dans un univers musical qui amalgame le folk, le trad, le celtique et le rock!  \r\n\r\nEn 2024, ABOiTEAU a lancé son nouvel album « C’est l’histoire de… » qui raconte les mésaventures du célèbre navigateur Sam de Champlain, du Capitaine Joe la bague, du Bonhomme 7 heures et du Vieux Edmond.\r\n\r\nLes membres d’ABOiTEAU ont beaucoup de plaisir à jouer ensemble et le public le ressent à chaque spectacle!   ",
@@ -31554,7 +32130,7 @@
         "name": "Shaun Ferguson - La Lumière De L'Ombre - L'Ombre De La Lumière",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Le guitariste Shaun Ferguson présente La Lumière De l’Ombre – L’Ombre De La Lumière en formule quatuor à cordes. Avec Mélanie Venditti (alto), Gaël Huard (violoncelle) et Jean-Félix Mailloux (contrebasse), il propose une expérience instrumentale immersive, entre virtuosité, émotions profondes et paysages sonores envoûtants. Une rencontre unique entre cordes classiques et liberté folk contemporaine.",
+        "description": "Shaun Ferguson et son quatuor à cordes proposent une expérience musicale immersive où virtuosité, émotion et puissance cinématographique se rencontrent. À travers les pièces de La Lumière De l’Ombre – L’Ombre De La Lumière, le guitariste acadien transporte le public dans des paysages sonores riches et évocateurs, portés par des arrangements raffinés pour alto, violoncelle et contrebasse. Un spectacle instrumental actuel, sensible et profondément enveloppant.",
         "startDate": "2025-02-08T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/7793",
@@ -36013,10 +36589,10 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/mimi-obonsawin-mimi-obonsawin-8222",
-        "name": "Mimi O'bonsawin - Mimi O'Bonsawin- Trio",
+        "name": "Mimi O'Bonsawin - Mimi O'Bonsawin- Trio",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Mimi O'Bonsawin Trio Concert est destiné aux festivals ou à la programmation grand public.\r\nAprès une tournée des festivals à travers le Canada à l'été 2023, une seconde tournée en France (printemps 2024) soutenue par l'APCM, Rue Haute Production (FR), Le Grand Bain Production (FR) et Le Labo du Convervatoir/Festival Changez D'Air (FR) et une autre tournée d'été au Canada d'un océan à l'autre, Mimi et son groupe sont rompus aux diverses programmations incluant les festivals et les centres d'arts de la scène. Mimi a entamé les démarches pour exporter son projet en France et en Europe.",
+        "description": "Mimi O’Bonsawin est une autrice-compositrice-interprète franco-ontarienne et W8banaki (Abénakise), membre de la Première Nation d’Odanak. Sa musique, à la fois influencée par ses origines autochtones et la pop acoustique, est portée par des textes sensibles, des rythmes organiques et une profonde connexion à la nature. Accompagnée par Ryan Schurman à la batterie et aux percussions,elle propose une performance à la fois intime et vibrante, mêlant poésie, groove et émotions sincères. Pour Mimi, « la musique est un jardin que nous partageons ».",
         "startDate": "2025-06-21T16:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8222",
@@ -36038,7 +36614,7 @@
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4408",
           "url": "https://scenesfrancophones.ca/artistes/mimi-obonsawin",
-          "name": "Mimi O'bonsawin"
+          "name": "Mimi O'Bonsawin"
         }
       }
     ]
@@ -41941,8 +42517,7 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/image0.jpeg?itok=yKVhYKbz",
           "width": "430",
-          "height": "430",
-          "creditText": "Yorke"
+          "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Venez vivre un party acadien vous invitant à chanter, rire et danser pour célébrer les 40 ans de carrière de Hert LeBlanc. Vivez une soirée mémorable au son de sa musique acadienne et country caractérisant ses 10 albums solo en carrière ainsi que quelques nouveautés de son nouveau projet à paraître en septembre 2025. Accompagné de son acolyte de toujours, Rhéal LeBlanc, retrouvez la complicité et l’humour qui caractérise leur relation. Forts de leur succès personnels ainsi qu’avec le groupe Les LeBlanc, fêtez et chantez avec Hert et Rhéal LeBlanc.",
@@ -45686,10 +46261,10 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/mimi-obonsawin-mimi-obonsawin-9144",
-        "name": "Mimi O'bonsawin - Mimi O'Bonsawin- Trio",
+        "name": "Mimi O'Bonsawin - Mimi O'Bonsawin- Trio",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Mimi O'Bonsawin Trio Concert est destiné aux festivals ou à la programmation grand public.\r\nAprès une tournée des festivals à travers le Canada à l'été 2023, une seconde tournée en France (printemps 2024) soutenue par l'APCM, Rue Haute Production (FR), Le Grand Bain Production (FR) et Le Labo du Convervatoir/Festival Changez D'Air (FR) et une autre tournée d'été au Canada d'un océan à l'autre, Mimi et son groupe sont rompus aux diverses programmations incluant les festivals et les centres d'arts de la scène. Mimi a entamé les démarches pour exporter son projet en France et en Europe.",
+        "description": "Mimi O’Bonsawin est une autrice-compositrice-interprète franco-ontarienne et W8banaki (Abénakise), membre de la Première Nation d’Odanak. Sa musique, à la fois influencée par ses origines autochtones et la pop acoustique, est portée par des textes sensibles, des rythmes organiques et une profonde connexion à la nature. Accompagnée par Ryan Schurman à la batterie et aux percussions,elle propose une performance à la fois intime et vibrante, mêlant poésie, groove et émotions sincères. Pour Mimi, « la musique est un jardin que nous partageons ».",
         "startDate": "2026-01-21T19:30:00-05:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9144",
@@ -45727,7 +46302,7 @@
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4408",
           "url": "https://scenesfrancophones.ca/artistes/mimi-obonsawin",
-          "name": "Mimi O'bonsawin"
+          "name": "Mimi O'Bonsawin"
         }
       }
     ]
@@ -46027,15 +46602,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/9160",
           "url": "https://scenesfrancophones.ca/artistes/evelyne-roy-molgat-0",
-          "name": "Evelyne Roy-Molgat",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Evelyne Roy-Molgat"
         }
       }
     ]
@@ -48167,10 +48737,10 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/mimi-obonsawin-mimi-obonsawin-9967",
-        "name": "Mimi O'bonsawin - Mimi O'Bonsawin- Trio",
+        "name": "Mimi O'Bonsawin - Mimi O'Bonsawin- Trio",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Mimi O'Bonsawin Trio Concert est destiné aux festivals ou à la programmation grand public.\r\nAprès une tournée des festivals à travers le Canada à l'été 2023, une seconde tournée en France (printemps 2024) soutenue par l'APCM, Rue Haute Production (FR), Le Grand Bain Production (FR) et Le Labo du Convervatoir/Festival Changez D'Air (FR) et une autre tournée d'été au Canada d'un océan à l'autre, Mimi et son groupe sont rompus aux diverses programmations incluant les festivals et les centres d'arts de la scène. Mimi a entamé les démarches pour exporter son projet en France et en Europe.",
+        "description": "Mimi O’Bonsawin est une autrice-compositrice-interprète franco-ontarienne et W8banaki (Abénakise), membre de la Première Nation d’Odanak. Sa musique, à la fois influencée par ses origines autochtones et la pop acoustique, est portée par des textes sensibles, des rythmes organiques et une profonde connexion à la nature. Accompagnée par Ryan Schurman à la batterie et aux percussions,elle propose une performance à la fois intime et vibrante, mêlant poésie, groove et émotions sincères. Pour Mimi, « la musique est un jardin que nous partageons ».",
         "startDate": "2024-06-07T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9967",
@@ -48207,7 +48777,7 @@
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4408",
           "url": "https://scenesfrancophones.ca/artistes/mimi-obonsawin",
-          "name": "Mimi O'bonsawin"
+          "name": "Mimi O'Bonsawin"
         }
       }
     ]
@@ -48360,7 +48930,7 @@
         "performer": {
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/5401",
-          "url": "https://scenesfrancophones.ca/artistes/gabrielle-goulet-0",
+          "url": "https://scenesfrancophones.ca/artistes/gabrielle-goulet",
           "name": "Gabrielle Goulet"
         }
       }
@@ -55820,7 +56390,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%288%29.png?itok=jcnRD_Pb",
           "width": "430",
           "height": "430",
-          "creditText": "Ritche Perez 2023"
+          "creditText": "Ritche Perez 2025"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Adrian House chante des histoires à la fois drôles et émouvantes avec passion et sincérité. En 2020, ce francophile de Terre-Neuve fait une tournée musicale à vélo des provinces maritimes. En 2021, il accède aux demi-finales du Festival international de la chanson de Granby et devient ainsi le premier Terre-Neuvien à y participer. En 2022, il est finaliste au Gala de la chanson de Caraquet. Il produit un album, Pêcheur de rêves, en 2024, qui lui vaut le prix de l'Artiste jazz de l'année de Terre-Neuve-et-Labrador.\r\n\r\nSur Pêcheur de rêves, Adrian plonge dans des influences classiques allant du folk au jazz, en passant par le rock & roll. L’œuvre explore des thèmes essentiels dont l’importance de suivre son propre chemin, de conserver une certaine légèreté et de rester ouvert aux connexions qui se présentent dans la vie. La voix chaleureuse d’Adrian est un fil de joie de vivre qui fait voyager à travers l’album et invite à entrer dans son univers merveilleux.",
@@ -55944,7 +56514,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%288%29.png?itok=jcnRD_Pb",
           "width": "430",
           "height": "430",
-          "creditText": "Ritche Perez 2023"
+          "creditText": "Ritche Perez 2025"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Adrian House chante des histoires à la fois drôles et émouvantes avec passion et sincérité. En 2020, ce francophile de Terre-Neuve fait une tournée musicale à vélo des provinces maritimes. En 2021, il accède aux demi-finales du Festival international de la chanson de Granby et devient ainsi le premier Terre-Neuvien à y participer. En 2022, il est finaliste au Gala de la chanson de Caraquet. Il produit un album, Pêcheur de rêves, en 2024, qui lui vaut le prix de l'Artiste jazz de l'année de Terre-Neuve-et-Labrador.\r\n\r\nSur Pêcheur de rêves, Adrian plonge dans des influences classiques allant du folk au jazz, en passant par le rock & roll. L’œuvre explore des thèmes essentiels dont l’importance de suivre son propre chemin, de conserver une certaine légèreté et de rester ouvert aux connexions qui se présentent dans la vie. La voix chaleureuse d’Adrian est un fil de joie de vivre qui fait voyager à travers l’album et invite à entrer dans son univers merveilleux.",
@@ -56143,8 +56713,8 @@
         "organizer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/33",
-          "name": "Les Productions Le Moulin",
-          "url": "https://scenesfrancophones.ca/diffuseurs/les-productions-le-moulin"
+          "name": "Association le Moulin de la Baie Sainte-Marie",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-le-moulin-de-la-baie-sainte-marie"
         },
         "performer": [
           {
@@ -56489,7 +57059,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%288%29.png?itok=jcnRD_Pb",
           "width": "430",
           "height": "430",
-          "creditText": "Ritche Perez 2023"
+          "creditText": "Ritche Perez 2025"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Adrian House chante des histoires à la fois drôles et émouvantes avec passion et sincérité. En 2020, ce francophile de Terre-Neuve fait une tournée musicale à vélo des provinces maritimes. En 2021, il accède aux demi-finales du Festival international de la chanson de Granby et devient ainsi le premier Terre-Neuvien à y participer. En 2022, il est finaliste au Gala de la chanson de Caraquet. Il produit un album, Pêcheur de rêves, en 2024, qui lui vaut le prix de l'Artiste jazz de l'année de Terre-Neuve-et-Labrador.\r\n\r\nSur Pêcheur de rêves, Adrian plonge dans des influences classiques allant du folk au jazz, en passant par le rock & roll. L’œuvre explore des thèmes essentiels dont l’importance de suivre son propre chemin, de conserver une certaine légèreté et de rester ouvert aux connexions qui se présentent dans la vie. La voix chaleureuse d’Adrian est un fil de joie de vivre qui fait voyager à travers l’album et invite à entrer dans son univers merveilleux.",
@@ -56674,7 +57244,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%288%29.png?itok=jcnRD_Pb",
           "width": "430",
           "height": "430",
-          "creditText": "Ritche Perez 2023"
+          "creditText": "Ritche Perez 2025"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Adrian House chante des histoires à la fois drôles et émouvantes avec passion et sincérité. En 2020, ce francophile de Terre-Neuve fait une tournée musicale à vélo des provinces maritimes. En 2021, il accède aux demi-finales du Festival international de la chanson de Granby et devient ainsi le premier Terre-Neuvien à y participer. En 2022, il est finaliste au Gala de la chanson de Caraquet. Il produit un album, Pêcheur de rêves, en 2024, qui lui vaut le prix de l'Artiste jazz de l'année de Terre-Neuve-et-Labrador.\r\n\r\nSur Pêcheur de rêves, Adrian plonge dans des influences classiques allant du folk au jazz, en passant par le rock & roll. L’œuvre explore des thèmes essentiels dont l’importance de suivre son propre chemin, de conserver une certaine légèreté et de rester ouvert aux connexions qui se présentent dans la vie. La voix chaleureuse d’Adrian est un fil de joie de vivre qui fait voyager à travers l’album et invite à entrer dans son univers merveilleux.",
@@ -57299,7 +57869,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%288%29.png?itok=jcnRD_Pb",
           "width": "430",
           "height": "430",
-          "creditText": "Ritche Perez 2023"
+          "creditText": "Ritche Perez 2025"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Adrian House chante des histoires à la fois drôles et émouvantes avec passion et sincérité. En 2020, ce francophile de Terre-Neuve fait une tournée musicale à vélo des provinces maritimes. En 2021, il accède aux demi-finales du Festival international de la chanson de Granby et devient ainsi le premier Terre-Neuvien à y participer. En 2022, il est finaliste au Gala de la chanson de Caraquet. Il produit un album, Pêcheur de rêves, en 2024, qui lui vaut le prix de l'Artiste jazz de l'année de Terre-Neuve-et-Labrador.\r\n\r\nSur Pêcheur de rêves, Adrian plonge dans des influences classiques allant du folk au jazz, en passant par le rock & roll. L’œuvre explore des thèmes essentiels dont l’importance de suivre son propre chemin, de conserver une certaine légèreté et de rester ouvert aux connexions qui se présentent dans la vie. La voix chaleureuse d’Adrian est un fil de joie de vivre qui fait voyager à travers l’album et invite à entrer dans son univers merveilleux.",
@@ -62978,11 +63548,12 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/Cr%C3%A9ationInVivo-affiche-credit-Jasmine_Morin.jpg?itok=03b6ITVt",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Agence : Black Smoke Rising Designs"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "MOURIR DE TROP GUEULER est une parade époustouflante de bouffons franco-ontariens pour célébrer le 50e anniversaire du drapeau franco-ontarien. Cette procession théâtrale unique célèbre les funérailles d’une grenouille géante– morte d’avoir trop gueulé. Avec une ambiance de solidarité moqueuse, le spectacle s’embrase grâce à ses musiques entraînantes, ses personnages hauts en couleur et ses scènes comiques irrésistibles. Le public, invité à participer, pourra aider à ressusciter la grenouille avec rires, danses et chants. Une aventure théâtrale électrisante qui unit toutes les générations.",
-        "startDate": "2025-09-25T09:00:00-03:00",
+        "startDate": "2025-09-25T18:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12053",
         "location": {
@@ -63282,11 +63853,31 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "François Massicotte, l’humoriste établi apprécié de tous qui cumule plus de 35 ans d’expérience en humour, est de retour sur scène avec son 8e one-man-show : 8.0!\r\n\r\nAvec son sens du timing unique, François aborde des thèmes unificateurs à travers lesquels tous se reconnaissent, tels que la famille, le couple, la parentalité, la vieillesse et plus encore, avec humour et dérision. À travers ses aventures et histoires savoureuses, ce père de cinq enfants nous entraîne dans le tourbillon de la famille moderne avec son énergie scénique contagieuse! Doté d’un talent naturel, François s’assume, s’anime et nous transporte dans le tourbillonnement fou de la vie contemporaine. 8.0!, pour se reconnaître et en rire!",
-        "startDate": "2026-04-30T09:00:00-03:00",
+        "startDate": "2026-04-30T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12058",
+        "location": {
+          "@type": "Place",
+          "name": "Place des Arts",
+          "url": "https://scenesfrancophones.ca/node/1059",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "27 Larch St",
+            "addressLocality": "Sudbury",
+            "addressRegion": "ON",
+            "postalCode": "P3E 1B7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.491193",
+            "longitude": "-80.995528"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1059"
+        },
         "offers": {
           "@type": "Offer",
+          "url": "https://lepointdevente.com/?q=Slague&lang=en",
           "availability": "https://schema.org/InStock"
         },
         "organizer": {
@@ -64459,7 +65050,7 @@
           "creditText": "Jenn Squires"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Mimi O'Bonsawin Trio Concert est destiné aux festivals ou à la programmation grand public.\r\nAprès une tournée des festivals à travers le Canada à l'été 2023, une seconde tournée en France (printemps 2024) soutenue par l'APCM, Rue Haute Production (FR), Le Grand Bain Production (FR) et Le Labo du Convervatoir/Festival Changez D'Air (FR) et une autre tournée d'été au Canada d'un océan à l'autre, Mimi et son groupe sont rompus aux diverses programmations incluant les festivals et les centres d'arts de la scène. Mimi a entamé les démarches pour exporter son projet en France et en Europe.",
+        "description": "Mimi O’Bonsawin est une autrice-compositrice-interprète franco-ontarienne et W8banaki (Abénakise), membre de la Première Nation d’Odanak. Sa musique, à la fois influencée par ses origines autochtones et la pop acoustique, est portée par des textes sensibles, des rythmes organiques et une profonde connexion à la nature. Accompagnée par Ryan Schurman à la batterie et aux percussions,elle propose une performance à la fois intime et vibrante, mêlant poésie, groove et émotions sincères. Pour Mimi, « la musique est un jardin que nous partageons ».",
         "startDate": "2026-03-27T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12103",
@@ -64498,7 +65089,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4408",
             "url": "https://scenesfrancophones.ca/artistes/mimi-obonsawin",
-            "name": "Mimi O'bonsawin"
+            "name": "Mimi O'Bonsawin"
           }
         ]
       }
@@ -64521,7 +65112,7 @@
           "creditText": "Jenn Squires"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Mimi O'Bonsawin Trio Concert est destiné aux festivals ou à la programmation grand public.\r\nAprès une tournée des festivals à travers le Canada à l'été 2023, une seconde tournée en France (printemps 2024) soutenue par l'APCM, Rue Haute Production (FR), Le Grand Bain Production (FR) et Le Labo du Convervatoir/Festival Changez D'Air (FR) et une autre tournée d'été au Canada d'un océan à l'autre, Mimi et son groupe sont rompus aux diverses programmations incluant les festivals et les centres d'arts de la scène. Mimi a entamé les démarches pour exporter son projet en France et en Europe.",
+        "description": "Mimi O’Bonsawin est une autrice-compositrice-interprète franco-ontarienne et W8banaki (Abénakise), membre de la Première Nation d’Odanak. Sa musique, à la fois influencée par ses origines autochtones et la pop acoustique, est portée par des textes sensibles, des rythmes organiques et une profonde connexion à la nature. Accompagnée par Ryan Schurman à la batterie et aux percussions,elle propose une performance à la fois intime et vibrante, mêlant poésie, groove et émotions sincères. Pour Mimi, « la musique est un jardin que nous partageons ».",
         "startDate": "2026-03-28T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12104",
@@ -64560,7 +65151,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/4408",
             "url": "https://scenesfrancophones.ca/artistes/mimi-obonsawin",
-            "name": "Mimi O'bonsawin"
+            "name": "Mimi O'Bonsawin"
           }
         ]
       }
@@ -66233,7 +66824,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Affiches%20TSAR%2025-26%20%28695%20x%20380%20px%29%20%281%29.jpg?itok=C00mGsxI",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Justin Guitard"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "On lui demande depuis qu’il est tout petit : C’est pour quand, le spectacle d’humour ? Eh bien, le voilà.\r\n\r\nNe manquez pas votre chance de constater par vous-même si Justin aurait dû continuer de s’écouter et se dire qu’il n’est pas un humoriste, ou si, finalement, le public avait raison et qu’il gaspille son vrai talent depuis le début de sa carrière.\r\n\r\nGaspiller du talent, c’est le tout premier one-man show de Justin Guitard, un artiste pluridisciplinaire qui saura vous faire rire et vous divertir avec ses anecdotes dans un feu roulant de comédie, de \"stepettes\" et de surprises.",
@@ -66271,15 +66863,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/12159",
           "url": "https://scenesfrancophones.ca/artistes/justin-guitard-1",
-          "name": "Justin Guitard",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Justin Guitard"
         }
       }
     ]
@@ -67207,7 +67794,7 @@
           "creditText": "Jocelyne Baribeau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "description": "« Micah! Joue de la musique » s’adresse aux familles ainsi qu'aux enfants de la maternelle à la 6e année. Micah! combine chant, danse (gigue canadienne-française), accessoires et jeu théâtral pour aborder des thèmes comme l’environnement, la responsabilité et le respect de soi. Le spectacle met en vedette Mme LeTemps, une horloge-marionnette attachante. Récipiendaire du prix Musique jeunesse de l’année aux Trille Or, Micah présente ce spectacle en tournée partout au pays en solo, offrant une expérience dynamique adaptée aux écoles, festivals, événements communautaires et diffuseurs jeunesse.",
         "startDate": "2025-12-05T19:00:00-06:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12235",
@@ -67246,7 +67833,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8179",
             "url": "https://scenesfrancophones.ca/artistes/micah-0",
-            "name": "MIcah!"
+            "name": "Micah!"
           }
         ]
       }
@@ -67269,7 +67856,7 @@
           "creditText": "Jocelyne Baribeau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "description": "« Micah! Joue de la musique » s’adresse aux familles ainsi qu'aux enfants de la maternelle à la 6e année. Micah! combine chant, danse (gigue canadienne-française), accessoires et jeu théâtral pour aborder des thèmes comme l’environnement, la responsabilité et le respect de soi. Le spectacle met en vedette Mme LeTemps, une horloge-marionnette attachante. Récipiendaire du prix Musique jeunesse de l’année aux Trille Or, Micah présente ce spectacle en tournée partout au pays en solo, offrant une expérience dynamique adaptée aux écoles, festivals, événements communautaires et diffuseurs jeunesse.",
         "startDate": "2025-12-06T19:00:00-06:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12236",
@@ -67308,7 +67895,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8179",
             "url": "https://scenesfrancophones.ca/artistes/micah-0",
-            "name": "MIcah!"
+            "name": "Micah!"
           }
         ]
       }
@@ -67331,7 +67918,7 @@
           "creditText": "Jocelyne Baribeau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "description": "« Micah! Joue de la musique » s’adresse aux familles ainsi qu'aux enfants de la maternelle à la 6e année. Micah! combine chant, danse (gigue canadienne-française), accessoires et jeu théâtral pour aborder des thèmes comme l’environnement, la responsabilité et le respect de soi. Le spectacle met en vedette Mme LeTemps, une horloge-marionnette attachante. Récipiendaire du prix Musique jeunesse de l’année aux Trille Or, Micah présente ce spectacle en tournée partout au pays en solo, offrant une expérience dynamique adaptée aux écoles, festivals, événements communautaires et diffuseurs jeunesse.",
         "startDate": "2025-12-07T13:00:00-06:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12237",
@@ -67370,7 +67957,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8179",
             "url": "https://scenesfrancophones.ca/artistes/micah-0",
-            "name": "MIcah!"
+            "name": "Micah!"
           }
         ]
       }
@@ -67393,7 +67980,7 @@
           "creditText": "Jocelyne Baribeau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "description": "« Micah! Joue de la musique » s’adresse aux familles ainsi qu'aux enfants de la maternelle à la 6e année. Micah! combine chant, danse (gigue canadienne-française), accessoires et jeu théâtral pour aborder des thèmes comme l’environnement, la responsabilité et le respect de soi. Le spectacle met en vedette Mme LeTemps, une horloge-marionnette attachante. Récipiendaire du prix Musique jeunesse de l’année aux Trille Or, Micah présente ce spectacle en tournée partout au pays en solo, offrant une expérience dynamique adaptée aux écoles, festivals, événements communautaires et diffuseurs jeunesse.",
         "startDate": "2025-12-09T13:00:00-06:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12238",
@@ -67432,7 +68019,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8179",
             "url": "https://scenesfrancophones.ca/artistes/micah-0",
-            "name": "MIcah!"
+            "name": "Micah!"
           }
         ]
       }
@@ -67455,7 +68042,7 @@
           "creditText": "Jocelyne Baribeau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "description": "« Micah! Joue de la musique » s’adresse aux familles ainsi qu'aux enfants de la maternelle à la 6e année. Micah! combine chant, danse (gigue canadienne-française), accessoires et jeu théâtral pour aborder des thèmes comme l’environnement, la responsabilité et le respect de soi. Le spectacle met en vedette Mme LeTemps, une horloge-marionnette attachante. Récipiendaire du prix Musique jeunesse de l’année aux Trille Or, Micah présente ce spectacle en tournée partout au pays en solo, offrant une expérience dynamique adaptée aux écoles, festivals, événements communautaires et diffuseurs jeunesse.",
         "startDate": "2025-12-11T14:00:00-06:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12239",
@@ -67494,7 +68081,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8179",
             "url": "https://scenesfrancophones.ca/artistes/micah-0",
-            "name": "MIcah!"
+            "name": "Micah!"
           }
         ]
       }
@@ -67517,7 +68104,7 @@
           "creditText": "Jocelyne Baribeau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "description": "« Micah! Joue de la musique » s’adresse aux familles ainsi qu'aux enfants de la maternelle à la 6e année. Micah! combine chant, danse (gigue canadienne-française), accessoires et jeu théâtral pour aborder des thèmes comme l’environnement, la responsabilité et le respect de soi. Le spectacle met en vedette Mme LeTemps, une horloge-marionnette attachante. Récipiendaire du prix Musique jeunesse de l’année aux Trille Or, Micah présente ce spectacle en tournée partout au pays en solo, offrant une expérience dynamique adaptée aux écoles, festivals, événements communautaires et diffuseurs jeunesse.",
         "startDate": "2025-12-13T10:00:00-06:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12240",
@@ -67556,7 +68143,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8179",
             "url": "https://scenesfrancophones.ca/artistes/micah-0",
-            "name": "MIcah!"
+            "name": "Micah!"
           }
         ]
       }
@@ -67579,7 +68166,7 @@
           "creditText": "Jocelyne Baribeau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Lauréat dans la catégorie Musique pour enfants au Gala des Prix Trille Or 2025 et finaliste dans la catégorie Children's Artist of the Year aux Western Canadian Music Awards, ce jeune Franco-Manitobain est un artiste à suivre de près. Micah! (Micah Baribeau) est un comédien, danseur et auteur-compositeur-interprète pour enfants. Il combine humour, danse et éducation dans des spectacles hauts en couleur, alliant chansons originales, accessoires éclatés et gigue franco-canadienne. Micah! utilise l’art pour transmettre des messages puissants de respect, d’inclusion et de conscience écologique.",
+        "description": "« Micah! Joue de la musique » s’adresse aux familles ainsi qu'aux enfants de la maternelle à la 6e année. Micah! combine chant, danse (gigue canadienne-française), accessoires et jeu théâtral pour aborder des thèmes comme l’environnement, la responsabilité et le respect de soi. Le spectacle met en vedette Mme LeTemps, une horloge-marionnette attachante. Récipiendaire du prix Musique jeunesse de l’année aux Trille Or, Micah présente ce spectacle en tournée partout au pays en solo, offrant une expérience dynamique adaptée aux écoles, festivals, événements communautaires et diffuseurs jeunesse.",
         "startDate": "2025-12-14T14:00:00-06:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12242",
@@ -67618,7 +68205,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/8179",
             "url": "https://scenesfrancophones.ca/artistes/micah-0",
-            "name": "MIcah!"
+            "name": "Micah!"
           }
         ]
       }
@@ -68209,7 +68796,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/GG%20-%20photo%20promo.jpg?itok=D3I-YMTF",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Mylène Desbiens Harrison"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "startDate": "2026-06-20T17:30:00-04:00",
@@ -68247,7 +68835,7 @@
         "performer": {
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/5401",
-          "url": "https://scenesfrancophones.ca/artistes/gabrielle-goulet-0",
+          "url": "https://scenesfrancophones.ca/artistes/gabrielle-goulet",
           "name": "Gabrielle Goulet"
         }
       }
@@ -69199,7 +69787,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/mimi-obonsawin-mimi-obonsawin-12530",
-        "name": "Mimi O'bonsawin - Mimi O'Bonsawin- Trio",
+        "name": "Mimi O'Bonsawin - Mimi O'Bonsawin- Trio",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -69210,7 +69798,7 @@
           "creditText": "Jen Squires"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Mimi O'Bonsawin Trio Concert est destiné aux festivals ou à la programmation grand public.\r\nAprès une tournée des festivals à travers le Canada à l'été 2023, une seconde tournée en France (printemps 2024) soutenue par l'APCM, Rue Haute Production (FR), Le Grand Bain Production (FR) et Le Labo du Convervatoir/Festival Changez D'Air (FR) et une autre tournée d'été au Canada d'un océan à l'autre, Mimi et son groupe sont rompus aux diverses programmations incluant les festivals et les centres d'arts de la scène. Mimi a entamé les démarches pour exporter son projet en France et en Europe.",
+        "description": "Mimi O’Bonsawin est une autrice-compositrice-interprète franco-ontarienne et W8banaki (Abénakise), membre de la Première Nation d’Odanak. Sa musique, à la fois influencée par ses origines autochtones et la pop acoustique, est portée par des textes sensibles, des rythmes organiques et une profonde connexion à la nature. Accompagnée par Ryan Schurman à la batterie et aux percussions,elle propose une performance à la fois intime et vibrante, mêlant poésie, groove et émotions sincères. Pour Mimi, « la musique est un jardin que nous partageons ».",
         "startDate": "2026-06-24T18:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12530",
@@ -69248,7 +69836,7 @@
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/4408",
           "url": "https://scenesfrancophones.ca/artistes/mimi-obonsawin",
-          "name": "Mimi O'bonsawin"
+          "name": "Mimi O'Bonsawin"
         }
       }
     ]
@@ -69380,8 +69968,7 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/hert%20%26%20Rh%C3%A9al%20leblanc%20%C3%A9v%C3%A8nement%20facebook.jpg?itok=qSg6DG_2",
           "width": "430",
-          "height": "430",
-          "creditText": "Yorke"
+          "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Deux artistes de Bouctouche et pas de proche parenté, venez vivre un party acadien vous invitant à chanter, rire et danser pour célébrer les 40 ans de carrière de Hert LeBlanc. Vivez une soirée mémorable au son de sa musique acadienne et country caractérisant ses 10 albums solo en carrière! Accompagné de son acolyte de toujours, Rhéal LeBlanc, retrouvez la complicité et l’humour qui caractérise leur relation. Forts de leur succès personnels ainsi qu’avec le groupe Les LeBlanc, fêtez et chantez avec Hert et Rhéal LeBlanc, car ils sont le Cowboy et le Tymeux.",
@@ -70639,17 +71226,18 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/lydol-elixir-12792",
-        "name": "Lydol -",
+        "name": "LYDOL -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Lydol%201000X1000.png?itok=Jzjtdpyy",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "David Kidd"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Première slameuse finaliste au Prix Découvertes RFI, Lydol a su imposer son nom et sa discipline: le slam, au Cameroun et en Afrique. Elle a été reconnue par le Département d’État des USA comme jeune Leader Africain Mandela Washington Fellow 2024. Récemment en Résidence de création à Montréal au Canada et à la Cité Internationale des Arts de Paris, elle se fait remarquer par ses performances slamées lors de prestigieux événements internationaux. Elle a été désignée Ambassadrice de la Collaboration Afrique-Union Européenne en 2022. \r\n\r\nElle compte dans sa discographie 2 albums, Hybride et Slamtherapie, deux EP, Fragile et Elixir, ainsi que plusieurs singles. Suivie par plus de 1 million de fans cumulés sur les réseaux sociaux, c’est sa prestation sur le plateau de «L'Afrique a un incroyable talent» qui la fait connaître du grand public. \r\nMeilleure Artiste Afro Urbain aux Canal 2Or, elle organise un concert Sold Out à Paris en juillet 2023. Lydol ne cesse d'arpenter les scènes africaines et européennes, tout en étant promotrice des festivals PluriElles, Slam’Up et de la compétition Science Slam Cameroun lancée en 2015. Elle est également fondatrice de l'Association SHEroes qui aide et accompagne les femmes et jeunes filles victimes de violences. Artiste multicarte, elle mêle aujourd'hui d'autres disciplines à ses spectacles. Elle incarne ses textes de manière théâtrale et musicale. A capella ou accompagnée de musiciens, elle n'hésite pas à danser sur scène, une manière de populariser le slam auprès d'autres publics et de sortir des cadres intimistes. \r\n\r\nLa démarche artistique de Lydol se double d'une ambition éducative. Doctorante en sciences économiques, l'artiste n'oublie pas les jeunes générations. Les ateliers d'écriture Style haut à stylo l'amènent à coacher de nouvelles plumes.",
+        "description": "Lydol, slameuse et autrice-compositrice d’origine camerounaise, installée à Montréal, est une figure clé du slam africain et international. Ambassadrice de la Collaboration Afrique-Union Européenne (2022), promotrice des festivals PluriElles, Slam’Up et de Science Slam Cameroun, elle fonde l’Association SHEroes et anime les ateliers d’écriture Style haut à stylo. Sa discographie compte 2 albums : Hybride, Slamtherapie, 2 EP : Fragile, Elixir et plusieurs singles. Lydol conjugue slam, poésie et performance pour diffuser sa voix distinctive, portée par une énergie résolument moderne et engagée.",
         "startDate": "2026-12-12T19:00:00-05:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/12792",
@@ -70684,15 +71272,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/12790",
           "url": "https://scenesfrancophones.ca/artistes/lydol",
-          "name": "Lydol",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "LYDOL"
         }
       }
     ]
@@ -71637,6 +72220,498 @@
             "http://xmlns.com/foaf/0.1/Agent",
             "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
           ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/edith-butler-le-tour-du-grand-bois-13142",
+        "name": "Édith Butler -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Edith-Butler-2-scaled.jpg?itok=lumcQLH5",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Chanteuse, conteuse, auteure-compositrice et musicienne d’exception, Edith Butler reprend la route avec la tournée Le Tour du Grand Bois, un tout nouveau spectacle coloré et dynamique!\r\n\r\nAprès la sortie de l’album du même nom réalisé par Lisa Leblanc, la grande acadienne nous offre les perles de ce nouvel opus telles que « Jerrycan », « Ti-Gars », « Dans l’bois », et plusieurs autres, sans oublier les grands succès qui ont marqué son impressionnante carrière! À plus de 80 ans, c’est une Édith Butler surprenante, plus en forme que jamais, accompagnée de 5 talentueux jeunes musiciens, qui vous convie à ce rendez-vous unique! Un spectacle mémorable de cette grande artiste de la francophonie!",
+        "startDate": "2025-10-03T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13142",
+        "location": {
+          "@type": "Place",
+          "name": "Collège Boréal",
+          "url": "https://scenesfrancophones.ca/node/13141",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "21 Lasalle Blvd",
+            "addressLocality": "Sudbury",
+            "addressRegion": "ON",
+            "postalCode": "P3A 6B1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.514978",
+            "longitude": "-80.996892"
+          },
+          "@id": "https://scenesfrancophones.ca/id/13141"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/?q=Slague&lang=en",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/82",
+          "name": "La Slague du Carrefour francophone de Sudbury",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13139",
+          "url": "https://scenesfrancophones.ca/artistes/edith-butler-1",
+          "name": "Édith Butler",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/etienne-fletcher-et-caroline-savoie-plateau-double-13154",
+        "name": "Étienne Fletcher et Caroline Savoie -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/plateaudouble-e1749476966823.jpeg?itok=hnf8Z5cF",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Plateau double\r\n\r\n1re partie – Caroline Savoie\r\n\r\nÀ la fois grande romantique et petite comique, elle chante l’amour triomphant ou douloureux. L’Acadienne sait naviguer les eaux calmes et les tempêtes. S’assumer, faire ses propres choix, c’est son chemin de vie. Au fil de centaines de spectacles au Canada, aux États-Unis et en Europe, sa voix nuancée résonne longtemps après le spectacle.\r\n\r\n2e partie – Étienne Fletcher\r\n\r\nIl se dégage de son univers quelque chose de profondément touchant. Il y a de tendres blessures dans sa voix et ses paroles. Il sait trouver les mots et la musicalité qu’il faut pour faire planer le chant de la vie, de la mort et de ce qui respire entre les deux. Son spectacle intimiste et prenant porte en son cœur sa fierté francophone de l’Ouest canadien.",
+        "startDate": "2025-10-17T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13154",
+        "location": {
+          "@type": "Place",
+          "name": "Place des Arts",
+          "url": "https://scenesfrancophones.ca/node/1059",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "27 Larch St",
+            "addressLocality": "Sudbury",
+            "addressRegion": "ON",
+            "postalCode": "P3E 1B7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.491193",
+            "longitude": "-80.995528"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1059"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/?q=Slague&lang=fr",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/82",
+          "name": "La Slague du Carrefour francophone de Sudbury",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13152",
+          "url": "https://scenesfrancophones.ca/artistes/etienne-fletcher-et-caroline-savoie",
+          "name": "Étienne Fletcher et Caroline Savoie",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-13156",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Le-TT-Joel-Ducharme-cellule_ecriture_TNO_fevrier_2024_2-e1749130876936.jpg?itok=FzdlvzV7",
+          "width": "430",
+          "height": "430",
+          "creditText": "Omar Morson"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2025-11-13T19:30:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13156",
+        "location": {
+          "@type": "Place",
+          "name": "Place des Arts",
+          "url": "https://scenesfrancophones.ca/node/1059",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "27 Larch St",
+            "addressLocality": "Sudbury",
+            "addressRegion": "ON",
+            "postalCode": "P3E 1B7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.491193",
+            "longitude": "-80.995528"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1059"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/?q=Slague&lang=fr",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/82",
+          "name": "La Slague du Carrefour francophone de Sudbury",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5731",
+          "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+          "name": "Caroline Raynaud"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-13158",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Le-TT-Joel-Ducharme-cellule_ecriture_TNO_fevrier_2024_2-e1749130876936_0.jpg?itok=23Al1vcL",
+          "width": "430",
+          "height": "430",
+          "creditText": "Omar Morson"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2025-11-14T19:30:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13158",
+        "location": {
+          "@type": "Place",
+          "name": "Place des Arts",
+          "url": "https://scenesfrancophones.ca/node/1059",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "27 Larch St",
+            "addressLocality": "Sudbury",
+            "addressRegion": "ON",
+            "postalCode": "P3E 1B7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.491193",
+            "longitude": "-80.995528"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1059"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/?q=Slague&lang=fr",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/82",
+          "name": "La Slague du Carrefour francophone de Sudbury",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5731",
+          "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+          "name": "Caroline Raynaud"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-13160",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Le-TT-Joel-Ducharme-cellule_ecriture_TNO_fevrier_2024_2-e1749130876936_1.jpg?itok=XbRI7QhV",
+          "width": "430",
+          "height": "430",
+          "creditText": "Omar Morson"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2025-11-15T14:30:00-05:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13160",
+        "location": {
+          "@type": "Place",
+          "name": "Place des Arts",
+          "url": "https://scenesfrancophones.ca/node/1059",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "27 Larch St",
+            "addressLocality": "Sudbury",
+            "addressRegion": "ON",
+            "postalCode": "P3E 1B7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.491193",
+            "longitude": "-80.995528"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1059"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/?q=Slague&lang=fr",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/82",
+          "name": "La Slague du Carrefour francophone de Sudbury",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/5731",
+          "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+          "name": "Caroline Raynaud"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/major-et-moran-bunker-ciel-ouvert-13164",
+        "name": "Major et Moran -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/3.png?itok=Z6d0AAlr",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Ils sont amoureux, parents et collaborateurs. Elle compose des musiques, il écrit des paroles. Pour la première fois, avec ce projet, ils mettent tout ce qui les habite dans un album et un spectacle, intitulés  Bunker à ciel ouvert.\r\n\r\nUne vie commune couchée sur un projet musical qui porte leur empreinte, celle d’un amour qui se déploie depuis plus de quinze ans. Celle du regard qu’ils posent ensemble sur le monde. \r\n\r\nAu fil de leur parcours, ils ont fait naître des chansons tendres et profondes non seulement pour eux-mêmes, mais pour des interprètes comme Diane Dufresne, Luce Dufault et Marie-Denise Pelletier. Les enfants ont grandi et le temps est venu de recommencer à créer pour eux-mêmes et reprendre la route. \r\n\r\nAccompagnés des trois musiciens avec lesquels ils ont concocté l’album, ils présenteront en concert le fruit de ce projet en duo et revisiteront ensemble quelques-uns des classiques de leurs répertoires respectifs. \r\n\r\nUn projet unique dans lequel vous pourrez plonger avec le duo  Major-Moran.",
+        "startDate": "2026-05-14T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13164",
+        "location": {
+          "@type": "Place",
+          "name": "Place des Arts",
+          "url": "https://scenesfrancophones.ca/node/1059",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "27 Larch St",
+            "addressLocality": "Sudbury",
+            "addressRegion": "ON",
+            "postalCode": "P3E 1B7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.491193",
+            "longitude": "-80.995528"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1059"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/?q=Slague&lang=fr",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/82",
+          "name": "La Slague du Carrefour francophone de Sudbury",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13162",
+          "url": "https://scenesfrancophones.ca/artistes/major-et-moran",
+          "name": "Major et Moran",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/damien-robitaille-ultraviolet-13168",
+        "name": "Damien Robitaille -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Dam-Rob.png?itok=ktAPNs-a",
+          "width": "430",
+          "height": "430",
+          "creditText": "Martin Girard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Damien Robitaille éblouit son public avec sa polyvalence, jonglant avec virtuosité entre les instruments et les styles musicaux.  Des refrains entraînants aux balades poignantes, il sait comment captiver son auditoire et créer une atmosphère où règnent la complicité et la bonne humeur.  Une expérience musicale à la fois intime et énergique.  Accompagné de ses talentueux musiciens, Damien vous transporte dans un tourbillon de joie et de bonne humeur, créant ainsi une ambiance festive où la musique et la convivialité se mêlent pour créer des instants de pur bonheur.\r\nMise en scène Laurent Paquin",
+        "startDate": "2026-06-18T16:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13168",
+        "location": {
+          "@type": "Place",
+          "name": "Place des Arts",
+          "url": "https://scenesfrancophones.ca/node/1059",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "27 Larch St",
+            "addressLocality": "Sudbury",
+            "addressRegion": "ON",
+            "postalCode": "P3E 1B7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.491193",
+            "longitude": "-80.995528"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1059"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/?q=Slague&lang=fr",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/82",
+          "name": "La Slague du Carrefour francophone de Sudbury",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/8322",
+          "url": "https://scenesfrancophones.ca/artistes/damien-robitaille",
+          "name": "Damien Robitaille"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/damien-robitaille-ultraviolet-13169",
+        "name": "Damien Robitaille -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Dam-Rob_0.png?itok=M-8I4ReA",
+          "width": "430",
+          "height": "430",
+          "creditText": "Martin Girard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Damien Robitaille éblouit son public avec sa polyvalence, jonglant avec virtuosité entre les instruments et les styles musicaux.  Des refrains entraînants aux balades poignantes, il sait comment captiver son auditoire et créer une atmosphère où règnent la complicité et la bonne humeur.  Une expérience musicale à la fois intime et énergique.  Accompagné de ses talentueux musiciens, Damien vous transporte dans un tourbillon de joie et de bonne humeur, créant ainsi une ambiance festive où la musique et la convivialité se mêlent pour créer des instants de pur bonheur.\r\nMise en scène Laurent Paquin",
+        "startDate": "2026-06-18T20:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13169",
+        "location": {
+          "@type": "Place",
+          "name": "Place des Arts",
+          "url": "https://scenesfrancophones.ca/node/1059",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "27 Larch St",
+            "addressLocality": "Sudbury",
+            "addressRegion": "ON",
+            "postalCode": "P3E 1B7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.491193",
+            "longitude": "-80.995528"
+          },
+          "@id": "https://scenesfrancophones.ca/id/1059"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/?q=Slague&lang=fr",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/82",
+          "name": "La Slague du Carrefour francophone de Sudbury",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/8322",
+          "url": "https://scenesfrancophones.ca/artistes/damien-robitaille",
+          "name": "Damien Robitaille"
         }
       }
     ]
@@ -76593,6 +77668,30 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/13141",
+        "name": "Collège Boréal",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "21 Lasalle Blvd",
+          "addressLocality": "Sudbury",
+          "addressRegion": "ON",
+          "postalCode": "P3A 6B1",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "46.514978",
+          "longitude": "-80.996892"
+        },
+        "@id": "https://scenesfrancophones.ca/id/13141"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/24",
         "url": "https://www.carrefourisj.org/",
@@ -76939,7 +78038,7 @@
         "@id": "https://scenesfrancophones.ca/id/33",
         "url": "https://www.lemoulin.ca/",
         "description": "L’Association Le Moulin de la Baie Sainte Marie (communément connu comme Les Productions Le Moulin) est un organisme à but non-lucratif qui a comme but de présenter une grande variété de spectacles de qualité pour les gens de la région de Clare et du sud-ouest de la Nouvelle-Écosse.",
-        "name": "Les Productions Le Moulin",
+        "name": "Association le Moulin de la Baie Sainte-Marie",
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "(902) 769-3288",
@@ -76952,7 +78051,7 @@
           "width": "480",
           "height": "480"
         },
-        "mainEntityOfPage": "https://scenesfrancophones.ca/diffuseurs/les-productions-le-moulin",
+        "mainEntityOfPage": "https://scenesfrancophones.ca/diffuseurs/association-le-moulin-de-la-baie-sainte-marie",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "C.P. 142",
@@ -78076,7 +79175,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "(902) 439-1630",
-          "email": "ccarsenault@edu.pe.ca"
+          "email": "ccarsenault@gov.pe.ca"
         },
         "logo": {
           "@type": "ImageObject",
