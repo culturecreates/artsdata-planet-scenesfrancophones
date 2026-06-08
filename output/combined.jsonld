@@ -493,7 +493,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/269",
         "url": "https://scenesfrancophones.ca/artistes/yao",
-        "name": "YAO"
+        "name": "Yao"
       }
     ]
   },
@@ -2748,14 +2748,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/5984",
         "url": "https://scenesfrancophones.ca/artistes/richardson-zephir",
-        "name": "Richardson Zéphir",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2024-07/Richardson%20Ze%CC%81phir%20-%20Sf.png?itok=SJ1dYErK",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Richardson Zéphir"
       }
     ]
   },
@@ -12949,6 +12942,199 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13243",
+        "url": "https://scenesfrancophones.ca/artistes/kelsey-albert",
+        "name": "Kelsey Albert"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13245",
+        "url": "https://scenesfrancophones.ca/artistes/yves-landry",
+        "name": "Yves Landry"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13247",
+        "url": "https://scenesfrancophones.ca/artistes/ptit-bouya",
+        "name": "P'tit Bouya"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13266",
+        "url": "https://scenesfrancophones.ca/artistes/aluma-hudu",
+        "name": "Aluma - HUDU"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/13268",
+        "url": "https://scenesfrancophones.ca/artistes/remi-caroline-et-famille",
+        "name": "Rémi, Caroline et famille"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13270",
+        "url": "https://scenesfrancophones.ca/artistes/productions-strada",
+        "name": "Productions Strada"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13292",
+        "url": "https://scenesfrancophones.ca/artistes/diane-tell-0",
+        "name": "Diane Tell",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-06/Visuel_Officiel_Tournee-50-i_aime_Diane-Tell_carree_%E2%92%B8%20Guillaume%20Bernon%20%281%29.jpg?itok=7_TNzHy-",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13293",
+        "url": "https://scenesfrancophones.ca/artistes/jean-francois-mercier-0",
+        "name": "Jean-François Mercier",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-06/Mercier-affiche-1X1.jpg?itok=k4AL_YhK",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13298",
+        "url": "https://scenesfrancophones.ca/artistes/liliane-cormier",
+        "name": "Liliane Cormier",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-06/Lilianne%20Cormier.jpeg?itok=4sb-CO3J",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13299",
+        "url": "https://scenesfrancophones.ca/artistes/21-novembre-theatre-populaire-dacadie",
+        "name": "21 NOVEMBRE - Théâtre populaire d'Acadie",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-06/PROMO%201%20%28Cre%CC%81dit-Julie%20d%27Amour-Le%CC%81ger%29.jpg?itok=-xXpABqp",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13308",
+        "url": "https://scenesfrancophones.ca/artistes/productions-kalabante",
+        "name": "Productions Kalabanté"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13318",
+        "url": "https://scenesfrancophones.ca/artistes/paul-hebert",
+        "name": "Paul Hébert",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-06/Paul%20Hebert.jpg?itok=YGhlOfA8",
+          "width": "480",
+          "height": "480"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13323",
+        "url": "https://scenesfrancophones.ca/artistes/theatre-lenvers",
+        "name": "Théâtre À l'Envers"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/marcher-linfini-961",
         "name": "Marcher à l'infini",
@@ -22228,7 +22414,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Richardson%20Ze%CC%81phir%20-%20Sf.png?itok=oUavQW42",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Entourage"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Richardson Zéphir, grand gagnant du prix du public de l’émission Big Brother Célébrités, présente son premier one-man-show ZÉPHIR. Richardson se démarque en stand-up par son énergie explosive, ses interprétations aux mimiques bien typées et ses blagues livrées à un rythme effréné. Véritable showman, l’humoriste nous entraine dans un feu roulant avec ses personnages aux multiples voix à la fois excentriques et recherchés. Nul ne peut résister à ce charismatique comique qui offre une performance scénique tout simplement hilarante!",
@@ -22289,7 +22476,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Richardson%20Ze%CC%81phir%20-%20Sf.png?itok=oUavQW42",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Entourage"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Richardson Zéphir, grand gagnant du prix du public de l’émission Big Brother Célébrités, présente son premier one-man-show ZÉPHIR. Richardson se démarque en stand-up par son énergie explosive, ses interprétations aux mimiques bien typées et ses blagues livrées à un rythme effréné. Véritable showman, l’humoriste nous entraine dans un feu roulant avec ses personnages aux multiples voix à la fois excentriques et recherchés. Nul ne peut résister à ce charismatique comique qui offre une performance scénique tout simplement hilarante!",
@@ -22350,7 +22538,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Richardson%20Ze%CC%81phir%20-%20Sf.png?itok=oUavQW42",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Entourage"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Richardson Zéphir, grand gagnant du prix du public de l’émission Big Brother Célébrités, présente son premier one-man-show ZÉPHIR. Richardson se démarque en stand-up par son énergie explosive, ses interprétations aux mimiques bien typées et ses blagues livrées à un rythme effréné. Véritable showman, l’humoriste nous entraine dans un feu roulant avec ses personnages aux multiples voix à la fois excentriques et recherchés. Nul ne peut résister à ce charismatique comique qui offre une performance scénique tout simplement hilarante!",
@@ -22411,7 +22600,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Richardson%20Ze%CC%81phir%20-%20Sf.png?itok=oUavQW42",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Entourage"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Richardson Zéphir, grand gagnant du prix du public de l’émission Big Brother Célébrités, présente son premier one-man-show ZÉPHIR. Richardson se démarque en stand-up par son énergie explosive, ses interprétations aux mimiques bien typées et ses blagues livrées à un rythme effréné. Véritable showman, l’humoriste nous entraine dans un feu roulant avec ses personnages aux multiples voix à la fois excentriques et recherchés. Nul ne peut résister à ce charismatique comique qui offre une performance scénique tout simplement hilarante!",
@@ -22472,7 +22662,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Richardson%20Ze%CC%81phir%20-%20Sf.png?itok=oUavQW42",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Entourage"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Richardson Zéphir, grand gagnant du prix du public de l’émission Big Brother Célébrités, présente son premier one-man-show ZÉPHIR. Richardson se démarque en stand-up par son énergie explosive, ses interprétations aux mimiques bien typées et ses blagues livrées à un rythme effréné. Véritable showman, l’humoriste nous entraine dans un feu roulant avec ses personnages aux multiples voix à la fois excentriques et recherchés. Nul ne peut résister à ce charismatique comique qui offre une performance scénique tout simplement hilarante!",
@@ -22533,7 +22724,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2024-07/Richardson%20Ze%CC%81phir%20-%20Sf.png?itok=oUavQW42",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Entourage"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Richardson Zéphir, grand gagnant du prix du public de l’émission Big Brother Célébrités, présente son premier one-man-show ZÉPHIR. Richardson se démarque en stand-up par son énergie explosive, ses interprétations aux mimiques bien typées et ses blagues livrées à un rythme effréné. Véritable showman, l’humoriste nous entraine dans un feu roulant avec ses personnages aux multiples voix à la fois excentriques et recherchés. Nul ne peut résister à ce charismatique comique qui offre une performance scénique tout simplement hilarante!",
@@ -36625,7 +36817,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/richardson-zephir-zephir-8225",
-        "name": "Richardson Zéphir -",
+        "name": "Richardson Zéphir  -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Richardson Zéphir, grand gagnant du prix du public de l’émission Big Brother Célébrités, présente son premier one-man-show ZÉPHIR. Richardson se démarque en stand-up par son énergie explosive, ses interprétations aux mimiques bien typées et ses blagues livrées à un rythme effréné. Véritable showman, l’humoriste nous entraine dans un feu roulant avec ses personnages aux multiples voix à la fois excentriques et recherchés. Nul ne peut résister à ce charismatique comique qui offre une performance scénique tout simplement hilarante!",
@@ -44606,7 +44798,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/yao-kintsugi-la-beaute-dans-le-chaos-8928",
-        "name": "YAO - Kintsugi : La beauté dans le chaos",
+        "name": "Yao - Kintsugi : La beauté dans le chaos",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Entre slam, soul, funk et sonorités afro, YAO explore les thèmes de la peine, de la résilience et de l’espoir, dans ce spectacle personnel et thérapeutique. Inspiré de son nouvel album du même nom, il utilise ses talents de parolier et d’interprète pour transformer ses blessures de vie en immersion sensorielle, poétique et musicale. Le Kintsugi, c’est l'art japonais de réparer la poterie cassée avec de l'or – transformant ainsi les fissures, et l’objet par le fait même, en œuvre d'art plus belle et plus forte.",
@@ -44646,7 +44838,7 @@
           "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/269",
           "url": "https://scenesfrancophones.ca/artistes/yao",
-          "name": "YAO"
+          "name": "Yao"
         }
       }
     ]
@@ -45103,7 +45295,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/richardson-zephir-zephir-8955",
-        "name": "Richardson Zéphir -",
+        "name": "Richardson Zéphir  -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Richardson Zéphir, grand gagnant du prix du public de l’émission Big Brother Célébrités, présente son premier one-man-show ZÉPHIR. Richardson se démarque en stand-up par son énergie explosive, ses interprétations aux mimiques bien typées et ses blagues livrées à un rythme effréné. Véritable showman, l’humoriste nous entraine dans un feu roulant avec ses personnages aux multiples voix à la fois excentriques et recherchés. Nul ne peut résister à ce charismatique comique qui offre une performance scénique tout simplement hilarante!",
@@ -72720,6 +72912,67 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/tcheu-misere-13358",
+        "name": "Tcheu Misère",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/TCHEU%20MISE%CC%80RE%20PHOTO%202.jpg?itok=nrBAtiC9",
+          "width": "430",
+          "height": "430",
+          "creditText": "Aurum Waves"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Tcheu Misère propose un spectacle vibrant, énergique et rassembleur, parfait pour le grand public et les festivals. Mettant en valeur un mélange unique de rock, blues et rap infusé de leurs racines acadiennes, le groupe offre une expérience musicale singulière et puissante qui fait bouger et vibrer les foules de tous âges. Leur présence scénique électrisante et leur passion contagieuse pour la musique font de chaque performance un moment de partage inoubliable avec le public.",
+        "startDate": "2027-05-22T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13358",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Multifonctionnelle Denis-Richard",
+          "url": "https://scenesfrancophones.ca/node/524",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "706, rue Principale",
+            "addressLocality": "Petit-Rocher",
+            "addressRegion": "NB",
+            "postalCode": "E8J 1V1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.77321",
+            "longitude": "-65.71659"
+          },
+          "@id": "https://scenesfrancophones.ca/id/524"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/54",
+          "name": "Société culturelle régionale Nepisiguit",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-nepisiguit"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/8067",
+            "url": "https://scenesfrancophones.ca/artistes/tcheu-misere-0",
+            "name": "Tcheu Misère"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/457",
         "name": "Atrium de l'ACFSJ",
@@ -77808,13 +78061,13 @@
       {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/27",
-        "url": "https://www.cooperativeculturelledemontcarmel.com/",
+        "url": "https://www.cdcpmc.com/",
         "description": "Depuis ses débuts en 2008, la Série de spectacles à Mont-Carmel, organisée par la Coopérative de développement culturel et patrimonial de Mont-Carmel, a contribué à la prestation d’au-delà de 800 artistes et 300 danseurs. En 2020 et 2021, due à la pandémie mondiale de la COVID-19, ils ont présenté une série de spectacles virtuels et, par l’entremise de 18 spectacles seulement,",
         "name": "La Coopérative de développement culturel et patrimonial de Mont-Carmel",
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "(902) 439-0126",
-          "email": "info@cooperativeculturelledemontcarmel.com"
+          "email": "info@cdcpmc.com"
         },
         "logo": {
           "@type": "ImageObject",
