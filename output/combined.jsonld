@@ -8211,14 +8211,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/10036",
         "url": "https://scenesfrancophones.ca/artistes/benny-jones-0",
-        "name": "Benny Jones",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%2812%29.png?itok=uVKGFpUg",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Benny Jones"
       }
     ]
   },
@@ -12183,22 +12176,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/12858",
         "url": "https://scenesfrancophones.ca/artistes/vince-lemire-0",
-        "name": "Vince Lemire",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Photo%20de%20presse%20Vince%20Lemire%202024-2025.jpg?itok=llR-z8ez",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Vince Lemire"
       }
     ]
   },
@@ -12733,7 +12714,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Person",
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/13170",
         "url": "https://scenesfrancophones.ca/artistes/raffy",
         "name": "Raffy"
@@ -12977,8 +12958,15 @@
       {
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/13266",
-        "url": "https://scenesfrancophones.ca/artistes/aluma-hudu",
-        "name": "Aluma - HUDU"
+        "url": "https://scenesfrancophones.ca/artistes/aluma",
+        "name": "Aluma",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-06/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-06-12%20a%CC%80%2009.35.09_0.png?itok=9oTowb6n",
+          "width": "480",
+          "height": "480"
+        }
       }
     ]
   },
@@ -13128,6 +13116,183 @@
         "@id": "https://scenesfrancophones.ca/id/13323",
         "url": "https://scenesfrancophones.ca/artistes/theatre-lenvers",
         "name": "Théâtre À l'Envers"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13403",
+        "url": "https://scenesfrancophones.ca/artistes/cirque-nomade",
+        "name": "Cirque Nomade"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13409",
+        "url": "https://scenesfrancophones.ca/artistes/carl-mayotte",
+        "name": "Carl Mayotte"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13410",
+        "url": "https://scenesfrancophones.ca/artistes/carl-mayotte-0",
+        "name": "Carl Mayotte"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13558",
+        "url": "https://scenesfrancophones.ca/artistes/michel-rivard-0",
+        "name": "Michel Rivard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13561",
+        "url": "https://scenesfrancophones.ca/artistes/diane-tell-1",
+        "name": "Diane Tell"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13564",
+        "url": "https://scenesfrancophones.ca/artistes/arnaud-soly-0",
+        "name": "Arnaud Soly"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13567",
+        "url": "https://scenesfrancophones.ca/artistes/laurence-jalbert",
+        "name": "Laurence Jalbert"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13570",
+        "url": "https://scenesfrancophones.ca/artistes/fred-pellerin-0",
+        "name": "Fred Pellerin"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13573",
+        "url": "https://scenesfrancophones.ca/artistes/isabelle-cyr-et-yves-marchand",
+        "name": "Isabelle Cyr et Yves Marchand"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13576",
+        "url": "https://scenesfrancophones.ca/artistes/broue",
+        "name": "Broue"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13579",
+        "url": "https://scenesfrancophones.ca/artistes/lou-adriane-cassidy-0",
+        "name": "Lou-Adriane Cassidy"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13583",
+        "url": "https://scenesfrancophones.ca/artistes/mariana-mazza-1",
+        "name": "Mariana Mazza"
       }
     ]
   },
@@ -44656,7 +44821,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/pako-pako-8891",
+        "url": "https://scenesfrancophones.ca/spectacles/pako-8891",
         "name": "Pako -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -48426,7 +48591,7 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/improteine-improteine-9527",
+        "url": "https://scenesfrancophones.ca/spectacles/improteine-9527",
         "name": "Improtéine - Improtéine",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -59995,7 +60160,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Tout frais sortant des confins du Nord-Ouest du Nouveau-Brunswick, La Grosse Équipe arrive avec un tout premier album et spectacle, \"Rose Motel\". Ce spectacle, c'est une véritable bombe de rock n' roll francophone. Un son PESANT, des paroles à la fois crues et réfléchies et des membres qui n’ont pas peur de faire le PARTY et de faire grouiller les gens. La Grosse Équipe ne reste personne indifférent et ne sont là que pour une seule raison: vous faire passer un good time. Comme ils le disent si bien eux-mêmes : on a eu l’air fou, mais ô moins on aura eu bien du fun!",
-        "startDate": "2026-03-12T19:30:00-03:00",
+        "startDate": "2027-02-13T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11906",
         "location": {
@@ -62409,7 +62574,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Découvrez le spectacle Layon de la formation Nicolas Pellerin et Les Grands Hurleurs! Le public est appelé à la fête, aux moments plus touchants, le tout enrobé par des histoires qui viennent unifier l’expérience. Toujours dans un esprit créatif, dansant et organique, ce groupe a lancé son 6 e album. Layon se vit comme une randonnée musicale en sentier sur fond de musique trad, avec des parfums mélodiques, des dénivelés rythmiques et des paysages atmosphériques inspirants d’air pur. Un spectacle bien ancré dans le groove, un son acoustique et une énergie plus rock qui se dégage grâce aux excellents Grands Hurleurs qui sont désormais Simon Lepage, Louis Thibault et Phil Girard.",
-        "startDate": "2026-07-13T19:00:00-03:00",
+        "startDate": "2025-07-13T19:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11950",
         "location": {
@@ -65230,8 +65395,8 @@
     "@graph": [
       {
         "@type": "Event",
-        "url": "https://scenesfrancophones.ca/spectacles/mimi-obonsawin-mimi-obonsawin-12103",
-        "name": "Mimi O'bonsawin - Mimi O'Bonsawin",
+        "url": "https://scenesfrancophones.ca/spectacles/mimi-obonsawin-12103",
+        "name": "Mimi O'Bonsawin",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -72973,6 +73138,3074 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/tcheu-misere-13473",
+        "name": "Tcheu Misère",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/TCHEU%20MISE%CC%80RE%20PHOTO%202.jpg?itok=nrBAtiC9",
+          "width": "430",
+          "height": "430",
+          "creditText": "Aurum Waves"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Tcheu Misère propose un spectacle vibrant, énergique et rassembleur, parfait pour le grand public et les festivals. Mettant en valeur un mélange unique de rock, blues et rap infusé de leurs racines acadiennes, le groupe offre une expérience musicale singulière et puissante qui fait bouger et vibrer les foules de tous âges. Leur présence scénique électrisante et leur passion contagieuse pour la musique font de chaque performance un moment de partage inoubliable avec le public.",
+        "startDate": "2027-03-20T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13473",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Uni - Salle Alma",
+          "url": "https://scenesfrancophones.ca/node/491",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "256, rue Notre Dame",
+            "addressLocality": "Atholville",
+            "addressRegion": "NB",
+            "postalCode": "E3N 3Z9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.987503",
+            "longitude": "-66.72306"
+          },
+          "@id": "https://scenesfrancophones.ca/id/491"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/48",
+          "name": "Société culturelle de la Baie des Chaleurs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/8067",
+            "url": "https://scenesfrancophones.ca/artistes/tcheu-misere-0",
+            "name": "Tcheu Misère"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/tcheu-misere-13474",
+        "name": "Tcheu Misère",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/TCHEU%20MISE%CC%80RE%20PHOTO%202.jpg?itok=nrBAtiC9",
+          "width": "430",
+          "height": "430",
+          "creditText": "Aurum Waves"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Tcheu Misère propose un spectacle vibrant, énergique et rassembleur, parfait pour le grand public et les festivals. Mettant en valeur un mélange unique de rock, blues et rap infusé de leurs racines acadiennes, le groupe offre une expérience musicale singulière et puissante qui fait bouger et vibrer les foules de tous âges. Leur présence scénique électrisante et leur passion contagieuse pour la musique font de chaque performance un moment de partage inoubliable avec le public.",
+        "startDate": "2027-05-15T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13474",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Multifonctionnelle Denis-Richard",
+          "url": "https://scenesfrancophones.ca/node/524",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "706, rue Principale",
+            "addressLocality": "Petit-Rocher",
+            "addressRegion": "NB",
+            "postalCode": "E8J 1V1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.77321",
+            "longitude": "-65.71659"
+          },
+          "@id": "https://scenesfrancophones.ca/id/524"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/54",
+          "name": "Société culturelle régionale Nepisiguit",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-nepisiguit"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/8067",
+            "url": "https://scenesfrancophones.ca/artistes/tcheu-misere-0",
+            "name": "Tcheu Misère"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/agathe-et-adrien-normes-13482",
+        "name": "Agathe et Adrien -  N.Ormes ",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Poster%20N.Ormes%20for%20NECCA%20%281%29.jpg?itok=_iCEmoQC",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "N.Ormes est un spectacle de cirque d’une heure, à travers lequel le duo Agathe et Adrien repousse les limites et les attentes de leurs propres corps et des normes genrées. Provocante, dysfonctionnelle et tendre, cette pièce amène le spectateur à remettre en question ses propres a priori. L’histoire met en scène deux protagonistes et leur relation naviguant entre complicité et lutte de pouvoir. Alliant habilement main à main, jeux icariens et danse, la scène devient une arène. Peu à peu, les archétypes tombent au combat, laissant place à une quête d’amitié, d’équité, en puissance et en fluidité. Avec une scénographie minimaliste, et l’éclairage riche de Claire Seyller, nous suivons cette relation à travers des moments de frénésie et d'épuisement. La partition originale de Simon Leoza nous porte à travers l'évolution intime et grandiose des protagonistes, où l’échange de rôles et des portés, comme nouveau langage, brouille toutes nos préconceptions.",
+        "startDate": "2027-03-27T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13482",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Bernard Poirier",
+          "url": "https://scenesfrancophones.ca/node/468",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "715, rue Priestman",
+            "addressLocality": "Fredericton",
+            "addressRegion": "NB",
+            "postalCode": "E3B 5W7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.941773",
+            "longitude": "-66.651817"
+          },
+          "@id": "https://scenesfrancophones.ca/id/468"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/38",
+          "name": "Centre communautaire Sainte-Anne",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-communautaire-sainte-anne"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12496",
+            "url": "https://scenesfrancophones.ca/artistes/agathe-et-adrien",
+            "name": "Agathe et Adrien"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/agathe-et-adrien-normes-13484",
+        "name": "Agathe et Adrien -  N.Ormes ",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Poster%20N.Ormes%20for%20NECCA%20%281%29.jpg?itok=_iCEmoQC",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "N.Ormes est un spectacle de cirque d’une heure, à travers lequel le duo Agathe et Adrien repousse les limites et les attentes de leurs propres corps et des normes genrées. Provocante, dysfonctionnelle et tendre, cette pièce amène le spectateur à remettre en question ses propres a priori. L’histoire met en scène deux protagonistes et leur relation naviguant entre complicité et lutte de pouvoir. Alliant habilement main à main, jeux icariens et danse, la scène devient une arène. Peu à peu, les archétypes tombent au combat, laissant place à une quête d’amitié, d’équité, en puissance et en fluidité. Avec une scénographie minimaliste, et l’éclairage riche de Claire Seyller, nous suivons cette relation à travers des moments de frénésie et d'épuisement. La partition originale de Simon Leoza nous porte à travers l'évolution intime et grandiose des protagonistes, où l’échange de rôles et des portés, comme nouveau langage, brouille toutes nos préconceptions.",
+        "startDate": "2027-04-29T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13484",
+        "location": {
+          "@type": "Place",
+          "name": "Salle de spectacle du Centre culturel de Caraquet",
+          "url": "https://scenesfrancophones.ca/node/471",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "220, boulevard Saint-Pierre Ouest",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.788818",
+            "longitude": "-64.964955"
+          },
+          "@id": "https://scenesfrancophones.ca/id/471"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12496",
+            "url": "https://scenesfrancophones.ca/artistes/agathe-et-adrien",
+            "name": "Agathe et Adrien"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/agathe-et-adrien-normes-13485",
+        "name": "Agathe et Adrien -  N.Ormes ",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Poster%20N.Ormes%20for%20NECCA%20%281%29.jpg?itok=_iCEmoQC",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "N.Ormes est un spectacle de cirque d’une heure, à travers lequel le duo Agathe et Adrien repousse les limites et les attentes de leurs propres corps et des normes genrées. Provocante, dysfonctionnelle et tendre, cette pièce amène le spectateur à remettre en question ses propres a priori. L’histoire met en scène deux protagonistes et leur relation naviguant entre complicité et lutte de pouvoir. Alliant habilement main à main, jeux icariens et danse, la scène devient une arène. Peu à peu, les archétypes tombent au combat, laissant place à une quête d’amitié, d’équité, en puissance et en fluidité. Avec une scénographie minimaliste, et l’éclairage riche de Claire Seyller, nous suivons cette relation à travers des moments de frénésie et d'épuisement. La partition originale de Simon Leoza nous porte à travers l'évolution intime et grandiose des protagonistes, où l’échange de rôles et des portés, comme nouveau langage, brouille toutes nos préconceptions.",
+        "startDate": "2027-05-01T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13485",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Gilles Laplante",
+          "url": "https://scenesfrancophones.ca/node/10382",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300 Beaverbrook Rd,",
+            "addressLocality": "Miramichi",
+            "addressRegion": "NB",
+            "postalCode": "E1V 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.008958",
+            "longitude": "-65.587482"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10382"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/37",
+          "name": "Carrefour communautaire Beausoleil",
+          "url": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12496",
+            "url": "https://scenesfrancophones.ca/artistes/agathe-et-adrien",
+            "name": "Agathe et Adrien"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/alain-choquette-entre-histoires-et-illusions-13487",
+        "name": "Alain Choquette - Entre histoires et illusions ",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/alain-choquette_mev-entourage_1080x1080-complet%20%281%29.jpg?itok=G8AjH3XF",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Maître de l’insaisissable et raconteur hors pair, Alain Choquette revient sur scène avec une nouvelle proposition aussi divertissante qu’inspirante, Entre histoires et illusions. Dans cespectacle, l’illusionniste québécois le plus charismatique et expérimenté offre à un public de tousâges de plonger avec lui dans son grand livre de la magie. Cette fois-ci, ce sont ses récitscaptivants, allant de l’histoire de la magie (Robert-Houdin, Houdini, Copperfield, Magic Tom…)aux surprenantes expériences vécues au cours de ses 35 années de carrière, qui amèneront le célèbre juge de La magie des stars (TVA) à vous éblouir tant par ses performances insaisissables que par ses connaissances historiques et sa capacité à raconter. Plus de 2 millions de billets vendus en carrière, premier Québécois à présenter un spectacle en résidence à Las Vegas, plusieurs tournées à succès en Europe, création et distribution de grands numéros magiques à l’international : Alain Choquette fait partie des grands noms de la magie à travers le monde et ne manque pas de récits et de numéros pour surprendre, faire rire et éblouir. Ayant une place de choix dans le cœur des Québécois depuis des décennies, Alain veut redonner au public en lui proposant une expérience intime, unique et interactive, qui créera des souvenirs indélébiles.Entre histoires et illusions, un spectacle dans lequel la magie prend tout son sens",
+        "startDate": "2027-01-22T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13487",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Léo-Poulin",
+          "url": "https://scenesfrancophones.ca/node/523",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300, rue Martin",
+            "addressLocality": "Edmundston",
+            "addressRegion": "NB",
+            "postalCode": "E3V 2N6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.367979",
+            "longitude": "-68.313597"
+          },
+          "@id": "https://scenesfrancophones.ca/id/523"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/41",
+          "name": "Le Centre des arts d’Edmundston",
+          "url": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12505",
+            "url": "https://scenesfrancophones.ca/artistes/alain-choquette",
+            "name": "Alain Choquette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/alain-choquette-entre-histoires-et-illusions-13488",
+        "name": "Alain Choquette - Entre histoires et illusions ",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/alain-choquette_mev-entourage_1080x1080-complet%20%281%29.jpg?itok=G8AjH3XF",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Maître de l’insaisissable et raconteur hors pair, Alain Choquette revient sur scène avec une nouvelle proposition aussi divertissante qu’inspirante, Entre histoires et illusions. Dans cespectacle, l’illusionniste québécois le plus charismatique et expérimenté offre à un public de tousâges de plonger avec lui dans son grand livre de la magie. Cette fois-ci, ce sont ses récitscaptivants, allant de l’histoire de la magie (Robert-Houdin, Houdini, Copperfield, Magic Tom…)aux surprenantes expériences vécues au cours de ses 35 années de carrière, qui amèneront le célèbre juge de La magie des stars (TVA) à vous éblouir tant par ses performances insaisissables que par ses connaissances historiques et sa capacité à raconter. Plus de 2 millions de billets vendus en carrière, premier Québécois à présenter un spectacle en résidence à Las Vegas, plusieurs tournées à succès en Europe, création et distribution de grands numéros magiques à l’international : Alain Choquette fait partie des grands noms de la magie à travers le monde et ne manque pas de récits et de numéros pour surprendre, faire rire et éblouir. Ayant une place de choix dans le cœur des Québécois depuis des décennies, Alain veut redonner au public en lui proposant une expérience intime, unique et interactive, qui créera des souvenirs indélébiles.Entre histoires et illusions, un spectacle dans lequel la magie prend tout son sens",
+        "startDate": "2027-04-28T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13488",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Mathieu-Duguay",
+          "url": "https://scenesfrancophones.ca/node/486",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "65, rue de l'École",
+            "addressLocality": "Lamèque",
+            "addressRegion": "NB",
+            "postalCode": "E8T 1B7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.796231",
+            "longitude": "-64.64842"
+          },
+          "@id": "https://scenesfrancophones.ca/id/486"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/44",
+          "name": "La Maison de la culture Inc.",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-maison-de-la-culture-inc"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12505",
+            "url": "https://scenesfrancophones.ca/artistes/alain-choquette",
+            "name": "Alain Choquette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/alain-choquette-entre-histoires-et-illusions-13489",
+        "name": "Alain Choquette - Entre histoires et illusions ",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/alain-choquette_mev-entourage_1080x1080-complet%20%281%29.jpg?itok=G8AjH3XF",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Maître de l’insaisissable et raconteur hors pair, Alain Choquette revient sur scène avec une nouvelle proposition aussi divertissante qu’inspirante, Entre histoires et illusions. Dans cespectacle, l’illusionniste québécois le plus charismatique et expérimenté offre à un public de tousâges de plonger avec lui dans son grand livre de la magie. Cette fois-ci, ce sont ses récitscaptivants, allant de l’histoire de la magie (Robert-Houdin, Houdini, Copperfield, Magic Tom…)aux surprenantes expériences vécues au cours de ses 35 années de carrière, qui amèneront le célèbre juge de La magie des stars (TVA) à vous éblouir tant par ses performances insaisissables que par ses connaissances historiques et sa capacité à raconter. Plus de 2 millions de billets vendus en carrière, premier Québécois à présenter un spectacle en résidence à Las Vegas, plusieurs tournées à succès en Europe, création et distribution de grands numéros magiques à l’international : Alain Choquette fait partie des grands noms de la magie à travers le monde et ne manque pas de récits et de numéros pour surprendre, faire rire et éblouir. Ayant une place de choix dans le cœur des Québécois depuis des décennies, Alain veut redonner au public en lui proposant une expérience intime, unique et interactive, qui créera des souvenirs indélébiles.Entre histoires et illusions, un spectacle dans lequel la magie prend tout son sens",
+        "startDate": "2027-04-30T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13489",
+        "location": {
+          "@type": "Place",
+          "name": "Amphithéâtre Richelieu de l’École Secondaire Népisiguit",
+          "url": "https://scenesfrancophones.ca/node/506",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "915, rue Ste-Anne",
+            "addressLocality": "Bathurst",
+            "addressRegion": "NB",
+            "postalCode": "E2A 6X1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.625247",
+            "longitude": "-65.684547"
+          },
+          "@id": "https://scenesfrancophones.ca/id/506"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/54",
+          "name": "Société culturelle régionale Nepisiguit",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-nepisiguit"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12505",
+            "url": "https://scenesfrancophones.ca/artistes/alain-choquette",
+            "name": "Alain Choquette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/alain-choquette-entre-histoires-et-illusions-13491",
+        "name": "Alain Choquette - Entre histoires et illusions ",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/alain-choquette_mev-entourage_1080x1080-complet%20%281%29.jpg?itok=G8AjH3XF",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Maître de l’insaisissable et raconteur hors pair, Alain Choquette revient sur scène avec une nouvelle proposition aussi divertissante qu’inspirante, Entre histoires et illusions. Dans cespectacle, l’illusionniste québécois le plus charismatique et expérimenté offre à un public de tousâges de plonger avec lui dans son grand livre de la magie. Cette fois-ci, ce sont ses récitscaptivants, allant de l’histoire de la magie (Robert-Houdin, Houdini, Copperfield, Magic Tom…)aux surprenantes expériences vécues au cours de ses 35 années de carrière, qui amèneront le célèbre juge de La magie des stars (TVA) à vous éblouir tant par ses performances insaisissables que par ses connaissances historiques et sa capacité à raconter. Plus de 2 millions de billets vendus en carrière, premier Québécois à présenter un spectacle en résidence à Las Vegas, plusieurs tournées à succès en Europe, création et distribution de grands numéros magiques à l’international : Alain Choquette fait partie des grands noms de la magie à travers le monde et ne manque pas de récits et de numéros pour surprendre, faire rire et éblouir. Ayant une place de choix dans le cœur des Québécois depuis des décennies, Alain veut redonner au public en lui proposant une expérience intime, unique et interactive, qui créera des souvenirs indélébiles.Entre histoires et illusions, un spectacle dans lequel la magie prend tout son sens",
+        "startDate": "2027-05-02T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13491",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium Richelieu",
+          "url": "https://scenesfrancophones.ca/node/503",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "215, rue Guimont",
+            "addressLocality": "Grand-Sault",
+            "addressRegion": "NB",
+            "postalCode": "E3Y 3W3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.056374",
+            "longitude": "-67.73096"
+          },
+          "@id": "https://scenesfrancophones.ca/id/503"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/53",
+          "name": "Société culturelle régionale Les Chutes",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12505",
+            "url": "https://scenesfrancophones.ca/artistes/alain-choquette",
+            "name": "Alain Choquette"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/aluma-hudu-13493",
+        "name": "Aluma  - Hudu",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-06-12%20a%CC%80%2009.35.09_0.png?itok=K_tdQgFW",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Plongez dans l’univers fascinant de Hudu, un théâtre immersif et inclusif qui ouvre ses portes aux spectateurs neuroatypiques pour une aventure marine inédite.Pensé spécialement pour les personnes ayant un trouble du spectre de l’autisme (TSA) et une déficience intellectuelle (DI), Hudu vous embarque avec deux plongeurs dans un monde enchanteur de méduses lumineuses éblouissantes de toutes les tailles. Les deux musiciens qui les accompagnent tissent une ambiance sonore envoûtante, tandis que les plongeurs dévoilent leur métamorphose en êtres aquatiques et partagent la joie de vivre sous la mer.Hudu est bien plus qu’une simple représentation ; c’est une expérience accessible, interactive et sensorielle qui prend vie grâce aux réactions des spectateurs ayant un TSA et une DI. Chaque participant est libre de réagir à sa manière, dans cette histoire d’amitiés humaines.",
+        "startDate": "2027-04-25T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13493",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Gilles Laplante",
+          "url": "https://scenesfrancophones.ca/node/10382",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300 Beaverbrook Rd,",
+            "addressLocality": "Miramichi",
+            "addressRegion": "NB",
+            "postalCode": "E1V 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.008958",
+            "longitude": "-65.587482"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10382"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/37",
+          "name": "Carrefour communautaire Beausoleil",
+          "url": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/13266",
+            "url": "https://scenesfrancophones.ca/artistes/aluma",
+            "name": "Aluma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/aluma-hudu-13494",
+        "name": "Aluma  - Hudu",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-06-12%20a%CC%80%2009.35.09_0.png?itok=K_tdQgFW",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Plongez dans l’univers fascinant de Hudu, un théâtre immersif et inclusif qui ouvre ses portes aux spectateurs neuroatypiques pour une aventure marine inédite.Pensé spécialement pour les personnes ayant un trouble du spectre de l’autisme (TSA) et une déficience intellectuelle (DI), Hudu vous embarque avec deux plongeurs dans un monde enchanteur de méduses lumineuses éblouissantes de toutes les tailles. Les deux musiciens qui les accompagnent tissent une ambiance sonore envoûtante, tandis que les plongeurs dévoilent leur métamorphose en êtres aquatiques et partagent la joie de vivre sous la mer.Hudu est bien plus qu’une simple représentation ; c’est une expérience accessible, interactive et sensorielle qui prend vie grâce aux réactions des spectateurs ayant un TSA et une DI. Chaque participant est libre de réagir à sa manière, dans cette histoire d’amitiés humaines.",
+        "startDate": "2027-04-26T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13494",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Gilles Laplante",
+          "url": "https://scenesfrancophones.ca/node/10382",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300 Beaverbrook Rd,",
+            "addressLocality": "Miramichi",
+            "addressRegion": "NB",
+            "postalCode": "E1V 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.008958",
+            "longitude": "-65.587482"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10382"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/37",
+          "name": "Carrefour communautaire Beausoleil",
+          "url": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/13266",
+            "url": "https://scenesfrancophones.ca/artistes/aluma",
+            "name": "Aluma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/aluma-hudu-13496",
+        "name": "Aluma  - Hudu",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-06-12%20a%CC%80%2009.35.09_0.png?itok=K_tdQgFW",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Plongez dans l’univers fascinant de Hudu, un théâtre immersif et inclusif qui ouvre ses portes aux spectateurs neuroatypiques pour une aventure marine inédite.Pensé spécialement pour les personnes ayant un trouble du spectre de l’autisme (TSA) et une déficience intellectuelle (DI), Hudu vous embarque avec deux plongeurs dans un monde enchanteur de méduses lumineuses éblouissantes de toutes les tailles. Les deux musiciens qui les accompagnent tissent une ambiance sonore envoûtante, tandis que les plongeurs dévoilent leur métamorphose en êtres aquatiques et partagent la joie de vivre sous la mer.Hudu est bien plus qu’une simple représentation ; c’est une expérience accessible, interactive et sensorielle qui prend vie grâce aux réactions des spectateurs ayant un TSA et une DI. Chaque participant est libre de réagir à sa manière, dans cette histoire d’amitiés humaines.",
+        "startDate": "2027-04-28T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13496",
+        "location": {
+          "@type": "Place",
+          "name": "La Caserne",
+          "url": "https://scenesfrancophones.ca/node/476",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "331, ave. Acadie",
+            "addressLocality": "Dieppe",
+            "addressRegion": "NB",
+            "postalCode": "E1A 1G9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.094515",
+            "longitude": "-64.748301"
+          },
+          "@id": "https://scenesfrancophones.ca/id/476"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/40",
+          "name": "Centre des arts et de la culture de Dieppe",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/13266",
+            "url": "https://scenesfrancophones.ca/artistes/aluma",
+            "name": "Aluma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/aluma-hudu-13497",
+        "name": "Aluma  - Hudu",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-06-12%20a%CC%80%2009.35.09_0.png?itok=K_tdQgFW",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Plongez dans l’univers fascinant de Hudu, un théâtre immersif et inclusif qui ouvre ses portes aux spectateurs neuroatypiques pour une aventure marine inédite.Pensé spécialement pour les personnes ayant un trouble du spectre de l’autisme (TSA) et une déficience intellectuelle (DI), Hudu vous embarque avec deux plongeurs dans un monde enchanteur de méduses lumineuses éblouissantes de toutes les tailles. Les deux musiciens qui les accompagnent tissent une ambiance sonore envoûtante, tandis que les plongeurs dévoilent leur métamorphose en êtres aquatiques et partagent la joie de vivre sous la mer.Hudu est bien plus qu’une simple représentation ; c’est une expérience accessible, interactive et sensorielle qui prend vie grâce aux réactions des spectateurs ayant un TSA et une DI. Chaque participant est libre de réagir à sa manière, dans cette histoire d’amitiés humaines.",
+        "startDate": "2027-04-30T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13497",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Louis Vermeersch",
+          "url": "https://scenesfrancophones.ca/node/518",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "67, chemin Ragged Point",
+            "addressLocality": "Saint-Jean",
+            "addressRegion": "NB",
+            "postalCode": "E2K 5C3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.294095",
+            "longitude": "-66.116083"
+          },
+          "@id": "https://scenesfrancophones.ca/id/518"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/36",
+          "name": "Association régionale de la Communauté Francophone de Saint-Jean (ARCf)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/13266",
+            "url": "https://scenesfrancophones.ca/artistes/aluma",
+            "name": "Aluma"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/baie-nom-venir-nouvel-album-13503",
+        "name": "Baie - Nom à venir (nouvel album)",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/IMG_7665%20%281%29.jpg?itok=a74UvGUt",
+          "width": "430",
+          "height": "430",
+          "creditText": "Marie-Michelle Guignard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "BAIE, c’est un groupe pop et disco acadien réputé pour ses performances scéniques hautes en couleur. L'univers nostalgique du spectacle Grand Bleu goûte le punch aux fruits et les Froot Loops sur une plage de la Baie des Chaleurs au soleil couchant. Un nouvel album est prévu pour début 2026.\r\n\r\nAVERTISSEMENT : Un show interdit à ceux qui n’aiment pas avoir du fun.",
+        "startDate": "2026-10-17T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13503",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/41",
+          "name": "Le Centre des arts d’Edmundston",
+          "url": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4044",
+            "url": "https://scenesfrancophones.ca/artistes/baie",
+            "name": "Baie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/baie-nom-venir-nouvel-album-13504",
+        "name": "Baie - Nom à venir (nouvel album)",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/IMG_7665%20%281%29.jpg?itok=a74UvGUt",
+          "width": "430",
+          "height": "430",
+          "creditText": "Marie-Michelle Guignard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "BAIE, c’est un groupe pop et disco acadien réputé pour ses performances scéniques hautes en couleur. L'univers nostalgique du spectacle Grand Bleu goûte le punch aux fruits et les Froot Loops sur une plage de la Baie des Chaleurs au soleil couchant. Un nouvel album est prévu pour début 2026.\r\n\r\nAVERTISSEMENT : Un show interdit à ceux qui n’aiment pas avoir du fun.",
+        "startDate": "2026-10-16T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13504",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Richard-Denys",
+          "url": "https://scenesfrancophones.ca/node/502",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "700, rue Principale",
+            "addressLocality": "Neguac",
+            "addressRegion": "NB",
+            "postalCode": "E9G 1N4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.24295",
+            "longitude": "-65.08009"
+          },
+          "@id": "https://scenesfrancophones.ca/id/502"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/52",
+          "name": "Société culturelle Nigawouek",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-nigawouek"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4044",
+            "url": "https://scenesfrancophones.ca/artistes/baie",
+            "name": "Baie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/baie-nom-venir-nouvel-album-13505",
+        "name": "Baie - Nom à venir (nouvel album)",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/IMG_7665%20%281%29.jpg?itok=a74UvGUt",
+          "width": "430",
+          "height": "430",
+          "creditText": "Marie-Michelle Guignard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "BAIE, c’est un groupe pop et disco acadien réputé pour ses performances scéniques hautes en couleur. L'univers nostalgique du spectacle Grand Bleu goûte le punch aux fruits et les Froot Loops sur une plage de la Baie des Chaleurs au soleil couchant. Un nouvel album est prévu pour début 2026.\r\n\r\nAVERTISSEMENT : Un show interdit à ceux qui n’aiment pas avoir du fun.",
+        "startDate": "2026-10-24T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13505",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Entre deux mers",
+          "url": "https://scenesfrancophones.ca/node/480",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5, ave. Maris Stella",
+            "addressLocality": "Summerside",
+            "addressRegion": "PE",
+            "postalCode": "C1N 6M9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.418743",
+            "longitude": "-63.810939"
+          },
+          "@id": "https://scenesfrancophones.ca/id/480"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/26",
+          "name": "La Belle-Alliance",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-belle-alliance"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4044",
+            "url": "https://scenesfrancophones.ca/artistes/baie",
+            "name": "Baie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/baie-nom-venir-nouvel-album-13506",
+        "name": "Baie - Nom à venir (nouvel album)",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/IMG_7665%20%281%29.jpg?itok=a74UvGUt",
+          "width": "430",
+          "height": "430",
+          "creditText": "Marie-Michelle Guignard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "BAIE, c’est un groupe pop et disco acadien réputé pour ses performances scéniques hautes en couleur. L'univers nostalgique du spectacle Grand Bleu goûte le punch aux fruits et les Froot Loops sur une plage de la Baie des Chaleurs au soleil couchant. Un nouvel album est prévu pour début 2026.\r\n\r\nAVERTISSEMENT : Un show interdit à ceux qui n’aiment pas avoir du fun.",
+        "startDate": "2026-11-13T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13506",
+        "location": {
+          "@type": "Place",
+          "name": "Palais Centre-Ville",
+          "url": "https://scenesfrancophones.ca/node/496",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Rue Deschênes",
+            "addressLocality": "Saint-Quentin",
+            "addressRegion": "NB",
+            "postalCode": "E8A 1G9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.511393",
+            "longitude": "-67.391806"
+          },
+          "@id": "https://scenesfrancophones.ca/id/496"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/49",
+          "name": "Société culturelle des Hauts-Plateaux",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-hauts-plateaux"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4044",
+            "url": "https://scenesfrancophones.ca/artistes/baie",
+            "name": "Baie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/baie-nom-venir-nouvel-album-13507",
+        "name": "Baie - Nom à venir (nouvel album)",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/IMG_7665%20%281%29.jpg?itok=a74UvGUt",
+          "width": "430",
+          "height": "430",
+          "creditText": "Marie-Michelle Guignard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "BAIE, c’est un groupe pop et disco acadien réputé pour ses performances scéniques hautes en couleur. L'univers nostalgique du spectacle Grand Bleu goûte le punch aux fruits et les Froot Loops sur une plage de la Baie des Chaleurs au soleil couchant. Un nouvel album est prévu pour début 2026.\r\n\r\nAVERTISSEMENT : Un show interdit à ceux qui n’aiment pas avoir du fun.",
+        "startDate": "2026-09-12T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13507",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/45",
+          "name": "Université de Moncton - Campus de Moncton",
+          "url": "https://scenesfrancophones.ca/diffuseurs/universite-de-moncton-campus-de-moncton"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/4044",
+            "url": "https://scenesfrancophones.ca/artistes/baie",
+            "name": "Baie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/beauxmont-100-milles-lheure-13510",
+        "name": "Beauxmont - 100 milles à l'heure",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/4.jpeg?itok=gOp1_6jG",
+          "width": "430",
+          "height": "430",
+          "creditText": "Marc-André Belliveau"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Beauxmont est un groupe acadien du Nouveau-Brunswick qui fusionne musique traditionnelle acadienne, influences cajun/louisianaises et énergie des Maritimes. Leur son est fait pour rassembler, autant sur les grandes scènes et en festival que dans une party de cuisine. Portée par six musiciens provenant des quatre coins de la province, la formation rafraîchit le répertoire traditionnel sans perdre l’authenticité des racines. Avec voix, accordéon, violon, guitares, basse et batterie, Beauxmont livre des prestations intenses, festives et taillées pour faire lever le monde.",
+        "startDate": "2026-10-30T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13510",
+        "location": {
+          "@type": "Place",
+          "name": "Centre communautaire de Saint-Charles",
+          "url": "https://scenesfrancophones.ca/node/13509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1279 ch Saint Charles",
+            "addressLocality": "1279 ch Saint Charles",
+            "addressRegion": "NB",
+            "postalCode": "E4W 4W2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.695528",
+            "longitude": "-64.945935"
+          },
+          "@id": "https://scenesfrancophones.ca/id/13509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/4143",
+          "name": "Société culturelle Kent Nord",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-kent-nord"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/4012",
+            "url": "https://scenesfrancophones.ca/artistes/beauxmont",
+            "name": "Beauxmont"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/beauxmont-100-milles-lheure-13511",
+        "name": "Beauxmont - 100 milles à l'heure",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/4.jpeg?itok=gOp1_6jG",
+          "width": "430",
+          "height": "430",
+          "creditText": "Marc-André Belliveau"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Beauxmont est un groupe acadien du Nouveau-Brunswick qui fusionne musique traditionnelle acadienne, influences cajun/louisianaises et énergie des Maritimes. Leur son est fait pour rassembler, autant sur les grandes scènes et en festival que dans une party de cuisine. Portée par six musiciens provenant des quatre coins de la province, la formation rafraîchit le répertoire traditionnel sans perdre l’authenticité des racines. Avec voix, accordéon, violon, guitares, basse et batterie, Beauxmont livre des prestations intenses, festives et taillées pour faire lever le monde.",
+        "startDate": "2026-10-30T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13511",
+        "location": {
+          "@type": "Place",
+          "name": "Centre communautaire de Saint-Charles",
+          "url": "https://scenesfrancophones.ca/node/13509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1279 ch Saint Charles",
+            "addressLocality": "1279 ch Saint Charles",
+            "addressRegion": "NB",
+            "postalCode": "E4W 4W2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.695528",
+            "longitude": "-64.945935"
+          },
+          "@id": "https://scenesfrancophones.ca/id/13509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/4143",
+          "name": "Société culturelle Kent Nord",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-kent-nord"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/4012",
+            "url": "https://scenesfrancophones.ca/artistes/beauxmont",
+            "name": "Beauxmont"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/beauxmont-100-milles-lheure-13512",
+        "name": "Beauxmont - 100 milles à l'heure",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/4.jpeg?itok=gOp1_6jG",
+          "width": "430",
+          "height": "430",
+          "creditText": "Marc-André Belliveau"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Beauxmont est un groupe acadien du Nouveau-Brunswick qui fusionne musique traditionnelle acadienne, influences cajun/louisianaises et énergie des Maritimes. Leur son est fait pour rassembler, autant sur les grandes scènes et en festival que dans une party de cuisine. Portée par six musiciens provenant des quatre coins de la province, la formation rafraîchit le répertoire traditionnel sans perdre l’authenticité des racines. Avec voix, accordéon, violon, guitares, basse et batterie, Beauxmont livre des prestations intenses, festives et taillées pour faire lever le monde.",
+        "startDate": "2026-10-31T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13512",
+        "location": {
+          "@type": "Place",
+          "name": "Auditorium Richelieu",
+          "url": "https://scenesfrancophones.ca/node/503",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "215, rue Guimont",
+            "addressLocality": "Grand-Sault",
+            "addressRegion": "NB",
+            "postalCode": "E3Y 3W3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.056374",
+            "longitude": "-67.73096"
+          },
+          "@id": "https://scenesfrancophones.ca/id/503"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/53",
+          "name": "Société culturelle régionale Les Chutes",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-les-chutes"
+        },
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/4012",
+            "url": "https://scenesfrancophones.ca/artistes/beauxmont",
+            "name": "Beauxmont"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-13513",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Capture%20d%E2%80%99e%CC%81cran%2C%20le%20te%CC%81ton%20tardif.png?itok=NYl8bsb_",
+          "width": "430",
+          "height": "430",
+          "creditText": "Omar Morson"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2027-03-08T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13513",
+        "location": {
+          "@type": "Place",
+          "name": "La Caserne",
+          "url": "https://scenesfrancophones.ca/node/476",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "331, ave. Acadie",
+            "addressLocality": "Dieppe",
+            "addressRegion": "NB",
+            "postalCode": "E1A 1G9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.094515",
+            "longitude": "-64.748301"
+          },
+          "@id": "https://scenesfrancophones.ca/id/476"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://centredesartsdieppe.tuxedobillet.com/main/le-teton-tardif?axeptio_token=bnBqNoJkeAP9Z5UDHTtDdSSwW7",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/40",
+          "name": "Centre des arts et de la culture de Dieppe",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5731",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+            "name": "Caroline Raynaud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-13514",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Capture%20d%E2%80%99e%CC%81cran%2C%20le%20te%CC%81ton%20tardif.png?itok=NYl8bsb_",
+          "width": "430",
+          "height": "430",
+          "creditText": "Omar Morson"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2027-03-10T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13514",
+        "location": {
+          "@type": "Place",
+          "name": "Salle BMO",
+          "url": "https://scenesfrancophones.ca/node/2564",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "112 Princess Street",
+            "addressLocality": "Saint-Jean",
+            "addressRegion": "NB",
+            "postalCode": "E2L 1K4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.27157",
+            "longitude": "-66.058813"
+          },
+          "@id": "https://scenesfrancophones.ca/id/2564"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/36",
+          "name": "Association régionale de la Communauté Francophone de Saint-Jean (ARCf)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5731",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+            "name": "Caroline Raynaud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-raynaud-le-teton-tardif-13516",
+        "name": "Caroline Raynaud - Le Téton Tardif",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Capture%20d%E2%80%99e%CC%81cran%2C%20le%20te%CC%81ton%20tardif.png?itok=NYl8bsb_",
+          "width": "430",
+          "height": "430",
+          "creditText": "Omar Morson"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une femme, seule sur scène, avoue sa peur de donner naissance à une fille. Elle explore l'origine de cette angoisse existentielle et remonte à son enfance, où la quête de devenir femme est incarnée par le désir de seins. Les normes de féminité véhiculées par les médias la société renforcent son obsession. Avec sa quête, elle plonge dans l'imaginaire culturel collectif, révélant son impact sur notre identité et nos relations au corps et à la sexualité.\r\nEntre stand-up et drame théâtral, elle brise le quatrième mur avec une sincérité crue, avec vidéo et danse pour ancrer le propos dans le corps.",
+        "startDate": "2027-03-12T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13516",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Port La-Joye",
+          "url": "https://scenesfrancophones.ca/node/13515",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "5, promenade Acadian",
+            "addressLocality": "Charlottetown",
+            "addressRegion": "PE",
+            "postalCode": "C1C 1M2",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.262145",
+            "longitude": "-63.092755"
+          },
+          "@id": "https://scenesfrancophones.ca/id/13515"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/24",
+          "name": "Carrefour de l’Isle Saint-Jean",
+          "url": "https://scenesfrancophones.ca/diffuseurs/carrefour-de-lisle-saint-jean"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/5731",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-raynaud",
+            "name": "Caroline Raynaud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-savoie-rom-com-13517",
+        "name": "Caroline Savoie - Rom-Com",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Caro_S-HD-2869_Cre%CC%81dit%20Camille%20Gladu-Drouin%20%282%29.jpg?itok=JMswuu95",
+          "width": "430",
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Caroline Savoie, autrice-compositrice-interprète au parcours tissé sur une décennie, captive avec une sincérité émotive les facettes de l'amour authentique. Inspirée par les classiques de la comédie romantique qui ont façonné son adolescence et sa vingtaine, elle dévoile sur scène les chansons de son 4e album, Rom-Com, issu d’une première expérience à titre de réalisatrice. À la fois grande romantique et indiscutablement comique, Caroline Savoie nous guide dans ses récits d'amour triomphant, mais aussi en explorant les intrications des relations plus douloureuses.",
+        "startDate": "2026-10-01T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13517",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre LER",
+          "url": "https://scenesfrancophones.ca/node/492",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "390, rue Adelaide",
+            "addressLocality": "Dalhousie",
+            "addressRegion": "NB",
+            "postalCode": "E8C 3C4",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "48.064917",
+            "longitude": "-66.374601"
+          },
+          "@id": "https://scenesfrancophones.ca/id/492"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/48",
+          "name": "Société culturelle de la Baie des Chaleurs",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-de-la-baie-des-chaleurs"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/891",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-savoie",
+            "name": "Caroline Savoie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-savoie-rom-com-13518",
+        "name": "Caroline Savoie - Rom-Com",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Caro_S-HD-2869_Cre%CC%81dit%20Camille%20Gladu-Drouin%20%282%29.jpg?itok=JMswuu95",
+          "width": "430",
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Caroline Savoie, autrice-compositrice-interprète au parcours tissé sur une décennie, captive avec une sincérité émotive les facettes de l'amour authentique. Inspirée par les classiques de la comédie romantique qui ont façonné son adolescence et sa vingtaine, elle dévoile sur scène les chansons de son 4e album, Rom-Com, issu d’une première expérience à titre de réalisatrice. À la fois grande romantique et indiscutablement comique, Caroline Savoie nous guide dans ses récits d'amour triomphant, mais aussi en explorant les intrications des relations plus douloureuses.",
+        "startDate": "2026-10-02T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13518",
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/41",
+          "name": "Le Centre des arts d’Edmundston",
+          "url": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/891",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-savoie",
+            "name": "Caroline Savoie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-savoie-rom-com-13519",
+        "name": "Caroline Savoie - Rom-Com",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Caro_S-HD-2869_Cre%CC%81dit%20Camille%20Gladu-Drouin%20%282%29.jpg?itok=JMswuu95",
+          "width": "430",
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Caroline Savoie, autrice-compositrice-interprète au parcours tissé sur une décennie, captive avec une sincérité émotive les facettes de l'amour authentique. Inspirée par les classiques de la comédie romantique qui ont façonné son adolescence et sa vingtaine, elle dévoile sur scène les chansons de son 4e album, Rom-Com, issu d’une première expérience à titre de réalisatrice. À la fois grande romantique et indiscutablement comique, Caroline Savoie nous guide dans ses récits d'amour triomphant, mais aussi en explorant les intrications des relations plus douloureuses.",
+        "startDate": "2026-10-03T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13519",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Louis Vermeersch",
+          "url": "https://scenesfrancophones.ca/node/518",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "67, chemin Ragged Point",
+            "addressLocality": "Saint-Jean",
+            "addressRegion": "NB",
+            "postalCode": "E2K 5C3",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.294095",
+            "longitude": "-66.116083"
+          },
+          "@id": "https://scenesfrancophones.ca/id/518"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/36",
+          "name": "Association régionale de la Communauté Francophone de Saint-Jean (ARCf)",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-regionale-de-la-communaute-francophone-de-saint-jean-arcf"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/891",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-savoie",
+            "name": "Caroline Savoie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-savoie-rom-com-13520",
+        "name": "Caroline Savoie - Rom-Com",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Caro_S-HD-2869_Cre%CC%81dit%20Camille%20Gladu-Drouin%20%282%29.jpg?itok=JMswuu95",
+          "width": "430",
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Caroline Savoie, autrice-compositrice-interprète au parcours tissé sur une décennie, captive avec une sincérité émotive les facettes de l'amour authentique. Inspirée par les classiques de la comédie romantique qui ont façonné son adolescence et sa vingtaine, elle dévoile sur scène les chansons de son 4e album, Rom-Com, issu d’une première expérience à titre de réalisatrice. À la fois grande romantique et indiscutablement comique, Caroline Savoie nous guide dans ses récits d'amour triomphant, mais aussi en explorant les intrications des relations plus douloureuses.",
+        "startDate": "2027-03-18T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13520",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Soeur Berthe Fauteux",
+          "url": "https://scenesfrancophones.ca/node/500",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "399, rue du Couvent",
+            "addressLocality": "Tracadie",
+            "addressRegion": "NB",
+            "postalCode": "E1X 1E1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.513137",
+            "longitude": "-64.908062"
+          },
+          "@id": "https://scenesfrancophones.ca/id/500"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/55",
+          "name": "Société du Monument-Lefebvre",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-du-monument-lefebvre"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/891",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-savoie",
+            "name": "Caroline Savoie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-savoie-rom-com-13521",
+        "name": "Caroline Savoie - Rom-Com",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Caro_S-HD-2869_Cre%CC%81dit%20Camille%20Gladu-Drouin%20%282%29.jpg?itok=JMswuu95",
+          "width": "430",
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Caroline Savoie, autrice-compositrice-interprète au parcours tissé sur une décennie, captive avec une sincérité émotive les facettes de l'amour authentique. Inspirée par les classiques de la comédie romantique qui ont façonné son adolescence et sa vingtaine, elle dévoile sur scène les chansons de son 4e album, Rom-Com, issu d’une première expérience à titre de réalisatrice. À la fois grande romantique et indiscutablement comique, Caroline Savoie nous guide dans ses récits d'amour triomphant, mais aussi en explorant les intrications des relations plus douloureuses.",
+        "startDate": "2027-03-19T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13521",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre du Monument-Lefebvre",
+          "url": "https://scenesfrancophones.ca/node/508",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "480, rue Centrale",
+            "addressLocality": "Memramcook",
+            "addressRegion": "NB",
+            "postalCode": "E4K 3S6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.97917",
+            "longitude": "-64.566721"
+          },
+          "@id": "https://scenesfrancophones.ca/id/508"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/55",
+          "name": "Société du Monument-Lefebvre",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-du-monument-lefebvre"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/891",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-savoie",
+            "name": "Caroline Savoie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/caroline-savoie-rom-com-13522",
+        "name": "Caroline Savoie - Rom-Com",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Caro_S-HD-2869_Cre%CC%81dit%20Camille%20Gladu-Drouin%20%282%29.jpg?itok=JMswuu95",
+          "width": "430",
+          "height": "430",
+          "creditText": "Camille Gladu-Drouin"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Caroline Savoie, autrice-compositrice-interprète au parcours tissé sur une décennie, captive avec une sincérité émotive les facettes de l'amour authentique. Inspirée par les classiques de la comédie romantique qui ont façonné son adolescence et sa vingtaine, elle dévoile sur scène les chansons de son 4e album, Rom-Com, issu d’une première expérience à titre de réalisatrice. À la fois grande romantique et indiscutablement comique, Caroline Savoie nous guide dans ses récits d'amour triomphant, mais aussi en explorant les intrications des relations plus douloureuses.",
+        "startDate": "2027-03-20T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13522",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Bernard Poirier",
+          "url": "https://scenesfrancophones.ca/node/468",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "715, rue Priestman",
+            "addressLocality": "Fredericton",
+            "addressRegion": "NB",
+            "postalCode": "E3B 5W7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.941773",
+            "longitude": "-66.651817"
+          },
+          "@id": "https://scenesfrancophones.ca/id/468"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/38",
+          "name": "Centre communautaire Sainte-Anne",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-communautaire-sainte-anne"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/891",
+            "url": "https://scenesfrancophones.ca/artistes/caroline-savoie",
+            "name": "Caroline Savoie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/coeur-de-pirate-cavale-13534",
+        "name": "Coeur de Pirate - Cavale ",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/carre%CC%81_cdp.jpg?itok=XM4UVsbG",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "A defining voice in French-language music, Cœur de pirate crafts songs that are introspective, playful, and subtly subversive. Her intimate voice cuts deep, drawing listeners in. An international pop icon, she has captivated audiences worldwide since her breakthrough in 2008, with a career that has flourished in Quebec and Europe. Now, in 2025, she returns to the stage with Cavale, her latest album. Her new concert blends quiet, heartfelt moments with soaring melodies, while a grand, dynamic set design highlights both the accomplished pianist and the electrifying performer who loves to dance. In her signature style—melancholy yet radiant—she pours her heart into every song, inviting the audience to share in the experience. An evening with Cœur de pirate is an emotional journey, equal parts reflection and celebration, brought to life with pure passion for the craft. ",
+        "startDate": "2027-02-18T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13534",
+        "location": {
+          "@type": "Place",
+          "name": "Light House Arts Centre",
+          "url": "https://scenesfrancophones.ca/node/13533",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1800 Argyle St 2nd Floor",
+            "addressLocality": "Halifax",
+            "addressRegion": "NS",
+            "postalCode": "B3J 3N8",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "44.648339",
+            "longitude": "-63.575904"
+          },
+          "@id": "https://scenesfrancophones.ca/id/13533"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/31",
+          "name": "Conseil communautaire du Grand-Havre",
+          "url": "https://scenesfrancophones.ca/diffuseurs/conseil-communautaire-du-grand-havre"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12838",
+            "url": "https://scenesfrancophones.ca/artistes/coeur-de-pirate",
+            "name": "Coeur de Pirate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/coeur-de-pirate-cavale-13535",
+        "name": "Coeur de Pirate - Cavale ",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/carre%CC%81_cdp.jpg?itok=XM4UVsbG",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "A defining voice in French-language music, Cœur de pirate crafts songs that are introspective, playful, and subtly subversive. Her intimate voice cuts deep, drawing listeners in. An international pop icon, she has captivated audiences worldwide since her breakthrough in 2008, with a career that has flourished in Quebec and Europe. Now, in 2025, she returns to the stage with Cavale, her latest album. Her new concert blends quiet, heartfelt moments with soaring melodies, while a grand, dynamic set design highlights both the accomplished pianist and the electrifying performer who loves to dance. In her signature style—melancholy yet radiant—she pours her heart into every song, inviting the audience to share in the experience. An evening with Cœur de pirate is an emotional journey, equal parts reflection and celebration, brought to life with pure passion for the craft. ",
+        "startDate": "2027-02-19T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13535",
+        "location": {
+          "@type": "Place",
+          "name": "Amphithéâtre Richelieu de l’École Secondaire Népisiguit",
+          "url": "https://scenesfrancophones.ca/node/506",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "915, rue Ste-Anne",
+            "addressLocality": "Bathurst",
+            "addressRegion": "NB",
+            "postalCode": "E2A 6X1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.625247",
+            "longitude": "-65.684547"
+          },
+          "@id": "https://scenesfrancophones.ca/id/506"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/54",
+          "name": "Société culturelle régionale Nepisiguit",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-nepisiguit"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12838",
+            "url": "https://scenesfrancophones.ca/artistes/coeur-de-pirate",
+            "name": "Coeur de Pirate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/coeur-de-pirate-cavale-13536",
+        "name": "Coeur de Pirate - Cavale ",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/carre%CC%81_cdp.jpg?itok=XM4UVsbG",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "A defining voice in French-language music, Cœur de pirate crafts songs that are introspective, playful, and subtly subversive. Her intimate voice cuts deep, drawing listeners in. An international pop icon, she has captivated audiences worldwide since her breakthrough in 2008, with a career that has flourished in Quebec and Europe. Now, in 2025, she returns to the stage with Cavale, her latest album. Her new concert blends quiet, heartfelt moments with soaring melodies, while a grand, dynamic set design highlights both the accomplished pianist and the electrifying performer who loves to dance. In her signature style—melancholy yet radiant—she pours her heart into every song, inviting the audience to share in the experience. An evening with Cœur de pirate is an emotional journey, equal parts reflection and celebration, brought to life with pure passion for the craft. ",
+        "startDate": "2027-02-20T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13536",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Léo-Poulin",
+          "url": "https://scenesfrancophones.ca/node/523",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300, rue Martin",
+            "addressLocality": "Edmundston",
+            "addressRegion": "NB",
+            "postalCode": "E3V 2N6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.367979",
+            "longitude": "-68.313597"
+          },
+          "@id": "https://scenesfrancophones.ca/id/523"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/41",
+          "name": "Le Centre des arts d’Edmundston",
+          "url": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12838",
+            "url": "https://scenesfrancophones.ca/artistes/coeur-de-pirate",
+            "name": "Coeur de Pirate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/damien-robitaille-ultraviolet-13537",
+        "name": "Damien Robitaille - Ultraviolet",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/2026-04-10-9eVague_DRobitaille_SOLO_AFFICHE-03%20%281%29.jpg?itok=MeGqk_IP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Martin Girard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Damien Robitaille éblouit son public avec sa polyvalence, jonglant avec virtuosité entre les instruments et les styles musicaux.  Des refrains entraînants aux balades poignantes, il sait comment captiver son auditoire et créer une atmosphère où règnent la complicité et la bonne humeur.  Une expérience musicale à la fois intime et énergique.  Accompagné de ses talentueux musiciens, Damien vous transporte dans un tourbillon de joie et de bonne humeur, créant ainsi une ambiance festive où la musique et la convivialité se mêlent pour créer des instants de pur bonheur.\r\nMise en scène Laurent Paquin",
+        "startDate": "2027-01-27T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13537",
+        "location": {
+          "@type": "Place",
+          "name": "Centre des arts d'Edmundston",
+          "url": "https://scenesfrancophones.ca/node/521",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "82, rue Canada",
+            "addressLocality": "Edmundston",
+            "addressRegion": "NB",
+            "postalCode": "E3V 1V5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.363907",
+            "longitude": "-68.330138"
+          },
+          "@id": "https://scenesfrancophones.ca/id/521"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/41",
+          "name": "Le Centre des arts d’Edmundston",
+          "url": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8322",
+            "url": "https://scenesfrancophones.ca/artistes/damien-robitaille",
+            "name": "Damien Robitaille"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/damien-robitaille-ultraviolet-13538",
+        "name": "Damien Robitaille - Ultraviolet",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/2026-04-10-9eVague_DRobitaille_SOLO_AFFICHE-03%20%281%29.jpg?itok=MeGqk_IP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Martin Girard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Damien Robitaille éblouit son public avec sa polyvalence, jonglant avec virtuosité entre les instruments et les styles musicaux.  Des refrains entraînants aux balades poignantes, il sait comment captiver son auditoire et créer une atmosphère où règnent la complicité et la bonne humeur.  Une expérience musicale à la fois intime et énergique.  Accompagné de ses talentueux musiciens, Damien vous transporte dans un tourbillon de joie et de bonne humeur, créant ainsi une ambiance festive où la musique et la convivialité se mêlent pour créer des instants de pur bonheur.\r\nMise en scène Laurent Paquin",
+        "startDate": "2027-01-28T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13538",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Bernard Poirier",
+          "url": "https://scenesfrancophones.ca/node/468",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "715, rue Priestman",
+            "addressLocality": "Fredericton",
+            "addressRegion": "NB",
+            "postalCode": "E3B 5W7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.941773",
+            "longitude": "-66.651817"
+          },
+          "@id": "https://scenesfrancophones.ca/id/468"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/38",
+          "name": "Centre communautaire Sainte-Anne",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-communautaire-sainte-anne"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8322",
+            "url": "https://scenesfrancophones.ca/artistes/damien-robitaille",
+            "name": "Damien Robitaille"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/damien-robitaille-ultraviolet-13539",
+        "name": "Damien Robitaille - Ultraviolet",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/2026-04-10-9eVague_DRobitaille_SOLO_AFFICHE-03%20%281%29.jpg?itok=MeGqk_IP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Martin Girard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Damien Robitaille éblouit son public avec sa polyvalence, jonglant avec virtuosité entre les instruments et les styles musicaux.  Des refrains entraînants aux balades poignantes, il sait comment captiver son auditoire et créer une atmosphère où règnent la complicité et la bonne humeur.  Une expérience musicale à la fois intime et énergique.  Accompagné de ses talentueux musiciens, Damien vous transporte dans un tourbillon de joie et de bonne humeur, créant ainsi une ambiance festive où la musique et la convivialité se mêlent pour créer des instants de pur bonheur.\r\nMise en scène Laurent Paquin",
+        "startDate": "2027-01-29T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13539",
+        "location": {
+          "@type": "Place",
+          "name": "Salle J.-Armand-Lavoie",
+          "url": "https://scenesfrancophones.ca/node/499",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "585, rue de l'Église",
+            "addressLocality": "Tracadie",
+            "addressRegion": "NB",
+            "postalCode": "E1X 1G5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.513245",
+            "longitude": "-64.920651"
+          },
+          "@id": "https://scenesfrancophones.ca/id/499"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/51",
+          "name": "Société culturelle des Tracadilles",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-des-tracadilles"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8322",
+            "url": "https://scenesfrancophones.ca/artistes/damien-robitaille",
+            "name": "Damien Robitaille"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/damien-robitaille-ultraviolet-13540",
+        "name": "Damien Robitaille - Ultraviolet",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/2026-04-10-9eVague_DRobitaille_SOLO_AFFICHE-03%20%281%29.jpg?itok=MeGqk_IP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Martin Girard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Damien Robitaille éblouit son public avec sa polyvalence, jonglant avec virtuosité entre les instruments et les styles musicaux.  Des refrains entraînants aux balades poignantes, il sait comment captiver son auditoire et créer une atmosphère où règnent la complicité et la bonne humeur.  Une expérience musicale à la fois intime et énergique.  Accompagné de ses talentueux musiciens, Damien vous transporte dans un tourbillon de joie et de bonne humeur, créant ainsi une ambiance festive où la musique et la convivialité se mêlent pour créer des instants de pur bonheur.\r\nMise en scène Laurent Paquin",
+        "startDate": "2027-01-30T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13540",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Gilles Laplante",
+          "url": "https://scenesfrancophones.ca/node/10382",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300 Beaverbrook Rd,",
+            "addressLocality": "Miramichi",
+            "addressRegion": "NB",
+            "postalCode": "E1V 1A1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.008958",
+            "longitude": "-65.587482"
+          },
+          "@id": "https://scenesfrancophones.ca/id/10382"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/37",
+          "name": "Carrefour communautaire Beausoleil",
+          "url": "https://scenesfrancophones.ca/diffuseurs/carrefour-communautaire-beausoleil"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8322",
+            "url": "https://scenesfrancophones.ca/artistes/damien-robitaille",
+            "name": "Damien Robitaille"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/damien-robitaille-ultraviolet-13541",
+        "name": "Damien Robitaille - Ultraviolet",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/2026-04-10-9eVague_DRobitaille_SOLO_AFFICHE-03%20%281%29.jpg?itok=MeGqk_IP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Martin Girard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Damien Robitaille éblouit son public avec sa polyvalence, jonglant avec virtuosité entre les instruments et les styles musicaux.  Des refrains entraînants aux balades poignantes, il sait comment captiver son auditoire et créer une atmosphère où règnent la complicité et la bonne humeur.  Une expérience musicale à la fois intime et énergique.  Accompagné de ses talentueux musiciens, Damien vous transporte dans un tourbillon de joie et de bonne humeur, créant ainsi une ambiance festive où la musique et la convivialité se mêlent pour créer des instants de pur bonheur.\r\nMise en scène Laurent Paquin",
+        "startDate": "2027-01-31T10:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13541",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/damien-robitaille",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8322",
+            "url": "https://scenesfrancophones.ca/artistes/damien-robitaille",
+            "name": "Damien Robitaille"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/damien-robitaille-ultraviolet-13542",
+        "name": "Damien Robitaille - Ultraviolet",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/2026-04-10-9eVague_DRobitaille_SOLO_AFFICHE-03%20%281%29.jpg?itok=MeGqk_IP",
+          "width": "430",
+          "height": "430",
+          "creditText": "Martin Girard"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Damien Robitaille éblouit son public avec sa polyvalence, jonglant avec virtuosité entre les instruments et les styles musicaux.  Des refrains entraînants aux balades poignantes, il sait comment captiver son auditoire et créer une atmosphère où règnent la complicité et la bonne humeur.  Une expérience musicale à la fois intime et énergique.  Accompagné de ses talentueux musiciens, Damien vous transporte dans un tourbillon de joie et de bonne humeur, créant ainsi une ambiance festive où la musique et la convivialité se mêlent pour créer des instants de pur bonheur.\r\nMise en scène Laurent Paquin",
+        "startDate": "2026-11-20T08:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13542",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Multifonctionnelle du Centre des Grands-Vents",
+          "url": "https://scenesfrancophones.ca/node/459",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "65, chemin Ridge",
+            "addressLocality": "St. John's",
+            "addressRegion": "NL",
+            "postalCode": "A1B 4P5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.58866",
+            "longitude": "-52.73201"
+          },
+          "@id": "https://scenesfrancophones.ca/id/459"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/34",
+          "name": "Association communautaire francophone de Saint-Jean",
+          "url": "https://scenesfrancophones.ca/diffuseurs/association-communautaire-francophone-de-saint-jean"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/8322",
+            "url": "https://scenesfrancophones.ca/artistes/damien-robitaille",
+            "name": "Damien Robitaille"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/diane-tell-tournee-50-iaime-anniversaire-13544",
+        "name": "Diane Tell - Tournée 50 i’aime anniversaire",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Visuel_Officiel_Tournee-50-i_aime_Diane-Tell_carree_%E2%92%B8%20Guillaume%20Bernon%20%282%29.jpg?itok=MT6Zxvy7",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "« Je n’aime pas les anniversaires. Noël, encore moins… et je suis née pendant le réveillon ! Entre la dinde et les cadeaux. J’aurais pu finir dans la crèche avec le petit Jésus ! Exactement comme Zac dans le film C.R.A.Z.Y. de notre si cher et regretté Jean-Marc Vallée. Chez Bonsound, notre belle maison de concerts, quelqu’un a lancé l’idée : « Diane, ça te dirait de faire une tournée anniversaire ? » Je n’ai pas dit oui tout de suite. Bon. Un 50 i’aime. Quand même. Ça se fête ! Et puis, on sera tranquille. Il n’y aura pas de 100 i’aime ! J’ai mordu à l’hameçon comme un beau doré du lac Blouin… et j’ai signé. Déjà plusieurs concerts programmés au Québec, en Ontario, au Nouveau-Brunswick. C’est fantastique. \r\n\r\nEn 1977, je lançais mon premier album. Celui où je pose sur la pochette avec Raggedy Ann dans les bras, le pouce dans la bouche et les jambes écartées ! Ah ! J’étais Polissonne à 19 ans. Je le suis toujours un peu. Polissonne, c’est aussi le titre de mon prochain album. Ça promet. Je tournais déjà en 1976. Je chantais partout, seule avec ma guitare : dans les bars, les restaurants, au Maples Inn à Pointe-Claire, à l’Évêché de l’Hôtel Nelson dans le Vieux-Montréal. J’ai même chanté au Forum, en première partie de Chris de Burgh, à l’époque. \r\n\r\nPour cette série de concerts, je ne serai pas seule. Un extraordinaire band québécois cinq étoiles, dirigé par l’unique et talentueux Julien Fillion, prendra la route à mes côtés. Quelle chance. Le répertoire — puisé dans quinze albums — choisi pour notre bonheur et le vôtre, sera sublimé par le talent de ces jeunes musiciens. Alors… on se donne le mot ? Rendez-vous compte : 50 ans de musique, de chansons, de scène, non-stop. Mais c’est surtout votre fidélité qui mérite d’être célébrée. Allez. C’est ma tournée. Le 50 i’aime anniversaire de notre rencontre. Tu te souviens ?»",
+        "startDate": "2026-10-02T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13544",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/diane-tell",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": [
+          {
+            "@type": "Thing",
+            "@id": "https://scenesfrancophones.ca/id/12815",
+            "url": "https://scenesfrancophones.ca/artistes/diane-tell",
+            "name": "Diane Tell",
+            "schema_organization_additional_type": [
+              "http://dbpedia.org/ontology/Agent",
+              "http://xmlns.com/foaf/0.1/Agent",
+              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/diane-tell-50e-anniversaire-13545",
+        "name": "Diane Tell - 50e anniversaire",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Visuel_Officiel_Tournee-50-i_aime_Diane-Tell_carree_%E2%92%B8%20Guillaume%20Bernon%20%282%29.jpg?itok=MT6Zxvy7",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "« Pour cette série de concerts, je ne serai pas seule. Un extraordinaire band québécois cinq étoiles,dirigé par l’unique et talentueux Julien Fillion, prendra la route à mes côtés. Quelle chance. Lerépertoire — puisé dans quinze albums — choisi pour notre bonheur et le vôtre, sera sublimé par letalent de ces jeunes musiciens. Alors… on se donne le mot ? Rendez-vous compte : 50 ans demusique, de chansons, de scène, non-stop. Mais c’est surtout votre fidélité qui mérite d’être célébrée.Allez. C’est ma tournée. Le 50 i’aime anniversaire de notre rencontre. Tu te souviens? »",
+        "startDate": "2026-10-04T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13545",
+        "location": {
+          "@type": "Place",
+          "name": "Amphithéâtre Richelieu de l’École Secondaire Népisiguit",
+          "url": "https://scenesfrancophones.ca/node/506",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "915, rue Ste-Anne",
+            "addressLocality": "Bathurst",
+            "addressRegion": "NB",
+            "postalCode": "E2A 6X1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.625247",
+            "longitude": "-65.684547"
+          },
+          "@id": "https://scenesfrancophones.ca/id/506"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/54",
+          "name": "Société culturelle régionale Nepisiguit",
+          "url": "https://scenesfrancophones.ca/diffuseurs/societe-culturelle-regionale-nepisiguit"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/13292",
+            "url": "https://scenesfrancophones.ca/artistes/diane-tell-0",
+            "name": "Diane Tell"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/diane-tell-50e-anniversaire-13546",
+        "name": "Diane Tell - 50e anniversaire",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Visuel_Officiel_Tournee-50-i_aime_Diane-Tell_carree_%E2%92%B8%20Guillaume%20Bernon%20%282%29.jpg?itok=MT6Zxvy7",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "« Pour cette série de concerts, je ne serai pas seule. Un extraordinaire band québécois cinq étoiles,dirigé par l’unique et talentueux Julien Fillion, prendra la route à mes côtés. Quelle chance. Lerépertoire — puisé dans quinze albums — choisi pour notre bonheur et le vôtre, sera sublimé par letalent de ces jeunes musiciens. Alors… on se donne le mot ? Rendez-vous compte : 50 ans demusique, de chansons, de scène, non-stop. Mais c’est surtout votre fidélité qui mérite d’être célébrée.Allez. C’est ma tournée. Le 50 i’aime anniversaire de notre rencontre. Tu te souviens? »",
+        "startDate": "2027-04-21T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13546",
+        "location": {
+          "@type": "Place",
+          "name": "Carrefour de la mer",
+          "url": "https://scenesfrancophones.ca/node/12164",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "29 Av. du Carrefour",
+            "addressLocality": "Caraquet",
+            "addressRegion": "NB",
+            "postalCode": "E1W 1A5",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.794707",
+            "longitude": "-64.937286"
+          },
+          "@id": "https://scenesfrancophones.ca/id/12164"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/39",
+          "name": "Évencia",
+          "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/13292",
+            "url": "https://scenesfrancophones.ca/artistes/diane-tell-0",
+            "name": "Diane Tell"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/diane-tell-50e-anniversaire-13547",
+        "name": "Diane Tell - 50e anniversaire",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Visuel_Officiel_Tournee-50-i_aime_Diane-Tell_carree_%E2%92%B8%20Guillaume%20Bernon%20%282%29.jpg?itok=MT6Zxvy7",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "« Pour cette série de concerts, je ne serai pas seule. Un extraordinaire band québécois cinq étoiles,dirigé par l’unique et talentueux Julien Fillion, prendra la route à mes côtés. Quelle chance. Lerépertoire — puisé dans quinze albums — choisi pour notre bonheur et le vôtre, sera sublimé par letalent de ces jeunes musiciens. Alors… on se donne le mot ? Rendez-vous compte : 50 ans demusique, de chansons, de scène, non-stop. Mais c’est surtout votre fidélité qui mérite d’être célébrée.Allez. C’est ma tournée. Le 50 i’aime anniversaire de notre rencontre. Tu te souviens? »",
+        "startDate": "2027-04-22T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13547",
+        "location": {
+          "@type": "Place",
+          "name": "Salle Léo-Poulin",
+          "url": "https://scenesfrancophones.ca/node/523",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "300, rue Martin",
+            "addressLocality": "Edmundston",
+            "addressRegion": "NB",
+            "postalCode": "E3V 2N6",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.367979",
+            "longitude": "-68.313597"
+          },
+          "@id": "https://scenesfrancophones.ca/id/523"
+        },
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/41",
+          "name": "Le Centre des arts d’Edmundston",
+          "url": "https://scenesfrancophones.ca/diffuseurs/le-centre-des-arts-dedmundston"
+        },
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/13292",
+            "url": "https://scenesfrancophones.ca/artistes/diane-tell-0",
+            "name": "Diane Tell"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/michel-rivard-apres-va-ou-13560",
+        "name": "Michel Rivard -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Photo%20de%20presse_Michel_Rivard_Hi_Cre%CC%81dit%20_%20MarcEtienneMongrain_4.jpg?itok=geWTTH1N",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "APRÈS, ON VA OÙ ? - Michel Rivard\r\nthéâtre musical en solitaire\r\n\r\nDurant les deux semaines (symboliques) que dure la magnifique floraison du magnolia qui illumine la fenêtre de sa chambre, « l'homme qui me ressemble » (74 ans) se questionne sur sa vie, avant et après la mort, en confrontant ses doutes et ses certitudes.\r\n\r\nEntre un rendez-vous médical et le choix d'une urne dans un catalogue, entre un premier amour et une marche en forêt avec son petit-fils de sept ans, « l'homme qui me ressemble » monologue, poétise et chante sa recherche du « plus-grand-que-soi ».\r\n\r\nTexte, chansons et interprétation : Michel Rivard\r\nMusiciens.nes : François Richard , Blanche Baillargeon et Guillaume Bourque.",
+        "startDate": "2026-09-17T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13560",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/michel-rivard",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13558",
+          "url": "https://scenesfrancophones.ca/artistes/michel-rivard-0",
+          "name": "Michel Rivard",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/arnaud-soly-bon-jus-13566",
+        "name": "Arnaud Soly -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/ArnaudSoly_BonJus_1080x1350.jpg?itok=LubrP_MR",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Arnaud Soly revient sur scène avec son deuxième one-man-show : BON JUS. Il s’agit de son meilleur à ce jour (selon lui!) Pourquoi ça s’appelle BON JUS? C’est bizarre, non? Ça serait trop compliqué à expliquer.\r\n\r\nVenez le découvrir en salle. Vous allez rigoler, c’est promis.",
+        "startDate": "2026-10-09T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13566",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/arnaud-soly",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13564",
+          "url": "https://scenesfrancophones.ca/artistes/arnaud-soly-0",
+          "name": "Arnaud Soly",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/laurence-jalbert-35-ans-et-je-cherche-encore-13569",
+        "name": "Laurence Jalbert -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/LAURENCE_JALBERT_20AVRIL2026_0267_HR_creditAndreanneGauthier.jpg?itok=mP4EkYYt",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "35 ans… Et je cherche encore célèbre l’album qui, en 1990, a révélé Laurence Jalbert et imposé sa voix parmi les plus marquantes de la chanson québécoise.\r\n\r\nPorté par des chansons devenues emblématiques, dont Tomber, Rage, Les yeux noirs, À toi, En courant et Au nom de la raison, ce premier opus a connu un succès retentissant avec 180 000 albums vendus, une tournée de 150 représentations et deux Félix au Gala de l’ADISQ.\r\n\r\nAujourd’hui, entourée de ses musiciens, Laurence Jalbert revisite ce répertoire fondateur avec la profondeur, l’intensité et la maîtrise d’une grande interprète. Plus qu’un retour sur un album phare, 35 ans… Et je cherche encore est un rendez-vous vibrant avec une artiste entière, une voix habitée et des chansons qui continuent de traverser le temps.",
+        "startDate": "2026-10-23T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13569",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/laurence-jalbert",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13567",
+          "url": "https://scenesfrancophones.ca/artistes/laurence-jalbert",
+          "name": "Laurence Jalbert",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/fred-pellerin-au-nom-du-pere-13572",
+        "name": "Fred Pellerin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Au%20nom%20du%20pe%CC%80re%20%28Cre%CC%81dit%20Jose%CC%81e%20Ducharme%29.jpg?itok=yjHY9kk8",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Fred Pellerin, figure emblématique du conte au Québec, s’est illustré au-delà de nos frontières avec plus de 3300 représentations professionnelles au sein de la francophonie mondiale.\r\n\r\nÀ la mort du curé, deux fosses furent creusées : une de chaque côté de la clôture du cimetière. Pendant trois jours et trois nuits de veillée au corps, le village au complet a dû débattre pour savoir de quel bord on allait le coucher : en terre bénite ou de l’autre côté.\r\n\r\nOn ne sait jamais vraiment à qui on a affaire… À chacun son histoire, sa vérité. Alors qu’on croyait tout savoir de la vie de cet homme au chapelet, la surprise allait être grande devant le récit que livra la veuve pendant les veillées funèbres. Suspendus à ses lèvres, on allait découvrir les vérités insoupçonnées et les secrets de monsieur le curé — et surtout voir s’étaler le grand jugement biscornu du légendaire tribunal populaire de Saint-Élie-de-Caxton.\r\n\r\nFred Pellerin a déjà derrière lui sept spectacles de contes, prenant chacun pour héros un illustre personnage de son village: Dans mon village, il y a belle Lurette… (2001), Il faut prendre le taureau par les contes! (2003), Comme une odeur de muscles (2005), L’Arracheuse de temps (2008), De peigne et de misère (2012), Un village en trois dés (2017) et La descente aux affaires (2022).\r\n​\r\nSon premier a été présenté plus de 600 fois en France et au Québec et lui a valu une médaille de bronze aux Jeux de la Francophonie en 2001.\r\n\r\nDiplômé en littérature à l'Université du Québec à Trois-Rivières, fils de comptable agréé, il est devenu « conteur agréable par mégarde » après avoir été bercé par les histoires de sa grand-mère, de son voisin Eugène et de son père.\r\n​\r\nLes histoires de Fred Pellerin sont celles de son village: Saint-Élie-de-Caxton, petit village québécois de la Mauricie, « où les lutins et les fées s’écrasent dans les pare-brise le soir ». Anecdotes, potins, rumeurs passent à la moulinette de Fred Pellerin pour en ressortir sous forme de contes pour adultes.\r\n​\r\nLa frontière entre réalité et imaginaire est ténue et toute ressemblance avec des personnages ayant réellement existé n’est pas fortuite. La force de ce formidable bonimenteur est, sans être démagogique, de nous raconter des histoires… toujours vraies! Fred Pellerin met des enjoliveurs à la surréaliste banalité et brasse notre mémoire collective par ses acrobaties verbales.",
+        "startDate": "2026-10-26T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13572",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/fred-pellerin",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13570",
+          "url": "https://scenesfrancophones.ca/artistes/fred-pellerin-0",
+          "name": "Fred Pellerin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/isabelle-cyr-et-yves-marchand-pays-dabondance-13575",
+        "name": "Isabelle Cyr et Yves Marchand -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/l_isabelle-cyr-et-yves-marchand---11-septembre-2026-1.png?itok=A3pSafRT",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Un spectacle qui marie la culture québécoise et acadienne, une rencontre entre deux univers, le lac et la mer.\r\n\r\nDes rives du lac Témiscamingue jusqu’aux côtes acadiennes, les auteurs-compositeurs-interprètes, Isabelle Cyr et Yves Marchand vous offrent leurs nouvelles créations ainsi que des chansons tirées du répertoire des grands poètes québécois et des chants traditionnels acadiens pour vous raconter leur coin de pays, leur héritage! Un duo irrésistible, deux voix, deux cultures, une musique!",
+        "startDate": "2026-09-11T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13575",
+        "location": {
+          "@type": "Place",
+          "name": "La Caserne",
+          "url": "https://scenesfrancophones.ca/node/476",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "331, ave. Acadie",
+            "addressLocality": "Dieppe",
+            "addressRegion": "NB",
+            "postalCode": "E1A 1G9",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.094515",
+            "longitude": "-64.748301"
+          },
+          "@id": "https://scenesfrancophones.ca/id/476"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://centredesartsdieppe.tuxedobillet.com/main/isabelle-cyr-et-yves-marchand?axeptio_token=bnBqNoJkeAP9Z5UDHTtDdSSwW7",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/40",
+          "name": "Centre des arts et de la culture de Dieppe",
+          "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13573",
+          "url": "https://scenesfrancophones.ca/artistes/isabelle-cyr-et-yves-marchand",
+          "name": "Isabelle Cyr et Yves Marchand",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/broue-nouvelle-administration-13578",
+        "name": "Broue -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/broue-1080x1080_photo.png?itok=WBRavjCY",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "La Nouvelle administration : Benoît Brière, Luc Guérin et Martin Drainville\r\n\r\nDepuis la toute première représentation qui a eu lieu le mercredi 21 mars 1979 l'histoire d'amour entre le public québécois et Broue aura duré presque 39 ans sans interruption. Cette pièce de théâtre a dépassé depuis longtemps le simple statut de divertissement et de comédie pour devenir un véritable objet de fierté nationale.\r\n\r\nSes personnages hauts en couleurs font partie de l’imaginaire collectif, dans un portrait d'un Québec pré-référendaire, à la veille d'une invasion qui menace leur aire protégée : l'arrivée des femmes dans ce lieu sacro-saint qu'est... la Taverne !\r\n\r\nBob, Pointu, Verrue, Travolta et tous les autres continueront de vivre et de vous faire rire.\r\n\r\nNous vous invitons donc cher public à poursuivre l'aventure avec nous. Vous êtes tous cordialement invités à venir ou revenir lever votre verre à la Taverne chez Willy!\r\n\r\nEt... Bienvenue aux dames !!!\r\n\r\nTexte : Claude Meunier, Jean-Pierre Plante, Louis Saia, Francine Ruel, Michel Côté, Marc Messier et Marcel Gauthier",
+        "startDate": "2026-11-08T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13578",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/broue",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13576",
+          "url": "https://scenesfrancophones.ca/artistes/broue",
+          "name": "Broue",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/lou-adriane-cassidy-triste-animal-13581",
+        "name": "Lou-Adriane Cassidy -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/LAC-000002_legerementplusclose_sat_noirsplusnoirs_Noe%CC%81mie%20D.Leclerc.jpeg?itok=-TmPfsPy",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Après avoir marqué la première moitié de 2025 avec Journal d’un loup-garou, dont l’album et le spectacle ont récoltés une pluie d’éloges et un succès populaire sans précédent pour l’artiste, Lou-Adriane Cassidy nous revient avec Triste Animal, spectacle tiré de son quatrième album du même nom.\r\n\r\nSur scène comme sur disque, ce nouveau chapitre de son travail nous donne un accès inédit à cette interprète d’exception qui, entourée de cinq musicien.nes, nous touchera au plus profond de l’âme tant par la mature sobriété de son interprétation que par la frénétique énergie qui font sa réputation depuis toujours.",
+        "startDate": "2026-11-19T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13581",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/lou-adriane-cassidy",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13579",
+          "url": "https://scenesfrancophones.ca/artistes/lou-adriane-cassidy-0",
+          "name": "Lou-Adriane Cassidy",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mariana-mazza-foie-gras-13585",
+        "name": "Mariana Mazza -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/2410_MMaz_MEV-E_1080x1080_complet.png?itok=y5kXlRxd",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Pour son troisième spectacle, Foie Gras, Mariana Mazza décide de s’exprimer avec sa tête et son cœur... pour faire changement.\r\n\r\nDans ce one-woman-show bien personnel, la jeune fille qui a grandi à Montréal-Nord, maintenant rendue une femme embourgeoisée qui vit à Saint-Lambert avec ses caniches et ses toiles invendues, se montre aussi brillante qu’hilarante.\r\n\r\nÉtant habituée à dire des choses uniquement pour provoquer un rire, elle souhaite aller plus loin cette fois et faire un coming out au public : elle est émotive et vulnérable. Le chihuahua sur le Red Bull est officiellement remplacé par le tank au cœur de porcelaine.\r\n\r\nComme elle le dit si bien : « C’est moi la meilleure tabarnak! »\r\n\r\nOui, Mariana a changé. Mais à quel point?",
+        "startDate": "2026-11-28T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13585",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/mariana-mazza",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13583",
+          "url": "https://scenesfrancophones.ca/artistes/mariana-mazza-1",
+          "name": "Mariana Mazza",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/457",
         "name": "Atrium de l'ACFSJ",
@@ -77938,6 +81171,78 @@
           "longitude": "-80.996892"
         },
         "@id": "https://scenesfrancophones.ca/id/13141"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/13509",
+        "name": "Centre communautaire de Saint-Charles",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1279 ch Saint Charles",
+          "addressLocality": "1279 ch Saint Charles",
+          "addressRegion": "NB",
+          "postalCode": "E4W 4W2",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "46.695528",
+          "longitude": "-64.945935"
+        },
+        "@id": "https://scenesfrancophones.ca/id/13509"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/13515",
+        "name": "Théâtre Port La-Joye",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "5, promenade Acadian",
+          "addressLocality": "Charlottetown",
+          "addressRegion": "PE",
+          "postalCode": "C1C 1M2",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "46.262145",
+          "longitude": "-63.092755"
+        },
+        "@id": "https://scenesfrancophones.ca/id/13515"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/13533",
+        "name": "Light House Arts Centre",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1800 Argyle St 2nd Floor",
+          "addressLocality": "Halifax",
+          "addressRegion": "NS",
+          "postalCode": "B3J 3N8",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "44.648339",
+          "longitude": "-63.575904"
+        },
+        "@id": "https://scenesfrancophones.ca/id/13533"
       }
     ]
   },
