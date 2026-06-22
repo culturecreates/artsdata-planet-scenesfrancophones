@@ -7798,7 +7798,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/9798",
         "url": "https://scenesfrancophones.ca/artistes/francbatards",
         "name": "Francbâtards"
@@ -9797,7 +9797,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Person",
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/11791",
         "url": "https://scenesfrancophones.ca/artistes/buzz-cuivres",
         "name": "Buzz Cuivres"
@@ -13293,6 +13293,263 @@
         "@id": "https://scenesfrancophones.ca/id/13583",
         "url": "https://scenesfrancophones.ca/artistes/mariana-mazza-1",
         "name": "Mariana Mazza"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13608",
+        "url": "https://scenesfrancophones.ca/artistes/casse-noisette-0",
+        "name": "Casse-Noisette"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13627",
+        "url": "https://scenesfrancophones.ca/artistes/hert-et-rheal-leblanc-0",
+        "name": "Hert et Rhéal LeBlanc"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13630",
+        "url": "https://scenesfrancophones.ca/artistes/one-fell-swoop-circus",
+        "name": "One Fell Swoop Circus"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13633",
+        "url": "https://scenesfrancophones.ca/artistes/pierre-andre-doucet-phoebe-robertson",
+        "name": "Pierre-André Doucet & Phoebe Robertson"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13636",
+        "url": "https://scenesfrancophones.ca/artistes/maude-landry-0",
+        "name": "Maude Landry"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13640",
+        "url": "https://scenesfrancophones.ca/artistes/beauxmont-0",
+        "name": "Beauxmont"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13643",
+        "url": "https://scenesfrancophones.ca/artistes/patrice-lecuyer",
+        "name": "Patrice L'Ecuyer"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13646",
+        "url": "https://scenesfrancophones.ca/artistes/roxane-bruneau",
+        "name": "Roxane Bruneau"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13649",
+        "url": "https://scenesfrancophones.ca/artistes/ballet-jorgen",
+        "name": "Ballet Jörgen"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13652",
+        "url": "https://scenesfrancophones.ca/artistes/alain-choquette-0",
+        "name": "Alain Choquette"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13655",
+        "url": "https://scenesfrancophones.ca/artistes/k-hunters-le-spectacle",
+        "name": "K-Hunters: Le spectacle"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13658",
+        "url": "https://scenesfrancophones.ca/artistes/mario-tessier-0",
+        "name": "Mario Tessier"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13661",
+        "url": "https://scenesfrancophones.ca/artistes/jean-michel-blais",
+        "name": "Jean-Michel Blais"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "additionalType": [
+          "http://dbpedia.org/ontology/Agent",
+          "http://xmlns.com/foaf/0.1/Agent",
+          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+        ],
+        "@id": "https://scenesfrancophones.ca/id/13664",
+        "url": "https://scenesfrancophones.ca/artistes/pierre-hebert",
+        "name": "Pierre Hébert"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/13667",
+        "url": "https://scenesfrancophones.ca/artistes/anemone-47",
+        "name": "Anémone 47"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/13669",
+        "url": "https://scenesfrancophones.ca/artistes/ryunosuke-yamazumi",
+        "name": "Ryunosuke Yamazumi"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/13683",
+        "url": "https://scenesfrancophones.ca/artistes/insight",
+        "name": "(in)sight"
       }
     ]
   },
@@ -75339,7 +75596,7 @@
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Damien Robitaille éblouit son public avec sa polyvalence, jonglant avec virtuosité entre les instruments et les styles musicaux.  Des refrains entraînants aux balades poignantes, il sait comment captiver son auditoire et créer une atmosphère où règnent la complicité et la bonne humeur.  Une expérience musicale à la fois intime et énergique.  Accompagné de ses talentueux musiciens, Damien vous transporte dans un tourbillon de joie et de bonne humeur, créant ainsi une ambiance festive où la musique et la convivialité se mêlent pour créer des instants de pur bonheur.\r\nMise en scène Laurent Paquin",
-        "startDate": "2027-01-31T10:30:00-04:00",
+        "startDate": "2027-01-31T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/13541",
         "location": {
@@ -76193,6 +76450,1855 @@
           "@id": "https://scenesfrancophones.ca/id/13583",
           "url": "https://scenesfrancophones.ca/artistes/mariana-mazza-1",
           "name": "Mariana Mazza",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/casse-noisette-13610",
+        "name": "Casse-Noisette -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/ABC_Casse-Noisette_2024-12-07_2pm_0761%20%281%29.jpg?itok=O-FQGfu_",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Vivez la magie de Casse-Noisette\r\n\r\nL’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène emblématique du Théâtre Capitol avec sa production tant attendue de Casse-Noisette - une tradition des Fêtes incontournable à Moncton depuis 2011.\r\n\r\nCe conte intemporel, empreint de rêve et de féérie, prend vie grâce à des costumes éblouissants, des décors enchanteurs et une distribution de plus de 100 danseurs et artistes locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens.\r\n\r\nAccompagné en direct par l’orchestre renommé Tutta Musica, sous la direction du Maestro Antonio Delgado, Casse-Noisette vous promet une expérience magique et inoubliable pour toute la famille.\r\n\r\nNe manquez pas cette féerie des Fêtes!",
+        "startDate": "2026-12-10T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13610",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/casse-noisette-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13608",
+          "url": "https://scenesfrancophones.ca/artistes/casse-noisette-0",
+          "name": "Casse-Noisette",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/casse-noisette-13611",
+        "name": "Casse-Noisette -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/ABC_Casse-Noisette_2024-12-07_2pm_0761%20%281%29_0.jpg?itok=o7a4uR-g",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Vivez la magie de Casse-Noisette\r\n\r\nL’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène emblématique du Théâtre Capitol avec sa production tant attendue de Casse-Noisette - une tradition des Fêtes incontournable à Moncton depuis 2011.\r\n\r\nCe conte intemporel, empreint de rêve et de féérie, prend vie grâce à des costumes éblouissants, des décors enchanteurs et une distribution de plus de 100 danseurs et artistes locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens.\r\n\r\nAccompagné en direct par l’orchestre renommé Tutta Musica, sous la direction du Maestro Antonio Delgado, Casse-Noisette vous promet une expérience magique et inoubliable pour toute la famille.\r\n\r\nNe manquez pas cette féerie des Fêtes!",
+        "startDate": "2026-12-11T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13611",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/casse-noisette-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11958",
+          "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
+          "name": "Casse-Noisette",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/casse-noisette-13612",
+        "name": "Casse-Noisette -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/ABC_Casse-Noisette_2024-12-07_2pm_0761%20%281%29_1.jpg?itok=aG3Tx6A9",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Vivez la magie de Casse-Noisette\r\n\r\nL’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011.\r\n\r\nCe conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens.\r\n\r\nAccompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands.\r\n\r\nNe manquez pas cette magie des Fêtes!",
+        "startDate": "2026-12-12T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13612",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/casse-noisette-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11958",
+          "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
+          "name": "Casse-Noisette",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/casse-noisette-13613",
+        "name": "Casse-Noisette -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Vivez la magie de Casse-Noisette\r\n\r\nL’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011.\r\n\r\nCe conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens.\r\n\r\nAccompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands.\r\n\r\nNe manquez pas cette magie des Fêtes!",
+        "startDate": "2026-12-12T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13613",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/casse-noisette-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11958",
+          "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
+          "name": "Casse-Noisette",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/casse-noisette-13614",
+        "name": "Casse-Noisette -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/ABC_Casse-Noisette_2024-12-07_2pm_0761%20%281%29_2.jpg?itok=h2rlVXtQ",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Vivez la magie de Casse-Noisette\r\n\r\nL’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011.\r\n\r\nCe conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens.\r\n\r\nAccompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands.\r\n\r\nNe manquez pas cette magie des Fêtes!",
+        "startDate": "2026-12-13T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13614",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/casse-noisette-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11958",
+          "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
+          "name": "Casse-Noisette",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/casse-noisette-13615",
+        "name": "Casse-Noisette -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/ABC_Casse-Noisette_2024-12-07_2pm_0761%20%281%29_3.jpg?itok=NDSja99B",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Vivez la magie de Casse-Noisette\r\n\r\nL’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011.\r\n\r\nCe conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens.\r\n\r\nAccompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands.\r\n\r\nNe manquez pas cette magie des Fêtes!",
+        "startDate": "2026-12-13T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13615",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/casse-noisette-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11958",
+          "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
+          "name": "Casse-Noisette",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/noel-avec-les-muses-les-freres-belivo-roland-gauvin-13616",
+        "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/438721575_969232565208432_8874393824931403043_n_0.jpeg?itok=VHf3IBId",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis plus de 20 ans, le spectacle Noël avec les Muses, les Frères Belivo et Roland Gauvin fait partie des traditions incontournables du temps des fêtes en Acadie.\r\n\r\nLe temps de quelques chansons et on a l’impression de faire partie de la même grande famille!\r\n\r\nFaites partie de la tradition en 2025. Les Jeunes chanteurs d’Acadie, François Emond, Jean-Pascal Comeau et Denis Hachey seront aussi fidèles au rendez-vous. Et si la météo le permet, Père Noël viendra faire un p’tit tour…une tradition ça aussi!",
+        "startDate": "2026-12-15T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13616",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/noel-avec-les-muses-les-freres-belivo-roland-gauvin-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11955",
+          "url": "https://scenesfrancophones.ca/artistes/noel-avec-les-muses-les-freres-belivo-roland-gauvin",
+          "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/noel-avec-les-muses-les-freres-belivo-roland-gauvin-13617",
+        "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/438721575_969232565208432_8874393824931403043_n.jpeg?itok=I4y39Quz",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis plus de 20 ans, le spectacle Noël avec les Muses, les Frères Belivo et Roland Gauvin fait partie des traditions incontournables du temps des fêtes en Acadie.\r\n\r\nLe temps de quelques chansons et on a l’impression de faire partie de la même grande famille!\r\n\r\nFaites partie de la tradition en 2025. Les Jeunes chanteurs d’Acadie, François Emond, Jean-Pascal Comeau et Denis Hachey seront aussi fidèles au rendez-vous. Et si la météo le permet, Père Noël viendra faire un p’tit tour…une tradition ça aussi!",
+        "startDate": "2026-12-16T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13617",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/noel-avec-les-muses-les-freres-belivo-roland-gauvin-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11955",
+          "url": "https://scenesfrancophones.ca/artistes/noel-avec-les-muses-les-freres-belivo-roland-gauvin",
+          "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/noel-avec-les-muses-les-freres-belivo-roland-gauvin-13618",
+        "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/438721575_969232565208432_8874393824931403043_n.jpeg?itok=SoTEw4zd",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis plus de 20 ans, le spectacle Noël avec les Muses, les Frères Belivo et Roland Gauvin fait partie des traditions incontournables du temps des fêtes en Acadie.\r\n\r\nLe temps de quelques chansons et on a l’impression de faire partie de la même grande famille!\r\n\r\nFaites partie de la tradition en 2025. Les Jeunes chanteurs d’Acadie, François Emond, Jean-Pascal Comeau et Denis Hachey seront aussi fidèles au rendez-vous. Et si la météo le permet, Père Noël viendra faire un p’tit tour…une tradition ça aussi!",
+        "startDate": "2026-12-17T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13618",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/noel-avec-les-muses-les-freres-belivo-roland-gauvin-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11955",
+          "url": "https://scenesfrancophones.ca/artistes/noel-avec-les-muses-les-freres-belivo-roland-gauvin",
+          "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/noel-avec-les-muses-les-freres-belivo-roland-gauvin-13619",
+        "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/438721575_969232565208432_8874393824931403043_n_0.jpeg?itok=QMJOP9U1",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis plus de 20 ans, le spectacle Noël avec les Muses, les Frères Belivo et Roland Gauvin fait partie des traditions incontournables du temps des fêtes en Acadie.\r\n\r\nLe temps de quelques chansons et on a l’impression de faire partie de la même grande famille!\r\n\r\nFaites partie de la tradition en 2025. Les Jeunes chanteurs d’Acadie, François Emond, Jean-Pascal Comeau et Denis Hachey seront aussi fidèles au rendez-vous. Et si la météo le permet, Père Noël viendra faire un p’tit tour…une tradition ça aussi!",
+        "startDate": "2026-12-18T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13619",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/noel-avec-les-muses-les-freres-belivo-roland-gauvin-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11955",
+          "url": "https://scenesfrancophones.ca/artistes/noel-avec-les-muses-les-freres-belivo-roland-gauvin",
+          "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/noel-avec-les-muses-les-freres-belivo-roland-gauvin-13620",
+        "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/438721575_969232565208432_8874393824931403043_n_1.jpeg?itok=YHLk1_qS",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis plus de 20 ans, le spectacle Noël avec les Muses, les Frères Belivo et Roland Gauvin fait partie des traditions incontournables du temps des fêtes en Acadie.\r\n\r\nLe temps de quelques chansons et on a l’impression de faire partie de la même grande famille!\r\n\r\nFaites partie de la tradition en 2025. Les Jeunes chanteurs d’Acadie, François Emond, Jean-Pascal Comeau et Denis Hachey seront aussi fidèles au rendez-vous. Et si la météo le permet, Père Noël viendra faire un p’tit tour…une tradition ça aussi!",
+        "startDate": "2026-12-19T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13620",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/noel-avec-les-muses-les-freres-belivo-roland-gauvin-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11955",
+          "url": "https://scenesfrancophones.ca/artistes/noel-avec-les-muses-les-freres-belivo-roland-gauvin",
+          "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/noel-avec-les-muses-les-freres-belivo-roland-gauvin-13621",
+        "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/438721575_969232565208432_8874393824931403043_n_2.jpeg?itok=LbSHOddZ",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis plus de 20 ans, le spectacle Noël avec les Muses, les Frères Belivo et Roland Gauvin fait partie des traditions incontournables du temps des fêtes en Acadie.\r\n\r\nLe temps de quelques chansons et on a l’impression de faire partie de la même grande famille!\r\n\r\nFaites partie de la tradition en 2025. Les Jeunes chanteurs d’Acadie, François Emond, Jean-Pascal Comeau et Denis Hachey seront aussi fidèles au rendez-vous. Et si la météo le permet, Père Noël viendra faire un p’tit tour…une tradition ça aussi!",
+        "startDate": "2026-12-19T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13621",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/noel-avec-les-muses-les-freres-belivo-roland-gauvin-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11955",
+          "url": "https://scenesfrancophones.ca/artistes/noel-avec-les-muses-les-freres-belivo-roland-gauvin",
+          "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/noel-avec-les-muses-les-freres-belivo-roland-gauvin-13622",
+        "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/438721575_969232565208432_8874393824931403043_n_3.jpeg?itok=AfTKIlpr",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis plus de 20 ans, le spectacle Noël avec les Muses, les Frères Belivo et Roland Gauvin fait partie des traditions incontournables du temps des fêtes en Acadie.\r\n\r\nLe temps de quelques chansons et on a l’impression de faire partie de la même grande famille!\r\n\r\nFaites partie de la tradition en 2025. Les Jeunes chanteurs d’Acadie, François Emond, Jean-Pascal Comeau et Denis Hachey seront aussi fidèles au rendez-vous. Et si la météo le permet, Père Noël viendra faire un p’tit tour…une tradition ça aussi!",
+        "startDate": "2026-12-20T14:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13622",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/noel-avec-les-muses-les-freres-belivo-roland-gauvin-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11955",
+          "url": "https://scenesfrancophones.ca/artistes/noel-avec-les-muses-les-freres-belivo-roland-gauvin",
+          "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/noel-avec-les-muses-les-freres-belivo-roland-gauvin-13623",
+        "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/438721575_969232565208432_8874393824931403043_n_4.jpeg?itok=IoIrUJPv",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis plus de 20 ans, le spectacle Noël avec les Muses, les Frères Belivo et Roland Gauvin fait partie des traditions incontournables du temps des fêtes en Acadie.\r\n\r\nLe temps de quelques chansons et on a l’impression de faire partie de la même grande famille!\r\n\r\nFaites partie de la tradition en 2025. Les Jeunes chanteurs d’Acadie, François Emond, Jean-Pascal Comeau et Denis Hachey seront aussi fidèles au rendez-vous. Et si la météo le permet, Père Noël viendra faire un p’tit tour…une tradition ça aussi!",
+        "startDate": "2026-12-20T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13623",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/noel-avec-les-muses-les-freres-belivo-roland-gauvin-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11955",
+          "url": "https://scenesfrancophones.ca/artistes/noel-avec-les-muses-les-freres-belivo-roland-gauvin",
+          "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/noel-avec-les-muses-les-freres-belivo-roland-gauvin-13624",
+        "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/438721575_969232565208432_8874393824931403043_n_5.jpeg?itok=jX0Yqg25",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis plus de 20 ans, le spectacle Noël avec les Muses, les Frères Belivo et Roland Gauvin fait partie des traditions incontournables du temps des fêtes en Acadie.\r\n\r\nLe temps de quelques chansons et on a l’impression de faire partie de la même grande famille!\r\n\r\nFaites partie de la tradition en 2025. Les Jeunes chanteurs d’Acadie, François Emond, Jean-Pascal Comeau et Denis Hachey seront aussi fidèles au rendez-vous. Et si la météo le permet, Père Noël viendra faire un p’tit tour…une tradition ça aussi!",
+        "startDate": "2026-12-21T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13624",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/noel-avec-les-muses-les-freres-belivo-roland-gauvin-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11955",
+          "url": "https://scenesfrancophones.ca/artistes/noel-avec-les-muses-les-freres-belivo-roland-gauvin",
+          "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/noel-avec-les-muses-les-freres-belivo-roland-gauvin-13625",
+        "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/438721575_969232565208432_8874393824931403043_n_6.jpeg?itok=rkuqP2Rd",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis plus de 20 ans, le spectacle Noël avec les Muses, les Frères Belivo et Roland Gauvin fait partie des traditions incontournables du temps des fêtes en Acadie.\r\n\r\nLe temps de quelques chansons et on a l’impression de faire partie de la même grande famille!\r\n\r\nFaites partie de la tradition en 2025. Les Jeunes chanteurs d’Acadie, François Emond, Jean-Pascal Comeau et Denis Hachey seront aussi fidèles au rendez-vous. Et si la météo le permet, Père Noël viendra faire un p’tit tour…une tradition ça aussi!",
+        "startDate": "2026-12-22T19:30:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13625",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/noel-avec-les-muses-les-freres-belivo-roland-gauvin-2026",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/11955",
+          "url": "https://scenesfrancophones.ca/artistes/noel-avec-les-muses-les-freres-belivo-roland-gauvin",
+          "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/hert-et-rheal-leblanc-le-cow-boy-et-le-tymeux-13629",
+        "name": "Hert et Rhéal LeBlanc -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/1%20%282%29_0.jpg?itok=djFTYOct",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Venez vivre un party acadien vous invitant à chanter, rire et danser pour célébrer les 40 ans de carrière de Hert LeBlanc! Vivez une soirée mémorable au son de sa musique acadienne et country caractérisant ses 10 albums solo en carrière ainsi que quelques nouveautés de son nouveau projet à paraître en septembre 2026. Accompagné de son acolyte de toujours, Rhéal LeBlanc, retrouvez la complicité et l’humour qui caractérise leur relation. Forts de leur succès personnels ainsi qu’avec le groupe Les LeBlanc, fêtez et chantez avec Hert et Rhéal LeBlanc.\r\n\r\nLe spectacle se veut un DOUBLÉ de performances musicales des succès cumulées des artistes Hert et Rhéal LeBlanc. Bien connu du public, ce spectacle festif est attendu par les fans qui suivent Hert depuis 40 ans et Rhéal depuis près de 15 ans.",
+        "startDate": "2027-03-06T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13629",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/hert-et-rheal-leblanc",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13627",
+          "url": "https://scenesfrancophones.ca/artistes/hert-et-rheal-leblanc-0",
+          "name": "Hert et Rhéal LeBlanc",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/one-fell-swoop-circus-thread-13632",
+        "name": "One Fell Swoop Circus -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/02%20By%20a%20Thread%20Hero%20Image2_credit%20Aaron%20Walker%20Photography.jpeg?itok=au_XfF_E",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Sept acrobates australiens et 30 mètres de corde composent le spectacle By a Thread, qui s’amène à Moncton pour une représentation unique.\r\n\r\nDeux poulies industrielles et une corde de voile ultra-résistante sont transformées par la troupe de By a Thread pour créer un spectacle de cirque aérien envoûtant. By a Thread mêle acrobaties virtuoses et chorégraphies complexes à des moments de confusion, d’hilarité, de romance, d’espièglerie, de peur et d’amitié, dévoilant ainsi les liens qui unissent toutes les relations.\r\n\r\nTout juste de retour d’une tournée en Europe, au Canada et en Asie, By a Thread redéfinit le cirque contemporain avec des acrobaties aériennes inventives et un concept physique véritablement unique. Cette troupe très expérimentée a mis en commun ses connaissances et ses compétences pour créer un spectacle où les techniques classiques sont utilisées de manière très variée, le seul accessoire sur scène étant 30 mètres de corde blanche en coton. La corde est une manifestation physique de la confiance nécessaire dans toute relation, acrobatique ou autre. Les artistes utilisent cette métaphore de la communauté pour explorer le donnant-donnant, l’équilibre et la dynamique des liens qui nous unissent. Bien plus que de simples corps dans l’espace, By a Thread est une exploration de la confiance à 6 mètres au-dessus du sol.\r\n\r\n« Au cœur de By a Thread se trouve la volonté de partager avec le public, la confiance inhérente au travail acrobatique en groupe. Le cirque est une forme d’art puissante, car ce que vous voyez devant vous correspond exactement à ce qui se passe réellement. Lorsque vous voyez quelqu’un prendre un risque en se suspendant la tête en bas à une corde que seules d’autres personnes retiennent, il n’y a ni illusion ni astuce : ce risque est bien réel, et le public peut le ressentir », explique Charice Rust, metteure en scène et cofondatrice de la compagnie.\r\n\r\n50 minutes (spectacle pour tous âges)",
+        "startDate": "2027-03-09T19:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13632",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/one-fell-swoop-circus",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13630",
+          "url": "https://scenesfrancophones.ca/artistes/one-fell-swoop-circus",
+          "name": "One Fell Swoop Circus",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/pierre-andre-doucet-phoebe-robertson-duo-homard-13635",
+        "name": "Pierre-André Doucet & Phoebe Robertson -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/JoinedDH.jpg?itok=kG1LVKHs",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Le Duo Homard, composé de la flûtiste Phoebe Robertson et du pianiste Pierre-André Doucet, invite le public à une aventure musicale inoubliable avec There and Back Again, un programme vibrant débordant d’émotion, d’imagination et d’une virtuosité éblouissante.\r\n\r\nInspiré par l’idée du retour aux sources, le concert puise profondément dans les racines néo-brunswickoises du duo tout en s’ouvrant à des paysages musicaux riches en couleurs, en contrastes et en découvertes. Tirant son nom du homard, fier symbole du Canada atlantique, le Duo Homard mêle chaleur, narration et talent artistique intrépide dans une prestation à la fois profondément personnelle et d’une ampleur exaltante.\r\n\r\nAu cœur du programme se trouve la Sonate en la mineur de Franz Schubert, réinventée pour flûte, aux côtés d’une œuvre nouvellement commandée et de la musique électrisante de Tania León et Samuel Zyman. Des moments solistes saisissants, allant de l’évocateur Retour aux sources : Grand-Pré de Jared A. Miller au fougueux Tango-Étude n° 3 d’Astor Piazzolla, apportent des bouffées de passion, d’énergie et une touche cinématographique.\r\n\r\nRéputé pour sa présence scénique magnétique et sa complicité musicale naturelle, le Duo Homard crée des concerts immersifs, intimes et pleins d’enthousiasme, qui captivent autant les mélomanes de longue date que les auditeurs novices et curieux.\r\n\r\nVOUS DÉCIDEZ DU PRIX\r\nLes billets pour ce spectacle sont en vente à prix ouvert (contribution volontaire d’un minimum de 10 $ par billet). VOUS décidez du prix de votre billet! Nous vous remercions de votre générosité.",
+        "startDate": "2027-03-14T14:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13635",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/duo-homard",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13633",
+          "url": "https://scenesfrancophones.ca/artistes/pierre-andre-doucet-phoebe-robertson",
+          "name": "Pierre-André Doucet & Phoebe Robertson",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/maude-landry-trop-cool-13638",
+        "name": "Maude Landry -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Maude%20Landry_Trop%20cool_800x800.jpg?itok=UV8SQ_sP",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Dans un monde où il faut se démarquer tout en suivant les tendances, Maude Landry se demande pourquoi elle n’a jamais fait partie de la gang des cools. C’est ce qui la rend attachante. Décontractée et pince-sans-rire, elle pose son regard taquin sur elle-même et sur la société, en passant délibérément par quatre chemins. Un spectacle moderne et assumé, pendant lequel on se dit parfois « C’est niaiseux!... Mais fallait y penser ». Maude vous invite dans un périple au cœur de ses réflexions, ses doutes et ses déboires, pour que vous sortiez de la salle en disant « C’était trop cool! »\r\n\r\nFigure brillante de la nouvelle génération d’humoristes, artiste sensible, engagée et résolument originale, Maude Landry s’est d’abord démarquée en participant aux festivals les plus réputés d’ici et d’ailleurs, avant d’être applaudie en première partie de vétérans comme François Bellefeuille ou Louis-José Houde.\r\n\r\nLauréate de deux Olivier en 2018, dont celui de découverte de l’année, et du Prix Victor de l’Artiste de l’année 2019 au Festival Juste pour rire, la jeune humoriste est fin prête à proposer son premier spectacle solo officiel, L’involution, en grande première montréalaise en janvier 2023. Mis en scène par Guillaume Lambert, il sera ensuite présenté lors d’une vaste tournée partout à travers la province.\r\n\r\nMaude Landry se distingue aussi comme animatrice et collaboratrice sur les ondes des divers réseaux de télévision (Je viens vers toi, Bonsoir, bonsoir, Martin Matte en direct, Infos, sexe et mensonges, L’heure est grave, Le sens du punch, Trait d’humour), à la radio (La Soirée est [encore] jeune, On dira ce qu’on voudra, De l’huile sur le feu), au cinéma (Les Barbares de La Malbaie) ou à l’animation de balados sur OHdio (Les grandes œuvres top chrono et Bonne nuit quand même). De plus, en 2025, elle figurait parmi les participants de la troisième saison de LOL : qui rira le dernier? (Québec), sur Amazon Prime Video.",
+        "startDate": "2027-03-18T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13638",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/maude-landry",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13636",
+          "url": "https://scenesfrancophones.ca/artistes/maude-landry-0",
+          "name": "Maude Landry",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/beauxmont-100-milles-lheure-13642",
+        "name": "Beauxmont -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/BEAUXMONT_0.jpg?itok=AcGrfEuU",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Beauxmont, c’est un groupe acadien du Nouveau-Brunswick qui mélange musique traditionnelle acadienne, influences cajun/louisianaises et bonne vieille énergie des Maritimes. Leur son est fait pour rassembler le monde, autant sur les grandes scènes et en festival que dans un bon party de cuisine.\r\n\r\nFormé de six musiciens venant des quatre coins de la province, le groupe revisite le trad avec une touche bien actuelle, tout en gardant l’authenticité des racines. Avec voix, accordéon, violon, guitares, basse et batterie, ça donne un show intense, festif, et pas mal garanti de faire lever la foule.\r\n\r\nAvec son troisième album, 100 milles à l’heure, qui reçoit déjà un super bel accueil, Beauxmont amène son spectacle à un autre niveau.",
+        "startDate": "2027-03-20T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13642",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/beauxmont",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13640",
+          "url": "https://scenesfrancophones.ca/artistes/beauxmont-0",
+          "name": "Beauxmont",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/patrice-lecuyer-apres-seulement-32-ans-dabsence-sur-scene-13645",
+        "name": "Patrice L'Ecuyer -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/2411_plec_lecuyer_mev-e_1080x1080_complet.png?itok=joYZ6DTB",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Patrice L’Ecuyer présente son tout premier one-man-show intitulé Après seulement 32 ans d’absence sur scène. L’humour a toujours occupé une grande place dans sa carrière, que ce soit dans les Bye Bye (comédien dans quatorze éditions!), L’Ecuyer, Prière de ne pas envoyer de fleurs, les galas Juste pour Rire et ComediHa! ou encore le spectacle Merci beaucoup. Mais aujourd’hui, l’animateur chéri depuis trois décennies s’attaque seul à la scène pour la toute première fois!\r\n\r\nAu fil de sa carrière, Patrice a toujours été discret sur sa vie, même s’il a vécu des situations hors du commun tant avec ses proches qu’avec de grandes personnalités… mais sur scène, il va tout dévoiler! Flash-back sur sa vie, sa carrière, ses rencontres : à travers un impressionnant flot d’anecdotes remplies d’autodérision, Patrice déploie son immense talent comique. Ancienne star de la LNI (et l’un des joueurs les plus punis!), il a maintenant toute la liberté qu’il faut pour faire rire, surprendre et se mettre à nu sans se sentir coupable. Son talent de conteur, son charisme et ses propos surprenants feront de son spectacle un incontournable de la scène humoristique québécoise.",
+        "startDate": "2027-04-10T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13645",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/patrice-lecuyer",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13643",
+          "url": "https://scenesfrancophones.ca/artistes/patrice-lecuyer",
+          "name": "Patrice L'Ecuyer",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/roxane-bruneau-13648",
+        "name": "Roxane Bruneau -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/20250125%20ROX17056-Modifier.jpg?itok=dpqRcvNX",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Originaire de la Rive-Sud de Montréal, Roxane Bruneau se fait d’abord connaître sur les réseaux sociaux grâce à ses capsules humoristiques, avant de révéler au grand public l’ampleur de son talent musical. La sortie de son premier album, Dysphorie (certifié PLATINE) en 2017, marque le début d’une ascension fulgurante. Elle enchaîne ensuite les succès radiophoniques, notamment avec À ma manière, extrait de son album Acrophobie (certifié OR), et s’impose rapidement comme l’une des artistes les plus marquantes de sa génération.\r\n\r\nPortée par une connexion sincère avec son public, l’artiste qui cumule plus de 200 millions de clics multiplie les accomplissements d’envergure : un Centre Bell (14 000 spectateurs) et un Centre Vidéotron (9000 spectateurs) à guichets fermés, ainsi que deux tournées certifiées Billets d’OR, dont celle défendant son troisième album Submergé. Cet opus lui vaut le Félix de l’album pop de l’année 2024 et une nomination dans la prestigieuse catégorie Album canadien de l’année aux Junos 2025, confirmant la reconnaissance tant du public que de l’industrie canadienne.\r\n\r\nSur scène, Roxane Bruneau séduit par son énergie contagieuse, son charisme naturel et une authenticité désarmante. Son univers rassemble une communauté de fans fidèle et grandissante — les Bruno’z — qui dépasse désormais les frontières du Québec, notamment avec sa collaboration avec le populaire chanteur canadien Michael Bublé.\r\n\r\nRoxane Bruneau revient sur scène en 2027, entourée de ses musiciens, avec un tout nouveau spectacle à son image : authentique, touchant et rassembleur. Entre humour et émotion, elle présentera ses nouvelles chansons issues de son prochain album, tout en revisitant ses plus grands succès. Venez vivre le phénomène Roxane Bruneau.",
+        "startDate": "2027-04-16T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13648",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/roxane-bruneau",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13646",
+          "url": "https://scenesfrancophones.ca/artistes/roxane-bruneau",
+          "name": "Roxane Bruneau",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/ballet-jorgen-le-lac-des-cygnes-13651",
+        "name": "Ballet Jörgen -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/%284%29%20Photo%20by%20Kevin%20Vagg.jpg?itok=lNl17_yD",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "À l’occasion du 25e anniversaire de la compagnie, le directeur artistique et PDG Bengt Jörgen a revisité le classique et dramatique Lac des cygnes, y ajoutant une touche d’héritage canadien, comme c’est souvent le cas dans son œuvre. Si cette production du Lac des cygnes met en valeur l’extraordinaire beauté du ballet traditionnel dans sa forme la plus pure, Jörgen l’a réinventée dans le cadre pittoresque de la forteresse de Louisbourg, en Nouvelle-Écosse.\r\n\r\nLes décors somptueux, conçus par Camellia Koo, reflètent la beauté du parc patrimonial national du Canada et offrent une toile de fond spectaculaire aux costumes du XVIIe siècle créés par Robert Doyle. Ce dernier était ravi de participer à cette interprétation unique du Lac des cygnes, ayant lui-même travaillé sur le projet de restauration original de la forteresse de Louisbourg.\r\n\r\nÀ PROPOS DU BALLET JÖRGEN\r\nFondé en 1987, le Ballet Jörgen est un organisme national dont le siège social est situé à Toronto. Il a pour mission de rendre les arts accessibles à tous les Canadiens, en accordant une attention particulière aux communautés et aux groupes démographiques défavorisés. Reconnu pour la chaleur et la beauté de ses productions, le Ballet Jörgen propose une gamme de spectacles en présentiel et en ligne, de cours de danse et d’événements communautaires qui mobilisent chaque année plus de 65 000 participants dans toutes les provinces canadiennes et aux États-Unis.\r\n\r\nLe Ballet Jörgen a remporté en 2011 le Prix du Centre national des Arts pour sa contribution exceptionnelle aux tournées, devenant ainsi la première organisation des arts de la scène de l’Ontario à recevoir cette distinction. En 2019, le directeur artistique et PDG Bengt Jörgen a été nommé membre de l’Ordre du Canada « pour son engagement à promouvoir le ballet au Canada en tant que chorégraphe et directeur artistique ».",
+        "startDate": "2027-04-18T18:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13651",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/ballet-joergen",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13649",
+          "url": "https://scenesfrancophones.ca/artistes/ballet-jorgen",
+          "name": "Ballet Jörgen",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/alain-choquette-entre-histoires-et-illusions-13654",
+        "name": "Alain Choquette -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/alain-choquette-vertical-9e6c3e90f62097089705.jpg?itok=Oe0sEVSY",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Maître de l’insaisissable et raconteur hors pair, Alain Choquette revient sur scène avec une nouvelle proposition aussi divertissante qu’inspirante, Entre histoires et illusions. Dans ce spectacle, l’illusionniste québécois le plus charismatique et expérimenté propose à un public de tous âges de plonger avec lui dans son grand livre de la magie.\r\n\r\nCette fois ci, ce sont ses récits captivants, allant de l’histoire de la magie (Robert-Houdin, Houdini, Copperfield, Magic Tom…) aux surprenantes expériences vécues au cours de ses 35 années de carrière, qui amèneront le célèbre juge de La magie des stars (TVA) à vous éblouir tant par ses performances insaisissables que par ses connaissances historiques et sa capacité à raconter. Plus de 2 millions de billets vendus en carrière, premier Québécois à présenter un spectacle en résidence à Las Vegas, plusieurs tournées à succès en Europe, création et distribution de grands numéros magiques à l’international : Alain Choquette fait partie des grands noms de la magie à travers le monde et ne manque pas de récits et de numéros pour surprendre, faire rire et éblouir.\r\n\r\nAyant une place de choix dans le cœur des Québécois depuis des décennies, Alain veut redonner au public en lui proposant une expérience intime, unique et interactive, qui créera des souvenirs indélébiles. Entre histoires et illusions, un spectacle dans lequel la magie prend tout son sens!",
+        "startDate": "2027-05-01T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13654",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/alain-choquette",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13652",
+          "url": "https://scenesfrancophones.ca/artistes/alain-choquette-0",
+          "name": "Alain Choquette",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/k-hunters-le-spectacle-13657",
+        "name": "K-Hunters: Le spectacle -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/K-HUNTERS%20LE%20SPECTACLE%20AFFICHE%20FRANCO.png?itok=ljWOKWm4",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "ieure, pour une finale des plus puissantes. Une participation chaleureuse qui crée un lien inoubliable entre les jeunes spectateurs, les familles et les artistes sur scène.\r\n\r\nLe spectacle K-Hunters n’est pas qu’un simple spectacle musical : c’est une expérience immersive qui propose un message universel — la lumière se trouve en chacun de nous. À travers une mise en scène moderne, des personnages attachants et des chansons que tous les enfants chantent à tue-tête, le spectacle incarne parfaitement les valeurs de courage, d’amitié, d’expression personnelle et de résilience.",
+        "startDate": "2027-05-09T15:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13657",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/k-hunters-le-spectacle",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13655",
+          "url": "https://scenesfrancophones.ca/artistes/k-hunters-le-spectacle",
+          "name": "K-Hunters: Le spectacle",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/mario-tessier-champion-13660",
+        "name": "Mario Tessier -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/mario-tessier-vertical-c2727ec0ae1e63a0a259.jpg?itok=7qC4WafY",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "L’humoriste Mario Tessier présente son 3e one-man-show intitulé Champion, alors qu’il est de retour avec l’énergie explosive qu’on lui connait. Champion, c’est un concentré d’humour irrésistible qui mélange autodérision et situations improbables. Dans ce spectacle, Mario affronte ses propres contradictions avec une dose de folie : suivre un entraînement de boxe professionnel juste après une séance de botox, devenir propriétaire d’une jument alors qu'il n’est jamais monté à cheval ou encore se prendre pour un génie alors que… bon, vous voyez le tableau! Avec Champion, Mario met en lumière ce « grand champion » qui sommeille en chacun de nous, celui qui nous pousse à viser plus haut… ou à nous ridiculiser de la plus drôle des façons. Si vous l’aimez à la radio sur Énergie, attendez de le voir sur scène! Il vous fera encore plus rire grâce à son énergie contagieuse, son efficacité comique légendaire et cette tête de vainqueur qu’on ne peut qu’aimer!",
+        "startDate": "2027-05-21T20:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13660",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/mario-tessier",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13658",
+          "url": "https://scenesfrancophones.ca/artistes/mario-tessier-0",
+          "name": "Mario Tessier",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/jean-michel-blais-mirador-13663",
+        "name": "Jean-Michel Blais -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/jeanmichelblais_press1_cr_AdrianVillagomez.jpg?itok=GAkiccR0",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Jean-Michel Blais est un pianiste, compositeur et interprète basé à Montréal. Son premier album, Il, a été nommé parmi les dix meilleurs albums de 2016 par Time Magazine, et sa musique cumule depuis plus de 580 millions d’écoutes à travers le monde. Membre de la communauté LGBTQ+ et vivant avec le syndrome de Gilles de la Tourette, il puise également dans son expérience d’éducateur spécialisé pour créer des compositions à la fois extatiques et intimistes, mêlant un piano virtuose à de riches textures orchestrales et électroniques, nourries par l’improvisation.\r\n\r\nJean-Michel Blais était prêt à faire une déclaration épique. Avec mirador, son quatrième album, le pianiste et compositeur montréalais tourne son regard vers un monde merveilleux, troquant le minimalisme contemporain pour un maximalisme léger et généreux. C’est une odyssée qui passe par les chœurs, les cordes et la musique des Andes, des grottes espagnoles aux forêts estoniennes, pour revenir jusqu’au sous-sol de Nicolet, au Québec, où Blais a imaginé ses premières aventures.\r\n\r\nLes origines de mirador remontent à des souvenirs d’enfance. Enfant mélomane – et, même s’il n’en avait pas encore pleinement conscience, en tant que personne queer atteinte du syndrome de Tourette –, le sous-sol de Blais était son belvédère imaginaire, son mirador, d’où il pouvait rêver le monde. Là, il feuilletait avec émerveillement une encyclopédie Larousse; il jouait avec le vieil orgue Hammond de la famille et réécoutait sans cesse les mêmes cassettes.\r\n\r\nPour l’album aubades de 2022, Blais avait commencé à s’essayer à l’orchestration. Mais il s’est alors laissé séduire par le potentiel de la voix humaine, par le chant en tant que « pur instrument ». Assis devant le petit îlot de cuisine de son appartement, Blais a imaginé un chœur à douze voix, sans paroles. Rapidement, avec l’aide de William Brittelle (LA Philharmonic, The National), il a réuni une chorale de chanteurs baroques, puis y a ajouté un quatuor à cordes composé de ses amis.\r\n\r\nComposer ce morceau « a libéré quelque chose », explique Blais. L’une de ses cassettes préférées d’enfance était un enregistrement pirate de musique des Andes, capté à la radio. Ses parents, danseurs de salon amateurs, avaient appris à leur fils à danser la salsa, le mambo et le cha-cha-cha. Il avait appris l’espagnol en autodidacte et avait été tellement ému par son premier voyage en Amérique centrale qu’il avait voulu quitter le conservatoire de musique et donner tous ses biens. Tout au long de sa vingtaine, Blais s’est rendu au Nicaragua, au Guatemala et en Argentine, tombant amoureux des chansons folkloriques traditionnelles andines, en particulier d’artistes comme Los Kjarkas et Charijayac. Sur mirador, Jean-Michel Blais nous offre un retour en enfance : découpez une couronne dans un morceau de papier et vous voilà soudainement roi d’un royaume.",
+        "startDate": "2027-05-22T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13663",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/jean-michel-blais",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13661",
+          "url": "https://scenesfrancophones.ca/artistes/jean-michel-blais",
+          "name": "Jean-Michel Blais",
+          "schema_organization_additional_type": [
+            "http://dbpedia.org/ontology/Agent",
+            "http://xmlns.com/foaf/0.1/Agent",
+            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/pierre-hebert-grandiose-13666",
+        "name": "Pierre Hébert -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/GRANDIOSE-1x1.jpg?itok=7x8Y2tP7",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Tous les matins, on se lève avec le même objectif : que notre vie soit grandiose!\r\n\r\nOn en rêve, on s’épuise, on se dénature, on se casse la gueule et parfois, pendant un court instant, on y arrive. C’est à ce moment qu’on réalise que tout ça en valait la peine. Tout ce chemin, tous ces efforts pour vivre ce moment parfait qui veut tout dire, avant que tout se termine pour de bon.\r\n\r\nQuatre ans après la fin de la tournée Le goût du risque, Pierre Hébert reprend enfin la route avec son nouveau spectacle : Grandiose.\r\n\r\nOn y retrouve l’humoriste souvent moqueur, parfois touchant, qui porte un regard plein d’humour et d’émerveillement sur le monde qui l’entoure.",
+        "startDate": "2027-05-28T19:30:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/13666",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/node/509",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "811, rue Main",
+            "addressLocality": "Moncton",
+            "addressRegion": "NB",
+            "postalCode": "E1C 1G1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "46.088338",
+            "longitude": "-64.779037"
+          },
+          "@id": "https://scenesfrancophones.ca/id/509"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://capitol.nb.ca/fr/spectacles-et-billets/pierre-hebert",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/56",
+          "name": "Théâtre Capitol",
+          "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
+        },
+        "performer": {
+          "@type": "Thing",
+          "@id": "https://scenesfrancophones.ca/id/13664",
+          "url": "https://scenesfrancophones.ca/artistes/pierre-hebert",
+          "name": "Pierre Hébert",
           "schema_organization_additional_type": [
             "http://dbpedia.org/ontology/Agent",
             "http://xmlns.com/foaf/0.1/Agent",
