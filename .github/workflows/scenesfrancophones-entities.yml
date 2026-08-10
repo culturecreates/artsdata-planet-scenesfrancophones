@@ -12,7 +12,7 @@ jobs:
       changes: ${{ steps.check-changes.outputs.HAS_CHANGES }}
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
 
     - name: curl-jsonld
       run: |
@@ -58,7 +58,7 @@ jobs:
     if: needs.fetch-and-commit-data.outputs.changes == 'true'
     steps:
       - name: Action setup
-        uses: culturecreates/artsdata-pipeline-action@v1.1.0
+        uses: culturecreates/artsdata-pipeline-action@v4
         with:
           artifact: scenesfrancophones-ca
           publisher: "https://github.com/fjjulien#this"
