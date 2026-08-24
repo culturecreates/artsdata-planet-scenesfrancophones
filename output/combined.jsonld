@@ -7867,22 +7867,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/10020",
         "url": "https://scenesfrancophones.ca/artistes/grand-poney-0",
-        "name": "Grand Poney",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%285%29.png?itok=f1mNLhh5",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Grand Poney"
       }
     ]
   },
@@ -13602,28 +13590,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/14402",
-        "url": "https://scenesfrancophones.ca/artistes/gabrielle-caorn",
-        "name": "Gabrielle Caorn"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/14405",
         "url": "https://scenesfrancophones.ca/artistes/gabrielle-caron-1",
         "name": "Gabrielle Caron"
@@ -13732,12 +13699,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/14431",
         "url": "https://scenesfrancophones.ca/artistes/ensemble-de-jazz-de-luniversite-de-moncton-0",
         "name": "Ensemble de Jazz de l'Université de Moncton"
@@ -14817,15 +14779,10 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/15013",
         "url": "https://scenesfrancophones.ca/artistes/ari-cui-cui-0",
-        "name": "Ari Cui Cui"
+        "name": "Ari Cui cui"
       }
     ]
   },
@@ -14987,6 +14944,105 @@
         "@id": "https://scenesfrancophones.ca/id/15676",
         "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-6",
         "name": "Jocelyn Sioui"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16089",
+        "url": "https://scenesfrancophones.ca/artistes/erick-nado",
+        "name": "Erick Nado"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16091",
+        "url": "https://scenesfrancophones.ca/artistes/erick-elektrik",
+        "name": "Erick Elektrik"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16093",
+        "url": "https://scenesfrancophones.ca/artistes/zach-chico",
+        "name": "Zach Chico"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/16095",
+        "url": "https://scenesfrancophones.ca/artistes/la-galere",
+        "name": "La Galère"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/16108",
+        "url": "https://scenesfrancophones.ca/artistes/classe-moyenne",
+        "name": "Classe Moyenne"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/16110",
+        "url": "https://scenesfrancophones.ca/artistes/heika",
+        "name": "Heïka"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/16112",
+        "url": "https://scenesfrancophones.ca/artistes/la-grand-messe",
+        "name": "La Grand-Messe"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16120",
+        "url": "https://scenesfrancophones.ca/artistes/tommy-bulger",
+        "name": "Tommy Bulger"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16122",
+        "url": "https://scenesfrancophones.ca/artistes/paul-daraiche",
+        "name": "Paul Daraiche"
       }
     ]
   },
@@ -41404,7 +41460,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/bouge-de-la-glitch-8456",
-        "name": "Bouge de là  -",
+        "name": "Bouge de là -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -41412,7 +41468,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2025/Artist%20webSite%20images_1500and600_Glitch_1500x600.jpg?itok=6q42EXrc",
           "width": "430",
           "height": "430",
-          "creditText": "Pablo Javier"
+          "creditText": "Marie-Ève Dion"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "GLITCH est un spectacle fantaisiste surréaliste qui transporte le public dans le sous-sol mystérieux d’un théâtre déserté. C’est en tout cas ce que croient les quatre intrépides explorateurs qui plongent dans un nouvel univers sur le point de les transformer à jamais. \r\n\r\nQue trouveront-ils dans cette étrange dimension où les lois de la réalité défient les nôtres? Éclairage, scénographie et costumes se conjuguent au gré du rayon laser qui devient un cinquième personnage. C’est le glitch qui apparaît, disparaît et guide le jeune public à la découverte de ce lieu interdit, où le fossé entre deux mondes devient presque illusoire. \r\n\r\nSur ce terrain de jeu sans limite où les protagonistes et les éléments sont étroitement imbriqués, GLITCH éveille l’imagination, en invitant le spectateur à s’interroger sur l’imprévisible et à l’accepter.\r\n\r\nDurant la semaine de relâche\r\nontarienne. En collaboration\r\navec le Centre des arts Shenkman.\r\nPrésenté par le CEPEO.",
@@ -81605,7 +81661,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Copie%20de%202022-11-09-18-01-08-706.jpg?itok=g-O5rQb1",
           "width": "430",
           "height": "430",
-          "creditText": "Max Bujold"
+          "creditText": "Marc-André Béliveau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Max Bujold, originaire du Nouveau-Brunswick, Max Bujold arrive avec un son qui lui ressemble : un mélange de rock, de country et de blues, relevé d’influences folk et trad Acadienne. Sur scène, il dégage une présence vraie, rassembleuse, capable de faire lever une salle autant que de créer des moments qui touchent. Ses chansons parlent de route, d’amitiés, de racines et de ce qu’on porte dans le cœur. Son univers est habité, incarné, livré sans détour. Et quand il joue avec son band, ça groove, ça respire et ça frappe juste des harmonies vocales riches, des guitares qui roule",
@@ -81647,7 +81703,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Copie%20de%202022-11-09-18-01-08-706.jpg?itok=g-O5rQb1",
           "width": "430",
           "height": "430",
-          "creditText": "Max Bujold"
+          "creditText": "Marc-André Béliveau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Max Bujold, originaire du Nouveau-Brunswick, Max Bujold arrive avec un son qui lui ressemble : un mélange de rock, de country et de blues, relevé d’influences folk et trad Acadienne. Sur scène, il dégage une présence vraie, rassembleuse, capable de faire lever une salle autant que de créer des moments qui touchent. Ses chansons parlent de route, d’amitiés, de racines et de ce qu’on porte dans le cœur. Son univers est habité, incarné, livré sans détour. Et quand il joue avec son band, ça groove, ça respire et ça frappe juste des harmonies vocales riches, des guitares qui roule",
@@ -81708,7 +81764,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Copie%20de%202022-11-09-18-01-08-706.jpg?itok=g-O5rQb1",
           "width": "430",
           "height": "430",
-          "creditText": "Max Bujold"
+          "creditText": "Marc-André Béliveau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Max Bujold, originaire du Nouveau-Brunswick, Max Bujold arrive avec un son qui lui ressemble : un mélange de rock, de country et de blues, relevé d’influences folk et trad Acadienne. Sur scène, il dégage une présence vraie, rassembleuse, capable de faire lever une salle autant que de créer des moments qui touchent. Ses chansons parlent de route, d’amitiés, de racines et de ce qu’on porte dans le cœur. Son univers est habité, incarné, livré sans détour. Et quand il joue avec son band, ça groove, ça respire et ça frappe juste des harmonies vocales riches, des guitares qui roule",
@@ -81751,7 +81807,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Copie%20de%202022-11-09-18-01-08-706.jpg?itok=g-O5rQb1",
           "width": "430",
           "height": "430",
-          "creditText": "Max Bujold"
+          "creditText": "Marc-André Béliveau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Max Bujold, originaire du Nouveau-Brunswick, Max Bujold arrive avec un son qui lui ressemble : un mélange de rock, de country et de blues, relevé d’influences folk et trad Acadienne. Sur scène, il dégage une présence vraie, rassembleuse, capable de faire lever une salle autant que de créer des moments qui touchent. Ses chansons parlent de route, d’amitiés, de racines et de ce qu’on porte dans le cœur. Son univers est habité, incarné, livré sans détour. Et quand il joue avec son band, ça groove, ça respire et ça frappe juste des harmonies vocales riches, des guitares qui roule",
@@ -81810,7 +81866,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Copie%20de%202022-11-09-18-01-08-706.jpg?itok=g-O5rQb1",
           "width": "430",
           "height": "430",
-          "creditText": "Max Bujold"
+          "creditText": "Marc-André Béliveau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Max Bujold, originaire du Nouveau-Brunswick, Max Bujold arrive avec un son qui lui ressemble : un mélange de rock, de country et de blues, relevé d’influences folk et trad Acadienne. Sur scène, il dégage une présence vraie, rassembleuse, capable de faire lever une salle autant que de créer des moments qui touchent. Ses chansons parlent de route, d’amitiés, de racines et de ce qu’on porte dans le cœur. Son univers est habité, incarné, livré sans détour. Et quand il joue avec son band, ça groove, ça respire et ça frappe juste des harmonies vocales riches, des guitares qui roule",
@@ -81871,7 +81927,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Copie%20de%202022-11-09-18-01-08-706.jpg?itok=g-O5rQb1",
           "width": "430",
           "height": "430",
-          "creditText": "Max Bujold"
+          "creditText": "Marc-André Béliveau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Max Bujold, originaire du Nouveau-Brunswick, Max Bujold arrive avec un son qui lui ressemble : un mélange de rock, de country et de blues, relevé d’influences folk et trad Acadienne. Sur scène, il dégage une présence vraie, rassembleuse, capable de faire lever une salle autant que de créer des moments qui touchent. Ses chansons parlent de route, d’amitiés, de racines et de ce qu’on porte dans le cœur. Son univers est habité, incarné, livré sans détour. Et quand il joue avec son band, ça groove, ça respire et ça frappe juste des harmonies vocales riches, des guitares qui roule",
@@ -81913,7 +81969,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-06/Copie%20de%202022-11-09-18-01-08-706.jpg?itok=g-O5rQb1",
           "width": "430",
           "height": "430",
-          "creditText": "Max Bujold"
+          "creditText": "Marc-André Béliveau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Max Bujold, originaire du Nouveau-Brunswick, Max Bujold arrive avec un son qui lui ressemble : un mélange de rock, de country et de blues, relevé d’influences folk et trad Acadienne. Sur scène, il dégage une présence vraie, rassembleuse, capable de faire lever une salle autant que de créer des moments qui touchent. Ses chansons parlent de route, d’amitiés, de racines et de ce qu’on porte dans le cœur. Son univers est habité, incarné, livré sans détour. Et quand il joue avec son band, ça groove, ça respire et ça frappe juste des harmonies vocales riches, des guitares qui roule",
@@ -86254,15 +86310,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14405",
           "url": "https://scenesfrancophones.ca/artistes/gabrielle-caron-1",
-          "name": "Gabrielle Caron",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Gabrielle Caron"
         }
       }
     ]
@@ -86506,15 +86557,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/14431",
           "url": "https://scenesfrancophones.ca/artistes/ensemble-de-jazz-de-luniversite-de-moncton-0",
-          "name": "Ensemble de Jazz de l'Université de Moncton",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Ensemble de Jazz de l'Université de Moncton"
         }
       }
     ]
@@ -91002,14 +91048,15 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/ari-cui-cui-et-les-jeux-droles-15015",
-        "name": "Ari Cui Cui -",
+        "name": "Ari Cui cui -",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/Ari%20Cui%20Cui.jpg?itok=2ZV3zyDN",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Juste pour divertir"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Ari Cui Cui et les jeux d’rôles – Les contes classiques en musique est un spectacle familial amusant et ludique qui permet aux enfants et aux parents d’exprimer leurs émotions par la musique et le jeu.  Ari Cui Cui a toujours de nouvelles histoires magiques à partager et sait transformer l'ordinaire en extraordinaire grâce à sa touche unique et enchantée. Les enfants adorent, les parents ouvrent grand les oreilles ! \r\nLe fil conducteur de ce voyage, mis en scène par Lydia Bouchard, s’articule autour de grands contes classiques tels que Cendrillon, Le petit chaperon rouge, Hansel et Gretel, La cigale et la fourmi, Le loup et les trois petits cochons et Boucle d’or.  Il s’adresse aux enfants de 6 mois à 10 ans, qui sont invités avec leurs parents à se déguiser, à jouer des personnages et à mimer les émotions qu’ils ressentent dans un environnement allumé et dynamique créé par Ari Cui Cui et son ami et complice Jean-François Poulin, le Boulanger joyeux.",
@@ -91046,15 +91093,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/15013",
           "url": "https://scenesfrancophones.ca/artistes/ari-cui-cui-0",
-          "name": "Ari Cui Cui",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Ari Cui cui"
         }
       }
     ]
