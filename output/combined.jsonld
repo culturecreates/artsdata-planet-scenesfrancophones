@@ -5354,17 +5354,6 @@
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://scenesfrancophones.ca/id/8513",
-        "url": "https://scenesfrancophones.ca/artistes/jeunesses-musicales-canada-0",
-        "name": "Jeunesses Musicales Canada"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/8515",
         "url": "https://scenesfrancophones.ca/artistes/comme-une-etincelle",
         "name": "COMME UNE ETINCELLE"
@@ -6434,22 +6423,6 @@
           "http://xmlns.com/foaf/0.1/Agent",
           "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
         ],
-        "@id": "https://scenesfrancophones.ca/id/8862",
-        "url": "https://scenesfrancophones.ca/artistes/le-pays-de-la-sagouine",
-        "name": "Le Pays de la Sagouine"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
         "@id": "https://scenesfrancophones.ca/id/8865",
         "url": "https://scenesfrancophones.ca/artistes/nounours-du-pays-de-la-sagouine",
         "name": "Nounours du Pays de la Sagouine"
@@ -6749,22 +6722,6 @@
         "@id": "https://scenesfrancophones.ca/id/9099",
         "url": "https://scenesfrancophones.ca/artistes/francois-massicotte",
         "name": "François Massicotte"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/9106",
-        "url": "https://scenesfrancophones.ca/artistes/mariana-mazza",
-        "name": "Mariana Mazza"
       }
     ]
   },
@@ -9614,14 +9571,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/11848",
         "url": "https://scenesfrancophones.ca/artistes/souldia",
-        "name": "SOULDIA",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-08/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2812%29.png?itok=hw2SlpVJ",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Souldia"
       }
     ]
   },
@@ -9656,22 +9606,6 @@
         "@id": "https://scenesfrancophones.ca/id/11955",
         "url": "https://scenesfrancophones.ca/artistes/noel-avec-les-muses-les-freres-belivo-roland-gauvin",
         "name": "Noël avec Les Muses, les frères Belivo & Roland Gauvin"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/11958",
-        "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
-        "name": "Casse-Noisette"
       }
     ]
   },
@@ -10425,22 +10359,6 @@
         "@id": "https://scenesfrancophones.ca/id/12217",
         "url": "https://scenesfrancophones.ca/artistes/iron-lace-jazz-band",
         "name": "Iron Lace Jazz Band"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/12221",
-        "url": "https://scenesfrancophones.ca/artistes/mariana-mazza-0",
-        "name": "Mariana Mazza"
       }
     ]
   },
@@ -11235,22 +11153,6 @@
         "@id": "https://scenesfrancophones.ca/id/12777",
         "url": "https://scenesfrancophones.ca/artistes/nikamu-mamuitun-chansons-rassembleuses-0",
         "name": "Nikamu Mamuitun - Chansons rassembleuses"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/12780",
-        "url": "https://scenesfrancophones.ca/artistes/maude-landry",
-        "name": "Maude Landry"
       }
     ]
   },
@@ -12728,12 +12630,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/13299",
         "url": "https://scenesfrancophones.ca/artistes/21-novembre-theatre-populaire-dacadie",
         "name": "21 NOVEMBRE - Théâtre populaire d'Acadie",
@@ -12762,12 +12659,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/13318",
         "url": "https://scenesfrancophones.ca/artistes/paul-hebert",
         "name": "Paul Hébert",
@@ -12808,7 +12700,7 @@
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/13409",
+        "@id": "https://scenesfrancophones.ca/id/13410",
         "url": "https://scenesfrancophones.ca/artistes/carl-mayotte",
         "name": "Carl Mayotte"
       }
@@ -12819,22 +12711,6 @@
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://scenesfrancophones.ca/id/13410",
-        "url": "https://scenesfrancophones.ca/artistes/carl-mayotte-0",
-        "name": "Carl Mayotte"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
         "@id": "https://scenesfrancophones.ca/id/13558",
         "url": "https://scenesfrancophones.ca/artistes/michel-rivard-0",
         "name": "Michel Rivard"
@@ -12845,12 +12721,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/13561",
         "url": "https://scenesfrancophones.ca/artistes/diane-tell-1",
         "name": "Diane Tell"
@@ -12861,12 +12732,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/13564",
         "url": "https://scenesfrancophones.ca/artistes/arnaud-soly-0",
         "name": "Arnaud Soly"
@@ -12877,12 +12743,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/13567",
         "url": "https://scenesfrancophones.ca/artistes/laurence-jalbert",
         "name": "Laurence Jalbert"
@@ -12893,12 +12754,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/13570",
         "url": "https://scenesfrancophones.ca/artistes/fred-pellerin-0",
         "name": "Fred Pellerin"
@@ -12909,12 +12765,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/13573",
         "url": "https://scenesfrancophones.ca/artistes/isabelle-cyr-et-yves-marchand",
         "name": "Isabelle Cyr et Yves Marchand"
@@ -12925,12 +12776,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/13576",
         "url": "https://scenesfrancophones.ca/artistes/broue",
         "name": "Broue"
@@ -12941,28 +12787,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/13579",
-        "url": "https://scenesfrancophones.ca/artistes/lou-adriane-cassidy-0",
-        "name": "Lou-Adriane Cassidy"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/13583",
         "url": "https://scenesfrancophones.ca/artistes/mariana-mazza-1",
         "name": "Mariana Mazza"
@@ -12973,14 +12798,9 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/13608",
-        "url": "https://scenesfrancophones.ca/artistes/casse-noisette-0",
+        "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
         "name": "Casse-Noisette"
       }
     ]
@@ -12989,12 +12809,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/13627",
         "url": "https://scenesfrancophones.ca/artistes/hert-et-rheal-leblanc-0",
         "name": "Hert et Rhéal LeBlanc"
@@ -13005,12 +12820,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/13630",
         "url": "https://scenesfrancophones.ca/artistes/one-fell-swoop-circus",
         "name": "One Fell Swoop Circus"
@@ -13021,12 +12831,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/13633",
         "url": "https://scenesfrancophones.ca/artistes/pierre-andre-doucet-phoebe-robertson",
         "name": "Pierre-André Doucet & Phoebe Robertson"
@@ -13037,14 +12842,9 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/13636",
-        "url": "https://scenesfrancophones.ca/artistes/maude-landry-0",
+        "url": "https://scenesfrancophones.ca/artistes/maude-landry",
         "name": "Maude Landry"
       }
     ]
@@ -13053,23 +12853,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
-        "@id": "https://scenesfrancophones.ca/id/13640",
-        "url": "https://scenesfrancophones.ca/artistes/beauxmont-0",
-        "name": "Beauxmont"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/13643",
         "url": "https://scenesfrancophones.ca/artistes/patrice-lecuyer",
         "name": "Patrice L'Ecuyer"
@@ -13080,12 +12864,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/13646",
         "url": "https://scenesfrancophones.ca/artistes/roxane-bruneau",
         "name": "Roxane Bruneau"
@@ -13096,12 +12875,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/13649",
         "url": "https://scenesfrancophones.ca/artistes/ballet-jorgen",
         "name": "Ballet Jörgen"
@@ -13112,28 +12886,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/13652",
-        "url": "https://scenesfrancophones.ca/artistes/alain-choquette-0",
-        "name": "Alain Choquette"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/13655",
         "url": "https://scenesfrancophones.ca/artistes/k-hunters-le-spectacle",
         "name": "K-Hunters: Le spectacle"
@@ -13144,28 +12897,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/13658",
-        "url": "https://scenesfrancophones.ca/artistes/mario-tessier-0",
-        "name": "Mario Tessier"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/13661",
         "url": "https://scenesfrancophones.ca/artistes/jean-michel-blais",
         "name": "Jean-Michel Blais"
@@ -13176,12 +12908,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/13664",
         "url": "https://scenesfrancophones.ca/artistes/pierre-hebert",
         "name": "Pierre Hébert"
@@ -13258,28 +12985,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/14064",
-        "url": "https://scenesfrancophones.ca/artistes/dave-gauder",
-        "name": "Dave Gauder"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/14068",
         "url": "https://scenesfrancophones.ca/artistes/nikamu-mamuitun",
         "name": "Nikamu Mamuitun"
@@ -13290,12 +12996,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/14071",
         "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-1",
         "name": "Jocelyn Sioui"
@@ -13306,12 +13007,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/14075",
         "url": "https://scenesfrancophones.ca/artistes/les-charbonniers-de-lenfer",
         "name": "Les Charbonniers de l'enfer"
@@ -13322,12 +13018,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/14078",
         "url": "https://scenesfrancophones.ca/artistes/dave-gaudet",
         "name": "Dave Gaudet"
@@ -13338,12 +13029,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/14081",
         "url": "https://scenesfrancophones.ca/artistes/chloe-theriault",
         "name": "Chloé Thériault"
@@ -13376,12 +13062,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/14151",
         "url": "https://scenesfrancophones.ca/artistes/jean-francois-mercier-1",
         "name": "Jean-François Mercier"
@@ -13403,22 +13084,6 @@
           "width": "480",
           "height": "480"
         }
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/14330",
-        "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-2",
-        "name": "Jocelyn Sioui"
       }
     ]
   },
@@ -13558,12 +13223,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/14393",
         "url": "https://scenesfrancophones.ca/artistes/compagnie-de-fakto",
         "name": "Compagnie de Fakto"
@@ -13574,12 +13234,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/14398",
         "url": "https://scenesfrancophones.ca/artistes/art-richard-0",
         "name": "Art Richard"
@@ -13616,22 +13271,6 @@
         "@id": "https://scenesfrancophones.ca/id/14410",
         "url": "https://scenesfrancophones.ca/artistes/kayser-magic",
         "name": "Kayser Magic"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/14413",
-        "url": "https://scenesfrancophones.ca/artistes/le-pays-de-la-sagouine-0",
-        "name": "Le Pays de la Sagouine"
       }
     ]
   },
@@ -13683,14 +13322,9 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/14428",
-        "url": "https://scenesfrancophones.ca/artistes/le-pays-de-la-sagouine-1",
+        "url": "https://scenesfrancophones.ca/artistes/le-pays-de-la-sagouine",
         "name": "Le Pays de la Sagouine"
       }
     ]
@@ -13721,12 +13355,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/14438",
         "url": "https://scenesfrancophones.ca/artistes/karine-x-atlantic-sinfonia",
         "name": "Karine X Atlantic Sinfonia"
@@ -14067,12 +13696,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/14534",
         "url": "https://scenesfrancophones.ca/artistes/francis-degrandpre-avec-jay-trepanier-en-premiere-partie",
         "name": "Francis Degrandpré avec Jay Trepanier en Première Partie"
@@ -14083,12 +13707,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/14537",
         "url": "https://scenesfrancophones.ca/artistes/guillaume-pineault-3",
         "name": "Guillaume Pineault"
@@ -14099,12 +13718,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/14542",
         "url": "https://scenesfrancophones.ca/artistes/patenteuses",
         "name": "Patenteuses"
@@ -14115,12 +13729,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/14546",
         "url": "https://scenesfrancophones.ca/artistes/mario-jean",
         "name": "Mario Jean"
@@ -14131,12 +13740,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/14554",
         "url": "https://scenesfrancophones.ca/artistes/sabaya-woodney-pierre-et-leila-marie",
         "name": "Sabaya, Woodney Pierre et Leïla Marie"
@@ -14147,12 +13751,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/14563",
         "url": "https://scenesfrancophones.ca/artistes/dave-gaudet-0",
         "name": "Dave Gaudet"
@@ -14516,22 +14115,6 @@
           "http://xmlns.com/foaf/0.1/Agent",
           "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
         ],
-        "@id": "https://scenesfrancophones.ca/id/14745",
-        "url": "https://scenesfrancophones.ca/artistes/nikamu-mamuitun-0",
-        "name": "Nikamu Mamuitun"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
         "@id": "https://scenesfrancophones.ca/id/14749",
         "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-3",
         "name": "Jocelyn Sioui"
@@ -14763,12 +14346,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/15009",
         "url": "https://scenesfrancophones.ca/artistes/chris-giguere",
         "name": "Chris Giguère"
@@ -14790,12 +14368,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/15018",
         "url": "https://scenesfrancophones.ca/artistes/mibenson-sylvain",
         "name": "Mibenson Sylvain"
@@ -14806,12 +14379,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/15021",
         "url": "https://scenesfrancophones.ca/artistes/carine-au-micro-0",
         "name": "Carine au micro"
@@ -14822,12 +14390,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/15024",
         "url": "https://scenesfrancophones.ca/artistes/lennie-gallant",
         "name": "Lennie Gallant"
@@ -14838,28 +14401,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/15027",
-        "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-4",
-        "name": "Jocelyn Sioui"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/15030",
         "url": "https://scenesfrancophones.ca/artistes/silvi-tourigny-0",
         "name": "Silvi Tourigny"
@@ -14870,12 +14412,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "PerformingGroup",
         "@id": "https://scenesfrancophones.ca/id/15039",
         "url": "https://scenesfrancophones.ca/artistes/les-bluecharms-jacques-surette-et-6-hearts",
         "name": "Les Bluecharms, Jacques Surette et 6 Hearts"
@@ -14919,30 +14456,9 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
-        "@id": "https://scenesfrancophones.ca/id/15664",
-        "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-5",
-        "name": "Jocelyn Sioui"
-      }
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Thing",
-        "additionalType": [
-          "http://dbpedia.org/ontology/Agent",
-          "http://xmlns.com/foaf/0.1/Agent",
-          "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-        ],
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/15676",
-        "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-6",
+        "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-4",
         "name": "Jocelyn Sioui"
       }
     ]
@@ -15043,6 +14559,138 @@
         "@id": "https://scenesfrancophones.ca/id/16122",
         "url": "https://scenesfrancophones.ca/artistes/paul-daraiche",
         "name": "Paul Daraiche"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16124",
+        "url": "https://scenesfrancophones.ca/artistes/janine-boudreau",
+        "name": "Janine Boudreau"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16127",
+        "url": "https://scenesfrancophones.ca/artistes/vincent-vallieres",
+        "name": "Vincent Vallières"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16136",
+        "url": "https://scenesfrancophones.ca/artistes/fred-dionne-0",
+        "name": "Fred Dionne"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16139",
+        "url": "https://scenesfrancophones.ca/artistes/shari-chaskin",
+        "name": "Shari Chaskin"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16142",
+        "url": "https://scenesfrancophones.ca/artistes/josee-thibeault",
+        "name": "Josée Thibeault"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/16145",
+        "url": "https://scenesfrancophones.ca/artistes/les-productions-bernard-lebel-0",
+        "name": "Les Productions Bernard Lebel"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16148",
+        "url": "https://scenesfrancophones.ca/artistes/samantha",
+        "name": "Samantha"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16151",
+        "url": "https://scenesfrancophones.ca/artistes/martin-giroux",
+        "name": "Martin Giroux"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16153",
+        "url": "https://scenesfrancophones.ca/artistes/queen-ka",
+        "name": "Queen Ka"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16155",
+        "url": "https://scenesfrancophones.ca/artistes/tire-le-coyote",
+        "name": "Tire le coyote"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scenesfrancophones.ca/id/16157",
+        "url": "https://scenesfrancophones.ca/artistes/mocean-dance",
+        "name": "Mocean Dance"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/16159",
+        "url": "https://scenesfrancophones.ca/artistes/arion-orchestre-baroque",
+        "name": "Arion Orchestre Baroque"
       }
     ]
   },
@@ -46218,7 +45866,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/le-pays-de-la-sagouine-racines-clin-doeil-la-francophonie-8864",
-        "name": "Le Pays de la Sagouine -",
+        "name": "Le Pays de la Sagouine - Racines - Clin d'oeil à la francophonie",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -46228,7 +45876,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Suite au succès de l’édition 2025 du Clin d’œil à la Francophonie, le Pays de la Sagouine revient au Centre des arts et de la culture de Dieppe en 2026 avec le spectacle RACINES, un savoureux mélange de théâtre, de musique et d’humour. RACINES est l’occasion parfaite de passer un bon moment avec les personnages du Pays et de célébrer notre patrimoine linguistique et culturel.\r\n\r\nLes Acadiens ont bien compris que l’équilibre dans la vie, ça part des racines. Tilmon (Christian Kit Goguen) et Mélodie (Véronique Hébert) font voyager Citrouille (Luc LeBlanc) et Ben (David Losier) au pays de leurs ancêtres.\r\n\r\nMusiciens : Mario Robichaud, Joël Robichaud et Daniel Fournier",
+        "description": "Suite au succès de l’édition 2025 du Clin d’œil à la Francophonie, le Pays de la Sagouine revient au Centre des arts et de la culture de Dieppe en 2026 avec le spectacle RACINES, un savoureux mélange de théâtre, de musique et d’humour. RACINES est l’occasion parfaite de passer un bon moment avec les personnages du Pays et de célébrer notre patrimoine linguistique et culturel. Les Acadiens ont bien compris que l’équilibre dans la vie, ça part des racines. Tilmon (Christian Kit Goguen) et Mélodie (Véronique Hébert) font voyager Citrouille (Luc LeBlanc) et Ben (David Losier) au pays de leurs ancêtres. Musiciens : Mario Robichaud, Joël Robichaud et Daniel Fournier",
         "startDate": "2026-03-19T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/8864",
@@ -46262,17 +45910,14 @@
           "name": "Centre des arts et de la culture de Dieppe",
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/8862",
-          "url": "https://scenesfrancophones.ca/artistes/le-pays-de-la-sagouine",
-          "name": "Le Pays de la Sagouine",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/14428",
+            "url": "https://scenesfrancophones.ca/artistes/le-pays-de-la-sagouine",
+            "name": "Le Pays de la Sagouine"
+          }
+        ]
       }
     ]
   },
@@ -47894,7 +47539,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/mariana-mazza-foie-gras-9108",
-        "name": "Mariana Mazza -",
+        "name": "Mariana Mazza - Foie Gras",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -47904,7 +47549,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Pour son troisième spectacle, Foie Gras, Mariana Mazza décide de s’exprimer avec sa tête et son coeur… pour faire un changement.\r\n\r\nDans ce one-woman-show bien personnel, la jeune fille qui a grandi à Montréal-Nord, maintenant rendue une femme embourgeoisée qui vit à Saint-Lambert avec ses caniches et ses toiles invendues, se montre aussi brillante qu’hilarante.\r\n\r\nÉtant habituée à dire des choses uniquement pour provoquer un rire, elle souhaite aller plus loin cette fois et faire un coming out au public : elle est émotive et vulnérable. Le chihuahua sur le Red Bull est officiellement remplacé par le tank au coeur de porcelaine.\r\n\r\nComme elle le dit si bien: «C’est moi la meilleure tabarnak!»\r\n\r\nOui, Mariana a changé. Mais à quel point?",
+        "description": "Pour son troisième spectacle, Foie Gras, Mariana Mazza décide de s’exprimer avec sa tête et son coeur… pour faire un changement. Dans ce one-woman-show bien personnel, la jeune fille qui a grandi à Montréal-Nord, maintenant rendue une femme embourgeoisée qui vit à Saint-Lambert avec ses caniches et ses toiles invendues, se montre aussi brillante qu’hilarante. Étant habituée à dire des choses uniquement pour provoquer un rire, elle souhaite aller plus loin cette fois et faire un coming out au public : elle est émotive et vulnérable. Le chihuahua sur le Red Bull est officiellement remplacé par le tank au coeur de porcelaine. Comme elle le dit si bien: «C’est moi la meilleure tabarnak!» Oui, Mariana a changé. Mais à quel point?",
         "startDate": "2025-11-01T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/9108",
@@ -47938,17 +47583,14 @@
           "name": "MIFO",
           "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/9106",
-          "url": "https://scenesfrancophones.ca/artistes/mariana-mazza",
-          "name": "Mariana Mazza",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/13583",
+            "url": "https://scenesfrancophones.ca/artistes/mariana-mazza-1",
+            "name": "Mariana Mazza"
+          }
+        ]
       }
     ]
   },
@@ -56490,7 +56132,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2824%29.png?itok=Z9EMtvXh",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Dominic Courchesne et BossLab design"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Après une année non conventionnelle et chargée en émotions, Souldia est plus déterminé que jamais à présenter son nouveau show. Haut en couleurs et plus percutant que jamais, le rappeur ose en nous proposant un spectacle énergique complètement hors du commun, passant par des sonorités rock’n’roll, voire même punk, bien agencées à son style cru. Souldia est au sommet de sa forme et sûr de lui pour un nouveau départ sur scène ahurissant!",
@@ -56532,7 +56175,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/11848",
             "url": "https://scenesfrancophones.ca/artistes/souldia",
-            "name": "SOULDIA"
+            "name": "Souldia"
           }
         ]
       }
@@ -58970,7 +58613,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2824%29.png?itok=Z9EMtvXh",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Dominic Courchesne et BossLab design"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Après une année non conventionnelle et chargée en émotions, Souldia est plus déterminé que jamais à présenter son nouveau show. Haut en couleurs et plus percutant que jamais, le rappeur ose en nous proposant un spectacle énergique complètement hors du commun, passant par des sonorités rock’n’roll, voire même punk, bien agencées à son style cru. Souldia est au sommet de sa forme et sûr de lui pour un nouveau départ sur scène ahurissant!",
@@ -59012,7 +58656,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/11848",
             "url": "https://scenesfrancophones.ca/artistes/souldia",
-            "name": "SOULDIA"
+            "name": "Souldia"
           }
         ]
       }
@@ -59031,7 +58675,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2824%29.png?itok=Z9EMtvXh",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Dominic Courchesne et BossLab design"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Après une année non conventionnelle et chargée en émotions, Souldia est plus déterminé que jamais à présenter son nouveau show. Haut en couleurs et plus percutant que jamais, le rappeur ose en nous proposant un spectacle énergique complètement hors du commun, passant par des sonorités rock’n’roll, voire même punk, bien agencées à son style cru. Souldia est au sommet de sa forme et sûr de lui pour un nouveau départ sur scène ahurissant!",
@@ -59073,7 +58718,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/11848",
             "url": "https://scenesfrancophones.ca/artistes/souldia",
-            "name": "SOULDIA"
+            "name": "Souldia"
           }
         ]
       }
@@ -59395,7 +59040,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-09/aff_MW_Modeste_18x24.pdf%20%28480%20x%20480%20px%29%20%2824%29.png?itok=Z9EMtvXh",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Dominic Courchesne et BossLab design"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Après une année non conventionnelle et chargée en émotions, Souldia est plus déterminé que jamais à présenter son nouveau show. Haut en couleurs et plus percutant que jamais, le rappeur ose en nous proposant un spectacle énergique complètement hors du commun, passant par des sonorités rock’n’roll, voire même punk, bien agencées à son style cru. Souldia est au sommet de sa forme et sûr de lui pour un nouveau départ sur scène ahurissant!",
@@ -59437,7 +59083,7 @@
             "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/11848",
             "url": "https://scenesfrancophones.ca/artistes/souldia",
-            "name": "SOULDIA"
+            "name": "Souldia"
           }
         ]
       }
@@ -64462,7 +64108,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/casse-noisette-11960",
-        "name": "Casse-Noisette -",
+        "name": "Casse-Noisette",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -64472,7 +64118,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Vivez la magie de Casse-Noisette\r\n\r\nL’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011.\r\n\r\nCe conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens.\r\n\r\nAccompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands.\r\n\r\nNe manquez pas cette magie des Fêtes!",
+        "description": "Vivez la magie de Casse-Noisette L’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011. Ce conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens. Accompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands. Ne manquez pas cette magie des Fêtes!",
         "startDate": "2025-12-04T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/11960",
@@ -64506,17 +64152,14 @@
           "name": "Théâtre Capitol",
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/11958",
-          "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
-          "name": "Casse-Noisette",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/13608",
+            "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
+            "name": "Casse-Noisette"
+          }
+        ]
       }
     ]
   },
@@ -69610,7 +69253,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/mariana-mazza-foie-gras-12223",
-        "name": "Mariana Mazza -",
+        "name": "Mariana Mazza - Foie Gras",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -69654,17 +69297,14 @@
           "name": "Évencia",
           "url": "https://scenesfrancophones.ca/diffuseurs/evencia"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/12221",
-          "url": "https://scenesfrancophones.ca/artistes/mariana-mazza-0",
-          "name": "Mariana Mazza",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/13583",
+            "url": "https://scenesfrancophones.ca/artistes/mariana-mazza-1",
+            "name": "Mariana Mazza"
+          }
+        ]
       }
     ]
   },
@@ -72827,7 +72467,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/maude-landry-trop-cool-12782",
-        "name": "Maude Landry -",
+        "name": "Maude Landry - Trop cool",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -72871,17 +72511,14 @@
           "name": "MIFO",
           "url": "https://scenesfrancophones.ca/diffuseurs/mifo"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/12780",
-          "url": "https://scenesfrancophones.ca/artistes/maude-landry",
-          "name": "Maude Landry",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/13636",
+            "url": "https://scenesfrancophones.ca/artistes/maude-landry",
+            "name": "Maude Landry"
+          }
+        ]
       }
     ]
   },
@@ -77221,15 +76858,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/13558",
           "url": "https://scenesfrancophones.ca/artistes/michel-rivard-0",
-          "name": "Michel Rivard",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Michel Rivard"
         }
       }
     ]
@@ -77285,15 +76917,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "PerformingGroup",
           "@id": "https://scenesfrancophones.ca/id/13564",
           "url": "https://scenesfrancophones.ca/artistes/arnaud-soly-0",
-          "name": "Arnaud Soly",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Arnaud Soly"
         }
       }
     ]
@@ -77349,15 +76976,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/13567",
           "url": "https://scenesfrancophones.ca/artistes/laurence-jalbert",
-          "name": "Laurence Jalbert",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Laurence Jalbert"
         }
       }
     ]
@@ -77413,15 +77035,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/13570",
           "url": "https://scenesfrancophones.ca/artistes/fred-pellerin-0",
-          "name": "Fred Pellerin",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Fred Pellerin"
         }
       }
     ]
@@ -77477,15 +77094,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "PerformingGroup",
           "@id": "https://scenesfrancophones.ca/id/13573",
           "url": "https://scenesfrancophones.ca/artistes/isabelle-cyr-et-yves-marchand",
-          "name": "Isabelle Cyr et Yves Marchand",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Isabelle Cyr et Yves Marchand"
         }
       }
     ]
@@ -77541,15 +77153,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "PerformingGroup",
           "@id": "https://scenesfrancophones.ca/id/13576",
           "url": "https://scenesfrancophones.ca/artistes/broue",
-          "name": "Broue",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Broue"
         }
       }
     ]
@@ -77560,7 +77167,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/lou-adriane-cassidy-triste-animal-13581",
-        "name": "Lou-Adriane Cassidy -",
+        "name": "Lou-Adriane Cassidy - Triste Animal",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -77570,7 +77177,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Après avoir marqué la première moitié de 2025 avec Journal d’un loup-garou, dont l’album et le spectacle ont récoltés une pluie d’éloges et un succès populaire sans précédent pour l’artiste, Lou-Adriane Cassidy nous revient avec Triste Animal, spectacle tiré de son quatrième album du même nom.\r\n\r\nSur scène comme sur disque, ce nouveau chapitre de son travail nous donne un accès inédit à cette interprète d’exception qui, entourée de cinq musicien.nes, nous touchera au plus profond de l’âme tant par la mature sobriété de son interprétation que par la frénétique énergie qui font sa réputation depuis toujours.",
+        "description": "Après avoir marqué la première moitié de 2025 avec Journal d’un loup-garou, dont l’album et le spectacle ont récoltés une pluie d’éloges et un succès populaire sans précédent pour l’artiste, Lou-Adriane Cassidy nous revient avec Triste Animal, spectacle tiré de son quatrième album du même nom. Sur scène comme sur disque, ce nouveau chapitre de son travail nous donne un accès inédit à cette interprète d’exception qui, entourée de cinq musicien.nes, nous touchera au plus profond de l’âme tant par la mature sobriété de son interprétation que par la frénétique énergie qui font sa réputation depuis toujours.",
         "startDate": "2026-11-19T19:30:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/13581",
@@ -77604,17 +77211,14 @@
           "name": "Théâtre Capitol",
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/13579",
-          "url": "https://scenesfrancophones.ca/artistes/lou-adriane-cassidy-0",
-          "name": "Lou-Adriane Cassidy",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12851",
+            "url": "https://scenesfrancophones.ca/artistes/lou-adriane-cassidy",
+            "name": "Lou-Adriane Cassidy"
+          }
+        ]
       }
     ]
   },
@@ -77669,15 +77273,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/13583",
           "url": "https://scenesfrancophones.ca/artistes/mariana-mazza-1",
-          "name": "Mariana Mazza",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Mariana Mazza"
         }
       }
     ]
@@ -77733,15 +77332,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/13608",
-          "url": "https://scenesfrancophones.ca/artistes/casse-noisette-0",
-          "name": "Casse-Noisette",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
+          "name": "Casse-Noisette"
         }
       }
     ]
@@ -77752,7 +77346,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/casse-noisette-13611",
-        "name": "Casse-Noisette -",
+        "name": "Casse-Noisette",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -77796,17 +77390,14 @@
           "name": "Théâtre Capitol",
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/11958",
-          "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
-          "name": "Casse-Noisette",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/13608",
+            "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
+            "name": "Casse-Noisette"
+          }
+        ]
       }
     ]
   },
@@ -77816,7 +77407,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/casse-noisette-13612",
-        "name": "Casse-Noisette -",
+        "name": "Casse-Noisette",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -77826,7 +77417,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Vivez la magie de Casse-Noisette\r\n\r\nL’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011.\r\n\r\nCe conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens.\r\n\r\nAccompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands.\r\n\r\nNe manquez pas cette magie des Fêtes!",
+        "description": "Vivez la magie de Casse-Noisette L’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011. Ce conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens. Accompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands. Ne manquez pas cette magie des Fêtes!",
         "startDate": "2026-12-12T14:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/13612",
@@ -77860,17 +77451,14 @@
           "name": "Théâtre Capitol",
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/11958",
-          "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
-          "name": "Casse-Noisette",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/13608",
+            "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
+            "name": "Casse-Noisette"
+          }
+        ]
       }
     ]
   },
@@ -77880,10 +77468,10 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/casse-noisette-13613",
-        "name": "Casse-Noisette -",
+        "name": "Casse-Noisette",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Vivez la magie de Casse-Noisette\r\n\r\nL’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011.\r\n\r\nCe conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens.\r\n\r\nAccompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands.\r\n\r\nNe manquez pas cette magie des Fêtes!",
+        "description": "Vivez la magie de Casse-Noisette L’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011. Ce conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens. Accompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands. Ne manquez pas cette magie des Fêtes!",
         "startDate": "2026-12-12T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/13613",
@@ -77917,17 +77505,14 @@
           "name": "Théâtre Capitol",
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/11958",
-          "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
-          "name": "Casse-Noisette",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/13608",
+            "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
+            "name": "Casse-Noisette"
+          }
+        ]
       }
     ]
   },
@@ -77937,7 +77522,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/casse-noisette-13614",
-        "name": "Casse-Noisette -",
+        "name": "Casse-Noisette",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -77947,7 +77532,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Vivez la magie de Casse-Noisette\r\n\r\nL’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011.\r\n\r\nCe conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens.\r\n\r\nAccompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands.\r\n\r\nNe manquez pas cette magie des Fêtes!",
+        "description": "Vivez la magie de Casse-Noisette L’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011. Ce conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens. Accompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands. Ne manquez pas cette magie des Fêtes!",
         "startDate": "2026-12-13T14:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/13614",
@@ -77981,17 +77566,14 @@
           "name": "Théâtre Capitol",
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/11958",
-          "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
-          "name": "Casse-Noisette",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/13608",
+            "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
+            "name": "Casse-Noisette"
+          }
+        ]
       }
     ]
   },
@@ -78001,7 +77583,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/casse-noisette-13615",
-        "name": "Casse-Noisette -",
+        "name": "Casse-Noisette",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -78011,7 +77593,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Vivez la magie de Casse-Noisette\r\n\r\nL’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011.\r\n\r\nCe conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens.\r\n\r\nAccompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands.\r\n\r\nNe manquez pas cette magie des Fêtes!",
+        "description": "Vivez la magie de Casse-Noisette L’Académie de ballet classique et de danses modernes (ABCDM) est de retour sur la scène historique du Théâtre Capitol avec sa production bien-aimée de Casse-Noisette—une tradition des Fêtes chérie à Moncton depuis 2011. Ce conte intemporel, rempli de rêve et de féérie, prend vie grâce à des costumes somptueux, des décors enchanteurs, et plus de 100 artistes et danseurs locaux, accompagnés d’invités spéciaux des Grands Ballets Canadiens. Accompagné en direct par l’orchestre réputé Tutta Musica sous la direction du Maestro Antonio Delgado, Casse-Noisette promet une expérience inoubliable pour petits et grands. Ne manquez pas cette magie des Fêtes!",
         "startDate": "2026-12-13T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/13615",
@@ -78045,17 +77627,14 @@
           "name": "Théâtre Capitol",
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/11958",
-          "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
-          "name": "Casse-Noisette",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/13608",
+            "url": "https://scenesfrancophones.ca/artistes/casse-noisette",
+            "name": "Casse-Noisette"
+          }
+        ]
       }
     ]
   },
@@ -78750,15 +78329,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "PerformingGroup",
           "@id": "https://scenesfrancophones.ca/id/13627",
           "url": "https://scenesfrancophones.ca/artistes/hert-et-rheal-leblanc-0",
-          "name": "Hert et Rhéal LeBlanc",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Hert et Rhéal LeBlanc"
         }
       }
     ]
@@ -78814,15 +78388,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/13630",
           "url": "https://scenesfrancophones.ca/artistes/one-fell-swoop-circus",
-          "name": "One Fell Swoop Circus",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "One Fell Swoop Circus"
         }
       }
     ]
@@ -78878,15 +78447,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "PerformingGroup",
           "@id": "https://scenesfrancophones.ca/id/13633",
           "url": "https://scenesfrancophones.ca/artistes/pierre-andre-doucet-phoebe-robertson",
-          "name": "Pierre-André Doucet & Phoebe Robertson",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Pierre-André Doucet & Phoebe Robertson"
         }
       }
     ]
@@ -78942,15 +78506,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/13636",
-          "url": "https://scenesfrancophones.ca/artistes/maude-landry-0",
-          "name": "Maude Landry",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "url": "https://scenesfrancophones.ca/artistes/maude-landry",
+          "name": "Maude Landry"
         }
       }
     ]
@@ -78961,7 +78520,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/beauxmont-100-milles-lheure-13642",
-        "name": "Beauxmont -",
+        "name": "Beauxmont - 100 Milles à l'heure",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -78972,7 +78531,7 @@
           "creditText": "Marc-André Belliveau"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Préparez-vous pour une soirée complètement survoltée avec le nouveau spectacle de Beauxmont : 100 milles à l’heure.\r\n\r\nAvec leur mélange explosif de musique traditionnelle acadienne, d’influences cajun et d’énergie des Maritimes, les six musiciens livrent un spectacle festif, intense et rassembleur du début à la fin. Porté par les chansons de leur plus récent album 100 milles à l’heure, le groupe amène maintenant son show à un tout autre niveau avec une production encore plus solide, des arrangements puissants et une énergie contagieuse qui fait lever les foules partout où ils passent.",
+        "description": "Préparez-vous pour une soirée complètement survoltée avec le nouveau spectacle de Beauxmont : 100 milles à l’heure. Avec leur mélange explosif de musique traditionnelle acadienne, d’influences cajun et d’énergie des Maritimes, les six musiciens livrent un spectacle festif, intense et rassembleur du début à la fin. Porté par les chansons de leur plus récent album 100 milles à l’heure, le groupe amène maintenant son show à un tout autre niveau avec une production encore plus solide, des arrangements puissants et une énergie contagieuse qui fait lever les foules partout où ils passent.",
         "startDate": "2027-03-20T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/13642",
@@ -79006,12 +78565,14 @@
           "name": "Théâtre Capitol",
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
-        "performer": {
-          "@type": "PerformingGroup",
-          "@id": "https://scenesfrancophones.ca/id/13640",
-          "url": "https://scenesfrancophones.ca/artistes/beauxmont-0",
-          "name": "Beauxmont"
-        }
+        "performer": [
+          {
+            "@type": "PerformingGroup",
+            "@id": "https://scenesfrancophones.ca/id/4012",
+            "url": "https://scenesfrancophones.ca/artistes/beauxmont",
+            "name": "Beauxmont"
+          }
+        ]
       }
     ]
   },
@@ -79066,15 +78627,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/13643",
           "url": "https://scenesfrancophones.ca/artistes/patrice-lecuyer",
-          "name": "Patrice L'Ecuyer",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Patrice L'Ecuyer"
         }
       }
     ]
@@ -79130,15 +78686,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/13646",
           "url": "https://scenesfrancophones.ca/artistes/roxane-bruneau",
-          "name": "Roxane Bruneau",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Roxane Bruneau"
         }
       }
     ]
@@ -79194,15 +78745,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/13649",
           "url": "https://scenesfrancophones.ca/artistes/ballet-jorgen",
-          "name": "Ballet Jörgen",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Ballet Jörgen"
         }
       }
     ]
@@ -79213,7 +78759,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/alain-choquette-entre-histoires-et-illusions-13654",
-        "name": "Alain Choquette -",
+        "name": "Alain Choquette - Entre histoires et illusions",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -79223,7 +78769,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Maître de l’insaisissable et raconteur hors pair, Alain Choquette revient sur scène avec une nouvelle proposition aussi divertissante qu’inspirante, Entre histoires et illusions. Dans ce spectacle, l’illusionniste québécois le plus charismatique et expérimenté propose à un public de tous âges de plonger avec lui dans son grand livre de la magie.\r\n\r\nCette fois ci, ce sont ses récits captivants, allant de l’histoire de la magie (Robert-Houdin, Houdini, Copperfield, Magic Tom…) aux surprenantes expériences vécues au cours de ses 35 années de carrière, qui amèneront le célèbre juge de La magie des stars (TVA) à vous éblouir tant par ses performances insaisissables que par ses connaissances historiques et sa capacité à raconter. Plus de 2 millions de billets vendus en carrière, premier Québécois à présenter un spectacle en résidence à Las Vegas, plusieurs tournées à succès en Europe, création et distribution de grands numéros magiques à l’international : Alain Choquette fait partie des grands noms de la magie à travers le monde et ne manque pas de récits et de numéros pour surprendre, faire rire et éblouir.\r\n\r\nAyant une place de choix dans le cœur des Québécois depuis des décennies, Alain veut redonner au public en lui proposant une expérience intime, unique et interactive, qui créera des souvenirs indélébiles. Entre histoires et illusions, un spectacle dans lequel la magie prend tout son sens!",
+        "description": "Maître de l’insaisissable et raconteur hors pair, Alain Choquette revient sur scène avec une nouvelle proposition aussi divertissante qu’inspirante, Entre histoires et illusions. Dans ce spectacle, l’illusionniste québécois le plus charismatique et expérimenté propose à un public de tous âges de plonger avec lui dans son grand livre de la magie. Cette fois ci, ce sont ses récits captivants, allant de l’histoire de la magie (Robert-Houdin, Houdini, Copperfield, Magic Tom…) aux surprenantes expériences vécues au cours de ses 35 années de carrière, qui amèneront le célèbre juge de La magie des stars (TVA) à vous éblouir tant par ses performances insaisissables que par ses connaissances historiques et sa capacité à raconter. Plus de 2 millions de billets vendus en carrière, premier Québécois à présenter un spectacle en résidence à Las Vegas, plusieurs tournées à succès en Europe, création et distribution de grands numéros magiques à l’international : Alain Choquette fait partie des grands noms de la magie à travers le monde et ne manque pas de récits et de numéros pour surprendre, faire rire et éblouir. Ayant une place de choix dans le cœur des Québécois depuis des décennies, Alain veut redonner au public en lui proposant une expérience intime, unique et interactive, qui créera des souvenirs indélébiles. Entre histoires et illusions, un spectacle dans lequel la magie prend tout son sens!",
         "startDate": "2027-05-01T20:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/13654",
@@ -79257,17 +78803,14 @@
           "name": "Théâtre Capitol",
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/13652",
-          "url": "https://scenesfrancophones.ca/artistes/alain-choquette-0",
-          "name": "Alain Choquette",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12505",
+            "url": "https://scenesfrancophones.ca/artistes/alain-choquette",
+            "name": "Alain Choquette"
+          }
+        ]
       }
     ]
   },
@@ -79322,15 +78865,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "PerformingGroup",
           "@id": "https://scenesfrancophones.ca/id/13655",
           "url": "https://scenesfrancophones.ca/artistes/k-hunters-le-spectacle",
-          "name": "K-Hunters: Le spectacle",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "K-Hunters: Le spectacle"
         }
       }
     ]
@@ -79341,7 +78879,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/mario-tessier-champion-13660",
-        "name": "Mario Tessier -",
+        "name": "Mario Tessier - Champion",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -79385,15 +78923,8 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/13658",
-          "url": "https://scenesfrancophones.ca/artistes/mario-tessier-0",
-          "name": "Mario Tessier",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "@type": "PerformingGroup",
+          "@id": "https://scenesfrancophones.ca/id/"
         }
       }
     ]
@@ -79449,15 +78980,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/13661",
           "url": "https://scenesfrancophones.ca/artistes/jean-michel-blais",
-          "name": "Jean-Michel Blais",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Jean-Michel Blais"
         }
       }
     ]
@@ -79513,15 +79039,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/theatre-capitol"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/13664",
           "url": "https://scenesfrancophones.ca/artistes/pierre-hebert",
-          "name": "Pierre Hébert",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Pierre Hébert"
         }
       }
     ]
@@ -80743,7 +80264,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Après avoir marqué la première moitié de 2025 avec Journal d’un loup-garou, dont l’album et le spectacle ont récoltés une pluie d’éloges et un succès populaire sans précédent pour l’artiste, Lou-Adriane Cassidy nous revient avec Triste Animal, spectacle tiré de son quatrième album du même nom.\r\n\r\nSur scène comme sur disque, ce nouveau chapitre de son travail nous donne un accès inédit à cette interprète d’exception qui, entourée de cinq musicien.nes, nous touchera au plus profond de l’âme tant par la mature sobriété de son interprétation que par la frénétique énergie qui font sa réputation depuis toujours.",
+        "description": "Après avoir marqué la première moitié de 2025 avec Journal d’un loup-garou, dont l’album et le spectacle ont récoltés une pluie d’éloges et un succès populaire sans précédent pour l’artiste, Lou-Adriane Cassidy nous revient avec Triste Animal, spectacle tiré de son quatrième album du même nom. Sur scène comme sur disque, ce nouveau chapitre de son travail nous donne un accès inédit à cette interprète d’exception qui, entourée de cinq musicien.nes, nous touchera au plus profond de l’âme tant par la mature sobriété de son interprétation que par la frénétique énergie qui font sa réputation depuis toujours.",
         "startDate": "2026-11-18T19:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/13985",
@@ -80779,15 +80300,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/13579",
-            "url": "https://scenesfrancophones.ca/artistes/lou-adriane-cassidy-0",
-            "name": "Lou-Adriane Cassidy",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12851",
+            "url": "https://scenesfrancophones.ca/artistes/lou-adriane-cassidy",
+            "name": "Lou-Adriane Cassidy"
           }
         ]
       }
@@ -80869,7 +80385,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Après avoir marqué la première moitié de 2025 avec Journal d’un loup-garou, dont l’album et le spectacle ont récoltés une pluie d’éloges et un succès populaire sans précédent pour l’artiste, Lou-Adriane Cassidy nous revient avec Triste Animal, spectacle tiré de son quatrième album du même nom.\r\n\r\nSur scène comme sur disque, ce nouveau chapitre de son travail nous donne un accès inédit à cette interprète d’exception qui, entourée de cinq musicien.nes, nous touchera au plus profond de l’âme tant par la mature sobriété de son interprétation que par la frénétique énergie qui font sa réputation depuis toujours.",
+        "description": "Après avoir marqué la première moitié de 2025 avec Journal d’un loup-garou, dont l’album et le spectacle ont récoltés une pluie d’éloges et un succès populaire sans précédent pour l’artiste, Lou-Adriane Cassidy nous revient avec Triste Animal, spectacle tiré de son quatrième album du même nom. Sur scène comme sur disque, ce nouveau chapitre de son travail nous donne un accès inédit à cette interprète d’exception qui, entourée de cinq musicien.nes, nous touchera au plus profond de l’âme tant par la mature sobriété de son interprétation que par la frénétique énergie qui font sa réputation depuis toujours.",
         "startDate": "2026-11-21T08:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/13987",
@@ -80904,15 +80420,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
-            "@id": "https://scenesfrancophones.ca/id/13579",
-            "url": "https://scenesfrancophones.ca/artistes/lou-adriane-cassidy-0",
-            "name": "Lou-Adriane Cassidy",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/12851",
+            "url": "https://scenesfrancophones.ca/artistes/lou-adriane-cassidy",
+            "name": "Lou-Adriane Cassidy"
           }
         ]
       }
@@ -83135,15 +82646,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14068",
           "url": "https://scenesfrancophones.ca/artistes/nikamu-mamuitun",
-          "name": "Nikamu Mamuitun",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Nikamu Mamuitun"
         }
       }
     ]
@@ -83199,15 +82705,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14071",
           "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-1",
-          "name": "Jocelyn Sioui",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Jocelyn Sioui"
         }
       }
     ]
@@ -83263,15 +82764,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "PerformingGroup",
           "@id": "https://scenesfrancophones.ca/id/14075",
           "url": "https://scenesfrancophones.ca/artistes/les-charbonniers-de-lenfer",
-          "name": "Les Charbonniers de l'enfer",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Les Charbonniers de l'enfer"
         }
       }
     ]
@@ -83327,15 +82823,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14078",
           "url": "https://scenesfrancophones.ca/artistes/dave-gaudet",
-          "name": "Dave Gaudet",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Dave Gaudet"
         }
       }
     ]
@@ -83391,15 +82882,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14081",
           "url": "https://scenesfrancophones.ca/artistes/chloe-theriault",
-          "name": "Chloé Thériault",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Chloé Thériault"
         }
       }
     ]
@@ -83455,15 +82941,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/la-slague-du-carrefour-francophone-de-sudbury"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14081",
           "url": "https://scenesfrancophones.ca/artistes/chloe-theriault",
-          "name": "Chloé Thériault",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Chloé Thériault"
         }
       }
     ]
@@ -83519,15 +83000,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14151",
           "url": "https://scenesfrancophones.ca/artistes/jean-francois-mercier-1",
-          "name": "Jean-François Mercier",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Jean-François Mercier"
         }
       }
     ]
@@ -83633,15 +83109,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/13318",
             "url": "https://scenesfrancophones.ca/artistes/paul-hebert",
-            "name": "Paul Hébert",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Paul Hébert"
           }
         ]
       }
@@ -83698,15 +83169,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/13318",
             "url": "https://scenesfrancophones.ca/artistes/paul-hebert",
-            "name": "Paul Hébert",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Paul Hébert"
           }
         ]
       }
@@ -83763,15 +83229,10 @@
         },
         "performer": [
           {
-            "@type": "Thing",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/13318",
             "url": "https://scenesfrancophones.ca/artistes/paul-hebert",
-            "name": "Paul Hébert",
-            "schema_organization_additional_type": [
-              "http://dbpedia.org/ontology/Agent",
-              "http://xmlns.com/foaf/0.1/Agent",
-              "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-            ]
+            "name": "Paul Hébert"
           }
         ]
       }
@@ -85734,10 +85195,10 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/jocelyn-sioui-fretillant-et-agile-14332",
-        "name": "Jocelyn Sioui -",
+        "name": "Jocelyn Sioui - Frétillant et agile",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Avec Frétillant et Agile, Jocelyn Sioui redonne vie à Auhaïtsic, un improbable héros wendat. Comment cet illustre inconnu, qui inspire la méfiance parmi les siens, parvient-il à sauver sa nation de l’extinction et à changer le cours de l’Histoire ? Marionnettiste aguerri et fabuleux conteur, Jocelyn Sioui s’amuse à sortir de l’ombre des personnages colorés, plus grands que nature. Auteur de Mononk Jules, qu’il a adapté pour la scène, Sioui sait qu’il faut se méfier de l’eau qui dort.\r\n\r\nLe spectacle Frétillant et Agile est tiré du conte du même nom, écrit par Jocelyn Sioui et publié par les Éditions Hannenorak.",
+        "description": "Avec Frétillant et Agile, Jocelyn Sioui redonne vie à Auhaïtsic, un improbable héros wendat. Comment cet illustre inconnu, qui inspire la méfiance parmi les siens, parvient-il à sauver sa nation de l’extinction et à changer le cours de l’Histoire ? Marionnettiste aguerri et fabuleux conteur, Jocelyn Sioui s’amuse à sortir de l’ombre des personnages colorés, plus grands que nature. Auteur de Mononk Jules, qu’il a adapté pour la scène, Sioui sait qu’il faut se méfier de l’eau qui dort. Le spectacle Frétillant et Agile est tiré du conte du même nom, écrit par Jocelyn Sioui et publié par les Éditions Hannenorak.",
         "startDate": "2027-03-06T20:00:00-05:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/14332",
@@ -85770,17 +85231,14 @@
           "name": "La Clé",
           "url": "https://scenesfrancophones.ca/diffuseurs/la-cle"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/14330",
-          "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-2",
-          "name": "Jocelyn Sioui",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/14071",
+            "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-1",
+            "name": "Jocelyn Sioui"
+          }
+        ]
       }
     ]
   },
@@ -86062,15 +85520,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/14393",
           "url": "https://scenesfrancophones.ca/artistes/compagnie-de-fakto",
-          "name": "Compagnie de Fakto",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Compagnie de Fakto"
         }
       }
     ]
@@ -86186,15 +85639,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14398",
           "url": "https://scenesfrancophones.ca/artistes/art-richard-0",
-          "name": "Art Richard",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Art Richard"
         }
       }
     ]
@@ -86384,7 +85832,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/le-pays-de-la-sagouine-les-forlaqueries-14415",
-        "name": "Le Pays de la Sagouine -",
+        "name": "Le Pays de la Sagouine - Les Forlaqueries",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -86394,7 +85842,7 @@
           "height": "430"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "En 1996, Antonine Maillet et Guillermo DeAndrea, le premier directeur artistique du Pays de la Sagouine, ont créé le spectacle “Les Forlaqueries” où, dans sa version originale, Michel-Archange voulait faire vivre à Citrouille, son “baptême d’homme”. Au travers de cette aventure, se sont installées toutes sortes de parcelles d’histoires, de chansons et de secrets.\r\n \r\n\r\nPlusieurs artistes ont fait vivre les Forlaqueries au cours des 30 dernières années… la magie a toujours opéré parce que la fondation a été tricoté avec amour, humour et fierté.\r\n\r\n\r\nEn mars 2027,  c’est Tilmon (Christian Kit Goguen), Bonaventure (Eric Butler), Mélodie (Véro Hébert) sous la direction musicale de Jos à Pitre (Mario Robichaud) et ses complices Medric (Joel Robichaud) et Jos Vargeux (Daniel Fournier) qui accompagneront Citrouille (Luc LeBlanc) dans sa quête des grandes vérités de la vie!\r\n\r\n\r\nEn première partie, Séraphine (Nora Hébert) donnera vie, à sa façon, à un des monologues de La Sagouine.",
+        "description": "En 1996, Antonine Maillet et Guillermo DeAndrea, le premier directeur artistique du Pays de la Sagouine, ont créé le spectacle “Les Forlaqueries” où, dans sa version originale, Michel-Archange voulait faire vivre à Citrouille, son “baptême d’homme”. Au travers de cette aventure, se sont installées toutes sortes de parcelles d’histoires, de chansons et de secrets. Plusieurs artistes ont fait vivre les Forlaqueries au cours des 30 dernières années… la magie a toujours opéré parce que la fondation a été tricoté avec amour, humour et fierté. En mars 2027, c’est Tilmon (Christian Kit Goguen), Bonaventure (Eric Butler), Mélodie (Véro Hébert) sous la direction musicale de Jos à Pitre (Mario Robichaud) et ses complices Medric (Joel Robichaud) et Jos Vargeux (Daniel Fournier) qui accompagneront Citrouille (Luc LeBlanc) dans sa quête des grandes vérités de la vie! En première partie, Séraphine (Nora Hébert) donnera vie, à sa façon, à un des monologues de La Sagouine.",
         "startDate": "2027-03-18T19:30:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/14415",
@@ -86428,17 +85876,14 @@
           "name": "Centre des arts et de la culture de Dieppe",
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/14413",
-          "url": "https://scenesfrancophones.ca/artistes/le-pays-de-la-sagouine-0",
-          "name": "Le Pays de la Sagouine",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/14428",
+            "url": "https://scenesfrancophones.ca/artistes/le-pays-de-la-sagouine",
+            "name": "Le Pays de la Sagouine"
+          }
+        ]
       }
     ]
   },
@@ -86493,15 +85938,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/14428",
-          "url": "https://scenesfrancophones.ca/artistes/le-pays-de-la-sagouine-1",
-          "name": "Le Pays de la Sagouine",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "url": "https://scenesfrancophones.ca/artistes/le-pays-de-la-sagouine",
+          "name": "Le Pays de la Sagouine"
         }
       }
     ]
@@ -86736,15 +86176,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-des-arts-et-de-la-culture-de-dieppe"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14438",
           "url": "https://scenesfrancophones.ca/artistes/karine-x-atlantic-sinfonia",
-          "name": "Karine X Atlantic Sinfonia",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Karine X Atlantic Sinfonia"
         }
       }
     ]
@@ -86920,15 +86355,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "PerformingGroup",
           "@id": "https://scenesfrancophones.ca/id/14534",
           "url": "https://scenesfrancophones.ca/artistes/francis-degrandpre-avec-jay-trepanier-en-premiere-partie",
-          "name": "Francis Degrandpré avec Jay Trepanier en Première Partie",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Francis Degrandpré avec Jay Trepanier en Première Partie"
         }
       }
     ]
@@ -86984,15 +86414,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14537",
           "url": "https://scenesfrancophones.ca/artistes/guillaume-pineault-3",
-          "name": "Guillaume Pineault",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Guillaume Pineault"
         }
       }
     ]
@@ -87108,15 +86533,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14542",
           "url": "https://scenesfrancophones.ca/artistes/patenteuses",
-          "name": "Patenteuses",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Patenteuses"
         }
       }
     ]
@@ -87172,15 +86592,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14546",
           "url": "https://scenesfrancophones.ca/artistes/mario-jean",
-          "name": "Mario Jean",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Mario Jean"
         }
       }
     ]
@@ -87236,15 +86651,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-les-trois-ptits-points"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "PerformingGroup",
           "@id": "https://scenesfrancophones.ca/id/14554",
           "url": "https://scenesfrancophones.ca/artistes/sabaya-woodney-pierre-et-leila-marie",
-          "name": "Sabaya, Woodney Pierre et Leïla Marie",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Sabaya, Woodney Pierre et Leïla Marie"
         }
       }
     ]
@@ -87291,15 +86701,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-louis-hemon"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/14563",
           "url": "https://scenesfrancophones.ca/artistes/dave-gaudet-0",
-          "name": "Dave Gaudet",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Dave Gaudet"
         }
       }
     ]
@@ -89896,10 +89301,10 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/nikamu-mamuitun-chansons-rassembleuses-14747",
-        "name": "Nikamu Mamuitun -",
+        "name": "Nikamu Mamuitun - Chansons rassembleuses",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Depuis 2017, Nikamu Mamuitun ou les Chansons rassembleuses, célèbre la rencontre et la créativité entre artistes autochtones et allochtones, offrant un espace où la chanson devient un puissant vecteur d’unité et de partage. Né du rêve d’Alan Côté du Festival en chanson de Petite-Vallée et partagé avec Florent Vollant, ce projet rassemble des auteurs-compositeurs-interprètes issus de divers horizons, accompagnés par des mentors et une direction artistique inspirante.\r\n\r\nAprès une première édition marquante, une nouvelle cohorte s’apprête à aller à la rencontre des publics. Quatre artistes autochtones – Mimi O’Bonsawin (Abénakise, Ontario), Sandrine Masse (Wendate, Wendake), Pako (Attikamek, Manawan), Willows (Métisse de la Rivière Rouge, Manitoba) – et trois artistes allochtones – Mariko (Sainte-Émilie-de-l’Énergie), Velours Velours (Sainte-Anne-des-Monts/Trois-Rivières) et Luan Larobina (Latino-gaspésienne, Douglastown) – uniront leurs voix pour composer un répertoire commun.\r\n\r\nPlacée sous la direction musicale d’Ivan Boivin-Flamand et la direction artistique de Guillaume Arsenault, cette nouvelle cohorte donnera vie à un album enregistré au studio Makusham, ainsi qu’à un spectacle unique, créés à Petite-Vallée à l’automne 2025, avant d’entamer une tournée de spectacles dès avril 2026, produite par Bleu Carpette.\r\n\r\nÀ travers l’échange et la transmission, Nikamu Mamuitun fait vibrer la rencontre des cultures et célèbre la richesse du métissage musical. Un spectacle puissant et authentique, témoin de liens humains et artistiques uniques. Le projet, initié par le Festival en chanson de Petite-Vallée et Makusham Musique, est chapeauté par le REFRAIN – Regroupement des festivals régionaux artistiques indépendants – dans le cadre de l’initiative Ekote qui vise la promotion et la diffusion des arts autochtones.",
+        "description": "Depuis 2017, Nikamu Mamuitun ou les Chansons rassembleuses, célèbre la rencontre et la créativité entre artistes autochtones et allochtones, offrant un espace où la chanson devient un puissant vecteur d’unité et de partage. Né du rêve d’Alan Côté du Festival en chanson de Petite-Vallée et partagé avec Florent Vollant, ce projet rassemble des auteurs-compositeurs-interprètes issus de divers horizons, accompagnés par des mentors et une direction artistique inspirante. Après une première édition marquante, une nouvelle cohorte s’apprête à aller à la rencontre des publics. Quatre artistes autochtones – Mimi O’Bonsawin (Abénakise, Ontario), Sandrine Masse (Wendate, Wendake), Pako (Attikamek, Manawan), Willows (Métisse de la Rivière Rouge, Manitoba) – et trois artistes allochtones – Mariko (Sainte-Émilie-de-l’Énergie), Velours Velours (Sainte-Anne-des-Monts/Trois-Rivières) et Luan Larobina (Latino-gaspésienne, Douglastown) – uniront leurs voix pour composer un répertoire commun. Placée sous la direction musicale d’Ivan Boivin-Flamand et la direction artistique de Guillaume Arsenault, cette nouvelle cohorte donnera vie à un album enregistré au studio Makusham, ainsi qu’à un spectacle unique, créés à Petite-Vallée à l’automne 2025, avant d’entamer une tournée de spectacles dès avril 2026, produite par Bleu Carpette. À travers l’échange et la transmission, Nikamu Mamuitun fait vibrer la rencontre des cultures et célèbre la richesse du métissage musical. Un spectacle puissant et authentique, témoin de liens humains et artistiques uniques. Le projet, initié par le Festival en chanson de Petite-Vallée et Makusham Musique, est chapeauté par le REFRAIN – Regroupement des festivals régionaux artistiques indépendants – dans le cadre de l’initiative Ekote qui vise la promotion et la diffusion des arts autochtones.",
         "startDate": "2026-10-02T20:00:00-04:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/14747",
@@ -89932,17 +89337,14 @@
           "name": "Conseil des Arts de Hearst",
           "url": "https://scenesfrancophones.ca/diffuseurs/conseil-des-arts-de-hearst"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/14745",
-          "url": "https://scenesfrancophones.ca/artistes/nikamu-mamuitun-0",
-          "name": "Nikamu Mamuitun",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/14068",
+            "url": "https://scenesfrancophones.ca/artistes/nikamu-mamuitun",
+            "name": "Nikamu Mamuitun"
+          }
+        ]
       }
     ]
   },
@@ -90969,15 +90371,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/15009",
           "url": "https://scenesfrancophones.ca/artistes/chris-giguere",
-          "name": "Chris Giguère",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Chris Giguère"
         }
       }
     ]
@@ -91264,15 +90661,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/15018",
           "url": "https://scenesfrancophones.ca/artistes/mibenson-sylvain",
-          "name": "Mibenson Sylvain",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Mibenson Sylvain"
         }
       }
     ]
@@ -91328,15 +90720,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/15021",
           "url": "https://scenesfrancophones.ca/artistes/carine-au-micro-0",
-          "name": "Carine au micro",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Carine au micro"
         }
       }
     ]
@@ -91392,15 +90779,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/15024",
           "url": "https://scenesfrancophones.ca/artistes/lennie-gallant",
-          "name": "Lennie Gallant",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Lennie Gallant"
         }
       }
     ]
@@ -91411,7 +90793,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/jocelyn-sioui-fretillant-et-agile-15029",
-        "name": "Jocelyn Sioui -",
+        "name": "Jocelyn Sioui - Frétillant et agile",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
           "@type": "ImageObject",
@@ -91454,17 +90836,14 @@
           "name": "Centre culturel Frontenac",
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/15027",
-          "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-4",
-          "name": "Jocelyn Sioui",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/15676",
+            "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-4",
+            "name": "Jocelyn Sioui"
+          }
+        ]
       }
     ]
   },
@@ -91518,15 +90897,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-frontenac"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/15030",
           "url": "https://scenesfrancophones.ca/artistes/silvi-tourigny-0",
-          "name": "Silvi Tourigny",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Silvi Tourigny"
         }
       }
     ]
@@ -91640,15 +91014,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/conseil-communautaire-du-grand-havre"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "PerformingGroup",
           "@id": "https://scenesfrancophones.ca/id/15039",
           "url": "https://scenesfrancophones.ca/artistes/les-bluecharms-jacques-surette-et-6-hearts",
-          "name": "Les Bluecharms, Jacques Surette et 6 Hearts",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "name": "Les Bluecharms, Jacques Surette et 6 Hearts"
         }
       }
     ]
@@ -91719,10 +91088,10 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/jocelyn-sioui-fretillant-et-agile-15666",
-        "name": "Jocelyn Sioui -",
+        "name": "Jocelyn Sioui - Frétillant et agile",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-        "description": "Après plus de 100 représentations de Mononk Jules, le chasseur d’histoire et grand rassembleur Jocelyn Sioui revient avec Frétillant et Agile, une épopée spectaculaire pour tout public drôle et pleine d’humanité. Dans ce spectacle, nous suivrons Auhaïtsic, un héros wendat improbable, attachant et, disons-le, plutôt «spécial»…\r\n\r\nLa performance d’une durée de 1h45 doit sa musique accrocheuse aux compositeurs et interprètes Luzio Altobelli et Bertil Schulrabe. L’artiste Catherine Gignac enchante quant à elle avec une manipulation de théâtre de sable réalisée en direct, une rareté sur scène qui laisse le public charmé. Frétillant et agile prouve une fois encore le talent de Jocelyn Sioui à rassembler le public autour d’histoires qui émerveillent les esprits.",
+        "description": "Après plus de 100 représentations de Mononk Jules, le chasseur d’histoire et grand rassembleur Jocelyn Sioui revient avec Frétillant et Agile, une épopée spectaculaire pour tout public drôle et pleine d’humanité. Dans ce spectacle, nous suivrons Auhaïtsic, un héros wendat improbable, attachant et, disons-le, plutôt «spécial»… La performance d’une durée de 1h45 doit sa musique accrocheuse aux compositeurs et interprètes Luzio Altobelli et Bertil Schulrabe. L’artiste Catherine Gignac enchante quant à elle avec une manipulation de théâtre de sable réalisée en direct, une rareté sur scène qui laisse le public charmé. Frétillant et agile prouve une fois encore le talent de Jocelyn Sioui à rassembler le public autour d’histoires qui émerveillent les esprits.",
         "startDate": "2026-10-19T09:00:00-03:00",
         "isAccessibleForFree": "True",
         "@id": "https://scenesfrancophones.ca/id/15666",
@@ -91755,17 +91124,14 @@
           "name": "Centre culturel La Ronde",
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-culturel-la-ronde"
         },
-        "performer": {
-          "@type": "Thing",
-          "@id": "https://scenesfrancophones.ca/id/15664",
-          "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-5",
-          "name": "Jocelyn Sioui",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
-        }
+        "performer": [
+          {
+            "@type": "Person",
+            "@id": "https://scenesfrancophones.ca/id/15676",
+            "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-4",
+            "name": "Jocelyn Sioui"
+          }
+        ]
       }
     ]
   },
@@ -92118,15 +91484,10 @@
           "url": "https://scenesfrancophones.ca/diffuseurs/centre-regional-de-loisirs-culturels-de-kapuskasing"
         },
         "performer": {
-          "@type": "Thing",
+          "@type": "Person",
           "@id": "https://scenesfrancophones.ca/id/15676",
-          "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-6",
-          "name": "Jocelyn Sioui",
-          "schema_organization_additional_type": [
-            "http://dbpedia.org/ontology/Agent",
-            "http://xmlns.com/foaf/0.1/Agent",
-            "http://www.cidoc-crm.org/cidoc-crm/E39_Actor"
-          ]
+          "url": "https://scenesfrancophones.ca/artistes/jocelyn-sioui-4",
+          "name": "Jocelyn Sioui"
         }
       }
     ]
@@ -92517,6 +91878,183 @@
           "@id": "https://scenesfrancophones.ca/id/998",
           "url": "https://scenesfrancophones.ca/artistes/les-bilinguish-boys-0",
           "name": "Les Bilinguish Boys"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/fred-dionne-16138",
+        "name": "Fred Dionne -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/fred-dionne-1.jpg?itok=Jqkl6JX0",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Depuis la sortie de Highways en 2022, Fred Dionne s’impose comme l’une des voix fortes du country-folk francophone.  \r\n\r\nPorté par un franc succès en radios, il se produit en première partie de Matt Lang à travers la province et enchaîne les tournées et les grandes scènes aux côtés d’artistes majeurs et dans les plus grands festivals du Québec. Inspiré par un roadtrip dans l’Ouest américain, son deuxième album, Eldorado, révèle un artiste plus affirmé et accompli, qui chante les quêtes d’un musicien bohème, l’évolution de ses rêves et les rencontres marquantes qui jalonnent son parcours. Fort d’une solide expérience scénique et de nombreuses nominations (ADISQ, Canadian Country Music Awards, Canadian Folk Awards, GAMIQ, Gala Country), Fred Dionne poursuit sa tournée Eldorado, un spectacle festif, rassembleur et authentique qui enflamme les scènes du Québec avec son énergie contagieuse et ses histoires vraies.",
+        "startDate": "2026-09-26T19:30:00-06:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/16138",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre de la Cité des Rocheuses",
+          "url": "https://scenesfrancophones.ca/node/8107",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4800 Richard Road SW",
+            "addressLocality": "Calgary",
+            "addressRegion": "AB",
+            "postalCode": "T3E 6L1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "51.011173",
+            "longitude": "-114.123093"
+          },
+          "@id": "https://scenesfrancophones.ca/id/8107"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/fred-dionne?lang=frionne",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/136",
+          "name": "La Cité des Rocheuses",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cite-des-rocheuses"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/16136",
+          "url": "https://scenesfrancophones.ca/artistes/fred-dionne-0",
+          "name": "Fred Dionne"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/shari-chaskin-comme-la-maison-16141",
+        "name": "Shari Chaskin -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/shari-3-octobre.png?itok=V1fX_Ids",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Une soirée intime avec Shari Chaskin\r\n\r\nCertains concerts vous divertissent.\r\n\r\nD’autres vous accompagnent longtemps après la dernière note.\r\n\r\nFeels Like Home est de ceux-là.\r\n\r\nJoignez-vous à Shari Chaskin pour une soirée inoubliable de musique, de rires, d’histoires et d’émotions dans le cadre chaleureux et intime du Café-Théâtre de la Cité des Rocheuses. Que vous soyez amateur de musique populaire, de jazz ou simplement de belles interprétations livrées avec authenticité et sensibilité, ce spectacle promet de vous laisser le sourire aux lèvres bien après le rappel final.\r\n\r\nGrâce à sa voix chaleureuse, expressive et profondément touchante, Shari charme les publics du Canada et des États-Unis depuis de nombreuses années. Reconnues pour leur authenticité, leur élégance musicale et la connexion sincère qu’elle crée avec son auditoire, ses prestations l’ont amenée à partager la scène lors d’événements spéciaux mettant en vedette des artistes tels que Céline Dion, Al Jarreau, Chantal Kreviazuk, PJ Perry, Tommy Banks et Oliver Jones, pour n’en nommer que quelques-uns. Shari est également fière d’avoir fait partie de la distribution originale bilingue montréalaise de la célèbre comédie musicale Les Misérables.\r\n\r\nÀ ses côtés, deux des musiciens les plus accomplis de Calgary : le pianiste, arrangeur et directeur musical Jon Day, ainsi que le contrebassiste de renom Rob Hutchinson. Ensemble, ce trio exceptionnel offre une complicité naturelle et une musicalité remarquable qui enchantent le public à chaque représentation.\r\n\r\nAu programme : une riche sélection de grands classiques intemporels, des standards de jazz, des compositions originales, des anecdotes touchantes derrière les chansons, de magnifiques œuvres francophones de Michel Legrand, des extraits de Les Misérables, quelques perles musicales inattendues et peut-être même quelques surprises.\r\n\r\nCette représentation marque les débuts de Shari au Café-Théâtre de la Cité des Rocheuses, ce qui rend l’événement particulièrement significatif. Inspiré par les amitiés et l’accueil chaleureux qu’elle a trouvés au sein de cette communauté, Feels Like Home célèbre le sentiment d’appartenance, la musique et le plaisir de les partager ensemble.\r\n\r\nVenez vivre une soirée remplie d’émotions, de rires et de chansons dont vous vous souviendrez longtemps.\r\n\r\nLes places sont limitées et cette salle intime devrait se remplir rapidement. Réservez dès aujourd’hui et joignez-vous à nous pour une soirée qui porte bien son nom : Feels Like Home.",
+        "startDate": "2026-10-03T19:30:00-06:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/16141",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre de la Cité des Rocheuses",
+          "url": "https://scenesfrancophones.ca/node/8107",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4800 Richard Road SW",
+            "addressLocality": "Calgary",
+            "addressRegion": "AB",
+            "postalCode": "T3E 6L1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "51.011173",
+            "longitude": "-114.123093"
+          },
+          "@id": "https://scenesfrancophones.ca/id/8107"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/shari-chaskin-comme-a-la-maison?lang=fr",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/136",
+          "name": "La Cité des Rocheuses",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cite-des-rocheuses"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/16139",
+          "url": "https://scenesfrancophones.ca/artistes/shari-chaskin",
+          "name": "Shari Chaskin"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/josee-thibeault-francophonique-le-spectacle-des-100-ans-de-lacfa-16144",
+        "name": "Josée Thibeault -",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+          "@type": "ImageObject",
+          "representativeOfPage": "True",
+          "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/ajouter_un_evenement-2026/francophonique%20%282%29.png?itok=mXirxQqU",
+          "width": "430",
+          "height": "430"
+        },
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "FRANCOPHONIQUE\r\nLa petite, mais longue, et complexe, histoire de la francophonie albertaine, version poétique et chantée\r\n\r\nDans le cadre des célébrations du 100e anniversaire de l’ACFA, la Cité des Rocheuses et FrancoMusik Alberta sont fières de vous présenter, le 18 septembre 2026, la grande première de Francophonique.\r\n\r\nVenez vivre une expérience immersive qui célèbre l’histoire, la mémoire et l’identité franco-albertaines, à la rencontre du théâtre, de la musique et des récits humains. Sur scène, trois comédiens et quatre musiciens donnent vie aux moments marquants de notre parcours collectif. Autour d’eux, dans une scénographie épurée, les chansons originales interprétées en direct et les images d’archives projetées sur grand écran se répondent : le passé et le présent dialoguent, et les générations se reconnaissent.\r\n\r\nNi leçon, ni nostalgie : un spectacle à hauteur d’humain, drôle et bouleversant, qui se vit comme des retrouvailles pour les francophones et comme une découverte pour tous les autres (en français, avec traduction anglaise à l’écran). On en sort avec une certitude, celle de Jim Corcoran : « Une langue vivante est une langue chantée. »\r\n\r\nLe 18 septembre, soyez parmi les premiers à découvrir cette création originale, avant sa tournée albertaine.",
+        "startDate": "2026-09-19T09:00:00-03:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/16144",
+        "location": {
+          "@type": "Place",
+          "name": "Théâtre de la Cité des Rocheuses",
+          "url": "https://scenesfrancophones.ca/node/8107",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4800 Richard Road SW",
+            "addressLocality": "Calgary",
+            "addressRegion": "AB",
+            "postalCode": "T3E 6L1",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "51.011173",
+            "longitude": "-114.123093"
+          },
+          "@id": "https://scenesfrancophones.ca/id/8107"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://lepointdevente.com/billets/francophonique-acfa-100-ans?lang=fr",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/136",
+          "name": "La Cité des Rocheuses",
+          "url": "https://scenesfrancophones.ca/diffuseurs/la-cite-des-rocheuses"
+        },
+        "performer": {
+          "@type": "Person",
+          "@id": "https://scenesfrancophones.ca/id/16142",
+          "url": "https://scenesfrancophones.ca/artistes/josee-thibeault",
+          "name": "Josée Thibeault"
         }
       }
     ]
