@@ -7522,14 +7522,7 @@
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/9952",
         "url": "https://scenesfrancophones.ca/artistes/theatre-tortue-berlue",
-        "name": "Théâtre Tortue Berlue",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2025-07/png%20%281%29.png?itok=f4Rp0Lc0",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Théâtre Tortue Berlue"
       }
     ]
   },
@@ -7749,8 +7742,8 @@
       {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/10011",
-        "url": "https://scenesfrancophones.ca/artistes/zale-seck-pasa-musik",
-        "name": "Zale Seck - PASA Musik"
+        "url": "https://scenesfrancophones.ca/artistes/zale-seck",
+        "name": "Zale Seck"
       }
     ]
   },
@@ -11350,14 +11343,7 @@
         "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/12842",
         "url": "https://scenesfrancophones.ca/artistes/guillaume-arsenault",
-        "name": "Guillaume Arsenault",
-        "image": {
-          "@type": "ImageObject",
-          "representativeOfPage": "True",
-          "url": "https://scenesfrancophones.ca/sites/default/files/styles/large/public/2026-05/Capture%20d%E2%80%99e%CC%81cran%2C%20le%202026-05-08%20a%CC%80%2002.48.22.png?itok=3H3_DzKi",
-          "width": "480",
-          "height": "480"
-        }
+        "name": "Guillaume Arsenault"
       }
     ]
   },
@@ -11729,7 +11715,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": "PerformingGroup",
+        "@type": "Person",
         "@id": "https://scenesfrancophones.ca/id/12936",
         "url": "https://scenesfrancophones.ca/artistes/justin-guitard",
         "name": "Justin Guitard"
@@ -14507,6 +14493,28 @@
         "@id": "https://scenesfrancophones.ca/id/16183",
         "url": "https://scenesfrancophones.ca/artistes/hansom-eli",
         "name": "Hansom Ēli"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16251",
+        "url": "https://scenesfrancophones.ca/artistes/dustin-dale-gaspard",
+        "name": "Dustin Dale Gaspard"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/16253",
+        "url": "https://scenesfrancophones.ca/artistes/ces-soirees-la",
+        "name": "Ces Soirées-là"
       }
     ]
   },
@@ -44467,7 +44475,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-06/jmus_creleve25-26_aff_11x18_web_lakme.jpg?itok=6YMoCWzO",
           "width": "430",
           "height": "430",
-          "creditText": "Dan Froese"
+          "creditText": "Tam Photography"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Créé à l’Opéra-Comique de Paris en 1883, l’opéra Lakmé du compositeur Léo Delibes raconte une histoire d’amour impossible. Lakmé, fille d’un prêtre hindou, et Gérald, un soldat anglais inconstant, éprouvent un sentiment passionné l’un pour l’autre. Entre ces deux êtres que tout oppose, une musique raffinée et poétique sert de support pour exprimer toutes les nuances de leur destin tragique. Que ce soit par la chaleur harmonique du Duo des fleurs ou par le brio impressionnant de l’incontournable Air des clochettes, Lakmé est une œuvre riche, véhiculant les inspirations du mouvement orientaliste de la fin du XIXe siècle. Souvenirs de Lakmé conserve tout le charme délicat et la finesse enivrante de l’œuvre originale.\r\n\r\nLes Jeunesses Musicales du Canada sont affiliées aux Jeunesses Musicales Internationales (JMI), considérées par l'UNESCO comme la première organisation culturelle mondiale dédiée à la jeunesse et à la musique.\r\n\r\nAu cours d'une saison, les JMC présentent quelque 1 600 concerts et ateliers avec plus de 120 artistes, créateurs et diffuseurs au Québec, en Ontario et dans les Maritimes. En tout, les tournées de concerts des JMC visitent plus de 130 villes canadiennes au cours d'une année.",
@@ -52278,7 +52286,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%281%29.png?itok=F9NzTHoB",
           "width": "430",
           "height": "430",
-          "creditText": "Marc-Antoine Zouéki"
+          "creditText": "Amélie Bélanger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Connaissez-vous la fable L’enfant qui criait au loup ? Bien sûr que vous la connaissez. Un enfantberger qui a menti en criant « Au loup ! » est puni en étant lui-même dévoré par un loup. C’est un classique ! C’est la même histoire depuis 3000 ans… Mais si c’était la fable elle-même qui nous avait menti ? Si le loup n’était pas le monstre sanguinaire des légendes ? S’il devenait l’ami de l’enfant-menteur ? Si ensemble, ils partaient en quête de vérité et d’émancipation ? S’ils tournaient même un doigt accusateur vers l’artiste-marionnettiste qui est en train de faire le spectacle que vous regardez !? Ne vous laissez pas berner par le décor idyllique, le village de montagne coquet, les prés fleuris, INFORMATIONS GÉNÉRALES INFORMATIONS SUR LE SPECTACLE les chansons entraînantes et les marionnettes rigolotes ! Nous ne sommes pas ici dans un conte normal. Alix et le loup, c’est un spectacle immersif abracadabrant, où l’enfant-spectateur est amené à se poser des questions sur la nature du mensonge, sur notre rapport aux histoires inventées, et sur la valeur de l’amitié et de l’empathie.",
@@ -52344,7 +52352,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%281%29.png?itok=F9NzTHoB",
           "width": "430",
           "height": "430",
-          "creditText": "Marc-Antoine Zouéki"
+          "creditText": "Amélie Bélanger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Connaissez-vous la fable L’enfant qui criait au loup ? Bien sûr que vous la connaissez. Un enfantberger qui a menti en criant « Au loup ! » est puni en étant lui-même dévoré par un loup. C’est un classique ! C’est la même histoire depuis 3000 ans… Mais si c’était la fable elle-même qui nous avait menti ? Si le loup n’était pas le monstre sanguinaire des légendes ? S’il devenait l’ami de l’enfant-menteur ? Si ensemble, ils partaient en quête de vérité et d’émancipation ? S’ils tournaient même un doigt accusateur vers l’artiste-marionnettiste qui est en train de faire le spectacle que vous regardez !? Ne vous laissez pas berner par le décor idyllique, le village de montagne coquet, les prés fleuris, INFORMATIONS GÉNÉRALES INFORMATIONS SUR LE SPECTACLE les chansons entraînantes et les marionnettes rigolotes ! Nous ne sommes pas ici dans un conte normal. Alix et le loup, c’est un spectacle immersif abracadabrant, où l’enfant-spectateur est amené à se poser des questions sur la nature du mensonge, sur notre rapport aux histoires inventées, et sur la valeur de l’amitié et de l’empathie.",
@@ -52406,7 +52414,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%281%29.png?itok=F9NzTHoB",
           "width": "430",
           "height": "430",
-          "creditText": "Marc-Antoine Zouéki"
+          "creditText": "Amélie Bélanger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Connaissez-vous la fable L’enfant qui criait au loup ? Bien sûr que vous la connaissez. Un enfantberger qui a menti en criant « Au loup ! » est puni en étant lui-même dévoré par un loup. C’est un classique ! C’est la même histoire depuis 3000 ans… Mais si c’était la fable elle-même qui nous avait menti ? Si le loup n’était pas le monstre sanguinaire des légendes ? S’il devenait l’ami de l’enfant-menteur ? Si ensemble, ils partaient en quête de vérité et d’émancipation ? S’ils tournaient même un doigt accusateur vers l’artiste-marionnettiste qui est en train de faire le spectacle que vous regardez !? Ne vous laissez pas berner par le décor idyllique, le village de montagne coquet, les prés fleuris, INFORMATIONS GÉNÉRALES INFORMATIONS SUR LE SPECTACLE les chansons entraînantes et les marionnettes rigolotes ! Nous ne sommes pas ici dans un conte normal. Alix et le loup, c’est un spectacle immersif abracadabrant, où l’enfant-spectateur est amené à se poser des questions sur la nature du mensonge, sur notre rapport aux histoires inventées, et sur la valeur de l’amitié et de l’empathie.",
@@ -52467,7 +52475,7 @@
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2025-07/aff_MW_Modeste_18x24.pdf%20%281%29.png?itok=F9NzTHoB",
           "width": "430",
           "height": "430",
-          "creditText": "Marc-Antoine Zouéki"
+          "creditText": "Amélie Bélanger"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Connaissez-vous la fable L’enfant qui criait au loup ? Bien sûr que vous la connaissez. Un enfantberger qui a menti en criant « Au loup ! » est puni en étant lui-même dévoré par un loup. C’est un classique ! C’est la même histoire depuis 3000 ans… Mais si c’était la fable elle-même qui nous avait menti ? Si le loup n’était pas le monstre sanguinaire des légendes ? S’il devenait l’ami de l’enfant-menteur ? Si ensemble, ils partaient en quête de vérité et d’émancipation ? S’ils tournaient même un doigt accusateur vers l’artiste-marionnettiste qui est en train de faire le spectacle que vous regardez !? Ne vous laissez pas berner par le décor idyllique, le village de montagne coquet, les prés fleuris, INFORMATIONS GÉNÉRALES INFORMATIONS SUR LE SPECTACLE les chansons entraînantes et les marionnettes rigolotes ! Nous ne sommes pas ici dans un conte normal. Alix et le loup, c’est un spectacle immersif abracadabrant, où l’enfant-spectateur est amené à se poser des questions sur la nature du mensonge, sur notre rapport aux histoires inventées, et sur la valeur de l’amitié et de l’empathie.",
@@ -52793,8 +52801,8 @@
           {
             "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/10011",
-            "url": "https://scenesfrancophones.ca/artistes/zale-seck-pasa-musik",
-            "name": "Zale Seck - PASA Musik"
+            "url": "https://scenesfrancophones.ca/artistes/zale-seck",
+            "name": "Zale Seck"
           }
         ]
       }
@@ -68216,7 +68224,7 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/12936",
             "url": "https://scenesfrancophones.ca/artistes/justin-guitard",
             "name": "Justin Guitard"
@@ -68270,7 +68278,7 @@
         },
         "performer": [
           {
-            "@type": "PerformingGroup",
+            "@type": "Person",
             "@id": "https://scenesfrancophones.ca/id/12936",
             "url": "https://scenesfrancophones.ca/artistes/justin-guitard",
             "name": "Justin Guitard"
@@ -73088,7 +73096,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/zale-seck-pasa-musik-zale-seck-africe-yewoulene-12821",
-        "name": "Zale Seck - PASA Musik -",
+        "name": "Zale Seck -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Plongez dans un monde où la musique devient une porte d'entrée vers le cœur vibrant de Dakar, guidé par le talent extraordinaire de Zale Seck, originaire du Sénégal. \r\n\r\nDans une fusion envoûtante de tradition et d'innovation, les mélodies de Zale portent l'essence de son patrimoine culturel, transcendant les frontières et captivant les publics à travers le monde.",
@@ -73128,8 +73136,8 @@
         "performer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/10011",
-          "url": "https://scenesfrancophones.ca/artistes/zale-seck-pasa-musik",
-          "name": "Zale Seck - PASA Musik"
+          "url": "https://scenesfrancophones.ca/artistes/zale-seck",
+          "name": "Zale Seck"
         }
       }
     ]
@@ -84464,8 +84472,8 @@
           {
             "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/10011",
-            "url": "https://scenesfrancophones.ca/artistes/zale-seck-pasa-musik",
-            "name": "Zale Seck - PASA Musik"
+            "url": "https://scenesfrancophones.ca/artistes/zale-seck",
+            "name": "Zale Seck"
           }
         ]
       }
@@ -88218,8 +88226,8 @@
           {
             "@type": "Organization",
             "@id": "https://scenesfrancophones.ca/id/10011",
-            "url": "https://scenesfrancophones.ca/artistes/zale-seck-pasa-musik",
-            "name": "Zale Seck - PASA Musik"
+            "url": "https://scenesfrancophones.ca/artistes/zale-seck",
+            "name": "Zale Seck"
           }
         ]
       }
@@ -90288,7 +90296,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/zale-seck-pasa-musik-zale-seck-africe-yewoulene-15675",
-        "name": "Zale Seck - PASA Musik -",
+        "name": "Zale Seck -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Plongez dans un monde où la musique devient une porte d'entrée vers le cœur vibrant de Dakar, guidé par le talent extraordinaire de Zale Seck, originaire du Sénégal. \r\n\r\nDans une fusion envoûtante de tradition et d'innovation, les mélodies de Zale portent l'essence de son patrimoine culturel, transcendant les frontières et captivant les publics à travers le monde.",
@@ -90330,8 +90338,8 @@
         "performer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/10011",
-          "url": "https://scenesfrancophones.ca/artistes/zale-seck-pasa-musik",
-          "name": "Zale Seck - PASA Musik"
+          "url": "https://scenesfrancophones.ca/artistes/zale-seck",
+          "name": "Zale Seck"
         }
       }
     ]
@@ -90448,7 +90456,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/zale-seck-pasa-musik-zale-seck-africe-yewoulene-15826",
-        "name": "Zale Seck - PASA Musik -",
+        "name": "Zale Seck -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Plongez dans un monde où la musique devient une porte d'entrée vers le cœur vibrant de Dakar, guidé par le talent extraordinaire de Zale Seck, originaire du Sénégal. \r\n\r\nDans une fusion envoûtante de tradition et d'innovation, les mélodies de Zale portent l'essence de son patrimoine culturel, transcendant les frontières et captivant les publics à travers le monde.",
@@ -90490,8 +90498,8 @@
         "performer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/10011",
-          "url": "https://scenesfrancophones.ca/artistes/zale-seck-pasa-musik",
-          "name": "Zale Seck - PASA Musik"
+          "url": "https://scenesfrancophones.ca/artistes/zale-seck",
+          "name": "Zale Seck"
         }
       }
     ]
@@ -90588,7 +90596,7 @@
       {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/zale-seck-pasa-musik-concert-16076",
-        "name": "Zale Seck - PASA Musik -",
+        "name": "Zale Seck -",
         "eventStatus": "https://schema.org/EventScheduled",
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "Zale Seck est un chanteur, auteur-compositeur, musicien et danseur, qui a notamment joué avec l’Étoile 2000 de Dakar et le légendaire Orchestra Baobab. Percussionniste et guitariste émérite, Zale Seck joue une authentique musique de griots, relatant les histoires et les souvenirs de son peuple lébou du Sénégal. Sur scène, Zale Seck a choisi de se faire accompagner par des musiciens québécois et africains. Un mélange qui lui tient à cœur, désireux qu’il est de partager ses goûts et ses traditions. Sur scène, cette envie est palpable. Le Québécois-Sénégalais déploie une énergie débordante pour son public, l’emmenant en voyage sur les rives de l’Atlantique, sur les plages où les pêcheurs sénégalais reviennent après leur journée en mer.",
@@ -90630,8 +90638,8 @@
         "performer": {
           "@type": "Organization",
           "@id": "https://scenesfrancophones.ca/id/10011",
-          "url": "https://scenesfrancophones.ca/artistes/zale-seck-pasa-musik",
-          "name": "Zale Seck - PASA Musik"
+          "url": "https://scenesfrancophones.ca/artistes/zale-seck",
+          "name": "Zale Seck"
         }
       }
     ]
@@ -92976,7 +92984,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-09/%C2%A9%EF%B8%8FAlexandreCotton_Portraits_GuillaumeA_1.jpg?itok=YyV6QZcn",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Alexandre Cotton"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "L’auteur-compositeur-interprète Guillaume Arsenault né en Gaspésie, tient une shop à chansons depuis plus de 20 ans. Fort de six albums et de deux EP, l’artiste propose une œuvre sensible, poétique et profondément ancrée dans son vaste territoire. Il partage la même force tranquille, le même don pour la contemplation, la même envie de se réinventer à chaque projet. Accompagné de Jean-Guy Leblanc à la contrebasse et d’Éric Dion à la guitare à résonateur, Guillaume offre un nouveau spectacle \"Les plantes continuent de pousser même quand tu dors\" et y présente ses plus récentes chansons tirées des EP du même nom (Face A et Face B), ainsi qu’un survol de son répertoire.(Une mise en scène de Jacques Laroche et une conception d’éclairage de Cyril Bussy.",
@@ -93039,7 +93048,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-09/%C2%A9%EF%B8%8FAlexandreCotton_Portraits_GuillaumeA_1.jpg?itok=YyV6QZcn",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Alexandre Cotton"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "L’auteur-compositeur-interprète Guillaume Arsenault né en Gaspésie, tient une shop à chansons depuis plus de 20 ans. Fort de six albums et de deux EP, l’artiste propose une œuvre sensible, poétique et profondément ancrée dans son vaste territoire. Il partage la même force tranquille, le même don pour la contemplation, la même envie de se réinventer à chaque projet. Accompagné de Jean-Guy Leblanc à la contrebasse et d’Éric Dion à la guitare à résonateur, Guillaume offre un nouveau spectacle \"Les plantes continuent de pousser même quand tu dors\" et y présente ses plus récentes chansons tirées des EP du même nom (Face A et Face B), ainsi qu’un survol de son répertoire.(Une mise en scène de Jacques Laroche et une conception d’éclairage de Cyril Bussy.",
@@ -93228,7 +93238,8 @@
           "representativeOfPage": "True",
           "url": "https://scenesfrancophones.ca/sites/default/files/styles/thumbnail_430/public/2026-09/%C2%A9%EF%B8%8FAlexandreCotton_Portraits_GuillaumeA_1.jpg?itok=YyV6QZcn",
           "width": "430",
-          "height": "430"
+          "height": "430",
+          "creditText": "Alexandre Cotton"
         },
         "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
         "description": "L’auteur-compositeur-interprète Guillaume Arsenault né en Gaspésie, tient une shop à chansons depuis plus de 20 ans. Fort de six albums et de deux EP, l’artiste propose une œuvre sensible, poétique et profondément ancrée dans son vaste territoire. Il partage la même force tranquille, le même don pour la contemplation, la même envie de se réinventer à chaque projet. Accompagné de Jean-Guy Leblanc à la contrebasse et d’Éric Dion à la guitare à résonateur, Guillaume offre un nouveau spectacle \"Les plantes continuent de pousser même quand tu dors\" et y présente ses plus récentes chansons tirées des EP du même nom (Face A et Face B), ainsi qu’un survol de son répertoire.(Une mise en scène de Jacques Laroche et une conception d’éclairage de Cyril Bussy.",
