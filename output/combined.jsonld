@@ -14542,6 +14542,28 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Person",
+        "@id": "https://scenesfrancophones.ca/id/16267",
+        "url": "https://scenesfrancophones.ca/artistes/felixe-0",
+        "name": "FÉLIXE"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "PerformingGroup",
+        "@id": "https://scenesfrancophones.ca/id/16271",
+        "url": "https://scenesfrancophones.ca/artistes/pays-dabondance",
+        "name": "Pays d'abondance"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Event",
         "url": "https://scenesfrancophones.ca/spectacles/marcher-linfini-961",
         "name": "Marcher à l'infini",
@@ -76223,25 +76245,22 @@
         "@id": "https://scenesfrancophones.ca/id/13517",
         "location": {
           "@type": "Place",
-          "name": "Théâtre LER",
-          "url": "https://scenesfrancophones.ca/node/492",
+          "name": "Centre des arts et de la culture",
+          "url": "https://scenesfrancophones.ca/node/11944",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": [
-              "390",
-              "rue Adelaide"
-            ],
-            "addressLocality": "Dalhousie",
+            "streetAddress": "56 Salmon Blvd",
+            "addressLocality": "Campbellton",
             "addressRegion": "NB",
-            "postalCode": "E8C 3C4",
+            "postalCode": "E3N 3T7",
             "addressCountry": "CA"
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "48.064917",
-            "longitude": "-66.374601"
+            "latitude": "48.008718",
+            "longitude": "-66.675601"
           },
-          "@id": "https://scenesfrancophones.ca/id/492"
+          "@id": "https://scenesfrancophones.ca/id/11944"
         },
         "offers": {
           "@type": "Offer",
@@ -95290,6 +95309,60 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Event",
+        "url": "https://scenesfrancophones.ca/spectacles/zale-seck-africe-yewoulene-16270",
+        "name": "Zale Seck - Africe YèWoulène",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "description": "Zale Seck est un chanteur, auteur-compositeur, musicien et danseur, qui a notamment joué avec l’Étoile 2000 de Dakar et le légendaire Orchestra Baobab. Percussionniste et guitariste émérite, Zale Seck joue une authentique musique de griots, relatant les histoires et les souvenirs de son peuple lébou du Sénégal. Sur scène, Zale Seck a choisi de se faire accompagner par des musiciens québécois et africains. Un mélange qui lui tient à cœur, désireux qu’il est de partager ses goûts et ses traditions. Sur scène, cette envie est palpable. Le Québécois-Sénégalais déploie une énergie débordante pour son public, l’emmenant en voyage sur les rives de l’Atlantique, sur les plages où les pêcheurs sénégalais reviennent après leur journée en mer.",
+        "startDate": "2027-05-01T20:00:00-04:00",
+        "isAccessibleForFree": "True",
+        "@id": "https://scenesfrancophones.ca/id/16270",
+        "location": {
+          "@type": "Place",
+          "name": "Spadina Théâtre",
+          "url": "https://scenesfrancophones.ca/node/16269",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24 Spadina Rd",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "postalCode": "M5R 2S7",
+            "addressCountry": "CA"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "43.668694",
+            "longitude": "-79.405258"
+          },
+          "@id": "https://scenesfrancophones.ca/id/16269"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.eventbrite.ca/e/zale-seck-tickets-1992223508142?aff=oddtdtcreator",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "@id": "https://scenesfrancophones.ca/id/84",
+          "name": "Alliance Française de Toronto",
+          "url": "https://scenesfrancophones.ca/diffuseurs/alliance-francaise-de-toronto"
+        },
+        "performer": [
+          {
+            "@type": "Organization",
+            "@id": "https://scenesfrancophones.ca/id/10011",
+            "url": "https://scenesfrancophones.ca/artistes/zale-seck",
+            "name": "Zale Seck"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Place",
         "url": "https://scenesfrancophones.ca/node/457",
         "name": "Atrium de l'ACFSJ",
@@ -102087,6 +102160,30 @@
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "Place",
+        "url": "https://scenesfrancophones.ca/node/16269",
+        "name": "Spadina Théâtre",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "24 Spadina Rd",
+          "addressLocality": "Toronto",
+          "addressRegion": "ON",
+          "postalCode": "M5R 2S7",
+          "addressCountry": "CA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "43.668694",
+          "longitude": "-79.405258"
+        },
+        "@id": "https://scenesfrancophones.ca/id/16269"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
         "@type": "Organization",
         "@id": "https://scenesfrancophones.ca/id/24",
         "url": "https://www.carrefourisj.org/",
@@ -103856,8 +103953,8 @@
         "address": {
           "@type": "PostalAddress",
           "streetAddress": [
-            "280",
-            "boulevard Industriel"
+            "213",
+            "Main St. Nord"
           ],
           "addressLocality": "Alexandria",
           "addressRegion": "ON",
@@ -103866,8 +103963,8 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": "45.31118",
-          "longitude": "-74.636716"
+          "latitude": "45.31541",
+          "longitude": "-74.639856"
         }
       }
     ]
